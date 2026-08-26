@@ -1,0 +1,14 @@
+# Large source PDFs (keep local only)
+neet-pg-papers/
+
+# Caches / tooling
+.ruff_cache/
+.opencode/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Secrets
+.env
+.env.*
+*.pem

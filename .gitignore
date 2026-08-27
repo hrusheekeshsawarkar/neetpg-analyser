@@ -7,8 +7,15 @@ neet-pg-papers/
 __pycache__/
 *.pyc
 .DS_Store
+.venv/
+venv/
 
 # Secrets
 .env
 .env.*
+!.env.example
 *.pem
+
+# LLM run logs / checkpoints (may be large)
+analysis/data/classify_llm_run.log
+analysis/data/llm_classify_checkpoint.json

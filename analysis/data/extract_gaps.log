@@ -1,0 +1,106 @@
+
+=== AIPGMEE 2017–2018 (gap) ===
+  AIPGMEE-2017.pdf... 137
+  AIPGMEE-2018.pdf... 317
+Saved 454 → analysis/data/q_aipgmee_2017_2018.json
+
+=== Nishant NEETPG 2019–2020 (gap) ===
+  NEETPG-2019.pdf... 371
+  NEETPG-2020.pdf... 348
+Saved 718 → analysis/data/q_nishant_2019_2020.json
+
+=== neetfmgeplans 2024/2025 standalone (gap; may be thin) ===
+  NEETPG-2024.pdf (13MB)... 0
+  NEETPG-2025.pdf (10MB)... 0
+Saved 0 → analysis/data/q_fmgeplans_2024_2025.json
+
+Next: python3 analysis/clean_merge.py && python3 analysis/classify_llm.py
+Total raw rows: 53479, Unique: 18378
+
+Subject distribution:
+  Anatomy: 1771
+  Biochemistry: 1298
+  Physiology: 940
+  Pharmacology: 1276
+  Microbiology: 1325
+  Pathology: 1261
+  Community Medicine: 1135
+  Forensic Medicine: 659
+  Ophthalmology: 813
+  ENT: 625
+  Medicine: 1548
+  Surgery: 753
+  OBG: 1031
+  Pediatrics: 631
+  Anaesthesia: 243
+  Orthopedics: 562
+  Radiology: 420
+  Psychiatry: 553
+  Dermatology: 381
+  Unknown: 1153
+
+Year distribution:
+  2010: 297
+  2011: 295
+  2012: 1664
+  2013: 2938
+  2014: 2607
+  2015: 1995
+  2016: 2277
+  2017: 421
+  2018: 1083
+  2019: 1049
+  2020: 871
+  2021: 389
+  2022: 671
+  2023: 465
+  2024: 1039
+  2025: 317
+
+Saved 18378 questions to analysis/data/merged_questions.json
+Total: 18378
+General/Unknown before: 0
+General/Unknown after: 0
+
+Top 20 topics:
+  : 648
+  Infectious Diseases: 324
+  Cardiology: 320
+  Vitamins & Nutrition: 271
+  Pulmonology: 269
+  Neoplasia: 267
+  Bacteriology: 237
+  Hematopathology: 218
+  Virology: 214
+  Epidemiology: 204
+  Antenatal Care: 204
+  Fractures: 201
+  Renal: 187
+  Gastrointestinal: 167
+  Inflammation & Healing: 167
+  Thanatology: 164
+  Genetics & Molecular Biology: 156
+  Embryology: 152
+  Carbohydrate Metabolism: 145
+  Lipid Metabolism: 144
+Remapped 18378 questions
+  Anatomy: 1855
+  Biochemistry: 1332
+  Physiology: 1002
+  Pharmacology: 1293
+  Microbiology: 1353
+  Pathology: 1333
+  Community Medicine: 1158
+  Forensic Medicine: 669
+  Ophthalmology: 834
+  ENT: 632
+  Medicine: 1606
+  Surgery: 759
+  OBG: 1058
+  Pediatrics: 636
+  Anaesthesia: 243
+  Orthopedics: 594
+  Radiology: 427
+  Psychiatry: 558
+  Dermatology: 382
+  Unknown: 654

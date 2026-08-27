@@ -1,153 +1,104 @@
 # NEET PG Analyzer
 
-Analyze NEET PG past papers (2021–2025) — extract questions, classify by subject/topic/year, and generate frequency analysis visualizations.
+Extract NEET PG / AIPGMEE past-paper questions from coaching PDFs → classify by **19 taught MBBS subjects** + topics/concepts → frequency analysis, importance scoring, and subject-wise revision packs.
 
-## 📁 Project Structure
+> Memory-based sources only. Not official NBE papers.
+
+## Dataset (current)
+
+| Metric | Value |
+|--------|------:|
+| Unique questions | ~17,300+ (2010–2025) |
+| LLM-labeled | ~90% |
+| Subjects | 19 (Medicine, Surgery, OBG, …) |
+| Subject packs | `analysis/reports/subjects/` |
+
+See `analysis/reports/extraction_gaps.md` for PDFs still not extracted.
+
+## Project layout
 
 ```
 neetpg-analyser/
-├── neet-pg-papers/          # Source PDFs from coaching sites
-│   ├── nishant-bhushan/     # Dr. Nishant Bhushan compilations (best format)
-│   ├── collegedunia/         # CollegeDunia PDFs
-│   ├── neetfmgeplans/        # neetfmgeplans.com compilations
-│   └── collegehai/           # CollegeHai references & Google Drive links
-├── analysis/
-│   ├── extract_papers.py     # PDF text extraction
-│   ├── extract_llm.py        # LLM-assisted extraction (2021-2023)
-│   ├── extract_2024_25.py    # 2024-2025 extraction
-│   ├── topic_rules.py        # Subject → topic keyword mapping (1300+ keywords)
-│   ├── classify_topics.py    # Apply keyword rules to classify topics
-│   ├── clean_merge.py        # Normalize subjects, deduplicate, merge
-│   ├── analyze.py            # Frequency analysis + all visualizations
-│   └── data/
-│       ├── merged_questions.json   # Final dataset (842 questions)
-│       ├── analysis_ready.csv      # CSV for analysis
-│       └── *.json                  # Per-year extracted questions
-└── analysis/plots/
-    ├── neetpg_analysis.png   # 4-panel: bar chart, grouped bar, heatmap, Pareto
-    ├── neetpg_trends.png     # Topic frequency trend lines by year
-    ├── neetpg_pie.png        # Subject distribution pie chart
-    ├── year_subject_matrix.csv
-    └── topic_frequency.csv   # All 156 topics ranked
+├── .env.example                 # API keys (copy → .env, never commit)
+├── neet-pg-papers/              # Source PDFs
+│   ├── nishant-bhushan/
+│   ├── collegedunia/
+│   ├── neetfmgeplans/
+│   └── collegehai/
+└── analysis/
+    ├── extract_*.py             # PDF → JSON
+    ├── clean_merge.py           # normalize + dedupe
+    ├── mbbs_taxonomy.py         # taught subjects + syllabus topics
+    ├── topic_rules.py           # keyword topic matcher
+    ├── classify_topics.py / classify_llm.py
+    ├── consolidate_topics.py    # map LLM spellings → syllabus topics
+    ├── remap_subjects.py        # map to 19 MBBS subjects
+    ├── analyze.py / analyze_extra.py / predict_priority.py
+    ├── generate_subject_packs.py
+    ├── data/merged_questions.json
+    ├── plots/
+    └── reports/
 ```
 
-## 📰 Paper Sources
-
-Papers are **memory-based compilations** from coaching institutes. NBE does not officially release papers.
-
-| Source | Years | Notes |
-|--------|-------|-------|
-| Dr. Nishant Bhushan | 2012–2025 | Best structured format (Subject/Topic/Sub-Topic/Question/Options/Answer) |
-| CollegeDunia | 2010–2025 | Numbered format, subject headers, less structured |
-| neetfmgeplans.com | 2018–2025 | Chapterwise (23MB) and Yearwise (23MB) compilations |
-| CollegeHai | Various | Google Drive links in `collegehai/google-drive-links.txt` |
-
-**Disclaimer**: These are recalled memory-based papers. Questions may not be 100% accurate. Use for practice and pattern analysis, not as a substitute for official answer keys.
-
-## 🧪 Setup
+## Setup
 
 ```bash
-# Create venv
-python3 -m venv venv && source venv/bin/activate
-
-# Install dependencies
-pip install pdfplumber matplotlib seaborn pandas numpy
-
-# Paper PDFs already downloaded in neet-pg-papers/
+python3 -m venv .venv && source .venv/bin/activate
+pip install -U pip pdfplumber pandas matplotlib seaborn numpy
+cp .env.example .env   # set BHT_LLM_KEY and/or OPENAI / OPENROUTER / GEMINI
 ```
 
-## 🚀 Extraction Pipeline
+`LLM_PROVIDER` in `.env` is **exclusive** (`bht` | `openai` | `openrouter`).
 
-Run in order — each step builds on the previous:
+## Pipeline
 
 ```bash
-# Step 1: Extract 2021-2023 (Nishant Bhushan structured format)
+# Extract (as needed)
 python3 analysis/extract_llm.py
-
-# Step 2: Extract 2024-2025
+python3 analysis/extract_bulk.py
 python3 analysis/extract_2024_25.py
+python3 analysis/extract_remaining.py --gaps   # 2017–20 Nishant + fmge 24/25
 
-# Step 3: Clean, normalize subjects, deduplicate
+# Merge + classify
 python3 analysis/clean_merge.py
-
-# Step 4: Classify topics using keyword rules (1300+ keywords)
 python3 analysis/classify_topics.py
+python3 analysis/classify_llm.py --workers 12 --batch-size 3
+python3 analysis/remap_subjects.py
+python3 analysis/consolidate_topics.py
 
-# Step 5: Generate all visualizations
+# Reports + plots
+python3 analysis/predict_priority.py
 python3 analysis/analyze.py
+python3 analysis/analyze_extra.py
+python3 analysis/generate_subject_packs.py
 ```
 
-## 📊 What Gets Generated
+## Outputs
 
-| Plot | Description |
+| Path | Description |
 |------|-------------|
-| `neetpg_analysis.png` | 4-panel: questions per subject, subject by year, topic heatmap, Pareto chart |
-| `neetpg_trends.png` | Line chart of top 10 topic frequencies over years |
-| `neetpg_pie.png` | Subject distribution pie chart |
-| `year_subject_matrix.csv` | Raw count matrix: year × subject |
-| `topic_frequency.csv` | All topics ranked by frequency |
+| `reports/next_exam_priorities.md` | Must / High / due topics |
+| `reports/subject_revision_packs.md` | Index of 19 subject packs |
+| `reports/topic_year_drift.md` | Rising vs falling topics |
+| `reports/topics_due_for_return.md` | High-recurrence gaps |
+| `reports/topic_overlaps.md` | Co-occurring topics |
+| `reports/extraction_gaps.md` | Unextracted local PDFs |
+| `plots/neetpg_analysis.png` | Subjects, heatmap, Pareto |
+| `plots/topic_importance.png` | Importance ranking |
+| `plots/ask_type_by_subject.png` | Diagnosis / DOC / etc. |
+| `plots/topic_year_drift.png` | Share change recent vs older |
 
-## 📈 Current Dataset Stats
+## Taught MBBS subjects
 
-- **842 questions** across 2021–2025
-- **21 subjects** classified
-- **156 unique topics** (after keyword classification)
-- **Note**: 2021, 2024, 2025 papers use image/case-based question formats that required keyword-based topic inference rather than structured metadata
+Anatomy, Biochemistry, Physiology, Pharmacology, Microbiology, Pathology, Community Medicine, Forensic Medicine, Ophthalmology, ENT, **Medicine**, **Surgery**, **OBG**, Pediatrics, Anaesthesia, Orthopedics, Radiology, Psychiatry, Dermatology.
 
-## ⚠️ Known Limitations
+## Known limits
 
-1. **2024 Shift 2 not extracted** — LLM parsing repeatedly timed out on that PDF format
-2. **2021/2024/2025 topic coverage is partial** — These PDFs have image-based/case-presentation formats that don't extract clean question metadata. Topic classification relies on keyword matching from question text. Expect ~46% of questions still tagged "General" (image-based/case scenarios without disease-specific keywords)
-3. **Year coverage is incomplete** — Oldest papers (2010–2020) were downloaded but extraction quality was poor. Focus is on 2021–2025 (current exam pattern)
-4. **No official papers** — All sources are memory-based compilations. Answer keys may differ between sources.
+1. **2024 Shift 2** — only ~27 public recall questions (full paper not available as text)
+2. **Topic spellings** — LLM free-text still creates many variants; `consolidate_topics.py` helps but is not perfect
+3. **AIPGMEE year counts** can over-extract explanations — filtered but still heavy for 2013–2016
+4. No official papers — memory compilations only
 
-## 🔧 Improving Accuracy
+## License
 
-### To get more questions classified:
-Edit `analysis/topic_rules.py` — add disease/drug/topic-specific keywords to the `TOPIC_RULES` dictionary. The format is simple:
-
-```python
-"Subject Name": {
-    "Topic Name": ["keyword1", "keyword2", "disease name", "drug name"],
-}
-```
-
-Then re-run:
-```bash
-python3 analysis/classify_topics.py
-python3 analysis/analyze.py
-```
-
-### To re-extract 2024 Shift 2:
-Try directly with pdfplumber or use Gemini 2.5 Flash API (best for PDF OCR per benchmarks).
-
-## 🧪 API Keys Used
-
-Set keys via environment variables (never commit real keys):
-
-| API | Used For | Env var |
-|-----|----------|---------|
-| BHT LLM | Question classification, extraction | `BHT_LLM_KEY` |
-| OpenAI | (optional) Extraction if BHT fails | `OPENAI_API_KEY` |
-| Gemini | (optional) Vision-based PDF parsing | `GEMINI_API_KEY` |
-
-## 📊 Key Findings (2021-2025)
-
-| Subject | Count | % |
-|---------|-------|---|
-| General Surgery | 137 | 18.8% |
-| General Medicine | 97 | 13.3% |
-| Microbiology | 82 | 11.3% |
-| Pharmacology | 48 | 6.6% |
-| O&G (Obstetrics + Gynaecology) | 42 | 5.8% |
-| Pathology | 40 | 5.5% |
-| Anatomy | 38 | 5.2% |
-| Physiology | 35 | 4.8% |
-
-**Clinical subjects (Surgery + Medicine + O&G) = 38%** of all questions — the high-yield core.
-
-**Pareto**: ~49 topics cover 80% of questions (from 156 total topics).
-
-## 📄 License
-
-For educational and practice purposes only. Question accuracy depends on the source compilation.
+Educational / practice use only.

@@ -1600,20 +1600,80 @@ TOPIC_RULES = {
 }
 
 
+# Remap legacy subject keys → taught MBBS names; merge OBG halves
+_SUBJECT_KEY_MAP = {
+    "General Medicine": "Medicine",
+    "General Surgery": "Surgery",
+    "Obstetrics": "OBG",
+    "Gynaecology": "OBG",
+    "Paediatrics": "Pediatrics",
+    "Orthopaedics": "Orthopedics",
+}
+_merged_rules = {}
+for _subj, _topics in TOPIC_RULES.items():
+    _key = _SUBJECT_KEY_MAP.get(_subj, _subj)
+    if _key not in _merged_rules:
+        _merged_rules[_key] = {}
+    _merged_rules[_key].update(_topics)
+TOPIC_RULES = _merged_rules
+
+
 def classify_topic(text, subject):
-    text_lower = text.lower()
+    """Return best keyword topics, or [] if none (never 'General').
+
+    Uses word-boundary matching so short tokens like 'ear'/'nose' don't false-hit.
+    """
+    import re
+
+    text_lower = (text or "").lower()
     subject_rules = TOPIC_RULES.get(subject, {})
-    for topic, keywords in subject_rules.items():
-        for kw in keywords:
-            if kw.lower() in text_lower:
-                return topic
-    return "General"
+    search_spaces = []
+    if subject_rules:
+        search_spaces.append(subject_rules)
+    if subject in ("Unknown", "Mixed", "", None) or not subject_rules:
+        for rules in TOPIC_RULES.values():
+            search_spaces.append(rules)
+
+    hits = []
+    seen = set()
+    for rules in search_spaces:
+        for topic, keywords in rules.items():
+            for kw in keywords:
+                k = kw.lower().strip()
+                if not k:
+                    continue
+                # Multi-word phrases: substring OK; single tokens: word boundary
+                if " " in k or "-" in k or len(k) >= 6:
+                    matched = k in text_lower
+                else:
+                    matched = re.search(rf"\b{re.escape(k)}\b", text_lower) is not None
+                if matched:
+                    if topic not in seen:
+                        hits.append(topic)
+                        seen.add(topic)
+                    break
+        if hits and subject_rules and rules is subject_rules:
+            break
+    return hits
 
 
 def classify_topics(qs):
+    """Keyword pass: sets topic_clean + topics[]; leaves unlabeled if no match."""
     for q in qs:
-        if q.get("topic_clean", "").lower() in ["general", "unknown"]:
-            q["topic_clean"] = classify_topic(
+        t = (q.get("topic_clean") or q.get("topic") or "").strip()
+        if t.lower() in ("general", "unknown", "others", "mixed", ""):
+            hits = classify_topic(
                 q.get("question_text", ""), q.get("subject_clean", "")
             )
+            if hits:
+                q["topics"] = hits[:3]
+                q["topic_clean"] = hits[0]
+                q["topic"] = hits[0]
+                q["label_source"] = q.get("label_source") or "keywords"
+            else:
+                # Keep empty — LLM classifier should fill; do not use "General"
+                q["topic_clean"] = ""
+                q["topics"] = []
+        elif not q.get("topics"):
+            q["topics"] = [t]
     return qs

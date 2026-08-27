@@ -212,18 +212,28 @@ def main():
         with open("analysis/data/q_2024_shift1.json", "w") as f:
             json.dump(qs, f, indent=2)
 
-    # 2024 Shift 2
+    # 2024 Shift 2 (memory-based recall PDF is short; prefer regex first)
     f2024s2 = nb_dir / "NEETPG-2024-shift2.pdf"
     if f2024s2.exists():
         print("\n=== NEETPG-2024-shift2.pdf ===")
         text = extract_pdf_text(str(f2024s2))
         print(f"  Text length: {len(text)}")
 
-        qs = llm_extract(text, 2024, "NEET PG")
-        print(f"  LLM extracted {len(qs)} questions")
+        qs = parse_ques_dot_format(text)
+        for q in qs:
+            q["shift"] = "2"
+        print(f"  Parsed {len(qs)} questions from Ques. format")
+
+        if len(qs) < 20:
+            print("  Trying LLM extraction...")
+            qs2 = llm_extract(text, 2024, "NEET PG")
+            print(f"  LLM extracted {len(qs2)}")
+            qs = qs2 if len(qs2) > len(qs) else qs
+            for q in qs:
+                q.setdefault("shift", "2")
 
         with open("analysis/data/q_2024_shift2.json", "w") as f:
-            json.dump(qs, f, indent=2)
+            json.dump(qs, f, indent=2, ensure_ascii=False)
 
     # 2025
     f2025 = nb_dir / "NEETPG-2025.pdf"

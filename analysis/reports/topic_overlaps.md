@@ -1,0 +1,44 @@
+# Top multi-topic / multi-subject co-occurrences
+
+| Item A | Item B | Count |
+|--------|--------|------:|
+| SUBJ:Pharmacology | SUBJ:Medicine | 360 |
+| SUBJ:Pathology | SUBJ:Medicine | 349 |
+| SUBJ:Medicine | SUBJ:Pathology | 293 |
+| SUBJ:Microbiology | SUBJ:Medicine | 208 |
+| SUBJ:Community Medicine | SUBJ:Microbiology | 171 |
+| SUBJ:Physiology | SUBJ:Biochemistry | 142 |
+| SUBJ:Pediatrics | SUBJ:Medicine | 139 |
+| SUBJ:Microbiology | SUBJ:Community Medicine | 134 |
+| SUBJ:Pathology | SUBJ:Biochemistry | 126 |
+| SUBJ:Surgery | SUBJ:Medicine | 126 |
+| SUBJ:Biochemistry | SUBJ:Physiology | 122 |
+| SUBJ:Medicine | SUBJ:Physiology | 121 |
+| SUBJ:Radiology | SUBJ:Medicine | 121 |
+| SUBJ:Medicine | SUBJ:Pharmacology | 120 |
+| SUBJ:Medicine | SUBJ:Microbiology | 118 |
+| SUBJ:ENT | SUBJ:Anatomy | 109 |
+| SUBJ:Biochemistry | SUBJ:Pediatrics | 108 |
+| SUBJ:Orthopedics | SUBJ:Anatomy | 107 |
+| SUBJ:Medicine | SUBJ:Biochemistry | 106 |
+| SUBJ:Anatomy | SUBJ:ENT | 105 |
+| SUBJ:Pharmacology | SUBJ:Microbiology | 102 |
+| SUBJ:Biochemistry | SUBJ:Medicine | 98 |
+| SUBJ:Biochemistry | SUBJ:Pathology | 94 |
+| SUBJ:Community Medicine | SUBJ:Pediatrics | 92 |
+| SUBJ:Microbiology | SUBJ:Pathology | 87 |
+| SUBJ:Medicine | SUBJ:Radiology | 87 |
+| SUBJ:Pharmacology | SUBJ:Psychiatry | 87 |
+| SUBJ:Anatomy | SUBJ:Physiology | 86 |
+| SUBJ:Pharmacology | SUBJ:Biochemistry | 80 |
+| Endocrine Pharmacology | General Medicine | 80 |
+| SUBJ:OBG | SUBJ:Pharmacology | 79 |
+| Infectious Diseases | Microbiology | 78 |
+| SUBJ:Physiology | SUBJ:Anatomy | 78 |
+| SUBJ:Medicine | SUBJ:Surgery | 78 |
+| Bacteriology | Infectious Diseases | 76 |
+| SUBJ:Ophthalmology | SUBJ:Anatomy | 76 |
+| SUBJ:Surgery | SUBJ:Pathology | 75 |
+| SUBJ:Anaesthesia | SUBJ:Pharmacology | 75 |
+| SUBJ:Surgery | SUBJ:Radiology | 74 |
+| SUBJ:Microbiology | SUBJ:Dermatology | 74 |

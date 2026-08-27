@@ -1,67 +1,50 @@
 #!/usr/bin/env python3
 """Clean subject names and merge all question datasets."""
 
-import json, re
-from pathlib import Path
+from __future__ import annotations
+
+import json
 from collections import Counter
+from pathlib import Path
 
+from mbbs_taxonomy import MBBS_SUBJECTS, normalize_subject
 
-# Subject normalization map (fix OCR/parsing errors)
+# Kept for reference / OCR aliases (normalize_subject is authoritative)
 SUBJECT_MAP = {
     "Anatomy": "Anatomy",
     "Physiology": "Physiology",
     "Biochemistry": "Biochemistry",
-    "Biochemistry d": "Biochemistry",
-    "Biochemistry a": "Biochemistry",
-    "Briochemistry": "Biochemistry",
     "Pathology": "Pathology",
     "Pharmacology": "Pharmacology",
-    "Prharmacology": "Pharmacology",
-    "Pharmacology a": "Pharmacology",
     "Microbiology": "Microbiology",
-    "Microbiology a": "Microbiology",
-    "Microbiology d": "Microbiology",
     "Forensic Medicine": "Forensic Medicine",
-    "Forensic Medicine d": "Forensic Medicine",
     "Community Medicine": "Community Medicine",
     "PSM": "Community Medicine",
     "SPM": "Community Medicine",
-    "General Medicine": "General Medicine",
-    "Mredicine": "General Medicine",
-    "Mediciene": "General Medicine",
-    "Medicine": "General Medicine",
+    "General Medicine": "Medicine",
+    "Medicine": "Medicine",
+    "Emergency Medicine": "Medicine",
     "Dermatology": "Dermatology",
-    "Venereology": "Dermatology",
     "Psychiatry": "Psychiatry",
-    "Psychiatry d": "Psychiatry",
-    "General Surgery": "General Surgery",
-    "surgery": "General Surgery",
-    "Surgery": "General Surgery",
-    "Surgery d": "General Surgery",
-    "Surgery p": "General Surgery",
-    "Orthopaedics": "Orthopaedics",
+    "General Surgery": "Surgery",
+    "Surgery": "Surgery",
+    "Orthopaedics": "Orthopedics",
+    "Orthopedics": "Orthopedics",
     "Anaesthesia": "Anaesthesia",
-    "Anaesthesia L": "Anaesthesia",
+    "Anesthesia": "Anaesthesia",
     "Radiology": "Radiology",
-    "Radiology d": "Radiology",
-    "Radio-diagnosis": "Radiology",
-    "Obstetrics": "Obstetrics",
-    "Gynaecology": "Gynaecology",
-    "Gynaecology & Obstetrics": "Obstetrics & Gynaecology",
-    "Gynaecology & ObstetrLics": "Obstetrics & Gynaecology",
-    "Paediatrics": "Paediatrics",
-    "Pediatrics": "Paediatrics",
+    "Obstetrics": "OBG",
+    "Gynaecology": "OBG",
+    "OBG": "OBG",
+    "Obstetrics & Gynaecology": "OBG",
+    "Paediatrics": "Pediatrics",
+    "Pediatrics": "Pediatrics",
     "ENT": "ENT",
     "Ophthalmology": "Ophthalmology",
-    "Emergency Medicine": "Emergency Medicine",
-    "Chest Medicine": "Chest Medicine",
-    "TB & Chest": "Chest Medicine",
-    "Mixed": "Unknown",
     "Unknown": "Unknown",
 }
 
 TOPIC_MAP = {
-    # Standardize common topic names
     "Cardiology": "Cardiology",
     "Neurology": "Neurology",
     "Nephrology": "Nephrology",
@@ -73,126 +56,130 @@ TOPIC_MAP = {
     "Psychiatry": "Psychiatry",
     "Obstetrics": "Obstetrics",
     "Gynaecology": "Gynaecology",
-    "Pediatrics": "Paediatrics",
-    "Orthopaedics": "Orthopaedics",
-    "Anatomy": "Anatomy",
-    "Physiology": "Physiology",
-    "Biochemistry": "Biochemistry",
-    "Pathology": "Pathology",
-    "Pharmacology": "Pharmacology",
-    "Microbiology": "Microbiology",
-    "Surgery": "General Surgery",
-    "ENT": "ENT",
-    "Ophthalmology": "Ophthalmology",
-    "Radiology": "Radiology",
-    "Forensic": "Forensic Medicine",
-    "Forensic Medicine": "Forensic Medicine",
-    "SPM": "Community Medicine",
-    "Community Medicine": "Community Medicine",
-    "PSM": "Community Medicine",
-    "Anaesthesia": "Anaesthesia",
-    "Immunology": "Immunology",
-    "Genetics": "Genetics",
-    "Embryology": "Embryology",
-    "Microanatomy": "Microanatomy",
-    "Histology": "Histology",
-    "Upper Limb": "Upper Limb",
-    "Lower Limb": "Lower Limb",
-    "Thorax": "Thorax",
-    "Abdomen": "Abdomen",
-    "Head & Neck": "Head & Neck",
+    "Pediatrics": "Pediatrics",
+    "Paediatrics": "Pediatrics",
+    "Orthopaedics": "Orthopedics",
+    "Orthopedics": "Orthopedics",
+    "Surgery": "Surgery",
     "CNS": "Neurology",
     "RS": "Pulmonology",
     "CVS": "Cardiology",
     "GIS": "Gastroenterology",
-    "GIS / Abdomen": "Gastroenterology",
-    "Reproductive": "Reproductive",
-    "Infection": "Infectious Disease",
-    "Infectious": "Infectious Disease",
+    "Infection": "Infectious Diseases",
+    "Infectious": "Infectious Diseases",
 }
 
 
 def clean_subject(s: str) -> str:
     if not s:
         return "Unknown"
-    s = s.strip()
-    return SUBJECT_MAP.get(s, s.title() if len(s) > 2 else "Unknown")
+    return normalize_subject(s.strip())
 
 
 def clean_topic(t: str) -> str:
+    """Normalize topic; never invent 'General' — empty means unlabeled."""
     if not t:
-        return "General"
+        return ""
     t = t.strip()
-    if t.lower() in ["unknown", "", "na", "n/a"]:
-        return "General"
-    return TOPIC_MAP.get(t, t.title() if len(t) > 2 else "General")
+    if t.lower() in ["unknown", "", "na", "n/a", "general", "others", "mixed"]:
+        return ""
+    return TOPIC_MAP.get(t, t.title() if len(t) > 2 else "")
 
 
 def load_json(path: str) -> list:
     try:
         with open(path) as f:
             return json.load(f)
-    except:
+    except Exception:
         return []
+
+
+def enrich(q: dict) -> dict:
+    q = dict(q)
+    raw_subj = q.get("subject_clean") or q.get("subject") or ""
+    q["subject_clean"] = clean_subject(raw_subj)
+    q["subject"] = q["subject_clean"]
+    raw_topic = q.get("topic_clean") or q.get("topic") or ""
+    if raw_topic.lower() in ("general", "unknown", "others", "mixed"):
+        raw_topic = ""
+    cleaned = clean_topic(raw_topic) if raw_topic else ""
+    if cleaned:
+        q["topic_clean"] = cleaned
+        q["topic"] = cleaned
+    elif not (q.get("topic_clean") or "").strip():
+        q["topic_clean"] = ""
+    return q
+
+
+def merge_score(q: dict) -> int:
+    """Prefer records with LLM labels / concepts when deduping."""
+    score = 0
+    if q.get("label_source") == "llm":
+        score += 100
+    if q.get("concept"):
+        score += 50
+    if q.get("topic_clean"):
+        score += 20
+    if q.get("topics"):
+        score += 10
+    if q.get("option_1"):
+        score += 5
+    return score
 
 
 def main():
     all_qs = []
 
-    # 2021-2023 data
-    for q in load_json("analysis/data/questions.json"):
-        q["subject_clean"] = clean_subject(q.get("subject", ""))
-        q["topic_clean"] = clean_topic(q.get("topic", ""))
-        all_qs.append(q)
+    sources = [
+        "analysis/data/questions.json",
+        "analysis/data/q_2024_shift1.json",
+        "analysis/data/q_2024_shift2.json",
+        "analysis/data/q_2025.json",
+        "analysis/data/q_2024_collegedunia.json",
+        "analysis/data/q_collegedunia_bulk.json",
+        "analysis/data/q_fmgeplans_bulk.json",
+        "analysis/data/q_aipgmee_2012_2016.json",
+        "analysis/data/q_fmgeplans_2022_2023.json",
+        "analysis/data/q_fmgeplans_chapterwise.json",
+        "analysis/data/q_aipgmee_2017_2018.json",
+        "analysis/data/q_nishant_2019_2020.json",
+        "analysis/data/q_fmgeplans_2024_2025.json",
+        "analysis/data/llm_classify_checkpoint.json",
+        "analysis/data/merged_questions.json",
+    ]
 
-    # 2024 shift 1
-    for q in load_json("analysis/data/q_2024_shift1.json"):
-        q["subject_clean"] = clean_subject(q.get("subject", ""))
-        q["topic_clean"] = clean_topic(q.get("topic", ""))
-        all_qs.append(q)
+    for src in sources:
+        for q in load_json(src):
+            all_qs.append(enrich(q))
 
-    # 2024 shift 2
-    for q in load_json("analysis/data/q_2024_shift2.json"):
-        q["subject_clean"] = clean_subject(q.get("subject", ""))
-        q["topic_clean"] = clean_topic(q.get("topic", ""))
-        all_qs.append(q)
-
-    # 2025
-    for q in load_json("analysis/data/q_2025.json"):
-        q["subject_clean"] = clean_subject(q.get("subject", ""))
-        q["topic_clean"] = clean_topic(q.get("topic", ""))
-        all_qs.append(q)
-
-    # dedup
-    seen = set()
-    unique = []
+    # Dedup: keep richest record per (year, question text prefix)
+    best: dict = {}
     for q in all_qs:
-        key = (
-            q.get("year"),
-            q.get("subject_clean", ""),
-            q.get("question_text", "")[:100],
-        )
-        if key not in seen and q.get("question_text"):
-            seen.add(key)
-            unique.append(q)
+        text = (q.get("question_text") or "").strip()
+        if not text:
+            continue
+        key = (q.get("year"), text[:120].lower())
+        prev = best.get(key)
+        if prev is None or merge_score(q) > merge_score(prev):
+            best[key] = q
 
-    print(f"Total questions: {len(all_qs)}, Unique: {len(unique)}")
+    unique = list(best.values())
+    print(f"Total raw rows: {len(all_qs)}, Unique: {len(unique)}")
 
-    # stats
     subj_counts = Counter(q["subject_clean"] for q in unique)
     print("\nSubject distribution:")
-    for s, c in sorted(subj_counts.items(), key=lambda x: -x[1])[:20]:
-        print(f"  {s}: {c}")
+    for s in MBBS_SUBJECTS + ["Unknown"]:
+        print(f"  {s}: {subj_counts.get(s, 0)}")
 
     year_counts = Counter(q["year"] for q in unique)
     print("\nYear distribution:")
     for y, c in sorted(year_counts.items()):
         print(f"  {y}: {c}")
 
-    with open("analysis/data/merged_questions.json", "w") as f:
+    out = Path("analysis/data/merged_questions.json")
+    with open(out, "w") as f:
         json.dump(unique, f, indent=2, ensure_ascii=False)
-
-    print(f"\nSaved {len(unique)} questions to analysis/data/merged_questions.json")
+    print(f"\nSaved {len(unique)} questions to {out}")
 
 
 if __name__ == "__main__":

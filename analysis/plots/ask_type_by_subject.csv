@@ -1,0 +1,166 @@
+subject,ask_type,count
+Anaesthesia,other,80
+Anaesthesia,management,53
+Anaesthesia,mechanism,43
+Anaesthesia,drug_of_choice,30
+Anaesthesia,investigation,18
+Anaesthesia,anatomy_structure,11
+Anaesthesia,diagnosis,9
+Anaesthesia,image_identification,7
+Anaesthesia,epidemiology,2
+Anatomy,anatomy_structure,1359
+Anatomy,other,394
+Anatomy,mechanism,70
+Anatomy,diagnosis,37
+Anatomy,image_identification,37
+Anatomy,epidemiology,2
+Anatomy,investigation,1
+Anatomy,management,1
+Biochemistry,mechanism,632
+Biochemistry,other,521
+Biochemistry,diagnosis,117
+Biochemistry,investigation,61
+Biochemistry,anatomy_structure,12
+Biochemistry,management,10
+Biochemistry,image_identification,6
+Biochemistry,drug_of_choice,2
+Biochemistry,epidemiology,2
+Community Medicine,other,573
+Community Medicine,epidemiology,450
+Community Medicine,management,136
+Community Medicine,investigation,26
+Community Medicine,diagnosis,17
+Community Medicine,mechanism,15
+Community Medicine,image_identification,9
+Community Medicine,drug_of_choice,4
+Community Medicine,anatomy_structure,1
+Dermatology,diagnosis,205
+Dermatology,other,68
+Dermatology,image_identification,31
+Dermatology,management,30
+Dermatology,mechanism,23
+Dermatology,epidemiology,15
+Dermatology,drug_of_choice,14
+Dermatology,investigation,9
+Dermatology,anatomy_structure,5
+ENT,diagnosis,159
+ENT,other,112
+ENT,management,106
+ENT,anatomy_structure,99
+ENT,investigation,57
+ENT,mechanism,55
+ENT,image_identification,27
+ENT,epidemiology,23
+ENT,drug_of_choice,4
+Forensic Medicine,other,426
+Forensic Medicine,diagnosis,115
+Forensic Medicine,investigation,70
+Forensic Medicine,mechanism,55
+Forensic Medicine,image_identification,16
+Forensic Medicine,management,8
+Forensic Medicine,anatomy_structure,7
+Forensic Medicine,epidemiology,5
+Forensic Medicine,drug_of_choice,3
+Medicine,diagnosis,706
+Medicine,other,396
+Medicine,management,199
+Medicine,investigation,115
+Medicine,mechanism,75
+Medicine,epidemiology,67
+Medicine,drug_of_choice,45
+Medicine,image_identification,19
+Medicine,anatomy_structure,17
+Microbiology,other,451
+Microbiology,diagnosis,383
+Microbiology,mechanism,187
+Microbiology,investigation,167
+Microbiology,epidemiology,105
+Microbiology,management,43
+Microbiology,image_identification,28
+Microbiology,anatomy_structure,10
+Microbiology,drug_of_choice,7
+OBG,other,309
+OBG,management,247
+OBG,diagnosis,214
+OBG,investigation,84
+OBG,anatomy_structure,71
+OBG,epidemiology,59
+OBG,mechanism,41
+OBG,drug_of_choice,39
+OBG,image_identification,20
+Ophthalmology,diagnosis,324
+Ophthalmology,other,161
+Ophthalmology,management,100
+Ophthalmology,anatomy_structure,95
+Ophthalmology,mechanism,65
+Ophthalmology,investigation,46
+Ophthalmology,image_identification,30
+Ophthalmology,epidemiology,24
+Ophthalmology,drug_of_choice,17
+Orthopedics,diagnosis,199
+Orthopedics,other,151
+Orthopedics,management,87
+Orthopedics,anatomy_structure,63
+Orthopedics,image_identification,38
+Orthopedics,mechanism,25
+Orthopedics,epidemiology,23
+Orthopedics,investigation,15
+Orthopedics,drug_of_choice,1
+Pathology,other,471
+Pathology,diagnosis,426
+Pathology,mechanism,271
+Pathology,investigation,86
+Pathology,epidemiology,64
+Pathology,image_identification,29
+Pathology,anatomy_structure,8
+Pathology,management,7
+Pediatrics,diagnosis,246
+Pediatrics,other,199
+Pediatrics,management,106
+Pediatrics,epidemiology,43
+Pediatrics,mechanism,19
+Pediatrics,drug_of_choice,17
+Pediatrics,investigation,13
+Pediatrics,anatomy_structure,7
+Pediatrics,image_identification,6
+Pharmacology,other,501
+Pharmacology,mechanism,419
+Pharmacology,drug_of_choice,281
+Pharmacology,management,97
+Pharmacology,diagnosis,27
+Pharmacology,investigation,10
+Pharmacology,epidemiology,4
+Pharmacology,image_identification,2
+Pharmacology,anatomy_structure,1
+Physiology,mechanism,505
+Physiology,other,431
+Physiology,anatomy_structure,42
+Physiology,diagnosis,28
+Physiology,investigation,22
+Physiology,image_identification,11
+Psychiatry,diagnosis,299
+Psychiatry,other,170
+Psychiatry,management,37
+Psychiatry,epidemiology,22
+Psychiatry,mechanism,20
+Psychiatry,drug_of_choice,15
+Psychiatry,investigation,7
+Psychiatry,anatomy_structure,3
+Radiology,image_identification,163
+Radiology,investigation,91
+Radiology,other,82
+Radiology,diagnosis,72
+Radiology,mechanism,15
+Radiology,management,13
+Radiology,anatomy_structure,6
+Radiology,drug_of_choice,2
+Radiology,epidemiology,1
+Surgery,management,243
+Surgery,other,206
+Surgery,diagnosis,146
+Surgery,anatomy_structure,49
+Surgery,image_identification,46
+Surgery,investigation,43
+Surgery,epidemiology,26
+Surgery,mechanism,19
+Surgery,drug_of_choice,6

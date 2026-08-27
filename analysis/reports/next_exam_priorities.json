@@ -1,0 +1,1863 @@
+{
+  "disclaimer": "Priority forecast from past-paper frequency/recurrence/recency — not a guarantee of next-exam questions. Memory-based sources only.",
+  "must_study_topics": [
+    {
+      "topic": "Urology",
+      "primary_subject": "Surgery",
+      "question_count": 107,
+      "years_seen": 15,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.938,
+      "recent_count": 11,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 86.7,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Reproductive",
+      "primary_subject": "Physiology",
+      "question_count": 183,
+      "years_seen": 15,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.938,
+      "recent_count": 17,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 86.6,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Lower Limb",
+      "primary_subject": "Anatomy",
+      "question_count": 134,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 21,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.6,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Neoplasia",
+      "primary_subject": "Pathology",
+      "question_count": 451,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 64,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.4,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Inflammation & Healing",
+      "primary_subject": "Pathology",
+      "question_count": 316,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 45,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.4,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Gastrointestinal Surgery",
+      "primary_subject": "Surgery",
+      "question_count": 60,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 8,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.3,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Neurology",
+      "primary_subject": "Medicine",
+      "question_count": 312,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 38,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.2,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Genetics & Molecular Biology",
+      "primary_subject": "Biochemistry",
+      "question_count": 330,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 35,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Endocrinology",
+      "primary_subject": "Medicine",
+      "question_count": 293,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 33,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Trauma",
+      "primary_subject": "Surgery",
+      "question_count": 278,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 31,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Toxicology",
+      "primary_subject": "Forensic Medicine",
+      "question_count": 214,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 23,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Cardiology",
+      "primary_subject": "Medicine",
+      "question_count": 618,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 63,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.0,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Hematopathology",
+      "primary_subject": "Pathology",
+      "question_count": 445,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 43,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.0,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Thanatology",
+      "primary_subject": "Forensic Medicine",
+      "question_count": 356,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 35,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.0,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Antimicrobials",
+      "primary_subject": "Pharmacology",
+      "question_count": 86,
+      "years_seen": 15,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.938,
+      "recent_count": 3,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 86.0,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Emergency Medicine",
+      "primary_subject": "Medicine",
+      "question_count": 83,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 8,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.0,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "General Medicine",
+      "primary_subject": "Medicine",
+      "question_count": 418,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 36,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.9,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Obstetric Complications",
+      "primary_subject": "OBG",
+      "question_count": 343,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 30,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.9,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Renal",
+      "primary_subject": "Physiology",
+      "question_count": 296,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 28,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.9,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Gastroenterology",
+      "primary_subject": "Medicine",
+      "question_count": 211,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 18,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.9,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Breast & Endocrine Surgery",
+      "primary_subject": "Surgery",
+      "question_count": 160,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 15,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.9,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Pulmonology",
+      "primary_subject": "Physiology",
+      "question_count": 495,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 42,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.8,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Vitamins & Nutrition",
+      "primary_subject": "Biochemistry",
+      "question_count": 396,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 31,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.8,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Gastrointestinal",
+      "primary_subject": "Physiology",
+      "question_count": 266,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 20,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.8,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Growth & Development",
+      "primary_subject": "Pediatrics",
+      "question_count": 239,
+      "years_seen": 15,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.938,
+      "recent_count": 5,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 85.8,
+      "priority_band": "Must"
+    }
+  ],
+  "high_priority_topics": [
+    {
+      "topic": "Coagulation",
+      "primary_subject": "Biochemistry",
+      "question_count": 17,
+      "years_seen": 10,
+      "year_list": "2010,2011,2012,2013,2014,2016,2017,2018,2022,2024",
+      "recurrence": 0.625,
+      "recent_count": 2,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 69.7,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Surgical Oncology",
+      "primary_subject": "Surgery",
+      "question_count": 18,
+      "years_seen": 9,
+      "year_list": "2010,2013,2014,2015,2018,2019,2020,2024,2025",
+      "recurrence": 0.562,
+      "recent_count": 4,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 69.5,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Abdominal Imaging",
+      "primary_subject": "Radiology",
+      "question_count": 16,
+      "years_seen": 10,
+      "year_list": "2010,2013,2015,2016,2017,2018,2019,2020,2021,2024",
+      "recurrence": 0.625,
+      "recent_count": 3,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 68.9,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Antimicrobial Drugs",
+      "primary_subject": "Pharmacology",
+      "question_count": 18,
+      "years_seen": 10,
+      "year_list": "2010,2011,2012,2013,2016,2017,2018,2019,2020,2025",
+      "recurrence": 0.625,
+      "recent_count": 1,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 68.8,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Protein Structure",
+      "primary_subject": "Biochemistry",
+      "question_count": 18,
+      "years_seen": 7,
+      "year_list": "2013,2014,2015,2016,2018,2019,2020",
+      "recurrence": 0.438,
+      "recent_count": 0,
+      "years_since_last": 5,
+      "due_for_return": true,
+      "importance_score": 68.1,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Autoimmune Diseases",
+      "primary_subject": "Medicine",
+      "question_count": 16,
+      "years_seen": 10,
+      "year_list": "2011,2013,2014,2015,2016,2017,2018,2019,2020,2022",
+      "recurrence": 0.625,
+      "recent_count": 0,
+      "years_since_last": 3,
+      "due_for_return": true,
+      "importance_score": 68.0,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Study Designs",
+      "primary_subject": "Community Medicine",
+      "question_count": 18,
+      "years_seen": 9,
+      "year_list": "2012,2014,2015,2016,2017,2018,2019,2020,2025",
+      "recurrence": 0.562,
+      "recent_count": 1,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 67.5,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Health Education",
+      "primary_subject": "Community Medicine",
+      "question_count": 17,
+      "years_seen": 8,
+      "year_list": "2010,2012,2013,2014,2015,2016,2019,2021",
+      "recurrence": 0.5,
+      "recent_count": 0,
+      "years_since_last": 4,
+      "due_for_return": true,
+      "importance_score": 66.8,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Pelvic anatomy",
+      "primary_subject": "Anatomy",
+      "question_count": 17,
+      "years_seen": 9,
+      "year_list": "2012,2013,2014,2015,2016,2017,2020,2022,2024",
+      "recurrence": 0.562,
+      "recent_count": 1,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 66.8,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Peripheral nerves",
+      "primary_subject": "Anatomy",
+      "question_count": 24,
+      "years_seen": 6,
+      "year_list": "2012,2013,2014,2018,2020,2024",
+      "recurrence": 0.375,
+      "recent_count": 1,
+      "years_since_last": 1,
+      "due_for_return": false,
+      "importance_score": 66.7,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Endometriosis",
+      "primary_subject": "OBG",
+      "question_count": 21,
+      "years_seen": 6,
+      "year_list": "2012,2013,2014,2016,2020,2024",
+      "recurrence": 0.375,
+      "recent_count": 1,
+      "years_since_last": 1,
+      "due_for_return": false,
+      "importance_score": 66.7,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Lymphatic System",
+      "primary_subject": "Anatomy",
+      "question_count": 26,
+      "years_seen": 6,
+      "year_list": "2012,2013,2014,2015,2016,2024",
+      "recurrence": 0.375,
+      "recent_count": 1,
+      "years_since_last": 1,
+      "due_for_return": false,
+      "importance_score": 66.6,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Urea Cycle",
+      "primary_subject": "Biochemistry",
+      "question_count": 18,
+      "years_seen": 7,
+      "year_list": "2011,2012,2013,2014,2015,2016,2019",
+      "recurrence": 0.438,
+      "recent_count": 0,
+      "years_since_last": 6,
+      "due_for_return": true,
+      "importance_score": 66.4,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Amino Acids",
+      "primary_subject": "Biochemistry",
+      "question_count": 17,
+      "years_seen": 8,
+      "year_list": "2012,2013,2014,2015,2016,2017,2018,2020",
+      "recurrence": 0.5,
+      "recent_count": 0,
+      "years_since_last": 5,
+      "due_for_return": true,
+      "importance_score": 66.4,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Thyroid Disorders",
+      "primary_subject": "Medicine",
+      "question_count": 16,
+      "years_seen": 9,
+      "year_list": "2011,2013,2014,2015,2016,2017,2018,2019,2020",
+      "recurrence": 0.562,
+      "recent_count": 0,
+      "years_since_last": 5,
+      "due_for_return": true,
+      "importance_score": 66.3,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Congenital Heart Disease",
+      "primary_subject": "Pediatrics",
+      "question_count": 26,
+      "years_seen": 6,
+      "year_list": "2011,2013,2014,2016,2019,2021",
+      "recurrence": 0.375,
+      "recent_count": 0,
+      "years_since_last": 4,
+      "due_for_return": false,
+      "importance_score": 66.2,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Arteries",
+      "primary_subject": "Anatomy",
+      "question_count": 20,
+      "years_seen": 6,
+      "year_list": "2010,2011,2012,2013,2019,2024",
+      "recurrence": 0.375,
+      "recent_count": 2,
+      "years_since_last": 1,
+      "due_for_return": false,
+      "importance_score": 66.2,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Neuromuscular Blocking Agents",
+      "primary_subject": "Pharmacology",
+      "question_count": 20,
+      "years_seen": 6,
+      "year_list": "2013,2014,2015,2016,2018,2019",
+      "recurrence": 0.375,
+      "recent_count": 0,
+      "years_since_last": 6,
+      "due_for_return": false,
+      "importance_score": 66.2,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Antidepressants",
+      "primary_subject": "Pharmacology",
+      "question_count": 17,
+      "years_seen": 8,
+      "year_list": "2011,2012,2013,2014,2015,2016,2018,2022",
+      "recurrence": 0.5,
+      "recent_count": 0,
+      "years_since_last": 3,
+      "due_for_return": true,
+      "importance_score": 66.2,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Drug Interactions",
+      "primary_subject": "Pharmacology",
+      "question_count": 16,
+      "years_seen": 9,
+      "year_list": "2010,2013,2014,2015,2016,2017,2018,2020,2021",
+      "recurrence": 0.562,
+      "recent_count": 0,
+      "years_since_last": 4,
+      "due_for_return": true,
+      "importance_score": 66.2,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Vaccination",
+      "primary_subject": "Community Medicine",
+      "question_count": 16,
+      "years_seen": 9,
+      "year_list": "2012,2013,2014,2015,2016,2017,2018,2019,2021",
+      "recurrence": 0.562,
+      "recent_count": 0,
+      "years_since_last": 4,
+      "due_for_return": true,
+      "importance_score": 66.1,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Menopause",
+      "primary_subject": "OBG",
+      "question_count": 17,
+      "years_seen": 10,
+      "year_list": "2011,2012,2013,2014,2015,2016,2017,2018,2019,2025",
+      "recurrence": 0.625,
+      "recent_count": 1,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 65.7,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Audiology",
+      "primary_subject": "ENT",
+      "question_count": 37,
+      "years_seen": 5,
+      "year_list": "2010,2013,2014,2016,2024",
+      "recurrence": 0.312,
+      "recent_count": 4,
+      "years_since_last": 1,
+      "due_for_return": false,
+      "importance_score": 65.5,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Leukemia",
+      "primary_subject": "Pathology",
+      "question_count": 19,
+      "years_seen": 6,
+      "year_list": "2013,2014,2015,2016,2018,2025",
+      "recurrence": 0.375,
+      "recent_count": 2,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 65.1,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Coagulation Disorders",
+      "primary_subject": "Pathology",
+      "question_count": 17,
+      "years_seen": 8,
+      "year_list": "2011,2012,2014,2016,2017,2018,2020,2024",
+      "recurrence": 0.5,
+      "recent_count": 1,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 65.1,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Membrane Transport",
+      "primary_subject": "Physiology",
+      "question_count": 17,
+      "years_seen": 7,
+      "year_list": "2012,2014,2015,2016,2018,2021,2023",
+      "recurrence": 0.438,
+      "recent_count": 0,
+      "years_since_last": 2,
+      "due_for_return": true,
+      "importance_score": 65.0,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Purine Metabolism",
+      "primary_subject": "Biochemistry",
+      "question_count": 16,
+      "years_seen": 9,
+      "year_list": "2010,2012,2014,2015,2016,2017,2018,2019,2024",
+      "recurrence": 0.562,
+      "recent_count": 2,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 64.9,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Osteology",
+      "primary_subject": "Anatomy",
+      "question_count": 20,
+      "years_seen": 6,
+      "year_list": "2011,2012,2013,2014,2017,2018",
+      "recurrence": 0.375,
+      "recent_count": 0,
+      "years_since_last": 7,
+      "due_for_return": false,
+      "importance_score": 64.6,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Chlamydia",
+      "primary_subject": "Microbiology",
+      "question_count": 17,
+      "years_seen": 7,
+      "year_list": "2010,2012,2013,2014,2015,2016,2020",
+      "recurrence": 0.438,
+      "recent_count": 0,
+      "years_since_last": 5,
+      "due_for_return": true,
+      "importance_score": 64.4,
+      "priority_band": "High"
+    },
+    {
+      "topic": "Clinical Biochemistry",
+      "primary_subject": "Biochemistry",
+      "question_count": 17,
+      "years_seen": 7,
+      "year_list": "2010,2012,2013,2016,2017,2018,2020",
+      "recurrence": 0.438,
+      "recent_count": 0,
+      "years_since_last": 5,
+      "due_for_return": true,
+      "importance_score": 64.4,
+      "priority_band": "High"
+    }
+  ],
+  "due_for_return": [
+    {
+      "topic": "Urology",
+      "primary_subject": "Surgery",
+      "question_count": 107,
+      "years_seen": 15,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.938,
+      "recent_count": 11,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 86.7,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Reproductive",
+      "primary_subject": "Physiology",
+      "question_count": 183,
+      "years_seen": 15,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.938,
+      "recent_count": 17,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 86.6,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Antimicrobials",
+      "primary_subject": "Pharmacology",
+      "question_count": 86,
+      "years_seen": 15,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.938,
+      "recent_count": 3,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 86.0,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Growth & Development",
+      "primary_subject": "Pediatrics",
+      "question_count": 239,
+      "years_seen": 15,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.938,
+      "recent_count": 5,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 85.8,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Airway Management",
+      "primary_subject": "Anaesthesia",
+      "question_count": 73,
+      "years_seen": 14,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2024",
+      "recurrence": 0.875,
+      "recent_count": 4,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 84.3,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Genetic Disorders",
+      "primary_subject": "Pathology",
+      "question_count": 49,
+      "years_seen": 14,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2024",
+      "recurrence": 0.875,
+      "recent_count": 2,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 84.2,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Public Health",
+      "primary_subject": "Community Medicine",
+      "question_count": 44,
+      "years_seen": 14,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2024",
+      "recurrence": 0.875,
+      "recent_count": 2,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 84.2,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Autonomic",
+      "primary_subject": "Pharmacology",
+      "question_count": 89,
+      "years_seen": 14,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2024",
+      "recurrence": 0.875,
+      "recent_count": 3,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 84.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Regional Anaesthesia",
+      "primary_subject": "Anaesthesia",
+      "question_count": 116,
+      "years_seen": 14,
+      "year_list": "2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.875,
+      "recent_count": 1,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 83.8,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Medical Jurisprudence",
+      "primary_subject": "Forensic Medicine",
+      "question_count": 84,
+      "years_seen": 13,
+      "year_list": "2010,2012,2013,2014,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.812,
+      "recent_count": 10,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 83.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Mood Disorders",
+      "primary_subject": "Psychiatry",
+      "question_count": 46,
+      "years_seen": 12,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2019,2020,2021,2022,2023",
+      "recurrence": 0.75,
+      "recent_count": 0,
+      "years_since_last": 2,
+      "due_for_return": true,
+      "importance_score": 82.5,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Lymphoma",
+      "primary_subject": "Pathology",
+      "question_count": 32,
+      "years_seen": 12,
+      "year_list": "2010,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022",
+      "recurrence": 0.75,
+      "recent_count": 0,
+      "years_since_last": 3,
+      "due_for_return": true,
+      "importance_score": 82.5,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Contraception",
+      "primary_subject": "OBG",
+      "question_count": 74,
+      "years_seen": 13,
+      "year_list": "2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2024",
+      "recurrence": 0.812,
+      "recent_count": 4,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 82.4,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Retina",
+      "primary_subject": "Ophthalmology",
+      "question_count": 131,
+      "years_seen": 13,
+      "year_list": "2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2024",
+      "recurrence": 0.812,
+      "recent_count": 5,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 82.3,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Immunization",
+      "primary_subject": "Community Medicine",
+      "question_count": 98,
+      "years_seen": 13,
+      "year_list": "2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.812,
+      "recent_count": 4,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 82.3,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Neuro-ophthalmology",
+      "primary_subject": "Ophthalmology",
+      "question_count": 54,
+      "years_seen": 13,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2018,2019,2020,2021,2022,2024",
+      "recurrence": 0.812,
+      "recent_count": 2,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 82.2,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Glaucoma",
+      "primary_subject": "Ophthalmology",
+      "question_count": 90,
+      "years_seen": 13,
+      "year_list": "2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.812,
+      "recent_count": 2,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 82.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Pharmacokinetics",
+      "primary_subject": "Pharmacology",
+      "question_count": 57,
+      "years_seen": 13,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2022,2024",
+      "recurrence": 0.812,
+      "recent_count": 1,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 82.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Adverse Drug Reactions",
+      "primary_subject": "Pharmacology",
+      "question_count": 38,
+      "years_seen": 13,
+      "year_list": "2010,2011,2012,2013,2014,2016,2017,2018,2019,2020,2021,2022,2024",
+      "recurrence": 0.812,
+      "recent_count": 1,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 82.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Critical Care",
+      "primary_subject": "Medicine",
+      "question_count": 21,
+      "years_seen": 12,
+      "year_list": "2010,2011,2013,2014,2015,2016,2017,2018,2019,2021,2023,2024",
+      "recurrence": 0.75,
+      "recent_count": 2,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 81.0,
+      "priority_band": "Must"
+    }
+  ],
+  "evergreen_topics": [
+    {
+      "topic": "Urology",
+      "primary_subject": "Surgery",
+      "question_count": 107,
+      "years_seen": 15,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.938,
+      "recent_count": 11,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 86.7,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Reproductive",
+      "primary_subject": "Physiology",
+      "question_count": 183,
+      "years_seen": 15,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.938,
+      "recent_count": 17,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 86.6,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Lower Limb",
+      "primary_subject": "Anatomy",
+      "question_count": 134,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 21,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.6,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Neoplasia",
+      "primary_subject": "Pathology",
+      "question_count": 451,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 64,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.4,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Inflammation & Healing",
+      "primary_subject": "Pathology",
+      "question_count": 316,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 45,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.4,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Gastrointestinal Surgery",
+      "primary_subject": "Surgery",
+      "question_count": 60,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 8,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.3,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Neurology",
+      "primary_subject": "Medicine",
+      "question_count": 312,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 38,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.2,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Genetics & Molecular Biology",
+      "primary_subject": "Biochemistry",
+      "question_count": 330,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 35,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Endocrinology",
+      "primary_subject": "Medicine",
+      "question_count": 293,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 33,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Trauma",
+      "primary_subject": "Surgery",
+      "question_count": 278,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 31,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Toxicology",
+      "primary_subject": "Forensic Medicine",
+      "question_count": 214,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 23,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.1,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Cardiology",
+      "primary_subject": "Medicine",
+      "question_count": 618,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 63,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.0,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Hematopathology",
+      "primary_subject": "Pathology",
+      "question_count": 445,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 43,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.0,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Thanatology",
+      "primary_subject": "Forensic Medicine",
+      "question_count": 356,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 35,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.0,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Antimicrobials",
+      "primary_subject": "Pharmacology",
+      "question_count": 86,
+      "years_seen": 15,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.938,
+      "recent_count": 3,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 86.0,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Emergency Medicine",
+      "primary_subject": "Medicine",
+      "question_count": 83,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 8,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 86.0,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "General Medicine",
+      "primary_subject": "Medicine",
+      "question_count": 418,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 36,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.9,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Obstetric Complications",
+      "primary_subject": "OBG",
+      "question_count": 343,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 30,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.9,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Renal",
+      "primary_subject": "Physiology",
+      "question_count": 296,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 28,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.9,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Gastroenterology",
+      "primary_subject": "Medicine",
+      "question_count": 211,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 18,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.9,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Breast & Endocrine Surgery",
+      "primary_subject": "Surgery",
+      "question_count": 160,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 15,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.9,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Pulmonology",
+      "primary_subject": "Physiology",
+      "question_count": 495,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 42,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.8,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Vitamins & Nutrition",
+      "primary_subject": "Biochemistry",
+      "question_count": 396,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 31,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.8,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Gastrointestinal",
+      "primary_subject": "Physiology",
+      "question_count": 266,
+      "years_seen": 16,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "recurrence": 1.0,
+      "recent_count": 20,
+      "years_since_last": 0,
+      "due_for_return": false,
+      "importance_score": 85.8,
+      "priority_band": "Must"
+    },
+    {
+      "topic": "Growth & Development",
+      "primary_subject": "Pediatrics",
+      "question_count": 239,
+      "years_seen": 15,
+      "year_list": "2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024",
+      "recurrence": 0.938,
+      "recent_count": 5,
+      "years_since_last": 1,
+      "due_for_return": true,
+      "importance_score": 85.8,
+      "priority_band": "Must"
+    }
+  ],
+  "within_topic_concepts": {
+    "Urology": [
+      {
+        "concept": "A 40-year-old man with a known case of hypertension presented with multiple episodes of",
+        "count": 1
+      },
+      {
+        "concept": "A 55-year-old male presented with verrucous carcinoma around the glans of the penis.",
+        "count": 1
+      },
+      {
+        "concept": "A 6- year old boy came with a history of recurrent urinary tract infections. Imaging was done",
+        "count": 1
+      },
+      {
+        "concept": "A diabetic patient presents with sudden-onset perineal pain. On examinatiorn, foul-smelling",
+        "count": 1
+      },
+      {
+        "concept": "A patient presents with prostate carcinoma, which has now spread to the vertebra. What is the",
+        "count": 1
+      }
+    ],
+    "Reproductive": [
+      {
+        "concept": "Internal spermatic fascia origin",
+        "count": 2
+      },
+      {
+        "concept": "Tubectomy isthmus site",
+        "count": 2
+      },
+      {
+        "concept": "hCG stimulates fetal testosterone",
+        "count": 2
+      },
+      {
+        "concept": "17 alpha hydroxylprogesterone exception",
+        "count": 1
+      },
+      {
+        "concept": "19-nortestosterone progestin derivatives",
+        "count": 1
+      }
+    ],
+    "Lower Limb": [
+      {
+        "concept": "Femoral head arterial supply",
+        "count": 2
+      },
+      {
+        "concept": "Femoral triangle boundaries",
+        "count": 2
+      },
+      {
+        "concept": "Posterior tibial artery location",
+        "count": 2
+      },
+      {
+        "concept": "Psoas major hip flexion",
+        "count": 2
+      },
+      {
+        "concept": "A male patient presented with a bone fracture following a road traffic accident. After 2 days he",
+        "count": 1
+      }
+    ],
+    "Neoplasia": [
+      {
+        "concept": "CEA elevation in non-neoplastic disease",
+        "count": 2
+      },
+      {
+        "concept": "JNA diagnosis",
+        "count": 2
+      },
+      {
+        "concept": "AFP elevated in specific tumors",
+        "count": 1
+      },
+      {
+        "concept": "AFP for hepatocellular carcinoma",
+        "count": 1
+      },
+      {
+        "concept": "AFP in germ cell tumors",
+        "count": 1
+      }
+    ],
+    "Inflammation & Healing": [
+      {
+        "concept": "IFN gamma macrophage activation",
+        "count": 2
+      },
+      {
+        "concept": "Negative acute phase proteins",
+        "count": 2
+      },
+      {
+        "concept": "Stellate granuloma association",
+        "count": 2
+      },
+      {
+        "concept": "ASEPSIS score elements",
+        "count": 1
+      },
+      {
+        "concept": "Abscess types",
+        "count": 1
+      }
+    ],
+    "Gastrointestinal Surgery": [
+      {
+        "concept": "Bowel anastomosis principles",
+        "count": 2
+      },
+      {
+        "concept": "A 20-year-old female patient consumed a cleaning product containing 90% sodium hydroxide.",
+        "count": 1
+      },
+      {
+        "concept": "A 45-year-old male underwent bilateral laparoscopic hernia repair for inguinal hernia.",
+        "count": 1
+      },
+      {
+        "concept": "A 5-year-old child was admitted tLo the hospital for prolapsing rectal mass and painless rectal",
+        "count": 1
+      },
+      {
+        "concept": "A man complained of recurrent discharge and pain due to lesions around the anus for 3 years.",
+        "count": 1
+      }
+    ],
+    "Neurology": [
+      {
+        "concept": "Glasgow Coma Scale calculation",
+        "count": 2
+      },
+      {
+        "concept": "Myasthenia gravis acetylcholine receptors",
+        "count": 2
+      },
+      {
+        "concept": "Myotonic dystrophy chromosome 19",
+        "count": 2
+      },
+      {
+        "concept": "Scissor gait causes",
+        "count": 2
+      },
+      {
+        "concept": "Sydenham chorea drug treatment",
+        "count": 2
+      }
+    ],
+    "Genetics & Molecular Biology": [
+      {
+        "concept": "Cowden syndrome PTEN mutation",
+        "count": 3
+      },
+      {
+        "concept": "Myotonic dystrophy chromosome 19",
+        "count": 3
+      },
+      {
+        "concept": "RET oncogene associated cancers",
+        "count": 3
+      },
+      {
+        "concept": "Cystic fibrosis recurrence risk",
+        "count": 2
+      },
+      {
+        "concept": "DNA polymerase I role",
+        "count": 2
+      }
+    ],
+    "Endocrinology": [
+      {
+        "concept": "Graves disease false statement",
+        "count": 2
+      },
+      {
+        "concept": "Pediatric DKA management",
+        "count": 2
+      },
+      {
+        "concept": "VIPoma Verner Morrison syndrome",
+        "count": 2
+      },
+      {
+        "concept": "hCG stimulates fetal testosterone",
+        "count": 2
+      },
+      {
+        "concept": "insulin mediated glucose transport",
+        "count": 2
+      }
+    ],
+    "Trauma": [
+      {
+        "concept": "Glasgow Coma Scale calculation",
+        "count": 3
+      },
+      {
+        "concept": "Tension pneumothorax emergency management",
+        "count": 2
+      },
+      {
+        "concept": "orbital blow out fracture location",
+        "count": 2
+      },
+      {
+        "concept": "ATLS class III hemorrhage volume",
+        "count": 1
+      },
+      {
+        "concept": "ATLS primary survey elements",
+        "count": 1
+      }
+    ],
+    "Toxicology": [
+      {
+        "concept": "Cadmium poisoning proximal tubule proteinuria",
+        "count": 2
+      },
+      {
+        "concept": "Datura anticholinergic toxidrome",
+        "count": 2
+      },
+      {
+        "concept": "Deferoxamine for iron overdose",
+        "count": 2
+      },
+      {
+        "concept": "Lead poisoning gout",
+        "count": 2
+      },
+      {
+        "concept": "Methanol toxic metabolites",
+        "count": 2
+      }
+    ],
+    "Cardiology": [
+      {
+        "concept": "HOCM sudden cardiac death",
+        "count": 3
+      },
+      {
+        "concept": "Aortic arch embryonic development",
+        "count": 2
+      },
+      {
+        "concept": "Cardiogenic shock non-MI causes",
+        "count": 2
+      },
+      {
+        "concept": "Constrictive pericarditis diagnosis",
+        "count": 2
+      },
+      {
+        "concept": "Hypovolemic shock renal changes",
+        "count": 2
+      }
+    ],
+    "Hematopathology": [
+      {
+        "concept": "Parvovirus B19 aplastic crisis",
+        "count": 3
+      },
+      {
+        "concept": "Acute leukemia chemotherapy",
+        "count": 2
+      },
+      {
+        "concept": "Bernard-Soulier Gp Ib deficiency",
+        "count": 2
+      },
+      {
+        "concept": "CD59 marker PNH",
+        "count": 2
+      },
+      {
+        "concept": "CPD preserves 2,3-DPG",
+        "count": 2
+      }
+    ],
+    "Thanatology": [
+      {
+        "concept": "Cephalic index for race",
+        "count": 2
+      },
+      {
+        "concept": "First cavity opened at autopsy",
+        "count": 2
+      },
+      {
+        "concept": "First organ putrefaction",
+        "count": 2
+      },
+      {
+        "concept": "Postmortem muscular irritability",
+        "count": 2
+      },
+      {
+        "concept": "postmortem muscular irritability",
+        "count": 2
+      }
+    ],
+    "Antimicrobials": [
+      {
+        "concept": "Nosocomial infection antibiotic choice",
+        "count": 2
+      },
+      {
+        "concept": "A tuberculosis patient on anti-tubercular treatment presents with a tingling sensation and",
+        "count": 1
+      },
+      {
+        "concept": "A woman presenting with symptoms of urinary tract infection was prescribed a drug that",
+        "count": 1
+      },
+      {
+        "concept": "Actinomycin D mechanism",
+        "count": 1
+      },
+      {
+        "concept": "Acyclovir use during pregnancy",
+        "count": 1
+      }
+    ],
+    "Coagulation": [
+      {
+        "concept": "Vitamin K properties",
+        "count": 2
+      },
+      {
+        "concept": "Bernard-Soulier Gp 1b deficiency",
+        "count": 1
+      },
+      {
+        "concept": "Blood coagulation cascade facts",
+        "count": 1
+      },
+      {
+        "concept": "Calcium-dependent vitamin K function",
+        "count": 1
+      },
+      {
+        "concept": "Child neurological symptoms",
+        "count": 1
+      }
+    ],
+    "Surgical Oncology": [
+      {
+        "concept": "Acral lentiginous melanoma management",
+        "count": 1
+      },
+      {
+        "concept": "Breast cancer T4 staging",
+        "count": 1
+      },
+      {
+        "concept": "Breast cancer muscle spread",
+        "count": 1
+      },
+      {
+        "concept": "Breast cancer treatment principles",
+        "count": 1
+      },
+      {
+        "concept": "CEA prognosis colon cancer",
+        "count": 1
+      }
+    ],
+    "Abdominal Imaging": [
+      {
+        "concept": "Abdominal X-ray diagnosis",
+        "count": 1
+      },
+      {
+        "concept": "Abdominal radiological image diagnosis",
+        "count": 1
+      },
+      {
+        "concept": "Abdominal radiological sign identification",
+        "count": 1
+      },
+      {
+        "concept": "Adrenal adenoma CT characteristics",
+        "count": 1
+      },
+      {
+        "concept": "Balthazar CT severity index",
+        "count": 1
+      }
+    ],
+    "Antimicrobial Drugs": [
+      {
+        "concept": "Antibiotic action type",
+        "count": 1
+      },
+      {
+        "concept": "Azole antifungals mechanism",
+        "count": 1
+      },
+      {
+        "concept": "Aztreonam lacks penicillin cross reactivity",
+        "count": 1
+      },
+      {
+        "concept": "Clofazimine antimicrobial mechanism",
+        "count": 1
+      },
+      {
+        "concept": "First generation cephalosporin spectrum",
+        "count": 1
+      }
+    ],
+    "Protein Structure": [
+      {
+        "concept": "Fibrinopeptide acidic amino acids",
+        "count": 2
+      },
+      {
+        "concept": "Actin protein type",
+        "count": 1
+      },
+      {
+        "concept": "Aromatic amino acid UV absorption",
+        "count": 1
+      },
+      {
+        "concept": "Chaperone protein folding function",
+        "count": 1
+      },
+      {
+        "concept": "Chaperones assist protein folding",
+        "count": 1
+      }
+    ],
+    "Autoimmune Diseases": [
+      {
+        "concept": "Rheumatoid arthritis clinical features",
+        "count": 2
+      },
+      {
+        "concept": "Alopecia areata disease type",
+        "count": 1
+      },
+      {
+        "concept": "Antiphospholipid syndrome antibodies",
+        "count": 1
+      },
+      {
+        "concept": "Coeliac disease screening antibody",
+        "count": 1
+      },
+      {
+        "concept": "Juvenile idiopathic arthritis treatment",
+        "count": 1
+      }
+    ],
+    "Study Designs": [
+      {
+        "concept": "Ecological study unit of analysis",
+        "count": 2
+      },
+      {
+        "concept": "Best study for disease causation",
+        "count": 1
+      },
+      {
+        "concept": "Bias in case control studies",
+        "count": 1
+      },
+      {
+        "concept": "Case control study design characteristics",
+        "count": 1
+      },
+      {
+        "concept": "Case control study selection matching",
+        "count": 1
+      }
+    ],
+    "Health Education": [
+      {
+        "concept": "Attitude emotional valence",
+        "count": 1
+      },
+      {
+        "concept": "Disease symptom awareness promotion",
+        "count": 1
+      },
+      {
+        "concept": "Hand hygiene learning domains",
+        "count": 1
+      },
+      {
+        "concept": "Health education characters",
+        "count": 1
+      },
+      {
+        "concept": "Health promotion education hygiene nutrition",
+        "count": 1
+      }
+    ],
+    "Pelvic anatomy": [
+      {
+        "concept": "Bulbar urethral injury extravasation",
+        "count": 1
+      },
+      {
+        "concept": "Internal anal sphincter composition",
+        "count": 1
+      },
+      {
+        "concept": "Level 1 uterine support",
+        "count": 1
+      },
+      {
+        "concept": "Membranous urethral injury extravasation",
+        "count": 1
+      },
+      {
+        "concept": "Most suitable pelvis type female",
+        "count": 1
+      }
+    ],
+    "Peripheral nerves": [
+      {
+        "concept": "High radial nerve palsy",
+        "count": 2
+      },
+      {
+        "concept": "Adductor magnus dual innervation",
+        "count": 1
+      },
+      {
+        "concept": "Anterior interosseous nerve origin",
+        "count": 1
+      },
+      {
+        "concept": "Anterior interosseous nerve supply",
+        "count": 1
+      },
+      {
+        "concept": "Anterior interosseous palsy",
+        "count": 1
+      }
+    ]
+  }
+}

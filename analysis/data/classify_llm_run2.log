@@ -1,0 +1,21 @@
+Providers available: ['openrouter']
+Total questions: 17354; to label: 12877
+  batch 1: ids 606..613
+    labeled 8
+  batch 2: ids 614..621
+    labeled 8
+  batch 3: ids 622..630
+    labeled 8
+  batch 4: ids 631..639
+    labeled 8
+  batch 5: ids 640..647
+    labeled 8
+  batch 6: ids 648..655
+    labeled 8
+  batch 7: ids 656..663
+    labeled 8
+  batch 8: ids 664..671
+    labeled 8
+  batch 9: ids 672..679
+    ERROR: All LLM providers failed: openrouter: OpenRouter failed: google/gemma-4-26b-a4b-it:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"google/gemma-4-26b-a4b-it:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Google AI Studio","
+  batch 10: ids 680..687

@@ -1,0 +1,5800 @@
+Providers available: ['bht']
+Total questions: 17354; to label: 8433; workers=16; batch_size=3
+  batch 1: ids 8533..8535
+    labeled 3
+  batch 15: ids 8712..8714
+    labeled 3
+  batch 5: ids 8655..8659
+    labeled 3
+  batch 9: ids 8694..8696
+    labeled 3
+  batch 10: ids 8697..8699
+    labeled 3
+  batch 6: ids 8660..8662
+    labeled 3
+  batch 16: ids 8715..8717
+    labeled 3
+  batch 3: ids 8643..8651
+    labeled 3
+  batch 14: ids 8709..8711
+    labeled 3
+  batch 13: ids 8706..8708
+    labeled 3
+  batch 11: ids 8700..8702
+    labeled 3
+  batch 12: ids 8703..8705
+    labeled 3
+  batch 2: ids 8553..8642
+    labeled 1
+  batch 4: ids 8652..8654
+    labeled 3
+  batch 25: ids 8742..8744
+    labeled 3
+  batch 17: ids 8718..8720
+    labeled 3
+    checkpoint @ 16/2811 batches; labeled≈46; ~0.6 q/s
+  batch 23: ids 8736..8738
+    labeled 3
+  batch 18: ids 8721..8723
+    labeled 3
+  batch 22: ids 8733..8735
+    labeled 3
+  batch 30: ids 8757..8759
+    labeled 3
+  batch 19: ids 8724..8726
+    labeled 3
+  batch 8: ids 8691..8693
+    labeled 3
+  batch 33: ids 8766..8768
+    labeled 3
+  batch 20: ids 8727..8729
+    labeled 2
+  batch 34: ids 8769..8771
+    labeled 3
+  batch 21: ids 8730..8732
+    labeled 3
+  batch 28: ids 8751..8753
+    labeled 3
+  batch 27: ids 8748..8750
+    labeled 3
+  batch 24: ids 8739..8741
+    labeled 3
+  batch 37: ids 8778..8780
+    labeled 3
+  batch 40: ids 8787..8789
+    labeled 3
+  batch 45: ids 8802..8804
+    labeled 3
+    checkpoint @ 32/2811 batches; labeled≈93; ~0.7 q/s
+  batch 43: ids 8796..8798
+    labeled 3
+  batch 35: ids 8772..8774
+    labeled 3
+  batch 39: ids 8784..8786
+    labeled 3
+  batch 41: ids 8790..8792
+    labeled 3
+  batch 44: ids 8799..8801
+    labeled 3
+  batch 31: ids 8760..8762
+    labeled 3
+  batch 47: ids 8808..8810
+    labeled 3
+  batch 42: ids 8793..8795
+    labeled 1
+  batch 29: ids 8754..8756
+    labeled 3
+  batch 50: ids 8817..8819
+    labeled 3
+  batch 26: ids 8745..8747
+    labeled 1
+  batch 46: ids 8805..8807
+    labeled 3
+  batch 7: ids 8685..8690
+    labeled 3
+  batch 51: ids 8820..8822
+    labeled 3
+  batch 49: ids 8814..8816
+    labeled 3
+  batch 48: ids 8811..8813
+    labeled 3
+    checkpoint @ 48/2811 batches; labeled≈137; ~0.7 q/s
+  batch 36: ids 8775..8777
+    labeled 3
+  batch 58: ids 8841..8843
+    labeled 3
+  batch 53: ids 8826..8828
+    labeled 3
+  batch 64: ids 8859..8861
+    labeled 3
+  batch 38: ids 8781..8783
+    labeled 3
+  batch 61: ids 8850..8852
+    labeled 3
+  batch 63: ids 8856..8858
+    labeled 3
+  batch 57: ids 8838..8840
+    labeled 3
+  batch 59: ids 8844..8846
+    labeled 2
+  batch 60: ids 8847..8849
+    labeled 0
+  batch 32: ids 8763..8765
+    labeled 3
+  batch 65: ids 8862..8864
+    labeled 3
+  batch 72: ids 8883..8885
+    labeled 3
+  batch 70: ids 8877..8879
+    labeled 3
+  batch 69: ids 8874..8876
+    labeled 3
+  batch 55: ids 8832..8834
+    labeled 3
+    checkpoint @ 64/2811 batches; labeled≈181; ~0.7 q/s
+  batch 67: ids 8868..8870
+    labeled 3
+  batch 62: ids 8853..8855
+    labeled 3
+  batch 73: ids 8886..8888
+    labeled 3
+  batch 74: ids 8889..8891
+    labeled 3
+  batch 66: ids 8865..8867
+    labeled 3
+  batch 81: ids 8910..8912
+    labeled 3
+  batch 76: ids 8895..8897
+    labeled 3
+  batch 78: ids 8901..8903
+    labeled 1
+  batch 80: ids 8907..8909
+    labeled 3
+  batch 52: ids 8823..8825
+    labeled 3
+  batch 68: ids 8871..8873
+    labeled 3
+  batch 86: ids 8925..8927
+    labeled 3
+  batch 54: ids 8829..8831
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 89: ids 8934..8936
+    labeled 3
+  batch 90: ids 8937..8939
+    labeled 3
+  batch 84: ids 8919..8921
+    labeled 1
+    checkpoint @ 80/2811 batches; labeled≈222; ~0.6 q/s
+  batch 56: ids 8835..8837
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 75: ids 8892..8894
+    labeled 3
+  batch 97: ids 8958..8960
+    labeled 3
+  batch 87: ids 8928..8930
+    labeled 2
+  batch 77: ids 8898..8900
+    labeled 3
+  batch 88: ids 8931..8933
+    labeled 3
+  batch 79: ids 8904..8906
+    labeled 3
+  batch 82: ids 8913..8915
+    labeled 3
+  batch 96: ids 8955..8957
+    labeled 3
+  batch 92: ids 8943..8945
+    labeled 3
+  batch 94: ids 8949..8951
+    labeled 3
+  batch 93: ids 8946..8948
+    labeled 1
+  batch 71: ids 8880..8882
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 101: ids 8970..8972
+    labeled 3
+  batch 104: ids 8979..8981
+    labeled 3
+  batch 99: ids 8964..8966
+    labeled 1
+    checkpoint @ 96/2811 batches; labeled≈259; ~0.6 q/s
+  batch 102: ids 8973..8975
+    labeled 3
+  batch 103: ids 8976..8978
+    labeled 3
+  batch 109: ids 8994..8996
+    labeled 3
+  batch 105: ids 8982..8984
+    labeled 3
+  batch 112: ids 9003..9005
+    labeled 3
+  batch 107: ids 8988..8990
+    labeled 3
+  batch 108: ids 8991..8993
+    labeled 3
+  batch 95: ids 8952..8954
+    labeled 3
+  batch 110: ids 8997..8999
+    labeled 3
+  batch 111: ids 9000..9002
+    labeled 3
+  batch 83: ids 8916..8918
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 85: ids 8922..8924
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 121: ids 9030..9032
+    labeled 3
+  batch 100: ids 8967..8969
+    labeled 3
+  batch 113: ids 9006..9008
+    labeled 3
+  batch 114: ids 9009..9011
+    labeled 3
+    checkpoint @ 112/2811 batches; labeled≈301; ~0.6 q/s
+  batch 116: ids 9015..9017
+    labeled 3
+  batch 117: ids 9018..9020
+    labeled 3
+  batch 118: ids 9021..9023
+    labeled 3
+  batch 128: ids 9051..9053
+    labeled 3
+  batch 127: ids 9048..9050
+    labeled 3
+  batch 91: ids 8940..8942
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 122: ids 9033..9035
+    labeled 3
+  batch 124: ids 9039..9041
+    labeled 3
+  batch 129: ids 9054..9056
+    labeled 3
+  batch 123: ids 9036..9038
+    labeled 3
+  batch 136: ids 9075..9077
+    labeled 3
+  batch 98: ids 8961..8963
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 135: ids 9072..9074
+    labeled 3
+  batch 125: ids 9042..9044
+    labeled 3
+  batch 126: ids 9045..9047
+    labeled 3
+  batch 115: ids 9012..9014
+    labeled 3
+    checkpoint @ 128/2811 batches; labeled≈343; ~0.6 q/s
+  batch 130: ids 9057..9059
+    labeled 3
+  batch 134: ids 9069..9071
+    labeled 3
+  batch 131: ids 9060..9062
+    labeled 0
+  batch 132: ids 9063..9065
+    labeled 3
+  batch 120: ids 9027..9029
+    labeled 3
+  batch 133: ids 9066..9068
+    labeled 3
+  batch 106: ids 8985..8987
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 138: ids 9081..9083
+    labeled 1
+  batch 141: ids 9090..9092
+    labeled 3
+  batch 149: ids 9114..9116
+    labeled 3
+  batch 145: ids 9102..9104
+    labeled 3
+  batch 152: ids 9123..9125
+    labeled 3
+  batch 147: ids 9108..9110
+    labeled 3
+  batch 148: ids 9111..9113
+    labeled 3
+  batch 153: ids 9126..9128
+    labeled 3
+  batch 137: ids 9078..9080
+    labeled 3
+    checkpoint @ 144/2811 batches; labeled≈383; ~0.6 q/s
+  batch 150: ids 9117..9119
+    labeled 3
+  batch 158: ids 9141..9143
+    labeled 3
+  batch 151: ids 9120..9122
+    labeled 3
+  batch 156: ids 9135..9137
+    labeled 3
+  batch 119: ids 9024..9026
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 139: ids 9084..9086
+    labeled 3
+  batch 157: ids 9138..9140
+    labeled 3
+  batch 140: ids 9087..9089
+    labeled 3
+  batch 146: ids 9105..9107
+    labeled 3
+  batch 162: ids 9153..9155
+    labeled 3
+  batch 161: ids 9150..9152
+    labeled 3
+  batch 143: ids 9096..9098
+    labeled 3
+  batch 164: ids 9159..9161
+    labeled 3
+  batch 155: ids 9132..9134
+    labeled 3
+  batch 170: ids 9177..9179
+    labeled 3
+  batch 171: ids 9180..9182
+    labeled 3
+    checkpoint @ 160/2811 batches; labeled≈428; ~0.6 q/s
+  batch 160: ids 9147..9149
+    labeled 3
+  batch 163: ids 9156..9158
+    labeled 3
+  batch 175: ids 9192..9194
+    labeled 3
+  batch 168: ids 9171..9173
+    labeled 3
+  batch 167: ids 9168..9170
+    labeled 3
+  batch 173: ids 9186..9188
+    labeled 3
+  batch 169: ids 9174..9176
+    labeled 3
+  batch 178: ids 9201..9203
+    labeled 3
+  batch 172: ids 9183..9185
+    labeled 3
+  batch 154: ids 9129..9131
+    labeled 3
+  batch 165: ids 9162..9164
+    labeled 3
+  batch 179: ids 9204..9206
+    labeled 3
+  batch 142: ids 9093..9095
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 183: ids 9216..9218
+    labeled 3
+  batch 159: ids 9144..9146
+    labeled 3
+  batch 176: ids 9195..9197
+    labeled 3
+    checkpoint @ 176/2811 batches; labeled≈473; ~0.6 q/s
+  batch 177: ids 9198..9200
+    labeled 3
+  batch 144: ids 9099..9101
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 181: ids 9210..9212
+    labeled 3
+  batch 193: ids 9246..9248
+    labeled 3
+  batch 166: ids 9165..9167
+    labeled 3
+  batch 180: ids 9207..9209
+    labeled 3
+  batch 185: ids 9222..9224
+    labeled 3
+  batch 194: ids 9249..9251
+    labeled 3
+  batch 188: ids 9231..9233
+    labeled 3
+  batch 190: ids 9237..9239
+    labeled 3
+  batch 184: ids 9219..9221
+    labeled 3
+  batch 196: ids 9255..9257
+    labeled 3
+  batch 187: ids 9228..9230
+    labeled 3
+  batch 192: ids 9243..9245
+    labeled 1
+  batch 195: ids 9252..9254
+    labeled 2
+  batch 204: ids 9279..9281
+    labeled 3
+    checkpoint @ 192/2811 batches; labeled≈515; ~0.6 q/s
+  batch 197: ids 9258..9260
+    labeled 3
+  batch 198: ids 9261..9263
+    labeled 3
+  batch 199: ids 9264..9266
+    labeled 3
+  batch 200: ids 9267..9269
+    labeled 3
+  batch 182: ids 9213..9215
+    labeled 3
+  batch 206: ids 9285..9287
+    labeled 3
+  batch 210: ids 9297..9299
+    labeled 3
+  batch 207: ids 9288..9290
+    labeled 3
+  batch 211: ids 9300..9302
+    labeled 3
+  batch 212: ids 9303..9305
+    labeled 3
+  batch 208: ids 9291..9293
+    labeled 3
+  batch 189: ids 9234..9236
+    labeled 3
+  batch 201: ids 9270..9272
+    labeled 3
+  batch 174: ids 9189..9191
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 213: ids 9306..9308
+    labeled 3
+  batch 191: ids 9240..9242
+    labeled 2
+    checkpoint @ 208/2811 batches; labeled≈559; ~0.6 q/s
+  batch 209: ids 9294..9296
+    labeled 3
+  batch 214: ids 9309..9311
+    labeled 3
+  batch 220: ids 9327..9329
+    labeled 3
+  batch 223: ids 9336..9338
+    labeled 3
+  batch 219: ids 9324..9326
+    labeled 3
+  batch 222: ids 9333..9335
+    labeled 3
+  batch 217: ids 9318..9320
+    labeled 3
+  batch 221: ids 9330..9332
+    labeled 3
+  batch 226: ids 9345..9347
+    labeled 3
+  batch 218: ids 9321..9323
+    labeled 3
+  batch 203: ids 9276..9278
+    labeled 3
+  batch 215: ids 9312..9314
+    labeled 3
+  batch 233: ids 9366..9368
+    labeled 3
+  batch 229: ids 9354..9356
+    labeled 3
+  batch 228: ids 9351..9353
+    labeled 3
+  batch 186: ids 9225..9227
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 224/2811 batches; labeled≈604; ~0.7 q/s
+  batch 236: ids 9375..9377
+    labeled 3
+  batch 224: ids 9339..9341
+    labeled 3
+  batch 225: ids 9342..9344
+    labeled 3
+  batch 227: ids 9348..9350
+    labeled 3
+  batch 231: ids 9360..9362
+    labeled 3
+  batch 202: ids 9273..9275
+    labeled 3
+  batch 232: ids 9363..9365
+    labeled 3
+  batch 216: ids 9315..9317
+    labeled 3
+  batch 234: ids 9369..9371
+    labeled 3
+  batch 240: ids 9387..9389
+    labeled 3
+  batch 235: ids 9372..9374
+    labeled 3
+  batch 239: ids 9384..9386
+    labeled 3
+  batch 241: ids 9390..9392
+    labeled 3
+  batch 237: ids 9378..9380
+    labeled 3
+  batch 244: ids 9399..9401
+    labeled 3
+  batch 245: ids 9402..9404
+    labeled 3
+    checkpoint @ 240/2811 batches; labeled≈652; ~0.7 q/s
+  batch 205: ids 9282..9284
+    labeled 2
+  batch 248: ids 9411..9413
+    labeled 3
+  batch 242: ids 9393..9395
+    labeled 3
+  batch 250: ids 9417..9419
+    labeled 3
+  batch 243: ids 9396..9398
+    labeled 3
+  batch 255: ids 9432..9434
+    labeled 3
+  batch 251: ids 9420..9422
+    labeled 3
+  batch 249: ids 9414..9416
+    labeled 3
+  batch 258: ids 9441..9443
+    labeled 3
+  batch 252: ids 9423..9425
+    labeled 3
+  batch 247: ids 9408..9410
+    labeled 3
+  batch 257: ids 9438..9440
+    labeled 3
+  batch 253: ids 9426..9428
+    labeled 3
+  batch 260: ids 9447..9449
+    labeled 3
+  batch 263: ids 9456..9458
+    labeled 3
+  batch 254: ids 9429..9431
+    labeled 3
+    checkpoint @ 256/2811 batches; labeled≈699; ~0.7 q/s
+  batch 265: ids 9462..9464
+    labeled 3
+  batch 266: ids 9465..9467
+    labeled 3
+  batch 269: ids 9474..9476
+    labeled 3
+  batch 259: ids 9444..9446
+    labeled 0
+  batch 261: ids 9450..9452
+    labeled 3
+  batch 230: ids 9357..9359
+    labeled 3
+  batch 268: ids 9471..9473
+    labeled 3
+  batch 270: ids 9477..9479
+    labeled 3
+  batch 271: ids 9480..9482
+    labeled 3
+  batch 267: ids 9468..9470
+    labeled 3
+  batch 246: ids 9405..9407
+    labeled 3
+  batch 276: ids 9495..9497
+    labeled 3
+  batch 272: ids 9483..9485
+    labeled 3
+  batch 273: ids 9486..9488
+    labeled 0
+  batch 256: ids 9435..9437
+    labeled 3
+  batch 274: ids 9489..9491
+    labeled 3
+    checkpoint @ 272/2811 batches; labeled≈741; ~0.7 q/s
+  batch 238: ids 9381..9383
+    labeled 3
+  batch 277: ids 9498..9500
+    labeled 3
+  batch 284: ids 9519..9521
+    labeled 3
+  batch 281: ids 9510..9512
+    labeled 3
+  batch 282: ids 9513..9515
+    labeled 0
+  batch 285: ids 9522..9524
+    labeled 3
+  batch 283: ids 9516..9518
+    labeled 3
+  batch 262: ids 9453..9455
+    labeled 3
+  batch 288: ids 9531..9533
+    labeled 3
+  batch 290: ids 9537..9539
+    labeled 3
+  batch 289: ids 9534..9536
+    labeled 3
+  batch 287: ids 9528..9530
+    labeled 1
+  batch 291: ids 9540..9542
+    labeled 3
+  batch 278: ids 9501..9503
+    labeled 3
+  batch 292: ids 9543..9545
+    labeled 3
+  batch 295: ids 9552..9554
+    labeled 3
+    checkpoint @ 288/2811 batches; labeled≈784; ~0.7 q/s
+  batch 275: ids 9492..9494
+    labeled 3
+  batch 279: ids 9504..9506
+    labeled 2
+  batch 286: ids 9525..9527
+    labeled 3
+  batch 303: ids 9576..9578
+    labeled 3
+  batch 297: ids 9558..9560
+    labeled 3
+  batch 296: ids 9555..9557
+    labeled 3
+  batch 294: ids 9549..9551
+    labeled 3
+  batch 299: ids 9564..9566
+    labeled 3
+  batch 301: ids 9570..9572
+    labeled 3
+  batch 264: ids 9459..9461
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 309: ids 9594..9596
+    labeled 3
+  batch 305: ids 9582..9584
+    labeled 3
+  batch 304: ids 9579..9581
+    labeled 3
+  batch 302: ids 9573..9575
+    labeled 3
+  batch 308: ids 9591..9593
+    labeled 3
+  batch 298: ids 9561..9563
+    labeled 3
+    checkpoint @ 304/2811 batches; labeled≈828; ~0.7 q/s
+  batch 307: ids 9588..9590
+    labeled 3
+  batch 310: ids 9597..9599
+    labeled 3
+  batch 306: ids 9585..9587
+    labeled 3
+  batch 320: ids 9627..9629
+    labeled 3
+  batch 321: ids 9630..9632
+    labeled 3
+  batch 312: ids 9603..9605
+    labeled 3
+  batch 316: ids 9615..9617
+    labeled 3
+  batch 280: ids 9507..9509
+    labeled 3
+  batch 313: ids 9606..9608
+    labeled 3
+  batch 323: ids 9636..9638
+    labeled 3
+  batch 326: ids 9645..9647
+    labeled 3
+  batch 311: ids 9600..9602
+    labeled 3
+  batch 293: ids 9546..9548
+    labeled 3
+  batch 328: ids 9651..9653
+    labeled 3
+  batch 324: ids 9639..9641
+    labeled 3
+  batch 314: ids 9609..9611
+    labeled 3
+    checkpoint @ 320/2811 batches; labeled≈876; ~0.7 q/s
+  batch 317: ids 9618..9620
+    labeled 3
+  batch 325: ids 9642..9644
+    labeled 3
+  batch 315: ids 9612..9614
+    labeled 3
+  batch 319: ids 9624..9626
+    labeled 3
+  batch 330: ids 9657..9659
+    labeled 3
+  batch 332: ids 9663..9665
+    labeled 3
+  batch 322: ids 9633..9635
+    labeled 1
+  batch 300: ids 9567..9569
+    labeled 3
+  batch 338: ids 9681..9683
+    labeled 3
+  batch 334: ids 9669..9671
+    labeled 3
+  batch 327: ids 9648..9650
+    labeled 3
+  batch 337: ids 9678..9680
+    labeled 3
+  batch 335: ids 9672..9674
+    labeled 3
+  batch 329: ids 9654..9656
+    labeled 3
+  batch 331: ids 9660..9662
+    labeled 3
+  batch 318: ids 9621..9623
+    labeled 3
+    checkpoint @ 336/2811 batches; labeled≈922; ~0.7 q/s
+  batch 344: ids 9699..9701
+    labeled 3
+  batch 341: ids 9690..9692
+    labeled 3
+  batch 347: ids 9708..9710
+    labeled 3
+  batch 340: ids 9687..9689
+    labeled 3
+  batch 345: ids 9702..9704
+    labeled 3
+  batch 349: ids 9714..9716
+    labeled 3
+  batch 342: ids 9693..9695
+    labeled 3
+  batch 346: ids 9705..9707
+    labeled 3
+  batch 339: ids 9684..9686
+    labeled 3
+  batch 353: ids 9726..9728
+    labeled 3
+  batch 350: ids 9717..9719
+    labeled 3
+  batch 348: ids 9711..9713
+    labeled 1
+  batch 354: ids 9729..9731
+    labeled 2
+  batch 359: ids 9744..9746
+    labeled 3
+  batch 358: ids 9741..9743
+    labeled 3
+  batch 333: ids 9666..9668
+    labeled 3
+    checkpoint @ 352/2811 batches; labeled≈967; ~0.7 q/s
+  batch 356: ids 9735..9737
+    labeled 3
+  batch 360: ids 9747..9749
+    labeled 3
+  batch 336: ids 9675..9677
+    labeled 3
+  batch 343: ids 9696..9698
+    labeled 3
+  batch 357: ids 9738..9740
+    labeled 3
+  batch 369: ids 9774..9776
+    labeled 3
+  batch 355: ids 9732..9734
+    labeled 3
+  batch 361: ids 9750..9752
+    labeled 3
+  batch 374: ids 9789..9791
+    labeled 3
+  batch 373: ids 9786..9788
+    labeled 3
+  batch 364: ids 9759..9761
+    labeled 3
+  batch 371: ids 9780..9782
+    labeled 3
+  batch 375: ids 9792..9794
+    labeled 3
+  batch 370: ids 9777..9779
+    labeled 3
+  batch 376: ids 9795..9797
+    labeled 3
+  batch 366: ids 9765..9767
+    labeled 3
+    checkpoint @ 368/2811 batches; labeled≈1015; ~0.7 q/s
+  batch 367: ids 9768..9770
+    labeled 3
+  batch 368: ids 9771..9773
+    labeled 1
+  batch 384: ids 9819..9821
+    labeled 3
+  batch 386: ids 9825..9827
+    labeled 3
+  batch 383: ids 9816..9818
+    labeled 3
+  batch 362: ids 9753..9755
+    labeled 3
+  batch 363: ids 9756..9758
+    labeled 3
+  batch 377: ids 9798..9800
+    labeled 3
+  batch 378: ids 9801..9803
+    labeled 3
+  batch 379: ids 9804..9806
+    labeled 3
+  batch 380: ids 9807..9809
+    labeled 3
+  batch 381: ids 9810..9812
+    labeled 3
+  batch 385: ids 9822..9824
+    labeled 3
+  batch 365: ids 9762..9764
+    labeled 3
+  batch 352: ids 9723..9725
+    labeled 3
+  batch 351: ids 9720..9722
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 384/2811 batches; labeled≈1058; ~0.7 q/s
+  batch 388: ids 9831..9833
+    labeled 3
+  batch 389: ids 9834..9836
+    labeled 3
+  batch 390: ids 9837..9839
+    labeled 0
+  batch 392: ids 9843..9845
+    labeled 3
+  batch 396: ids 9855..9857
+    labeled 3
+  batch 394: ids 9849..9851
+    labeled 3
+  batch 393: ids 9846..9848
+    labeled 3
+  batch 382: ids 9813..9815
+    labeled 3
+  batch 398: ids 9861..9863
+    labeled 1
+  batch 399: ids 9864..9866
+    labeled 3
+  batch 372: ids 9783..9785
+    labeled 3
+  batch 401: ids 9870..9872
+    labeled 3
+  batch 402: ids 9873..9875
+    labeled 3
+  batch 404: ids 9879..9881
+    labeled 3
+  batch 410: ids 9897..9899
+    labeled 3
+  batch 406: ids 9885..9887
+    labeled 3
+    checkpoint @ 400/2811 batches; labeled≈1101; ~0.7 q/s
+  batch 391: ids 9840..9842
+    labeled 3
+  batch 409: ids 9894..9896
+    labeled 3
+  batch 408: ids 9891..9893
+    labeled 3
+  batch 400: ids 9867..9869
+    labeled 3
+  batch 413: ids 9906..9908
+    labeled 3
+  batch 411: ids 9900..9902
+    labeled 3
+  batch 412: ids 9903..9905
+    labeled 3
+  batch 417: ids 9918..9920
+    labeled 3
+  batch 419: ids 9924..9926
+    labeled 3
+  batch 418: ids 9921..9923
+    labeled 3
+  batch 387: ids 9828..9830
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 414: ids 9909..9911
+    labeled 3
+  batch 403: ids 9876..9878
+    labeled 3
+  batch 421: ids 9930..9932
+    labeled 3
+  batch 395: ids 9852..9854
+    labeled 3
+  batch 397: ids 9858..9860
+    labeled 3
+    checkpoint @ 416/2811 batches; labeled≈1146; ~0.7 q/s
+  batch 423: ids 9936..9938
+    labeled 1
+  batch 424: ids 9939..9941
+    labeled 3
+  batch 427: ids 9948..9950
+    labeled 3
+  batch 428: ids 9951..9953
+    labeled 3
+  batch 432: ids 9963..9965
+    labeled 3
+  batch 415: ids 9912..9914
+    labeled 3
+  batch 416: ids 9915..9917
+    labeled 3
+  batch 420: ids 9927..9929
+    labeled 3
+  batch 430: ids 9957..9959
+    labeled 3
+  batch 435: ids 9972..9974
+    labeled 3
+  batch 407: ids 9888..9890
+    labeled 3
+  batch 431: ids 9960..9962
+    labeled 2
+  batch 405: ids 9882..9884
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 436: ids 9975..9977
+    labeled 3
+  batch 429: ids 9954..9956
+    labeled 3
+  batch 434: ids 9969..9971
+    labeled 3
+    checkpoint @ 432/2811 batches; labeled≈1188; ~0.7 q/s
+  batch 438: ids 9981..9983
+    labeled 3
+  batch 437: ids 9978..9980
+    labeled 3
+  batch 439: ids 9984..9986
+    labeled 3
+  batch 447: ids 10008..10010
+    labeled 3
+  batch 426: ids 9945..9947
+    labeled 3
+  batch 451: ids 10020..10022
+    labeled 3
+  batch 440: ids 9987..9989
+    labeled 3
+  batch 443: ids 9996..9998
+    labeled 3
+  batch 441: ids 9990..9992
+    labeled 3
+  batch 444: ids 9999..10001
+    labeled 2
+  batch 452: ids 10023..10025
+    labeled 3
+  batch 453: ids 10026..10028
+    labeled 3
+  batch 450: ids 10017..10019
+    labeled 3
+  batch 446: ids 10005..10007
+    labeled 3
+  batch 455: ids 10032..10034
+    labeled 3
+  batch 448: ids 10011..10013
+    labeled 3
+    checkpoint @ 448/2811 batches; labeled≈1235; ~0.7 q/s
+  batch 454: ids 10029..10031
+    labeled 3
+  batch 433: ids 9966..9968
+    labeled 3
+  batch 422: ids 9933..9935
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 461: ids 10050..10052
+    labeled 3
+  batch 425: ids 9942..9944
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 464: ids 10059..10061
+    labeled 3
+  batch 457: ids 10038..10040
+    labeled 3
+  batch 465: ids 10062..10064
+    labeled 3
+  batch 460: ids 10047..10049
+    labeled 3
+  batch 459: ids 10044..10046
+    labeled 3
+  batch 445: ids 10002..10004
+    labeled 3
+  batch 471: ids 10080..10082
+    labeled 3
+  batch 463: ids 10056..10058
+    labeled 3
+  batch 449: ids 10014..10016
+    labeled 3
+  batch 466: ids 10065..10067
+    labeled 3
+  batch 458: ids 10041..10043
+    labeled 3
+    checkpoint @ 464/2811 batches; labeled≈1277; ~0.7 q/s
+  batch 469: ids 10074..10076
+    labeled 2
+  batch 470: ids 10077..10079
+    labeled 3
+  batch 473: ids 10086..10088
+    labeled 3
+  batch 456: ids 10035..10037
+    labeled 2
+  batch 480: ids 10107..10109
+    labeled 3
+  batch 442: ids 9993..9995
+    labeled 0
+  batch 478: ids 10101..10103
+    labeled 3
+  batch 477: ids 10098..10100
+    labeled 3
+  batch 476: ids 10095..10097
+    labeled 3
+  batch 462: ids 10053..10055
+    labeled 3
+  batch 485: ids 10122..10124
+    labeled 3
+  batch 488: ids 10131..10133
+    labeled 3
+  batch 483: ids 10116..10118
+    labeled 3
+  batch 482: ids 10113..10115
+    labeled 3
+  batch 472: ids 10083..10085
+    labeled 3
+  batch 481: ids 10110..10112
+    labeled 3
+    checkpoint @ 480/2811 batches; labeled≈1320; ~0.7 q/s
+  batch 484: ids 10119..10121
+    labeled 0
+  batch 487: ids 10128..10130
+    labeled 3
+  batch 474: ids 10089..10091
+    labeled 3
+  batch 486: ids 10125..10127
+    labeled 3
+  batch 475: ids 10092..10094
+    labeled 3
+  batch 479: ids 10104..10106
+    labeled 3
+  batch 495: ids 10152..10154
+    labeled 3
+  batch 494: ids 10149..10151
+    labeled 1
+  batch 467: ids 10068..10070
+    labeled 3
+  batch 499: ids 10164..10166
+    labeled 3
+  batch 497: ids 10158..10160
+    labeled 3
+  batch 468: ids 10071..10073
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 491: ids 10140..10142
+    labeled 3
+  batch 502: ids 10173..10175
+    labeled 3
+  batch 503: ids 10176..10178
+    labeled 3
+  batch 501: ids 10170..10172
+    labeled 3
+    checkpoint @ 496/2811 batches; labeled≈1360; ~0.7 q/s
+  batch 505: ids 10182..10184
+    labeled 3
+  batch 492: ids 10143..10145
+    labeled 3
+  batch 507: ids 10188..10190
+    labeled 3
+  batch 508: ids 10191..10193
+    labeled 3
+  batch 512: ids 10203..10205
+    labeled 3
+  batch 496: ids 10155..10157
+    labeled 3
+  batch 498: ids 10161..10163
+    labeled 1
+  batch 511: ids 10200..10202
+    labeled 3
+  batch 516: ids 10215..10217
+    labeled 3
+  batch 510: ids 10197..10199
+    labeled 3
+  batch 500: ids 10167..10169
+    labeled 3
+  batch 490: ids 10137..10139
+    labeled 3
+  batch 513: ids 10206..10208
+    labeled 3
+  batch 493: ids 10146..10148
+    labeled 3
+  batch 489: ids 10134..10136
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 515: ids 10212..10214
+    labeled 3
+    checkpoint @ 512/2811 batches; labeled≈1403; ~0.7 q/s
+  batch 522: ids 10233..10235
+    labeled 3
+  batch 504: ids 10179..10181
+    labeled 2
+  batch 518: ids 10221..10223
+    labeled 3
+  batch 527: ids 10248..10250
+    labeled 3
+  batch 506: ids 10185..10187
+    labeled 3
+  batch 530: ids 10257..10259
+    labeled 3
+  batch 509: ids 10194..10196
+    labeled 3
+  batch 517: ids 10218..10220
+    labeled 2
+  batch 521: ids 10230..10232
+    labeled 3
+  batch 528: ids 10251..10253
+    labeled 3
+  batch 523: ids 10236..10238
+    labeled 3
+  batch 524: ids 10239..10241
+    labeled 3
+  batch 537: ids 10278..10280
+    labeled 3
+  batch 538: ids 10281..10283
+    labeled 3
+  batch 525: ids 10242..10244
+    labeled 2
+  batch 526: ids 10245..10247
+    labeled 3
+    checkpoint @ 528/2811 batches; labeled≈1448; ~0.7 q/s
+  batch 514: ids 10209..10211
+    labeled 3
+  batch 539: ids 10284..10286
+    labeled 3
+  batch 532: ids 10263..10265
+    labeled 3
+  batch 533: ids 10266..10268
+    labeled 3
+  batch 535: ids 10272..10274
+    labeled 3
+  batch 541: ids 10290..10292
+    labeled 3
+  batch 544: ids 10299..10301
+    labeled 3
+  batch 520: ids 10227..10229
+    labeled 3
+  batch 549: ids 10314..10316
+    labeled 3
+  batch 540: ids 10287..10289
+    labeled 3
+  batch 548: ids 10311..10313
+    labeled 3
+  batch 550: ids 10317..10319
+    labeled 3
+  batch 545: ids 10302..10304
+    labeled 3
+  batch 542: ids 10293..10295
+    labeled 3
+  batch 543: ids 10296..10298
+    labeled 0
+  batch 551: ids 10320..10322
+    labeled 3
+    checkpoint @ 544/2811 batches; labeled≈1493; ~0.7 q/s
+  batch 529: ids 10254..10256
+    labeled 3
+  batch 552: ids 10323..10325
+    labeled 3
+  batch 546: ids 10305..10307
+    labeled 3
+  batch 553: ids 10326..10328
+    labeled 3
+  batch 534: ids 10269..10271
+    labeled 3
+  batch 547: ids 10308..10310
+    labeled 3
+  batch 531: ids 10260..10262
+    labeled 3
+  batch 560: ids 10347..10349
+    labeled 3
+  batch 555: ids 10332..10334
+    labeled 3
+  batch 557: ids 10338..10340
+    labeled 3
+  batch 536: ids 10275..10277
+    labeled 2
+  batch 559: ids 10344..10346
+    labeled 3
+  batch 554: ids 10329..10331
+    labeled 3
+  batch 563: ids 10356..10358
+    labeled 3
+  batch 519: ids 10224..10226
+    labeled 3
+  batch 556: ids 10335..10337
+    labeled 3
+    checkpoint @ 560/2811 batches; labeled≈1540; ~0.7 q/s
+  batch 562: ids 10353..10355
+    labeled 3
+  batch 561: ids 10350..10352
+    labeled 3
+  batch 568: ids 10371..10373
+    labeled 3
+  batch 564: ids 10359..10361
+    labeled 3
+  batch 565: ids 10362..10364
+    labeled 3
+  batch 571: ids 10380..10382
+    labeled 3
+  batch 570: ids 10377..10379
+    labeled 3
+  batch 566: ids 10365..10367
+    labeled 2
+  batch 567: ids 10368..10370
+    labeled 3
+  batch 569: ids 10374..10376
+    labeled 3
+  batch 576: ids 10395..10397
+    labeled 3
+  batch 572: ids 10383..10385
+    labeled 3
+  batch 573: ids 10386..10388
+    labeled 3
+  batch 575: ids 10392..10394
+    labeled 3
+  batch 588: ids 10431..10433
+    labeled 3
+  batch 578: ids 10401..10403
+    labeled 3
+    checkpoint @ 576/2811 batches; labeled≈1587; ~0.7 q/s
+  batch 558: ids 10341..10343
+    labeled 3
+  batch 579: ids 10404..10406
+    labeled 3
+  batch 591: ids 10440..10442
+    labeled 3
+  batch 593: ids 10446..10448
+    labeled 3
+  batch 585: ids 10422..10424
+    labeled 3
+  batch 586: ids 10425..10427
+    labeled 3
+  batch 574: ids 10389..10391
+    labeled 3
+  batch 595: ids 10452..10454
+    labeled 3
+  batch 590: ids 10437..10439
+    labeled 3
+  batch 580: ids 10407..10409
+    labeled 3
+  batch 594: ids 10449..10451
+    labeled 3
+  batch 592: ids 10443..10445
+    labeled 3
+  batch 600: ids 10467..10469
+    labeled 3
+  batch 601: ids 10470..10472
+    labeled 3
+  batch 587: ids 10428..10430
+    labeled 3
+  batch 596: ids 10455..10457
+    labeled 1
+    checkpoint @ 592/2811 batches; labeled≈1633; ~0.7 q/s
+  batch 598: ids 10461..10463
+    labeled 3
+  batch 599: ids 10464..10466
+    labeled 2
+  batch 589: ids 10434..10436
+    labeled 3
+  batch 610: ids 10497..10499
+    labeled 3
+  batch 605: ids 10482..10484
+    labeled 3
+  batch 609: ids 10494..10496
+    labeled 3
+  batch 603: ids 10476..10478
+    labeled 3
+  batch 606: ids 10485..10487
+    labeled 3
+  batch 611: ids 10500..10502
+    labeled 3
+  batch 577: ids 10398..10400
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 582: ids 10413..10415
+    labeled 3
+  batch 608: ids 10491..10493
+    labeled 1
+  batch 597: ids 10458..10460
+    labeled 3
+  batch 581: ids 10410..10412
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 613: ids 10506..10508
+    labeled 3
+  batch 583: ids 10416..10418
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 608/2811 batches; labeled≈1669; ~0.7 q/s
+  batch 617: ids 10518..10520
+    labeled 3
+  batch 584: ids 10419..10421
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 612: ids 10503..10505
+    labeled 3
+  batch 604: ids 10479..10481
+    labeled 3
+  batch 602: ids 10473..10475
+    labeled 3
+  batch 623: ids 10536..10538
+    labeled 3
+  batch 615: ids 10512..10514
+    labeled 3
+  batch 619: ids 10524..10526
+    labeled 3
+  batch 616: ids 10515..10517
+    labeled 3
+  batch 622: ids 10533..10535
+    labeled 3
+  batch 628: ids 10551..10553
+    labeled 3
+  batch 618: ids 10521..10523
+    labeled 3
+  batch 607: ids 10488..10490
+    labeled 2
+  batch 621: ids 10530..10532
+    labeled 3
+  batch 626: ids 10545..10547
+    labeled 3
+  batch 624: ids 10539..10541
+    labeled 3
+    checkpoint @ 624/2811 batches; labeled≈1713; ~0.7 q/s
+  batch 625: ids 10542..10544
+    labeled 3
+  batch 629: ids 10554..10556
+    labeled 3
+  batch 630: ids 10557..10559
+    labeled 3
+  batch 614: ids 10509..10511
+    labeled 3
+  batch 631: ids 10560..10562
+    labeled 3
+  batch 632: ids 10563..10565
+    labeled 1
+  batch 636: ids 10575..10577
+    labeled 3
+  batch 640: ids 10587..10589
+    labeled 3
+  batch 634: ids 10569..10571
+    labeled 3
+  batch 635: ids 10572..10574
+    labeled 3
+  batch 637: ids 10578..10580
+    labeled 3
+  batch 638: ids 10581..10583
+    labeled 3
+  batch 620: ids 10527..10529
+    labeled 3
+  batch 648: ids 10611..10613
+    labeled 3
+  batch 644: ids 10599..10601
+    labeled 3
+  batch 642: ids 10593..10595
+    labeled 3
+    checkpoint @ 640/2811 batches; labeled≈1759; ~0.7 q/s
+  batch 646: ids 10605..10607
+    labeled 3
+  batch 641: ids 10590..10592
+    labeled 2
+  batch 627: ids 10548..10550
+    labeled 3
+  batch 645: ids 10602..10604
+    labeled 3
+  batch 649: ids 10614..10616
+    labeled 3
+  batch 655: ids 10632..10634
+    labeled 3
+  batch 650: ids 10617..10619
+    labeled 3
+  batch 651: ids 10620..10622
+    labeled 3
+  batch 652: ids 10623..10625
+    labeled 3
+  batch 659: ids 10644..10646
+    labeled 3
+  batch 657: ids 10638..10640
+    labeled 3
+  batch 633: ids 10566..10568
+    labeled 3
+  batch 658: ids 10641..10643
+    labeled 3
+  batch 639: ids 10584..10586
+    labeled 3
+  batch 661: ids 10650..10652
+    labeled 3
+  batch 653: ids 10626..10628
+    labeled 3
+    checkpoint @ 656/2811 batches; labeled≈1806; ~0.7 q/s
+  batch 654: ids 10629..10631
+    labeled 0
+  batch 656: ids 10635..10637
+    labeled 3
+  batch 666: ids 10665..10667
+    labeled 3
+  batch 665: ids 10662..10664
+    labeled 3
+  batch 660: ids 10647..10649
+    labeled 3
+  batch 664: ids 10659..10661
+    labeled 3
+  batch 662: ids 10653..10655
+    labeled 3
+  batch 668: ids 10671..10673
+    labeled 3
+  batch 663: ids 10656..10658
+    labeled 3
+  batch 667: ids 10668..10670
+    labeled 3
+  batch 647: ids 10608..10610
+    labeled 3
+  batch 669: ids 10674..10676
+    labeled 3
+  batch 671: ids 10680..10682
+    labeled 3
+  batch 674: ids 10689..10691
+    labeled 3
+  batch 678: ids 10701..10703
+    labeled 3
+  batch 673: ids 10686..10688
+    labeled 3
+    checkpoint @ 672/2811 batches; labeled≈1851; ~0.7 q/s
+  batch 681: ids 10710..10712
+    labeled 3
+  batch 675: ids 10692..10694
+    labeled 3
+  batch 684: ids 10719..10721
+    labeled 3
+  batch 676: ids 10695..10697
+    labeled 3
+  batch 677: ids 10698..10700
+    labeled 3
+  batch 679: ids 10704..10706
+    labeled 3
+  batch 643: ids 10596..10598
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 670: ids 10677..10679
+    labeled 3
+  batch 690: ids 10737..10739
+    labeled 3
+  batch 686: ids 10725..10727
+    labeled 3
+  batch 687: ids 10728..10730
+    labeled 3
+  batch 688: ids 10731..10733
+    labeled 3
+  batch 672: ids 10683..10685
+    labeled 3
+  batch 695: ids 10752..10754
+    labeled 3
+  batch 693: ids 10746..10748
+    labeled 3
+  batch 689: ids 10734..10736
+    labeled 3
+    checkpoint @ 688/2811 batches; labeled≈1896; ~0.7 q/s
+  batch 696: ids 10755..10757
+    labeled 3
+  batch 691: ids 10740..10742
+    labeled 3
+  batch 701: ids 10770..10772
+    labeled 3
+  batch 700: ids 10767..10769
+    labeled 3
+  batch 697: ids 10758..10760
+    labeled 3
+  batch 703: ids 10776..10778
+    labeled 3
+  batch 698: ids 10761..10763
+    labeled 3
+  batch 699: ids 10764..10766
+    labeled 3
+  batch 705: ids 10782..10784
+    labeled 3
+  batch 708: ids 10791..10793
+    labeled 3
+  batch 702: ids 10773..10775
+    labeled 3
+  batch 704: ids 10779..10781
+    labeled 3
+  batch 706: ids 10785..10787
+    labeled 3
+  batch 694: ids 10749..10751
+    labeled 3
+  batch 680: ids 10707..10709
+    labeled 3
+  batch 682: ids 10713..10715
+    labeled 3
+    checkpoint @ 704/2811 batches; labeled≈1944; ~0.7 q/s
+  batch 709: ids 10794..10796
+    labeled 3
+  batch 713: ids 10806..10808
+    labeled 3
+  batch 710: ids 10797..10799
+    labeled 2
+  batch 712: ids 10803..10805
+    labeled 2
+  batch 683: ids 10716..10718
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 685: ids 10722..10724
+    labeled 3
+  batch 714: ids 10809..10811
+    labeled 3
+  batch 715: ids 10812..10814
+    labeled 3
+  batch 692: ids 10743..10745
+    labeled 3
+  batch 719: ids 10824..10826
+    labeled 3
+  batch 720: ids 10827..10829
+    labeled 3
+  batch 722: ids 10833..10835
+    labeled 3
+  batch 723: ids 10836..10838
+    labeled 3
+  batch 724: ids 10839..10841
+    labeled 0
+  batch 711: ids 10800..10802
+    labeled 2
+  batch 728: ids 10851..10853
+    labeled 3
+    checkpoint @ 720/2811 batches; labeled≈1983; ~0.7 q/s
+  batch 716: ids 10815..10817
+    labeled 2
+  batch 717: ids 10818..10820
+    labeled 3
+  batch 718: ids 10821..10823
+    labeled 3
+  batch 730: ids 10857..10859
+    labeled 3
+  batch 707: ids 10788..10790
+    labeled 3
+  batch 725: ids 10842..10844
+    labeled 3
+  batch 736: ids 10875..10877
+    labeled 3
+  batch 731: ids 10860..10862
+    labeled 3
+  batch 732: ids 10863..10865
+    labeled 3
+  batch 721: ids 10830..10832
+    labeled 3
+  batch 734: ids 10869..10871
+    labeled 3
+  batch 733: ids 10866..10868
+    labeled 2
+  batch 727: ids 10848..10850
+    labeled 3
+  batch 726: ids 10845..10847
+    labeled 3
+  batch 738: ids 10881..10883
+    labeled 3
+  batch 744: ids 10899..10901
+    labeled 3
+    checkpoint @ 736/2811 batches; labeled≈2029; ~0.7 q/s
+  batch 740: ids 10887..10889
+    labeled 3
+  batch 741: ids 10890..10892
+    labeled 3
+  batch 742: ids 10893..10895
+    labeled 3
+  batch 747: ids 10908..10910
+    labeled 3
+  batch 752: ids 10923..10925
+    labeled 3
+  batch 735: ids 10872..10874
+    labeled 3
+  batch 746: ids 10905..10907
+    labeled 3
+  batch 737: ids 10878..10880
+    labeled 3
+  batch 751: ids 10920..10922
+    labeled 3
+  batch 729: ids 10854..10856
+    labeled 3
+  batch 758: ids 10941..10943
+    labeled 3
+  batch 754: ids 10929..10931
+    labeled 3
+  batch 756: ids 10935..10937
+    labeled 3
+  batch 757: ids 10938..10940
+    labeled 3
+  batch 743: ids 10896..10898
+    labeled 0
+  batch 745: ids 10902..10904
+    labeled 3
+    checkpoint @ 752/2811 batches; labeled≈2074; ~0.7 q/s
+  batch 760: ids 10947..10949
+    labeled 3
+  batch 761: ids 10950..10952
+    labeled 2
+  batch 739: ids 10884..10886
+    labeled 3
+  batch 762: ids 10953..10955
+    labeled 3
+  batch 763: ids 10956..10958
+    labeled 3
+  batch 753: ids 10926..10928
+    labeled 3
+  batch 768: ids 10971..10973
+    labeled 3
+  batch 764: ids 10959..10961
+    labeled 3
+  batch 755: ids 10932..10934
+    labeled 3
+  batch 765: ids 10962..10964
+    labeled 3
+  batch 748: ids 10911..10913
+    labeled 3
+  batch 766: ids 10965..10967
+    labeled 3
+  batch 767: ids 10968..10970
+    labeled 3
+  batch 771: ids 10980..10982
+    labeled 3
+  batch 769: ids 10974..10976
+    labeled 3
+  batch 770: ids 10977..10979
+    labeled 3
+    checkpoint @ 768/2811 batches; labeled≈2121; ~0.7 q/s
+  batch 750: ids 10917..10919
+    labeled 3
+  batch 749: ids 10914..10916
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 772: ids 10983..10985
+    labeled 3
+  batch 759: ids 10944..10946
+    labeled 3
+  batch 776: ids 10995..10997
+    labeled 3
+  batch 775: ids 10992..10994
+    labeled 3
+  batch 779: ids 11004..11006
+    labeled 3
+  batch 777: ids 10998..11000
+    labeled 3
+  batch 778: ids 11001..11003
+    labeled 3
+  batch 780: ids 11007..11009
+    labeled 1
+  batch 781: ids 11010..11012
+    labeled 3
+  batch 783: ids 11016..11018
+    labeled 3
+  batch 785: ids 11022..11024
+    labeled 3
+  batch 787: ids 11028..11030
+    labeled 3
+  batch 773: ids 10986..10988
+    labeled 3
+  batch 788: ids 11031..11033
+    labeled 3
+    checkpoint @ 784/2811 batches; labeled≈2164; ~0.7 q/s
+  batch 794: ids 11049..11051
+    labeled 3
+  batch 792: ids 11043..11045
+    labeled 3
+  batch 793: ids 11046..11048
+    labeled 3
+  batch 795: ids 11052..11054
+    labeled 3
+  batch 790: ids 11037..11039
+    labeled 3
+  batch 791: ids 11040..11042
+    labeled 3
+  batch 784: ids 11019..11021
+    labeled 3
+  batch 782: ids 11013..11015
+    labeled 3
+  batch 804: ids 11079..11081
+    labeled 3
+  batch 802: ids 11073..11075
+    labeled 3
+  batch 797: ids 11058..11060
+    labeled 1
+  batch 800: ids 11067..11069
+    labeled 3
+  batch 807: ids 11088..11090
+    labeled 3
+  batch 786: ids 11025..11027
+    labeled 3
+  batch 801: ids 11070..11072
+    labeled 3
+  batch 774: ids 10989..10991
+    labeled 3
+    checkpoint @ 800/2811 batches; labeled≈2210; ~0.7 q/s
+  batch 805: ids 11082..11084
+    labeled 3
+  batch 806: ids 11085..11087
+    labeled 3
+  batch 789: ids 11034..11036
+    labeled 3
+  batch 808: ids 11091..11093
+    labeled 3
+  batch 811: ids 11100..11102
+    labeled 3
+  batch 810: ids 11097..11099
+    labeled 3
+  batch 814: ids 11109..11111
+    labeled 1
+  batch 813: ids 11106..11108
+    labeled 3
+  batch 798: ids 11061..11063
+    labeled 1
+  batch 818: ids 11121..11123
+    labeled 3
+  batch 816: ids 11115..11117
+    labeled 1
+  batch 817: ids 11118..11120
+    labeled 3
+  batch 819: ids 11124..11126
+    labeled 3
+  batch 820: ids 11127..11129
+    labeled 3
+  batch 821: ids 11130..11132
+    labeled 3
+  batch 822: ids 11133..11135
+    labeled 3
+    checkpoint @ 816/2811 batches; labeled≈2252; ~0.7 q/s
+  batch 796: ids 11055..11057
+    labeled 0
+  batch 824: ids 11139..11141
+    labeled 3
+  batch 825: ids 11142..11144
+    labeled 3
+  batch 823: ids 11136..11138
+    labeled 3
+  batch 826: ids 11145..11147
+    labeled 3
+  batch 827: ids 11148..11150
+    labeled 3
+  batch 828: ids 11151..11153
+    labeled 3
+  batch 799: ids 11064..11066
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 803: ids 11076..11078
+    labeled 3
+  batch 831: ids 11160..11162
+    labeled 1
+  batch 834: ids 11169..11171
+    labeled 3
+  batch 833: ids 11166..11168
+    labeled 3
+  batch 838: ids 11181..11183
+    labeled 3
+  batch 835: ids 11172..11174
+    labeled 3
+  batch 809: ids 11094..11096
+    labeled 3
+  batch 837: ids 11178..11180
+    labeled 3
+    checkpoint @ 832/2811 batches; labeled≈2292; ~0.7 q/s
+  batch 812: ids 11103..11105
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 839: ids 11184..11186
+    labeled 3
+  batch 841: ids 11190..11192
+    labeled 3
+  batch 842: ids 11193..11195
+    labeled 3
+  batch 815: ids 11112..11114
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 846: ids 11205..11207
+    labeled 3
+  batch 851: ids 11220..11222
+    labeled 3
+  batch 845: ids 11202..11204
+    labeled 2
+  batch 850: ids 11217..11219
+    labeled 3
+  batch 848: ids 11211..11213
+    labeled 3
+  batch 854: ids 11229..11231
+    labeled 3
+  batch 849: ids 11214..11216
+    labeled 3
+  batch 840: ids 11187..11189
+    labeled 3
+  batch 829: ids 11154..11156
+    labeled 0
+  batch 856: ids 11235..11237
+    labeled 3
+  batch 832: ids 11163..11165
+    labeled 3
+    checkpoint @ 848/2811 batches; labeled≈2330; ~0.7 q/s
+  batch 857: ids 11238..11240
+    labeled 3
+  batch 830: ids 11157..11159
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 860: ids 11247..11249
+    labeled 3
+  batch 861: ids 11250..11252
+    labeled 3
+  batch 836: ids 11175..11177
+    labeled 3
+  batch 859: ids 11244..11246
+    labeled 3
+  batch 852: ids 11223..11225
+    labeled 3
+  batch 862: ids 11253..11255
+    labeled 3
+  batch 855: ids 11232..11234
+    labeled 3
+  batch 868: ids 11271..11273
+    labeled 3
+  batch 843: ids 11196..11198
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 844: ids 11199..11201
+    labeled 2
+  batch 847: ids 11208..11210
+    labeled 3
+  batch 869: ids 11274..11276
+    labeled 3
+  batch 853: ids 11226..11228
+    labeled 3
+  batch 875: ids 11292..11294
+    labeled 3
+    checkpoint @ 864/2811 batches; labeled≈2371; ~0.7 q/s
+  batch 872: ids 11283..11285
+    labeled 3
+  batch 871: ids 11280..11282
+    labeled 3
+  batch 874: ids 11289..11291
+    labeled 3
+  batch 864: ids 11259..11261
+    labeled 3
+  batch 865: ids 11262..11264
+    labeled 3
+  batch 866: ids 11265..11267
+    labeled 3
+  batch 873: ids 11286..11288
+    labeled 3
+  batch 876: ids 11295..11297
+    labeled 3
+  batch 877: ids 11298..11300
+    labeled 3
+  batch 878: ids 11301..11303
+    labeled 3
+  batch 870: ids 11277..11279
+    labeled 3
+  batch 858: ids 11241..11243
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 885: ids 11322..11324
+    labeled 3
+  batch 879: ids 11304..11306
+    labeled 3
+  batch 882: ids 11313..11315
+    labeled 3
+  batch 881: ids 11310..11312
+    labeled 3
+    checkpoint @ 880/2811 batches; labeled≈2416; ~0.7 q/s
+  batch 880: ids 11307..11309
+    labeled 3
+  batch 887: ids 11328..11330
+    labeled 3
+  batch 883: ids 11316..11318
+    labeled 3
+  batch 884: ids 11319..11321
+    labeled 3
+  batch 886: ids 11325..11327
+    labeled 3
+  batch 900: ids 11367..11369
+    labeled 3
+  batch 863: ids 11256..11258
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 889: ids 11334..11336
+    labeled 3
+  batch 888: ids 11331..11333
+    labeled 3
+  batch 867: ids 11268..11270
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 890: ids 11337..11339
+    labeled 3
+  batch 897: ids 11358..11360
+    labeled 3
+  batch 896: ids 11355..11357
+    labeled 3
+  batch 893: ids 11346..11348
+    labeled 3
+  batch 894: ids 11349..11351
+    labeled 3
+  batch 895: ids 11352..11354
+    labeled 3
+    checkpoint @ 896/2811 batches; labeled≈2458; ~0.7 q/s
+  batch 898: ids 11361..11363
+    labeled 3
+  batch 907: ids 11388..11390
+    labeled 3
+  batch 902: ids 11373..11375
+    labeled 3
+  batch 903: ids 11376..11378
+    labeled 3
+  batch 905: ids 11382..11384
+    labeled 2
+  batch 908: ids 11391..11393
+    labeled 3
+  batch 899: ids 11364..11366
+    labeled 3
+  batch 909: ids 11394..11396
+    labeled 3
+  batch 914: ids 11409..11411
+    labeled 3
+  batch 910: ids 11397..11399
+    labeled 3
+  batch 892: ids 11343..11345
+    labeled 3
+  batch 901: ids 11370..11372
+    labeled 3
+  batch 911: ids 11400..11402
+    labeled 3
+  batch 913: ids 11406..11408
+    labeled 0
+  batch 918: ids 11421..11423
+    labeled 3
+  batch 916: ids 11415..11417
+    labeled 3
+    checkpoint @ 912/2811 batches; labeled≈2502; ~0.7 q/s
+  batch 915: ids 11412..11414
+    labeled 3
+  batch 917: ids 11418..11420
+    labeled 3
+  batch 904: ids 11379..11381
+    labeled 3
+  batch 922: ids 11433..11435
+    labeled 3
+  batch 923: ids 11436..11438
+    labeled 3
+  batch 919: ids 11424..11426
+    labeled 3
+  batch 924: ids 11439..11441
+    labeled 3
+  batch 912: ids 11403..11405
+    labeled 3
+  batch 891: ids 11340..11342
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 933: ids 11466..11468
+    labeled 3
+  batch 931: ids 11460..11462
+    labeled 3
+  batch 927: ids 11448..11450
+    labeled 3
+  batch 930: ids 11457..11459
+    labeled 1
+  batch 906: ids 11385..11387
+    labeled 3
+  batch 932: ids 11463..11465
+    labeled 3
+  batch 935: ids 11472..11474
+    labeled 3
+    checkpoint @ 928/2811 batches; labeled≈2545; ~0.7 q/s
+  batch 937: ids 11478..11480
+    labeled 3
+  batch 934: ids 11469..11471
+    labeled 3
+  batch 921: ids 11430..11432
+    labeled 2
+  batch 942: ids 11493..11495
+    labeled 3
+  batch 943: ids 11496..11498
+    labeled 3
+  batch 938: ids 11481..11483
+    labeled 3
+  batch 936: ids 11475..11477
+    labeled 3
+  batch 940: ids 11487..11489
+    labeled 3
+  batch 939: ids 11484..11486
+    labeled 3
+  batch 946: ids 11505..11507
+    labeled 3
+  batch 951: ids 11520..11522
+    labeled 3
+  batch 928: ids 11451..11453
+    labeled 3
+  batch 950: ids 11517..11519
+    labeled 3
+  batch 941: ids 11490..11492
+    labeled 3
+  batch 925: ids 11442..11444
+    labeled 3
+  batch 945: ids 11502..11504
+    labeled 3
+    checkpoint @ 944/2811 batches; labeled≈2592; ~0.7 q/s
+  batch 947: ids 11508..11510
+    labeled 2
+  batch 948: ids 11511..11513
+    labeled 3
+  batch 949: ids 11514..11516
+    labeled 3
+  batch 952: ids 11523..11525
+    labeled 3
+  batch 958: ids 11541..11543
+    labeled 3
+  batch 953: ids 11526..11528
+    labeled 3
+  batch 920: ids 11427..11429
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 959: ids 11544..11546
+    labeled 3
+  batch 926: ids 11445..11447
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 956: ids 11535..11537
+    labeled 3
+  batch 955: ids 11532..11534
+    labeled 3
+  batch 967: ids 11568..11570
+    labeled 3
+  batch 929: ids 11454..11456
+    labeled 3
+  batch 966: ids 11565..11567
+    labeled 3
+  batch 944: ids 11499..11501
+    labeled 2
+  batch 961: ids 11550..11552
+    labeled 1
+    checkpoint @ 960/2811 batches; labeled≈2630; ~0.7 q/s
+  batch 963: ids 11556..11558
+    labeled 3
+  batch 964: ids 11559..11561
+    labeled 3
+  batch 965: ids 11562..11564
+    labeled 3
+  batch 970: ids 11577..11579
+    labeled 3
+  batch 971: ids 11580..11582
+    labeled 3
+  batch 973: ids 11586..11588
+    labeled 3
+  batch 969: ids 11574..11576
+    labeled 3
+  batch 972: ids 11583..11585
+    labeled 3
+  batch 957: ids 11538..11540
+    labeled 3
+  batch 974: ids 11589..11591
+    labeled 3
+  batch 977: ids 11598..11600
+    labeled 3
+  batch 979: ids 11604..11606
+    labeled 3
+  batch 978: ids 11601..11603
+    labeled 3
+  batch 983: ids 11616..11618
+    labeled 3
+  batch 976: ids 11595..11597
+    labeled 1
+  batch 962: ids 11553..11555
+    labeled 3
+    checkpoint @ 976/2811 batches; labeled≈2676; ~0.7 q/s
+  batch 982: ids 11613..11615
+    labeled 3
+  batch 988: ids 11631..11633
+    labeled 3
+  batch 985: ids 11622..11624
+    labeled 3
+  batch 992: ids 11643..11645
+    labeled 3
+  batch 987: ids 11628..11630
+    labeled 3
+  batch 990: ids 11637..11639
+    labeled 3
+  batch 954: ids 11529..11531
+    labeled 1
+  batch 986: ids 11625..11627
+    labeled 3
+  batch 975: ids 11592..11594
+    labeled 2
+  batch 995: ids 11652..11654
+    labeled 3
+  batch 960: ids 11547..11549
+    labeled 2
+  batch 991: ids 11640..11642
+    labeled 3
+  batch 980: ids 11607..11609
+    labeled 3
+  batch 997: ids 11658..11660
+    labeled 3
+  batch 989: ids 11634..11636
+    labeled 3
+  batch 1003: ids 11676..11678
+    labeled 3
+    checkpoint @ 992/2811 batches; labeled≈2720; ~0.7 q/s
+  batch 968: ids 11571..11573
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 996: ids 11655..11657
+    labeled 3
+  batch 999: ids 11664..11666
+    labeled 3
+  batch 994: ids 11649..11651
+    labeled 3
+  batch 1004: ids 11679..11681
+    labeled 3
+  batch 1008: ids 11691..11693
+    labeled 3
+  batch 984: ids 11619..11621
+    labeled 2
+  batch 1011: ids 11700..11702
+    labeled 3
+  batch 1001: ids 11670..11672
+    labeled 1
+  batch 1012: ids 11703..11705
+    labeled 3
+  batch 1002: ids 11673..11675
+    labeled 3
+  batch 1007: ids 11688..11690
+    labeled 3
+  batch 1010: ids 11697..11699
+    labeled 3
+  batch 1014: ids 11709..11711
+    labeled 3
+  batch 1013: ids 11706..11708
+    labeled 3
+  batch 1006: ids 11685..11687
+    labeled 3
+    checkpoint @ 1008/2811 batches; labeled≈2762; ~0.7 q/s
+  batch 981: ids 11610..11612
+    labeled 3
+  batch 1005: ids 11682..11684
+    labeled 3
+  batch 1009: ids 11694..11696
+    labeled 3
+  batch 1000: ids 11667..11669
+    labeled 3
+  batch 1016: ids 11715..11717
+    labeled 3
+  batch 1017: ids 11718..11720
+    labeled 3
+  batch 998: ids 11661..11663
+    labeled 3
+  batch 1020: ids 11727..11729
+    labeled 3
+  batch 1028: ids 11751..11753
+    labeled 3
+  batch 1027: ids 11748..11750
+    labeled 3
+  batch 1015: ids 11712..11714
+    labeled 3
+  batch 1029: ids 11754..11756
+    labeled 3
+  batch 1018: ids 11721..11723
+    labeled 3
+  batch 1026: ids 11745..11747
+    labeled 3
+  batch 1019: ids 11724..11726
+    labeled 3
+  batch 1034: ids 11769..11771
+    labeled 3
+    checkpoint @ 1024/2811 batches; labeled≈2810; ~0.7 q/s
+  batch 1022: ids 11733..11735
+    labeled 3
+  batch 1033: ids 11766..11768
+    labeled 3
+  batch 1035: ids 11772..11774
+    labeled 3
+  batch 1023: ids 11736..11738
+    labeled 3
+  batch 1031: ids 11760..11762
+    labeled 3
+  batch 1025: ids 11742..11744
+    labeled 0
+  batch 1037: ids 11778..11780
+    labeled 3
+  batch 1039: ids 11784..11786
+    labeled 3
+  batch 1036: ids 11775..11777
+    labeled 3
+  batch 1030: ids 11757..11759
+    labeled 3
+  batch 1044: ids 11799..11801
+    labeled 3
+  batch 993: ids 11646..11648
+    labeled 1
+  batch 1043: ids 11796..11798
+    labeled 3
+  batch 1042: ids 11793..11795
+    labeled 3
+  batch 1041: ids 11790..11792
+    labeled 3
+  batch 1032: ids 11763..11765
+    labeled 3
+    checkpoint @ 1040/2811 batches; labeled≈2853; ~0.7 q/s
+  batch 1038: ids 11781..11783
+    labeled 3
+  batch 1045: ids 11802..11804
+    labeled 3
+  batch 1040: ids 11787..11789
+    labeled 3
+  batch 1048: ids 11811..11813
+    labeled 3
+  batch 1047: ids 11808..11810
+    labeled 3
+  batch 1055: ids 11832..11834
+    labeled 3
+  batch 1056: ids 11835..11837
+    labeled 3
+  batch 1057: ids 11838..11840
+    labeled 3
+  batch 1046: ids 11805..11807
+    labeled 2
+  batch 1054: ids 11829..11831
+    labeled 3
+  batch 1024: ids 11739..11741
+    labeled 3
+  batch 1058: ids 11841..11843
+    labeled 3
+  batch 1049: ids 11814..11816
+    labeled 3
+  batch 1052: ids 11823..11825
+    labeled 3
+  batch 1050: ids 11817..11819
+    labeled 3
+  batch 1051: ids 11820..11822
+    labeled 3
+    checkpoint @ 1056/2811 batches; labeled≈2900; ~0.7 q/s
+  batch 1067: ids 11868..11870
+    labeled 3
+  batch 1061: ids 11850..11852
+    labeled 3
+  batch 1053: ids 11826..11828
+    labeled 3
+  batch 1063: ids 11856..11858
+    labeled 3
+  batch 1064: ids 11859..11861
+    labeled 3
+  batch 1068: ids 11871..11873
+    labeled 3
+  batch 1074: ids 11889..11891
+    labeled 3
+  batch 1060: ids 11847..11849
+    labeled 2
+  batch 1075: ids 11892..11894
+    labeled 3
+  batch 1073: ids 11886..11888
+    labeled 3
+  batch 1062: ids 11853..11855
+    labeled 3
+  batch 1065: ids 11862..11864
+    labeled 3
+  batch 1070: ids 11877..11879
+    labeled 3
+  batch 1069: ids 11874..11876
+    labeled 3
+  batch 1066: ids 11865..11867
+    labeled 1
+  batch 1021: ids 11730..11732
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 1072/2811 batches; labeled≈2942; ~0.7 q/s
+  batch 1059: ids 11844..11846
+    labeled 3
+  batch 1078: ids 11901..11903
+    labeled 3
+  batch 1083: ids 11916..11918
+    labeled 3
+  batch 1076: ids 11895..11897
+    labeled 3
+  batch 1072: ids 11883..11885
+    labeled 3
+  batch 1082: ids 11913..11915
+    labeled 3
+  batch 1077: ids 11898..11900
+    labeled 0
+  batch 1084: ids 11919..11921
+    labeled 3
+  batch 1085: ids 11922..11924
+    labeled 3
+  batch 1089: ids 11934..11936
+    labeled 3
+  batch 1087: ids 11928..11930
+    labeled 3
+  batch 1079: ids 11904..11906
+    labeled 3
+  batch 1080: ids 11907..11909
+    labeled 3
+  batch 1091: ids 11940..11942
+    labeled 3
+  batch 1081: ids 11910..11912
+    labeled 3
+  batch 1096: ids 11955..11957
+    labeled 3
+    checkpoint @ 1088/2811 batches; labeled≈2987; ~0.7 q/s
+  batch 1098: ids 11961..11963
+    labeled 3
+  batch 1099: ids 11964..11966
+    labeled 3
+  batch 1090: ids 11937..11939
+    labeled 3
+  batch 1088: ids 11931..11933
+    labeled 3
+  batch 1095: ids 11952..11954
+    labeled 3
+  batch 1071: ids 11880..11882
+    labeled 3
+  batch 1093: ids 11946..11948
+    labeled 3
+  batch 1094: ids 11949..11951
+    labeled 3
+  batch 1102: ids 11973..11975
+    labeled 3
+  batch 1104: ids 11979..11981
+    labeled 3
+  batch 1106: ids 11985..11987
+    labeled 3
+  batch 1108: ids 11991..11993
+    labeled 3
+  batch 1110: ids 11997..11999
+    labeled 3
+  batch 1097: ids 11958..11960
+    labeled 3
+  batch 1101: ids 11970..11972
+    labeled 3
+  batch 1100: ids 11967..11969
+    labeled 3
+    checkpoint @ 1104/2811 batches; labeled≈3035; ~0.7 q/s
+  batch 1109: ids 11994..11996
+    labeled 3
+  batch 1111: ids 12000..12002
+    labeled 3
+  batch 1107: ids 11988..11990
+    labeled 3
+  batch 1105: ids 11982..11984
+    labeled 3
+  batch 1113: ids 12006..12008
+    labeled 3
+  batch 1115: ids 12012..12014
+    labeled 3
+  batch 1114: ids 12009..12011
+    labeled 3
+  batch 1086: ids 11925..11927
+    labeled 1
+  batch 1123: ids 12036..12038
+    labeled 3
+  batch 1122: ids 12033..12035
+    labeled 3
+  batch 1092: ids 11943..11945
+    labeled 3
+  batch 1112: ids 12003..12005
+    labeled 3
+  batch 1121: ids 12030..12032
+    labeled 3
+  batch 1103: ids 11976..11978
+    labeled 3
+  batch 1125: ids 12042..12044
+    labeled 3
+  batch 1117: ids 12018..12020
+    labeled 3
+    checkpoint @ 1120/2811 batches; labeled≈3081; ~0.7 q/s
+  batch 1118: ids 12021..12023
+    labeled 3
+  batch 1127: ids 12048..12050
+    labeled 3
+  batch 1116: ids 12015..12017
+    labeled 3
+  batch 1126: ids 12045..12047
+    labeled 3
+  batch 1119: ids 12024..12026
+    labeled 3
+  batch 1129: ids 12054..12056
+    labeled 3
+  batch 1128: ids 12051..12053
+    labeled 3
+  batch 1130: ids 12057..12059
+    labeled 3
+  batch 1131: ids 12060..12062
+    labeled 3
+  batch 1137: ids 12078..12080
+    labeled 3
+  batch 1140: ids 12087..12089
+    labeled 3
+  batch 1132: ids 12063..12065
+    labeled 3
+  batch 1136: ids 12075..12077
+    labeled 3
+  batch 1134: ids 12069..12071
+    labeled 3
+  batch 1135: ids 12072..12074
+    labeled 3
+  batch 1120: ids 12027..12029
+    labeled 3
+    checkpoint @ 1136/2811 batches; labeled≈3129; ~0.7 q/s
+  batch 1145: ids 12102..12104
+    labeled 3
+  batch 1139: ids 12084..12086
+    labeled 3
+  batch 1146: ids 12105..12107
+    labeled 3
+  batch 1141: ids 12090..12092
+    labeled 3
+  batch 1143: ids 12096..12098
+    labeled 3
+  batch 1153: ids 12126..12128
+    labeled 3
+  batch 1124: ids 12039..12041
+    labeled 3
+  batch 1151: ids 12120..12122
+    labeled 3
+  batch 1144: ids 12099..12101
+    labeled 3
+  batch 1149: ids 12114..12116
+    labeled 3
+  batch 1147: ids 12108..12110
+    labeled 3
+  batch 1148: ids 12111..12113
+    labeled 3
+  batch 1157: ids 12138..12140
+    labeled 3
+  batch 1133: ids 12066..12068
+    labeled 3
+  batch 1142: ids 12093..12095
+    labeled 3
+  batch 1155: ids 12132..12134
+    labeled 3
+    checkpoint @ 1152/2811 batches; labeled≈3177; ~0.7 q/s
+  batch 1150: ids 12117..12119
+    labeled 2
+  batch 1152: ids 12123..12125
+    labeled 3
+  batch 1138: ids 12081..12083
+    labeled 3
+  batch 1156: ids 12135..12137
+    labeled 2
+  batch 1164: ids 12159..12161
+    labeled 3
+  batch 1162: ids 12153..12155
+    labeled 3
+  batch 1165: ids 12162..12164
+    labeled 3
+  batch 1161: ids 12150..12152
+    labeled 3
+  batch 1167: ids 12168..12170
+    labeled 3
+  batch 1171: ids 12180..12182
+    labeled 3
+  batch 1166: ids 12165..12167
+    labeled 3
+  batch 1176: ids 12195..12197
+    labeled 3
+  batch 1158: ids 12141..12143
+    labeled 3
+  batch 1170: ids 12177..12179
+    labeled 3
+  batch 1163: ids 12156..12158
+    labeled 3
+  batch 1175: ids 12192..12194
+    labeled 3
+    checkpoint @ 1168/2811 batches; labeled≈3223; ~0.7 q/s
+  batch 1173: ids 12186..12188
+    labeled 3
+  batch 1159: ids 12144..12146
+    labeled 3
+  batch 1174: ids 12189..12191
+    labeled 2
+  batch 1177: ids 12198..12200
+    labeled 3
+  batch 1180: ids 12207..12209
+    labeled 3
+  batch 1160: ids 12147..12149
+    labeled 2
+  batch 1185: ids 12222..12224
+    labeled 3
+  batch 1178: ids 12201..12203
+    labeled 3
+  batch 1184: ids 12219..12221
+    labeled 3
+  batch 1168: ids 12171..12173
+    labeled 3
+  batch 1186: ids 12225..12227
+    labeled 3
+  batch 1182: ids 12213..12215
+    labeled 2
+  batch 1154: ids 12129..12131
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1188: ids 12231..12233
+    labeled 2
+  batch 1192: ids 12243..12245
+    labeled 3
+  batch 1194: ids 12249..12251
+    labeled 3
+    checkpoint @ 1184/2811 batches; labeled≈3264; ~0.7 q/s
+  batch 1189: ids 12234..12236
+    labeled 3
+  batch 1179: ids 12204..12206
+    labeled 3
+  batch 1193: ids 12246..12248
+    labeled 3
+  batch 1202: ids 12273..12275
+    labeled 3
+  batch 1195: ids 12252..12254
+    labeled 3
+  batch 1201: ids 12270..12272
+    labeled 3
+  batch 1169: ids 12174..12176
+    labeled 3
+  batch 1183: ids 12216..12218
+    labeled 0
+  batch 1172: ids 12183..12185
+    labeled 3
+  batch 1197: ids 12258..12260
+    labeled 2
+  batch 1187: ids 12228..12230
+    labeled 3
+  batch 1204: ids 12279..12281
+    labeled 3
+  batch 1199: ids 12264..12266
+    labeled 3
+  batch 1190: ids 12237..12239
+    labeled 3
+  batch 1209: ids 12294..12296
+    labeled 3
+  batch 1206: ids 12285..12287
+    labeled 3
+    checkpoint @ 1200/2811 batches; labeled≈3308; ~0.7 q/s
+  batch 1191: ids 12240..12242
+    labeled 3
+  batch 1211: ids 12300..12302
+    labeled 3
+  batch 1205: ids 12282..12284
+    labeled 3
+  batch 1210: ids 12297..12299
+    labeled 3
+  batch 1215: ids 12312..12314
+    labeled 3
+  batch 1198: ids 12261..12263
+    labeled 3
+  batch 1207: ids 12288..12290
+    labeled 3
+  batch 1181: ids 12210..12212
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1213: ids 12306..12308
+    labeled 3
+  batch 1200: ids 12267..12269
+    labeled 3
+  batch 1214: ids 12309..12311
+    labeled 3
+  batch 1216: ids 12315..12317
+    labeled 2
+  batch 1203: ids 12276..12278
+    labeled 3
+  batch 1224: ids 12339..12341
+    labeled 3
+  batch 1220: ids 12327..12329
+    labeled 3
+  batch 1221: ids 12330..12332
+    labeled 2
+    checkpoint @ 1216/2811 batches; labeled≈3351; ~0.7 q/s
+  batch 1222: ids 12333..12335
+    labeled 3
+  batch 1223: ids 12336..12338
+    labeled 3
+  batch 1196: ids 12255..12257
+    labeled 3
+  batch 1208: ids 12291..12293
+    labeled 3
+  batch 1225: ids 12342..12344
+    labeled 3
+  batch 1226: ids 12345..12347
+    labeled 3
+  batch 1227: ids 12348..12350
+    labeled 3
+  batch 1239: ids 12384..12386
+    labeled 3
+  batch 1219: ids 12324..12326
+    labeled 3
+  batch 1231: ids 12360..12362
+    labeled 3
+  batch 1233: ids 12366..12368
+    labeled 3
+  batch 1234: ids 12369..12371
+    labeled 3
+  batch 1236: ids 12375..12377
+    labeled 3
+  batch 1243: ids 12396..12398
+    labeled 3
+  batch 1242: ids 12393..12395
+    labeled 3
+  batch 1244: ids 12399..12401
+    labeled 3
+    checkpoint @ 1232/2811 batches; labeled≈3399; ~0.7 q/s
+  batch 1237: ids 12378..12380
+    labeled 3
+  batch 1238: ids 12381..12383
+    labeled 3
+  batch 1212: ids 12303..12305
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1241: ids 12390..12392
+    labeled 3
+  batch 1249: ids 12414..12416
+    labeled 3
+  batch 1228: ids 12351..12353
+    labeled 3
+  batch 1229: ids 12354..12356
+    labeled 3
+  batch 1240: ids 12387..12389
+    labeled 3
+  batch 1217: ids 12318..12320
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1251: ids 12420..12422
+    labeled 3
+  batch 1218: ids 12321..12323
+    labeled 3
+  batch 1232: ids 12363..12365
+    labeled 3
+  batch 1245: ids 12402..12404
+    labeled 2
+  batch 1250: ids 12417..12419
+    labeled 3
+  batch 1235: ids 12372..12374
+    labeled 3
+  batch 1247: ids 12408..12410
+    labeled 3
+    checkpoint @ 1248/2811 batches; labeled≈3440; ~0.7 q/s
+  batch 1246: ids 12405..12407
+    labeled 3
+  batch 1262: ids 12453..12455
+    labeled 3
+  batch 1252: ids 12423..12425
+    labeled 3
+  batch 1248: ids 12411..12413
+    labeled 2
+  batch 1253: ids 12426..12428
+    labeled 1
+  batch 1255: ids 12432..12434
+    labeled 3
+  batch 1266: ids 12465..12467
+    labeled 3
+  batch 1230: ids 12357..12359
+    labeled 3
+  batch 1257: ids 12438..12440
+    labeled 3
+  batch 1267: ids 12468..12470
+    labeled 3
+  batch 1258: ids 12441..12443
+    labeled 3
+  batch 1263: ids 12456..12458
+    labeled 3
+  batch 1264: ids 12459..12461
+    labeled 3
+  batch 1268: ids 12471..12473
+    labeled 3
+  batch 1274: ids 12489..12491
+    labeled 3
+  batch 1271: ids 12480..12482
+    labeled 3
+    checkpoint @ 1264/2811 batches; labeled≈3485; ~0.7 q/s
+  batch 1276: ids 12495..12497
+    labeled 3
+  batch 1256: ids 12435..12437
+    labeled 3
+  batch 1254: ids 12429..12431
+    labeled 3
+  batch 1259: ids 12444..12446
+    labeled 3
+  batch 1270: ids 12477..12479
+    labeled 1
+  batch 1273: ids 12486..12488
+    labeled 3
+  batch 1260: ids 12447..12449
+    labeled 3
+  batch 1272: ids 12483..12485
+    labeled 3
+  batch 1275: ids 12492..12494
+    labeled 3
+  batch 1261: ids 12450..12452
+    labeled 3
+  batch 1277: ids 12498..12500
+    labeled 3
+  batch 1279: ids 12504..12506
+    labeled 3
+  batch 1285: ids 12522..12524
+    labeled 3
+  batch 1281: ids 12510..12512
+    labeled 3
+  batch 1280: ids 12507..12509
+    labeled 3
+  batch 1283: ids 12516..12518
+    labeled 0
+    checkpoint @ 1280/2811 batches; labeled≈3528; ~0.7 q/s
+  batch 1287: ids 12528..12530
+    labeled 3
+  batch 1291: ids 12540..12542
+    labeled 3
+  batch 1288: ids 12531..12533
+    labeled 3
+  batch 1292: ids 12543..12545
+    labeled 3
+  batch 1295: ids 12552..12554
+    labeled 3
+  batch 1297: ids 12558..12560
+    labeled 3
+  batch 1293: ids 12546..12548
+    labeled 3
+  batch 1282: ids 12513..12515
+    labeled 3
+  batch 1265: ids 12462..12464
+    labeled 0
+  batch 1296: ids 12555..12557
+    labeled 3
+  batch 1299: ids 12564..12566
+    labeled 3
+  batch 1298: ids 12561..12563
+    labeled 3
+  batch 1302: ids 12573..12575
+    labeled 3
+  batch 1269: ids 12474..12476
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1305: ids 12582..12584
+    labeled 3
+  batch 1289: ids 12534..12536
+    labeled 3
+    checkpoint @ 1296/2811 batches; labeled≈3570; ~0.7 q/s
+  batch 1300: ids 12567..12569
+    labeled 3
+  batch 1301: ids 12570..12572
+    labeled 3
+  batch 1304: ids 12579..12581
+    labeled 3
+  batch 1303: ids 12576..12578
+    labeled 0
+  batch 1310: ids 12597..12599
+    labeled 3
+  batch 1312: ids 12603..12605
+    labeled 3
+  batch 1311: ids 12600..12602
+    labeled 3
+  batch 1306: ids 12585..12587
+    labeled 1
+  batch 1278: ids 12501..12503
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1307: ids 12588..12590
+    labeled 3
+  batch 1315: ids 12612..12614
+    labeled 3
+  batch 1313: ids 12606..12608
+    labeled 3
+  batch 1317: ids 12618..12620
+    labeled 3
+  batch 1314: ids 12609..12611
+    labeled 3
+  batch 1284: ids 12519..12521
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1318: ids 12621..12623
+    labeled 3
+    checkpoint @ 1312/2811 batches; labeled≈3607; ~0.7 q/s
+  batch 1323: ids 12636..12638
+    labeled 3
+  batch 1322: ids 12633..12635
+    labeled 3
+  batch 1286: ids 12525..12527
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1290: ids 12537..12539
+    labeled 3
+  batch 1316: ids 12615..12617
+    labeled 3
+  batch 1308: ids 12591..12593
+    labeled 3
+  batch 1325: ids 12642..12644
+    labeled 3
+  batch 1294: ids 12549..12551
+    labeled 3
+  batch 1326: ids 12645..12647
+    labeled 3
+  batch 1334: ids 12669..12671
+    labeled 3
+  batch 1324: ids 12639..12641
+    labeled 3
+  batch 1329: ids 12654..12656
+    labeled 3
+  batch 1330: ids 12657..12659
+    labeled 3
+  batch 1309: ids 12594..12596
+    labeled 3
+  batch 1327: ids 12648..12650
+    labeled 3
+  batch 1328: ids 12651..12653
+    labeled 3
+    checkpoint @ 1328/2811 batches; labeled≈3652; ~0.7 q/s
+  batch 1321: ids 12630..12632
+    labeled 3
+  batch 1333: ids 12666..12668
+    labeled 3
+  batch 1331: ids 12660..12662
+    labeled 3
+  batch 1332: ids 12663..12665
+    labeled 3
+  batch 1320: ids 12627..12629
+    labeled 3
+  batch 1337: ids 12678..12680
+    labeled 3
+  batch 1343: ids 12696..12698
+    labeled 3
+  batch 1345: ids 12702..12704
+    labeled 3
+  batch 1338: ids 12681..12683
+    labeled 3
+  batch 1339: ids 12684..12686
+    labeled 3
+  batch 1340: ids 12687..12689
+    labeled 3
+  batch 1341: ids 12690..12692
+    labeled 3
+  batch 1346: ids 12705..12707
+    labeled 3
+  batch 1344: ids 12699..12701
+    labeled 0
+  batch 1347: ids 12708..12710
+    labeled 3
+  batch 1319: ids 12624..12626
+    labeled 3
+    checkpoint @ 1344/2811 batches; labeled≈3697; ~0.7 q/s
+  batch 1349: ids 12714..12716
+    labeled 3
+  batch 1335: ids 12672..12674
+    labeled 3
+  batch 1352: ids 12723..12725
+    labeled 3
+  batch 1358: ids 12741..12743
+    labeled 3
+  batch 1350: ids 12717..12719
+    labeled 3
+  batch 1342: ids 12693..12695
+    labeled 3
+  batch 1354: ids 12729..12731
+    labeled 3
+  batch 1351: ids 12720..12722
+    labeled 3
+  batch 1353: ids 12726..12728
+    labeled 3
+  batch 1362: ids 12753..12755
+    labeled 3
+  batch 1355: ids 12732..12734
+    labeled 1
+  batch 1356: ids 12735..12737
+    labeled 3
+  batch 1357: ids 12738..12740
+    labeled 3
+  batch 1363: ids 12756..12758
+    labeled 3
+  batch 1368: ids 12771..12773
+    labeled 3
+  batch 1365: ids 12762..12764
+    labeled 3
+    checkpoint @ 1360/2811 batches; labeled≈3743; ~0.7 q/s
+  batch 1360: ids 12747..12749
+    labeled 2
+  batch 1361: ids 12750..12752
+    labeled 3
+  batch 1364: ids 12759..12761
+    labeled 3
+  batch 1374: ids 12789..12791
+    labeled 3
+  batch 1367: ids 12768..12770
+    labeled 3
+  batch 1366: ids 12765..12767
+    labeled 3
+  batch 1336: ids 12675..12677
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1372: ids 12783..12785
+    labeled 3
+  batch 1371: ids 12780..12782
+    labeled 3
+  batch 1369: ids 12774..12776
+    labeled 3
+  batch 1370: ids 12777..12779
+    labeled 3
+  batch 1359: ids 12744..12746
+    labeled 3
+  batch 1381: ids 12810..12812
+    labeled 3
+  batch 1379: ids 12804..12806
+    labeled 3
+  batch 1375: ids 12792..12794
+    labeled 3
+  batch 1380: ids 12807..12809
+    labeled 3
+    checkpoint @ 1376/2811 batches; labeled≈3787; ~0.7 q/s
+  batch 1377: ids 12798..12800
+    labeled 3
+  batch 1386: ids 12825..12827
+    labeled 3
+  batch 1385: ids 12822..12824
+    labeled 3
+  batch 1378: ids 12801..12803
+    labeled 3
+  batch 1348: ids 12711..12713
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1389: ids 12834..12836
+    labeled 3
+  batch 1393: ids 12846..12848
+    labeled 3
+  batch 1373: ids 12786..12788
+    labeled 3
+  batch 1384: ids 12819..12821
+    labeled 3
+  batch 1387: ids 12828..12830
+    labeled 3
+  batch 1396: ids 12855..12857
+    labeled 3
+  batch 1388: ids 12831..12833
+    labeled 3
+  batch 1390: ids 12837..12839
+    labeled 3
+  batch 1398: ids 12861..12863
+    labeled 3
+  batch 1392: ids 12843..12845
+    labeled 3
+  batch 1395: ids 12852..12854
+    labeled 3
+    checkpoint @ 1392/2811 batches; labeled≈3832; ~0.7 q/s
+  batch 1401: ids 12870..12872
+    labeled 3
+  batch 1397: ids 12858..12860
+    labeled 3
+  batch 1405: ids 12882..12884
+    labeled 3
+  batch 1399: ids 12864..12866
+    labeled 3
+  batch 1400: ids 12867..12869
+    labeled 3
+  batch 1383: ids 12816..12818
+    labeled 1
+  batch 1404: ids 12879..12881
+    labeled 3
+  batch 1412: ids 12903..12905
+    labeled 3
+  batch 1413: ids 12906..12908
+    labeled 3
+  batch 1408: ids 12891..12893
+    labeled 3
+  batch 1402: ids 12873..12875
+    labeled 3
+  batch 1407: ids 12888..12890
+    labeled 3
+  batch 1391: ids 12840..12842
+    labeled 3
+  batch 1410: ids 12897..12899
+    labeled 3
+  batch 1394: ids 12849..12851
+    labeled 3
+  batch 1409: ids 12894..12896
+    labeled 3
+    checkpoint @ 1408/2811 batches; labeled≈3878; ~0.7 q/s
+  batch 1417: ids 12918..12920
+    labeled 3
+  batch 1415: ids 12912..12914
+    labeled 3
+  batch 1411: ids 12900..12902
+    labeled 3
+  batch 1376: ids 12795..12797
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1414: ids 12909..12911
+    labeled 2
+  batch 1382: ids 12813..12815
+    labeled 1
+  batch 1406: ids 12885..12887
+    labeled 3
+  batch 1418: ids 12921..12923
+    labeled 3
+  batch 1423: ids 12936..12938
+    labeled 3
+  batch 1424: ids 12939..12941
+    labeled 3
+  batch 1419: ids 12924..12926
+    labeled 3
+  batch 1426: ids 12945..12947
+    labeled 3
+  batch 1425: ids 12942..12944
+    labeled 3
+  batch 1431: ids 12960..12962
+    labeled 3
+  batch 1422: ids 12933..12935
+    labeled 3
+  batch 1429: ids 12954..12956
+    labeled 3
+    checkpoint @ 1424/2811 batches; labeled≈3920; ~0.7 q/s
+  batch 1432: ids 12963..12965
+    labeled 3
+  batch 1427: ids 12948..12950
+    labeled 2
+  batch 1428: ids 12951..12953
+    labeled 2
+  batch 1436: ids 12975..12977
+    labeled 3
+  batch 1430: ids 12957..12959
+    labeled 3
+  batch 1439: ids 12984..12986
+    labeled 3
+  batch 1433: ids 12966..12968
+    labeled 2
+  batch 1403: ids 12876..12878
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1420: ids 12927..12929
+    labeled 3
+  batch 1438: ids 12981..12983
+    labeled 3
+  batch 1421: ids 12930..12932
+    labeled 3
+  batch 1445: ids 13002..13004
+    labeled 3
+  batch 1441: ids 12990..12992
+    labeled 3
+  batch 1442: ids 12993..12995
+    labeled 3
+  batch 1443: ids 12996..12998
+    labeled 2
+  batch 1444: ids 12999..13001
+    labeled 3
+    checkpoint @ 1440/2811 batches; labeled≈3961; ~0.7 q/s
+  batch 1446: ids 13005..13007
+    labeled 3
+  batch 1447: ids 13008..13010
+    labeled 3
+  batch 1437: ids 12978..12980
+    labeled 3
+  batch 1434: ids 12969..12971
+    labeled 3
+  batch 1440: ids 12987..12989
+    labeled 3
+  batch 1449: ids 13014..13016
+    labeled 3
+  batch 1435: ids 12972..12974
+    labeled 3
+  batch 1416: ids 12915..12917
+    ERROR: Could not parse JSON: Unterminated string starting at: line 1 column 95 (char 94)
+  batch 1450: ids 13017..13019
+    labeled 3
+  batch 1452: ids 13023..13025
+    labeled 3
+  batch 1451: ids 13020..13022
+    labeled 2
+  batch 1457: ids 13038..13040
+    labeled 3
+  batch 1460: ids 13047..13049
+    labeled 3
+  batch 1461: ids 13050..13052
+    labeled 3
+  batch 1458: ids 13041..13043
+    labeled 3
+  batch 1448: ids 13011..13013
+    labeled 3
+    checkpoint @ 1456/2811 batches; labeled≈4005; ~0.7 q/s
+  batch 1462: ids 13053..13055
+    labeled 3
+  batch 1470: ids 13077..13079
+    labeled 3
+  batch 1467: ids 13068..13070
+    labeled 3
+  batch 1454: ids 13029..13031
+    labeled 3
+  batch 1456: ids 13035..13037
+    labeled 3
+  batch 1455: ids 13032..13034
+    labeled 3
+  batch 1466: ids 13065..13067
+    labeled 3
+  batch 1473: ids 13086..13088
+    labeled 3
+  batch 1459: ids 13044..13046
+    labeled 3
+  batch 1465: ids 13062..13064
+    labeled 3
+  batch 1468: ids 13071..13073
+    labeled 3
+  batch 1479: ids 13104..13106
+    labeled 3
+  batch 1478: ids 13101..13103
+    labeled 3
+  batch 1453: ids 13026..13028
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1471: ids 13080..13082
+    labeled 3
+  batch 1480: ids 13107..13109
+    labeled 3
+    checkpoint @ 1472/2811 batches; labeled≈4050; ~0.7 q/s
+  batch 1481: ids 13110..13112
+    labeled 3
+  batch 1474: ids 13089..13091
+    labeled 3
+  batch 1484: ids 13119..13121
+    labeled 3
+  batch 1464: ids 13059..13061
+    labeled 3
+  batch 1487: ids 13128..13130
+    labeled 3
+  batch 1475: ids 13092..13094
+    labeled 1
+  batch 1463: ids 13056..13058
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1476: ids 13095..13097
+    labeled 3
+  batch 1486: ids 13125..13127
+    labeled 3
+  batch 1494: ids 13149..13151
+    labeled 3
+  batch 1485: ids 13122..13124
+    labeled 0
+  batch 1469: ids 13074..13076
+    labeled 3
+  batch 1488: ids 13131..13133
+    labeled 3
+  batch 1492: ids 13143..13145
+    labeled 3
+  batch 1490: ids 13137..13139
+    labeled 2
+  batch 1472: ids 13083..13085
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 1488/2811 batches; labeled≈4086; ~0.7 q/s
+  batch 1482: ids 13113..13115
+    labeled 3
+  batch 1500: ids 13167..13169
+    labeled 3
+  batch 1493: ids 13146..13148
+    labeled 2
+  batch 1495: ids 13152..13154
+    labeled 3
+  batch 1497: ids 13158..13160
+    labeled 0
+  batch 1499: ids 13164..13166
+    labeled 3
+  batch 1501: ids 13170..13172
+    labeled 3
+  batch 1477: ids 13098..13100
+    labeled 3
+  batch 1496: ids 13155..13157
+    labeled 3
+  batch 1503: ids 13176..13178
+    labeled 3
+  batch 1504: ids 13179..13181
+    labeled 1
+  batch 1491: ids 13140..13142
+    labeled 3
+  batch 1506: ids 13185..13187
+    labeled 3
+  batch 1507: ids 13188..13190
+    labeled 3
+  batch 1483: ids 13116..13118
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1514: ids 13209..13211
+    labeled 3
+    checkpoint @ 1504/2811 batches; labeled≈4125; ~0.7 q/s
+  batch 1513: ids 13206..13208
+    labeled 3
+  batch 1518: ids 13221..13223
+    labeled 3
+  batch 1515: ids 13212..13214
+    labeled 3
+  batch 1489: ids 13134..13136
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1516: ids 13215..13217
+    labeled 3
+  batch 1517: ids 13218..13220
+    labeled 3
+  batch 1508: ids 13191..13193
+    labeled 3
+  batch 1519: ids 13224..13226
+    labeled 3
+  batch 1511: ids 13200..13202
+    labeled 3
+  batch 1520: ids 13227..13229
+    labeled 3
+  batch 1522: ids 13233..13235
+    labeled 3
+  batch 1498: ids 13161..13163
+    labeled 3
+  batch 1521: ids 13230..13232
+    labeled 3
+  batch 1524: ids 13239..13241
+    labeled 3
+  batch 1526: ids 13245..13247
+    labeled 3
+  batch 1502: ids 13173..13175
+    labeled 2
+    checkpoint @ 1520/2811 batches; labeled≈4169; ~0.7 q/s
+  batch 1525: ids 13242..13244
+    labeled 3
+  batch 1509: ids 13194..13196
+    labeled 3
+  batch 1523: ids 13236..13238
+    labeled 3
+  batch 1530: ids 13257..13259
+    labeled 3
+  batch 1533: ids 13266..13268
+    labeled 3
+  batch 1527: ids 13248..13250
+    labeled 3
+  batch 1528: ids 13251..13253
+    labeled 3
+  batch 1505: ids 13182..13184
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1531: ids 13260..13262
+    labeled 2
+  batch 1538: ids 13281..13283
+    labeled 3
+  batch 1532: ids 13263..13265
+    labeled 0
+  batch 1510: ids 13197..13199
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1512: ids 13203..13205
+    labeled 3
+  batch 1535: ids 13272..13274
+    labeled 3
+  batch 1536: ids 13275..13277
+    labeled 1
+  batch 1537: ids 13278..13280
+    labeled 2
+    checkpoint @ 1536/2811 batches; labeled≈4204; ~0.7 q/s
+  batch 1539: ids 13284..13286
+    labeled 3
+  batch 1542: ids 13293..13295
+    labeled 3
+  batch 1534: ids 13269..13271
+    labeled 3
+  batch 1543: ids 13296..13298
+    labeled 3
+  batch 1529: ids 13254..13256
+    labeled 3
+  batch 1544: ids 13299..13301
+    labeled 2
+  batch 1546: ids 13305..13307
+    labeled 3
+  batch 1545: ids 13302..13304
+    labeled 3
+  batch 1547: ids 13308..13310
+    labeled 3
+  batch 1548: ids 13311..13313
+    labeled 3
+  batch 1549: ids 13314..13316
+    labeled 3
+  batch 1550: ids 13317..13319
+    labeled 3
+  batch 1552: ids 13323..13325
+    labeled 3
+  batch 1553: ids 13326..13328
+    labeled 3
+  batch 1556: ids 13335..13337
+    labeled 3
+  batch 1554: ids 13329..13331
+    labeled 3
+    checkpoint @ 1552/2811 batches; labeled≈4251; ~0.7 q/s
+  batch 1555: ids 13332..13334
+    labeled 3
+  batch 1557: ids 13338..13340
+    labeled 3
+  batch 1558: ids 13341..13343
+    labeled 3
+  batch 1560: ids 13347..13349
+    labeled 3
+  batch 1563: ids 13356..13358
+    labeled 3
+  batch 1559: ids 13344..13346
+    labeled 3
+  batch 1562: ids 13353..13355
+    labeled 3
+  batch 1551: ids 13320..13322
+    labeled 3
+  batch 1564: ids 13359..13361
+    labeled 3
+  batch 1565: ids 13362..13364
+    labeled 3
+  batch 1573: ids 13386..13388
+    labeled 3
+  batch 1541: ids 13290..13292
+    labeled 3
+  batch 1566: ids 13365..13367
+    labeled 1
+  batch 1569: ids 13374..13376
+    labeled 3
+  batch 1575: ids 13392..13394
+    labeled 3
+  batch 1570: ids 13377..13379
+    labeled 3
+    checkpoint @ 1568/2811 batches; labeled≈4297; ~0.7 q/s
+  batch 1574: ids 13389..13391
+    labeled 3
+  batch 1540: ids 13287..13289
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1571: ids 13380..13382
+    labeled 3
+  batch 1579: ids 13404..13406
+    labeled 3
+  batch 1581: ids 13410..13412
+    labeled 3
+  batch 1584: ids 13419..13421
+    labeled 3
+  batch 1578: ids 13401..13403
+    labeled 3
+  batch 1587: ids 13428..13430
+    labeled 3
+  batch 1567: ids 13368..13370
+    labeled 3
+  batch 1586: ids 13425..13427
+    labeled 3
+  batch 1582: ids 13413..13415
+    labeled 3
+  batch 1580: ids 13407..13409
+    labeled 3
+  batch 1583: ids 13416..13418
+    labeled 1
+  batch 1585: ids 13422..13424
+    labeled 3
+  batch 1588: ids 13431..13433
+    labeled 3
+  batch 1568: ids 13371..13373
+    labeled 3
+    checkpoint @ 1584/2811 batches; labeled≈4340; ~0.7 q/s
+  batch 1593: ids 13446..13448
+    labeled 3
+  batch 1591: ids 13440..13442
+    labeled 3
+  batch 1572: ids 13383..13385
+    labeled 3
+  batch 1589: ids 13434..13436
+    labeled 3
+  batch 1561: ids 13350..13352
+    labeled 3
+  batch 1590: ids 13437..13439
+    labeled 3
+  batch 1592: ids 13443..13445
+    labeled 3
+  batch 1577: ids 13398..13400
+    labeled 3
+  batch 1600: ids 13467..13469
+    labeled 3
+  batch 1595: ids 13452..13454
+    labeled 1
+  batch 1602: ids 13473..13475
+    labeled 3
+  batch 1599: ids 13464..13466
+    labeled 3
+  batch 1601: ids 13470..13472
+    labeled 3
+  batch 1597: ids 13458..13460
+    labeled 3
+  batch 1598: ids 13461..13463
+    labeled 0
+  batch 1603: ids 13476..13478
+    labeled 3
+    checkpoint @ 1600/2811 batches; labeled≈4383; ~0.7 q/s
+  batch 1610: ids 13497..13499
+    labeled 3
+  batch 1605: ids 13482..13484
+    labeled 3
+  batch 1609: ids 13494..13496
+    labeled 3
+  batch 1606: ids 13485..13487
+    labeled 3
+  batch 1615: ids 13512..13514
+    labeled 3
+  batch 1596: ids 13455..13457
+    labeled 3
+  batch 1613: ids 13506..13508
+    labeled 3
+  batch 1614: ids 13509..13511
+    labeled 3
+  batch 1611: ids 13500..13502
+    labeled 3
+  batch 1576: ids 13395..13397
+    labeled 3
+  batch 1612: ids 13503..13505
+    labeled 3
+  batch 1618: ids 13521..13523
+    labeled 3
+  batch 1616: ids 13515..13517
+    labeled 3
+  batch 1621: ids 13530..13532
+    labeled 3
+  batch 1594: ids 13449..13451
+    labeled 3
+  batch 1617: ids 13518..13520
+    labeled 3
+    checkpoint @ 1616/2811 batches; labeled≈4431; ~0.7 q/s
+  batch 1627: ids 13548..13550
+    labeled 3
+  batch 1604: ids 13479..13481
+    labeled 3
+  batch 1619: ids 13524..13526
+    labeled 2
+  batch 1622: ids 13533..13535
+    labeled 3
+  batch 1623: ids 13536..13538
+    labeled 3
+  batch 1625: ids 13542..13544
+    labeled 3
+  batch 1628: ids 13551..13553
+    labeled 3
+  batch 1626: ids 13545..13547
+    labeled 3
+  batch 1633: ids 13566..13568
+    labeled 3
+  batch 1629: ids 13554..13556
+    labeled 3
+  batch 1634: ids 13569..13571
+    labeled 3
+  batch 1631: ids 13560..13562
+    labeled 3
+  batch 1636: ids 13575..13577
+    labeled 3
+  batch 1635: ids 13572..13574
+    labeled 3
+  batch 1637: ids 13578..13580
+    labeled 3
+  batch 1607: ids 13488..13490
+    labeled 2
+    checkpoint @ 1632/2811 batches; labeled≈4477; ~0.7 q/s
+  batch 1640: ids 13587..13589
+    labeled 3
+  batch 1608: ids 13491..13493
+    labeled 2
+  batch 1638: ids 13581..13583
+    labeled 1
+  batch 1639: ids 13584..13586
+    labeled 3
+  batch 1650: ids 13617..13619
+    labeled 3
+  batch 1641: ids 13590..13592
+    labeled 3
+  batch 1643: ids 13596..13598
+    labeled 3
+  batch 1630: ids 13557..13559
+    labeled 3
+  batch 1644: ids 13599..13601
+    labeled 3
+  batch 1645: ids 13602..13604
+    labeled 3
+  batch 1654: ids 13629..13631
+    labeled 3
+  batch 1620: ids 13527..13529
+    labeled 3
+  batch 1656: ids 13635..13637
+    labeled 3
+  batch 1646: ids 13605..13607
+    labeled 0
+  batch 1655: ids 13632..13634
+    labeled 3
+  batch 1648: ids 13611..13613
+    labeled 3
+    checkpoint @ 1648/2811 batches; labeled≈4519; ~0.7 q/s
+  batch 1649: ids 13614..13616
+    labeled 3
+  batch 1652: ids 13623..13625
+    labeled 3
+  batch 1624: ids 13539..13541
+    labeled 3
+  batch 1658: ids 13641..13643
+    labeled 3
+  batch 1660: ids 13647..13649
+    labeled 3
+  batch 1632: ids 13563..13565
+    labeled 3
+  batch 1653: ids 13626..13628
+    labeled 3
+  batch 1657: ids 13638..13640
+    labeled 3
+  batch 1642: ids 13593..13595
+    labeled 1
+  batch 1651: ids 13620..13622
+    labeled 3
+  batch 1669: ids 13674..13676
+    labeled 3
+  batch 1647: ids 13608..13610
+    labeled 3
+  batch 1661: ids 13650..13652
+    labeled 3
+  batch 1671: ids 13680..13682
+    labeled 3
+  batch 1672: ids 13683..13685
+    labeled 3
+  batch 1663: ids 13656..13658
+    labeled 3
+    checkpoint @ 1664/2811 batches; labeled≈4565; ~0.7 q/s
+  batch 1675: ids 13692..13694
+    labeled 3
+  batch 1676: ids 13695..13697
+    labeled 3
+  batch 1664: ids 13659..13661
+    labeled 3
+  batch 1670: ids 13677..13679
+    labeled 3
+  batch 1673: ids 13686..13688
+    labeled 3
+  batch 1682: ids 13713..13715
+    labeled 3
+  batch 1674: ids 13689..13691
+    labeled 3
+  batch 1659: ids 13644..13646
+    labeled 3
+  batch 1662: ids 13653..13655
+    labeled 3
+  batch 1677: ids 13698..13700
+    labeled 3
+  batch 1678: ids 13701..13703
+    labeled 3
+  batch 1684: ids 13719..13721
+    labeled 3
+  batch 1680: ids 13707..13709
+    labeled 3
+  batch 1683: ids 13716..13718
+    labeled 3
+  batch 1667: ids 13668..13670
+    labeled 3
+  batch 1685: ids 13722..13724
+    labeled 3
+    checkpoint @ 1680/2811 batches; labeled≈4613; ~0.7 q/s
+  batch 1681: ids 13710..13712
+    labeled 3
+  batch 1686: ids 13725..13727
+    labeled 3
+  batch 1666: ids 13665..13667
+    labeled 3
+  batch 1690: ids 13737..13739
+    labeled 3
+  batch 1687: ids 13728..13730
+    labeled 3
+  batch 1694: ids 13749..13751
+    labeled 3
+  batch 1693: ids 13746..13748
+    labeled 3
+  batch 1696: ids 13755..13757
+    labeled 3
+  batch 1698: ids 13761..13763
+    labeled 3
+  batch 1699: ids 13764..13766
+    labeled 3
+  batch 1702: ids 13773..13775
+    labeled 3
+  batch 1700: ids 13767..13769
+    labeled 3
+  batch 1695: ids 13752..13754
+    labeled 3
+  batch 1703: ids 13776..13778
+    labeled 3
+  batch 1709: ids 13794..13796
+    labeled 3
+  batch 1707: ids 13788..13790
+    labeled 3
+    checkpoint @ 1696/2811 batches; labeled≈4661; ~0.7 q/s
+  batch 1704: ids 13779..13781
+    labeled 3
+  batch 1710: ids 13797..13799
+    labeled 3
+  batch 1708: ids 13791..13793
+    labeled 3
+  batch 1706: ids 13785..13787
+    labeled 3
+  batch 1711: ids 13800..13802
+    labeled 3
+  batch 1705: ids 13782..13784
+    labeled 3
+  batch 1665: ids 13662..13664
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1701: ids 13770..13772
+    labeled 3
+  batch 1692: ids 13743..13745
+    labeled 3
+  batch 1689: ids 13734..13736
+    labeled 3
+  batch 1668: ids 13671..13673
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1713: ids 13806..13808
+    labeled 3
+  batch 1716: ids 13815..13817
+    labeled 3
+  batch 1715: ids 13812..13814
+    labeled 3
+  batch 1718: ids 13821..13823
+    labeled 3
+  batch 1714: ids 13809..13811
+    labeled 3
+    checkpoint @ 1712/2811 batches; labeled≈4703; ~0.7 q/s
+  batch 1688: ids 13731..13733
+    labeled 3
+  batch 1691: ids 13740..13742
+    labeled 3
+  batch 1720: ids 13827..13829
+    labeled 3
+  batch 1697: ids 13758..13760
+    labeled 3
+  batch 1712: ids 13803..13805
+    labeled 3
+  batch 1726: ids 13845..13847
+    labeled 3
+  batch 1722: ids 13833..13835
+    labeled 3
+  batch 1679: ids 13704..13706
+    labeled 3
+  batch 1727: ids 13848..13850
+    labeled 3
+  batch 1729: ids 13854..13856
+    labeled 3
+  batch 1734: ids 13869..13871
+    labeled 3
+  batch 1735: ids 13872..13874
+    labeled 3
+  batch 1731: ids 13860..13862
+    labeled 3
+  batch 1719: ids 13824..13826
+    labeled 1
+  batch 1721: ids 13830..13832
+    labeled 3
+  batch 1733: ids 13866..13868
+    labeled 3
+    checkpoint @ 1728/2811 batches; labeled≈4749; ~0.7 q/s
+  batch 1732: ids 13863..13865
+    labeled 3
+  batch 1724: ids 13839..13841
+    labeled 3
+  batch 1725: ids 13842..13844
+    labeled 3
+  batch 1728: ids 13851..13853
+    labeled 3
+  batch 1717: ids 13818..13820
+    labeled 3
+  batch 1739: ids 13884..13886
+    labeled 3
+  batch 1742: ids 13893..13895
+    labeled 3
+  batch 1745: ids 13902..13904
+    labeled 3
+  batch 1730: ids 13857..13859
+    labeled 3
+  batch 1744: ids 13899..13901
+    labeled 3
+  batch 1743: ids 13896..13898
+    labeled 3
+  batch 1738: ids 13881..13883
+    labeled 3
+  batch 1736: ids 13875..13877
+    labeled 3
+  batch 1750: ids 13917..13919
+    labeled 3
+  batch 1746: ids 13905..13907
+    labeled 3
+  batch 1741: ids 13890..13892
+    labeled 3
+    checkpoint @ 1744/2811 batches; labeled≈4797; ~0.7 q/s
+  batch 1748: ids 13911..13913
+    labeled 3
+  batch 1751: ids 13920..13922
+    labeled 3
+  batch 1755: ids 13932..13934
+    labeled 3
+  batch 1756: ids 13935..13937
+    labeled 3
+  batch 1752: ids 13923..13925
+    labeled 3
+  batch 1749: ids 13914..13916
+    labeled 3
+  batch 1761: ids 13950..13952
+    labeled 3
+  batch 1753: ids 13926..13928
+    labeled 3
+  batch 1754: ids 13929..13931
+    labeled 1
+  batch 1757: ids 13938..13940
+    labeled 3
+  batch 1760: ids 13947..13949
+    labeled 3
+  batch 1737: ids 13878..13880
+    labeled 3
+  batch 1765: ids 13962..13964
+    labeled 3
+  batch 1758: ids 13941..13943
+    labeled 3
+  batch 1762: ids 13953..13955
+    labeled 3
+  batch 1759: ids 13944..13946
+    labeled 3
+    checkpoint @ 1760/2811 batches; labeled≈4843; ~0.7 q/s
+  batch 1747: ids 13908..13910
+    labeled 3
+  batch 1768: ids 13971..13973
+    labeled 3
+  batch 1763: ids 13956..13958
+    labeled 3
+  batch 1767: ids 13968..13970
+    labeled 3
+  batch 1776: ids 13995..13997
+    labeled 3
+  batch 1766: ids 13965..13967
+    labeled 3
+  batch 1764: ids 13959..13961
+    labeled 3
+  batch 1723: ids 13836..13838
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1774: ids 13989..13991
+    labeled 3
+  batch 1769: ids 13974..13976
+    labeled 3
+  batch 1770: ids 13977..13979
+    labeled 3
+  batch 1771: ids 13980..13982
+    labeled 3
+  batch 1781: ids 14010..14012
+    labeled 3
+  batch 1773: ids 13986..13988
+    labeled 3
+  batch 1783: ids 14016..14018
+    labeled 3
+  batch 1775: ids 13992..13994
+    labeled 3
+    checkpoint @ 1776/2811 batches; labeled≈4888; ~0.7 q/s
+  batch 1784: ids 14019..14021
+    labeled 3
+  batch 1786: ids 14025..14027
+    labeled 3
+  batch 1778: ids 14001..14003
+    labeled 3
+  batch 1780: ids 14007..14009
+    labeled 3
+  batch 1740: ids 13887..13889
+    labeled 3
+  batch 1791: ids 14040..14042
+    labeled 3
+  batch 1790: ids 14037..14039
+    labeled 3
+  batch 1782: ids 14013..14015
+    labeled 3
+  batch 1792: ids 14043..14045
+    labeled 3
+  batch 1788: ids 14031..14033
+    labeled 3
+  batch 1777: ids 13998..14000
+    labeled 3
+  batch 1785: ids 14022..14024
+    labeled 3
+  batch 1798: ids 14061..14063
+    labeled 3
+  batch 1789: ids 14034..14036
+    labeled 3
+  batch 1796: ids 14055..14057
+    labeled 3
+  batch 1797: ids 14058..14060
+    labeled 3
+    checkpoint @ 1792/2811 batches; labeled≈4936; ~0.7 q/s
+  batch 1794: ids 14049..14051
+    labeled 3
+  batch 1793: ids 14046..14048
+    labeled 3
+  batch 1802: ids 14073..14075
+    labeled 3
+  batch 1800: ids 14067..14069
+    labeled 3
+  batch 1806: ids 14085..14087
+    labeled 3
+  batch 1805: ids 14082..14084
+    labeled 3
+  batch 1795: ids 14052..14054
+    labeled 1
+  batch 1787: ids 14028..14030
+    labeled 3
+  batch 1779: ids 14004..14006
+    labeled 3
+  batch 1803: ids 14076..14078
+    labeled 3
+  batch 1811: ids 14100..14102
+    labeled 3
+  batch 1804: ids 14079..14081
+    labeled 3
+  batch 1808: ids 14091..14093
+    labeled 3
+  batch 1813: ids 14106..14108
+    labeled 3
+  batch 1772: ids 13983..13985
+    labeled 3
+  batch 1815: ids 14112..14114
+    labeled 3
+    checkpoint @ 1808/2811 batches; labeled≈4982; ~0.7 q/s
+  batch 1810: ids 14097..14099
+    labeled 3
+  batch 1799: ids 14064..14066
+    labeled 3
+  batch 1820: ids 14127..14129
+    labeled 3
+  batch 1812: ids 14103..14105
+    labeled 3
+  batch 1817: ids 14118..14120
+    labeled 3
+  batch 1816: ids 14115..14117
+    labeled 3
+  batch 1818: ids 14121..14123
+    labeled 3
+  batch 1823: ids 14136..14138
+    labeled 3
+  batch 1801: ids 14070..14072
+    labeled 2
+  batch 1824: ids 14139..14141
+    labeled 3
+  batch 1825: ids 14142..14144
+    labeled 3
+  batch 1822: ids 14133..14135
+    labeled 3
+  batch 1828: ids 14151..14153
+    labeled 3
+  batch 1826: ids 14145..14147
+    labeled 3
+  batch 1807: ids 14088..14090
+    labeled 3
+  batch 1832: ids 14163..14165
+    labeled 3
+    checkpoint @ 1824/2811 batches; labeled≈5029; ~0.7 q/s
+  batch 1827: ids 14148..14150
+    labeled 1
+  batch 1809: ids 14094..14096
+    labeled 0
+  batch 1814: ids 14109..14111
+    labeled 3
+  batch 1833: ids 14166..14168
+    labeled 3
+  batch 1829: ids 14154..14156
+    labeled 2
+  batch 1834: ids 14169..14171
+    labeled 3
+  batch 1831: ids 14160..14162
+    labeled 3
+  batch 1838: ids 14181..14183
+    labeled 3
+  batch 1835: ids 14172..14174
+    labeled 3
+  batch 1819: ids 14124..14126
+    labeled 3
+  batch 1821: ids 14130..14132
+    labeled 3
+  batch 1837: ids 14178..14180
+    labeled 3
+  batch 1843: ids 14196..14198
+    labeled 3
+  batch 1848: ids 14211..14213
+    labeled 3
+  batch 1840: ids 14187..14189
+    labeled 3
+  batch 1845: ids 14202..14204
+    labeled 3
+    checkpoint @ 1840/2811 batches; labeled≈5071; ~0.7 q/s
+  batch 1844: ids 14199..14201
+    labeled 3
+  batch 1850: ids 14217..14219
+    labeled 3
+  batch 1830: ids 14157..14159
+    labeled 3
+  batch 1849: ids 14214..14216
+    labeled 3
+  batch 1851: ids 14220..14222
+    labeled 3
+  batch 1853: ids 14226..14228
+    labeled 3
+  batch 1854: ids 14229..14231
+    labeled 3
+  batch 1839: ids 14184..14186
+    labeled 3
+  batch 1855: ids 14232..14234
+    labeled 3
+  batch 1856: ids 14235..14237
+    labeled 3
+  batch 1841: ids 14190..14192
+    labeled 1
+  batch 1842: ids 14193..14195
+    labeled 3
+  batch 1857: ids 14238..14240
+    labeled 3
+  batch 1858: ids 14241..14243
+    labeled 3
+  batch 1836: ids 14175..14177
+    labeled 3
+  batch 1864: ids 14259..14261
+    labeled 3
+    checkpoint @ 1856/2811 batches; labeled≈5117; ~0.7 q/s
+  batch 1846: ids 14205..14207
+    labeled 3
+  batch 1862: ids 14253..14255
+    labeled 3
+  batch 1860: ids 14247..14249
+    labeled 0
+  batch 1865: ids 14262..14264
+    labeled 3
+  batch 1869: ids 14274..14276
+    labeled 3
+  batch 1852: ids 14223..14225
+    labeled 3
+  batch 1870: ids 14277..14279
+    labeled 3
+  batch 1866: ids 14265..14267
+    labeled 3
+  batch 1875: ids 14292..14294
+    labeled 3
+  batch 1872: ids 14283..14285
+    labeled 3
+  batch 1873: ids 14286..14288
+    labeled 1
+  batch 1859: ids 14244..14246
+    labeled 3
+  batch 1874: ids 14289..14291
+    labeled 3
+  batch 1876: ids 14295..14297
+    labeled 3
+  batch 1847: ids 14208..14210
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1877: ids 14298..14300
+    labeled 3
+    checkpoint @ 1872/2811 batches; labeled≈5157; ~0.7 q/s
+  batch 1880: ids 14307..14309
+    labeled 3
+  batch 1879: ids 14304..14306
+    labeled 3
+  batch 1882: ids 14313..14315
+    labeled 3
+  batch 1863: ids 14256..14258
+    labeled 2
+  batch 1883: ids 14316..14318
+    labeled 3
+  batch 1867: ids 14268..14270
+    labeled 3
+  batch 1881: ids 14310..14312
+    labeled 3
+  batch 1887: ids 14328..14330
+    labeled 3
+  batch 1886: ids 14325..14327
+    labeled 3
+  batch 1896: ids 14355..14357
+    labeled 3
+  batch 1888: ids 14331..14333
+    labeled 3
+  batch 1897: ids 14358..14360
+    labeled 3
+  batch 1890: ids 14337..14339
+    labeled 3
+  batch 1889: ids 14334..14336
+    labeled 3
+  batch 1892: ids 14343..14345
+    labeled 3
+  batch 1895: ids 14352..14354
+    labeled 3
+    checkpoint @ 1888/2811 batches; labeled≈5204; ~0.7 q/s
+  batch 1861: ids 14250..14252
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1901: ids 14370..14372
+    labeled 3
+  batch 1868: ids 14271..14273
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1902: ids 14373..14375
+    labeled 3
+  batch 1871: ids 14280..14282
+    labeled 3
+  batch 1898: ids 14361..14363
+    labeled 3
+  batch 1885: ids 14322..14324
+    labeled 3
+  batch 1906: ids 14385..14387
+    labeled 3
+  batch 1899: ids 14364..14366
+    labeled 3
+  batch 1900: ids 14367..14369
+    labeled 3
+  batch 1903: ids 14376..14378
+    labeled 3
+  batch 1904: ids 14379..14381
+    labeled 3
+  batch 1905: ids 14382..14384
+    labeled 2
+  batch 1891: ids 14340..14342
+    labeled 3
+  batch 1878: ids 14301..14303
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1917: ids 14418..14420
+    labeled 3
+    checkpoint @ 1904/2811 batches; labeled≈5242; ~0.7 q/s
+  batch 1884: ids 14319..14321
+    labeled 3
+  batch 1913: ids 14406..14408
+    labeled 3
+  batch 1907: ids 14388..14390
+    labeled 3
+  batch 1916: ids 14415..14417
+    labeled 3
+  batch 1908: ids 14391..14393
+    labeled 3
+  batch 1909: ids 14394..14396
+    labeled 3
+  batch 1919: ids 14424..14426
+    labeled 3
+  batch 1910: ids 14397..14399
+    labeled 3
+  batch 1911: ids 14400..14402
+    labeled 3
+  batch 1920: ids 14427..14429
+    labeled 3
+  batch 1918: ids 14421..14423
+    labeled 3
+  batch 1921: ids 14430..14432
+    labeled 3
+  batch 1894: ids 14349..14351
+    labeled 3
+  batch 1915: ids 14412..14414
+    labeled 3
+  batch 1930: ids 14457..14459
+    labeled 3
+  batch 1924: ids 14439..14441
+    labeled 3
+    checkpoint @ 1920/2811 batches; labeled≈5290; ~0.7 q/s
+  batch 1893: ids 14346..14348
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1922: ids 14433..14435
+    labeled 3
+  batch 1929: ids 14454..14456
+    labeled 3
+  batch 1927: ids 14448..14450
+    labeled 3
+  batch 1931: ids 14460..14462
+    labeled 3
+  batch 1937: ids 14478..14480
+    labeled 3
+  batch 1932: ids 14463..14465
+    labeled 3
+  batch 1933: ids 14466..14468
+    labeled 3
+  batch 1914: ids 14409..14411
+    labeled 3
+  batch 1934: ids 14469..14471
+    labeled 1
+  batch 1941: ids 14490..14492
+    labeled 3
+  batch 1939: ids 14484..14486
+    labeled 3
+  batch 1936: ids 14475..14477
+    labeled 3
+  batch 1942: ids 14493..14495
+    labeled 3
+  batch 1923: ids 14436..14438
+    labeled 3
+  batch 1940: ids 14487..14489
+    labeled 3
+    checkpoint @ 1936/2811 batches; labeled≈5333; ~0.7 q/s
+  batch 1928: ids 14451..14453
+    labeled 3
+  batch 1947: ids 14508..14510
+    labeled 3
+  batch 1948: ids 14511..14513
+    labeled 3
+  batch 1944: ids 14499..14501
+    labeled 3
+  batch 1949: ids 14514..14516
+    labeled 3
+  batch 1912: ids 14403..14405
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1951: ids 14520..14522
+    labeled 3
+  batch 1954: ids 14529..14531
+    labeled 3
+  batch 1950: ids 14517..14519
+    labeled 3
+  batch 1938: ids 14481..14483
+    labeled 3
+  batch 1953: ids 14526..14528
+    labeled 3
+  batch 1952: ids 14523..14525
+    labeled 3
+  batch 1925: ids 14442..14444
+    labeled 3
+  batch 1960: ids 14547..14549
+    labeled 3
+  batch 1926: ids 14445..14447
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1959: ids 14544..14546
+    labeled 3
+    checkpoint @ 1952/2811 batches; labeled≈5375; ~0.7 q/s
+  batch 1955: ids 14532..14534
+    labeled 3
+  batch 1956: ids 14535..14537
+    labeled 2
+  batch 1964: ids 14559..14561
+    labeled 3
+  batch 1943: ids 14496..14498
+    labeled 3
+  batch 1962: ids 14553..14555
+    labeled 3
+  batch 1965: ids 14562..14564
+    labeled 3
+  batch 1963: ids 14556..14558
+    labeled 3
+  batch 1961: ids 14550..14552
+    labeled 3
+  batch 1968: ids 14571..14573
+    labeled 3
+  batch 1973: ids 14586..14588
+    labeled 3
+  batch 1966: ids 14565..14567
+    labeled 3
+  batch 1974: ids 14589..14591
+    labeled 3
+  batch 1935: ids 14472..14474
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 1967: ids 14568..14570
+    labeled 3
+  batch 1971: ids 14580..14582
+    labeled 3
+  batch 1972: ids 14583..14585
+    labeled 3
+    checkpoint @ 1968/2811 batches; labeled≈5419; ~0.7 q/s
+  batch 1977: ids 14598..14600
+    labeled 3
+  batch 1980: ids 14607..14609
+    labeled 3
+  batch 1979: ids 14604..14606
+    labeled 3
+  batch 1969: ids 14574..14576
+    labeled 3
+  batch 1957: ids 14538..14540
+    labeled 3
+  batch 1945: ids 14502..14504
+    labeled 3
+  batch 1946: ids 14505..14507
+    labeled 3
+  batch 1975: ids 14592..14594
+    labeled 3
+  batch 1976: ids 14595..14597
+    labeled 3
+  batch 1978: ids 14601..14603
+    labeled 3
+  batch 1984: ids 14619..14621
+    labeled 3
+  batch 1981: ids 14610..14612
+    labeled 3
+  batch 1982: ids 14613..14615
+    labeled 3
+  batch 1983: ids 14616..14618
+    labeled 3
+  batch 1990: ids 14637..14639
+    labeled 3
+  batch 1985: ids 14622..14624
+    labeled 3
+    checkpoint @ 1984/2811 batches; labeled≈5467; ~0.7 q/s
+  batch 1994: ids 14649..14651
+    labeled 3
+  batch 1993: ids 14646..14648
+    labeled 3
+  batch 1992: ids 14643..14645
+    labeled 3
+  batch 1970: ids 14577..14579
+    labeled 3
+  batch 1986: ids 14625..14627
+    labeled 3
+  batch 1958: ids 14541..14543
+    labeled 3
+  batch 2000: ids 14667..14669
+    labeled 3
+  batch 1987: ids 14628..14630
+    labeled 3
+  batch 1995: ids 14652..14654
+    labeled 3
+  batch 1988: ids 14631..14633
+    labeled 3
+  batch 1989: ids 14634..14636
+    labeled 3
+  batch 1998: ids 14661..14663
+    labeled 3
+  batch 1999: ids 14664..14666
+    labeled 3
+  batch 2007: ids 14688..14690
+    labeled 3
+  batch 2004: ids 14679..14681
+    labeled 3
+  batch 2001: ids 14670..14672
+    labeled 3
+    checkpoint @ 2000/2811 batches; labeled≈5515; ~0.7 q/s
+  batch 1996: ids 14655..14657
+    labeled 3
+  batch 1997: ids 14658..14660
+    labeled 0
+  batch 2012: ids 14703..14705
+    labeled 3
+  batch 2003: ids 14676..14678
+    labeled 3
+  batch 2005: ids 14682..14684
+    labeled 3
+  batch 2006: ids 14685..14687
+    labeled 3
+  batch 2008: ids 14691..14693
+    labeled 3
+  batch 2010: ids 14697..14699
+    labeled 2
+  batch 2015: ids 14712..14714
+    labeled 3
+  batch 1991: ids 14640..14642
+    labeled 3
+  batch 2002: ids 14673..14675
+    labeled 3
+  batch 2013: ids 14706..14708
+    labeled 3
+  batch 2016: ids 14715..14717
+    labeled 3
+  batch 2014: ids 14709..14711
+    labeled 1
+  batch 2027: ids 14748..14750
+    labeled 3
+  batch 2024: ids 14739..14741
+    labeled 3
+    checkpoint @ 2016/2811 batches; labeled≈5557; ~0.7 q/s
+  batch 2018: ids 14721..14723
+    labeled 3
+  batch 2020: ids 14727..14729
+    labeled 3
+  batch 2017: ids 14718..14720
+    labeled 3
+  batch 2021: ids 14730..14732
+    labeled 3
+  batch 2028: ids 14751..14753
+    labeled 3
+  batch 2032: ids 14763..14765
+    labeled 3
+  batch 2022: ids 14733..14735
+    labeled 3
+  batch 2011: ids 14700..14702
+    labeled 3
+  batch 2023: ids 14736..14738
+    labeled 3
+  batch 2026: ids 14745..14747
+    labeled 3
+  batch 2030: ids 14757..14759
+    labeled 3
+  batch 2034: ids 14769..14771
+    labeled 3
+  batch 2035: ids 14772..14774
+    labeled 3
+  batch 2029: ids 14754..14756
+    labeled 3
+  batch 2037: ids 14778..14780
+    labeled 3
+  batch 2036: ids 14775..14777
+    labeled 3
+    checkpoint @ 2032/2811 batches; labeled≈5605; ~0.7 q/s
+  batch 2041: ids 14790..14792
+    labeled 3
+  batch 2033: ids 14766..14768
+    labeled 3
+  batch 2019: ids 14724..14726
+    labeled 3
+  batch 2045: ids 14802..14804
+    labeled 3
+  batch 2040: ids 14787..14789
+    labeled 0
+  batch 2046: ids 14805..14807
+    labeled 3
+  batch 2048: ids 14811..14813
+    labeled 3
+  batch 2042: ids 14793..14795
+    labeled 3
+  batch 2044: ids 14799..14801
+    labeled 3
+  batch 2009: ids 14694..14696
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2050: ids 14817..14819
+    labeled 3
+  batch 2047: ids 14808..14810
+    labeled 3
+  batch 2031: ids 14760..14762
+    labeled 3
+  batch 2061: ids 14850..14852
+    labeled 3
+  batch 2051: ids 14820..14822
+    labeled 3
+  batch 2055: ids 14832..14834
+    labeled 3
+    checkpoint @ 2048/2811 batches; labeled≈5647; ~0.7 q/s
+  batch 2058: ids 14841..14843
+    labeled 3
+  batch 2056: ids 14835..14837
+    labeled 3
+  batch 2060: ids 14847..14849
+    labeled 3
+  batch 2038: ids 14781..14783
+    labeled 3
+  batch 2053: ids 14826..14828
+    labeled 3
+  batch 2039: ids 14784..14786
+    labeled 3
+  batch 2059: ids 14844..14846
+    labeled 3
+  batch 2043: ids 14796..14798
+    labeled 3
+  batch 2025: ids 14742..14744
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2068: ids 14871..14873
+    labeled 3
+  batch 2049: ids 14814..14816
+    labeled 3
+  batch 2066: ids 14865..14867
+    labeled 3
+  batch 2064: ids 14859..14861
+    labeled 3
+  batch 2071: ids 14880..14882
+    labeled 3
+  batch 2062: ids 14853..14855
+    labeled 3
+  batch 2072: ids 14883..14885
+    labeled 3
+    checkpoint @ 2064/2811 batches; labeled≈5692; ~0.7 q/s
+  batch 2065: ids 14862..14864
+    labeled 3
+  batch 2052: ids 14823..14825
+    labeled 3
+  batch 2069: ids 14874..14876
+    labeled 3
+  batch 2070: ids 14877..14879
+    labeled 3
+  batch 2081: ids 14910..14912
+    labeled 3
+  batch 2073: ids 14886..14888
+    labeled 3
+  batch 2063: ids 14856..14858
+    labeled 3
+  batch 2077: ids 14898..14900
+    labeled 3
+  batch 2078: ids 14901..14903
+    labeled 2
+  batch 2079: ids 14904..14906
+    labeled 3
+  batch 2080: ids 14907..14909
+    labeled 3
+  batch 2086: ids 14925..14927
+    labeled 3
+  batch 2067: ids 14868..14870
+    labeled 3
+  batch 2082: ids 14913..14915
+    labeled 3
+  batch 2083: ids 14916..14918
+    labeled 3
+  batch 2084: ids 14919..14921
+    labeled 3
+    checkpoint @ 2080/2811 batches; labeled≈5739; ~0.7 q/s
+  batch 2085: ids 14922..14924
+    labeled 3
+  batch 2054: ids 14829..14831
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2075: ids 14892..14894
+    labeled 3
+  batch 2057: ids 14838..14840
+    labeled 0
+  batch 2091: ids 14940..14942
+    labeled 3
+  batch 2074: ids 14889..14891
+    labeled 3
+  batch 2090: ids 14937..14939
+    labeled 3
+  batch 2087: ids 14928..14930
+    labeled 3
+  batch 2096: ids 14955..14957
+    labeled 3
+  batch 2089: ids 14934..14936
+    labeled 3
+  batch 2092: ids 14943..14945
+    labeled 2
+  batch 2094: ids 14949..14951
+    labeled 2
+  batch 2102: ids 14973..14975
+    labeled 3
+  batch 2095: ids 14952..14954
+    labeled 3
+  batch 2098: ids 14961..14963
+    labeled 3
+  batch 2105: ids 14982..14984
+    labeled 3
+    checkpoint @ 2096/2811 batches; labeled≈5779; ~0.7 q/s
+  batch 2097: ids 14958..14960
+    labeled 3
+  batch 2100: ids 14967..14969
+    labeled 3
+  batch 2104: ids 14979..14981
+    labeled 3
+  batch 2103: ids 14976..14978
+    labeled 3
+  batch 2076: ids 14895..14897
+    labeled 3
+  batch 2108: ids 14991..14993
+    labeled 3
+  batch 2113: ids 15006..15008
+    labeled 3
+  batch 2110: ids 14997..14999
+    labeled 3
+  batch 2112: ids 15003..15005
+    labeled 3
+  batch 2117: ids 15018..15020
+    labeled 3
+  batch 2116: ids 15015..15017
+    labeled 3
+  batch 2107: ids 14988..14990
+    labeled 3
+  batch 2115: ids 15012..15014
+    labeled 3
+  batch 2088: ids 14931..14933
+    labeled 3
+  batch 2121: ids 15030..15032
+    labeled 3
+  batch 2124: ids 15039..15041
+    labeled 3
+    checkpoint @ 2112/2811 batches; labeled≈5827; ~0.7 q/s
+  batch 2101: ids 14970..14972
+    labeled 3
+  batch 2118: ids 15021..15023
+    labeled 0
+  batch 2120: ids 15027..15029
+    labeled 3
+  batch 2119: ids 15024..15026
+    labeled 3
+  batch 2093: ids 14946..14948
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2114: ids 15009..15011
+    labeled 3
+  batch 2099: ids 14964..14966
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2125: ids 15042..15044
+    labeled 3
+  batch 2130: ids 15057..15059
+    labeled 3
+  batch 2127: ids 15048..15050
+    labeled 3
+  batch 2132: ids 15063..15065
+    labeled 3
+  batch 2106: ids 14985..14987
+    labeled 3
+  batch 2129: ids 15054..15056
+    labeled 3
+  batch 2131: ids 15060..15062
+    labeled 3
+  batch 2111: ids 15000..15002
+    labeled 3
+  batch 2122: ids 15033..15035
+    labeled 3
+    checkpoint @ 2128/2811 batches; labeled≈5866; ~0.6 q/s
+  batch 2133: ids 15066..15068
+    labeled 0
+  batch 2109: ids 14994..14996
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2137: ids 15078..15080
+    labeled 3
+  batch 2134: ids 15069..15071
+    labeled 3
+  batch 2135: ids 15072..15074
+    labeled 3
+  batch 2126: ids 15045..15047
+    labeled 3
+  batch 2138: ids 15081..15083
+    labeled 3
+  batch 2145: ids 15102..15104
+    labeled 3
+  batch 2150: ids 15117..15119
+    labeled 3
+  batch 2146: ids 15105..15107
+    labeled 3
+  batch 2143: ids 15096..15098
+    labeled 3
+  batch 2147: ids 15108..15110
+    labeled 3
+  batch 2123: ids 15036..15038
+    labeled 1
+  batch 2136: ids 15075..15077
+    labeled 3
+  batch 2148: ids 15111..15113
+    labeled 0
+  batch 2149: ids 15114..15116
+    labeled 2
+    checkpoint @ 2144/2811 batches; labeled≈5902; ~0.6 q/s
+  batch 2152: ids 15123..15125
+    labeled 3
+  batch 2151: ids 15120..15122
+    labeled 3
+  batch 2155: ids 15132..15134
+    labeled 3
+  batch 2141: ids 15090..15092
+    labeled 3
+  batch 2142: ids 15093..15095
+    labeled 3
+  batch 2153: ids 15126..15128
+    labeled 3
+  batch 2154: ids 15129..15131
+    labeled 3
+  batch 2128: ids 15051..15053
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2156: ids 15135..15137
+    labeled 3
+  batch 2157: ids 15138..15140
+    labeled 1
+  batch 2158: ids 15141..15143
+    labeled 3
+  batch 2160: ids 15147..15149
+    labeled 3
+  batch 2161: ids 15150..15152
+    labeled 3
+  batch 2162: ids 15153..15155
+    labeled 3
+  batch 2171: ids 15180..15182
+    labeled 3
+  batch 2139: ids 15084..15086
+    labeled 3
+    checkpoint @ 2160/2811 batches; labeled≈5945; ~0.6 q/s
+  batch 2164: ids 15159..15161
+    labeled 3
+  batch 2140: ids 15087..15089
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2167: ids 15168..15170
+    labeled 3
+  batch 2172: ids 15183..15185
+    labeled 3
+  batch 2175: ids 15192..15194
+    labeled 3
+  batch 2144: ids 15099..15101
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2173: ids 15186..15188
+    labeled 3
+  batch 2174: ids 15189..15191
+    labeled 3
+  batch 2163: ids 15156..15158
+    labeled 2
+  batch 2182: ids 15213..15215
+    labeled 3
+  batch 2178: ids 15201..15203
+    labeled 3
+  batch 2176: ids 15195..15197
+    labeled 3
+  batch 2179: ids 15204..15206
+    labeled 3
+  batch 2181: ids 15210..15212
+    labeled 3
+  batch 2170: ids 15177..15179
+    labeled 3
+  batch 2183: ids 15216..15218
+    labeled 3
+    checkpoint @ 2176/2811 batches; labeled≈5986; ~0.6 q/s
+  batch 2159: ids 15144..15146
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2187: ids 15228..15230
+    labeled 3
+  batch 2180: ids 15207..15209
+    labeled 3
+  batch 2184: ids 15219..15221
+    labeled 3
+  batch 2185: ids 15222..15224
+    labeled 3
+  batch 2186: ids 15225..15227
+    labeled 3
+  batch 2188: ids 15231..15233
+    labeled 3
+  batch 2193: ids 15246..15248
+    labeled 3
+  batch 2196: ids 15255..15257
+    labeled 3
+  batch 2166: ids 15165..15167
+    labeled 3
+  batch 2197: ids 15258..15260
+    labeled 3
+  batch 2198: ids 15261..15263
+    labeled 3
+  batch 2165: ids 15162..15164
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2194: ids 15249..15251
+    labeled 3
+  batch 2191: ids 15240..15242
+    labeled 3
+  batch 2190: ids 15237..15239
+    labeled 3
+    checkpoint @ 2192/2811 batches; labeled≈6028; ~0.6 q/s
+  batch 2168: ids 15171..15173
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2192: ids 15243..15245
+    labeled 3
+  batch 2169: ids 15174..15176
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2199: ids 15264..15266
+    labeled 3
+  batch 2195: ids 15252..15254
+    labeled 3
+  batch 2209: ids 15294..15296
+    labeled 3
+  batch 2210: ids 15297..15299
+    labeled 3
+  batch 2189: ids 15234..15236
+    labeled 0
+  batch 2202: ids 15273..15275
+    labeled 3
+  batch 2204: ids 15279..15281
+    labeled 0
+  batch 2177: ids 15198..15200
+    ERROR: Could not parse JSON: Unterminated string starting at: line 1 column 53 (char 52)
+  batch 2206: ids 15285..15287
+    labeled 3
+  batch 2207: ids 15288..15290
+    labeled 3
+  batch 2211: ids 15300..15302
+    labeled 3
+  batch 2212: ids 15303..15305
+    labeled 3
+  batch 2215: ids 15312..15314
+    labeled 3
+    checkpoint @ 2208/2811 batches; labeled≈6061; ~0.6 q/s
+  batch 2213: ids 15306..15308
+    labeled 3
+  batch 2208: ids 15291..15293
+    labeled 3
+  batch 2220: ids 15327..15329
+    labeled 3
+  batch 2214: ids 15309..15311
+    labeled 2
+  batch 2216: ids 15315..15317
+    labeled 3
+  batch 2200: ids 15267..15269
+    labeled 3
+  batch 2224: ids 15339..15341
+    labeled 3
+  batch 2219: ids 15324..15326
+    labeled 3
+  batch 2222: ids 15333..15335
+    labeled 2
+  batch 2223: ids 15336..15338
+    labeled 3
+  batch 2230: ids 15357..15359
+    labeled 3
+  batch 2225: ids 15342..15344
+    labeled 3
+  batch 2228: ids 15351..15353
+    labeled 3
+  batch 2226: ids 15345..15347
+    labeled 1
+  batch 2232: ids 15363..15365
+    labeled 3
+  batch 2217: ids 15318..15320
+    labeled 3
+    checkpoint @ 2224/2811 batches; labeled≈6105; ~0.6 q/s
+  batch 2229: ids 15354..15356
+    labeled 3
+  batch 2234: ids 15369..15371
+    labeled 3
+  batch 2205: ids 15282..15284
+    labeled 3
+  batch 2231: ids 15360..15362
+    labeled 3
+  batch 2201: ids 15270..15272
+    labeled 3
+  batch 2235: ids 15372..15374
+    labeled 3
+  batch 2233: ids 15366..15368
+    labeled 3
+  batch 2203: ids 15276..15278
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2239: ids 15384..15386
+    labeled 3
+  batch 2241: ids 15390..15392
+    labeled 3
+  batch 2243: ids 15396..15398
+    labeled 3
+  batch 2244: ids 15399..15401
+    labeled 3
+  batch 2249: ids 15414..15416
+    labeled 3
+  batch 2237: ids 15378..15380
+    labeled 3
+  batch 2245: ids 15402..15404
+    labeled 3
+  batch 2218: ids 15321..15323
+    labeled 3
+    checkpoint @ 2240/2811 batches; labeled≈6150; ~0.6 q/s
+  batch 2248: ids 15411..15413
+    labeled 3
+  batch 2242: ids 15393..15395
+    labeled 3
+  batch 2236: ids 15375..15377
+    labeled 3
+  batch 2251: ids 15420..15422
+    labeled 3
+  batch 2246: ids 15405..15407
+    labeled 3
+  batch 2221: ids 15330..15332
+    labeled 3
+  batch 2252: ids 15423..15425
+    labeled 3
+  batch 2238: ids 15381..15383
+    labeled 3
+  batch 2253: ids 15426..15428
+    labeled 3
+  batch 2254: ids 15429..15431
+    labeled 3
+  batch 2256: ids 15435..15437
+    labeled 3
+  batch 2261: ids 15450..15452
+    labeled 3
+  batch 2227: ids 15348..15350
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2259: ids 15444..15446
+    labeled 3
+  batch 2247: ids 15408..15410
+    labeled 3
+  batch 2260: ids 15447..15449
+    labeled 3
+    checkpoint @ 2256/2811 batches; labeled≈6195; ~0.6 q/s
+  batch 2262: ids 15453..15455
+    labeled 3
+  batch 2268: ids 15471..15473
+    labeled 3
+  batch 2263: ids 15456..15458
+    labeled 3
+  batch 2264: ids 15459..15461
+    labeled 3
+  batch 2265: ids 15462..15464
+    labeled 3
+  batch 2255: ids 15432..15434
+    labeled 3
+  batch 2257: ids 15438..15440
+    labeled 3
+  batch 2269: ids 15474..15476
+    labeled 3
+  batch 2271: ids 15480..15482
+    labeled 3
+  batch 2240: ids 15387..15389
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2272: ids 15483..15485
+    labeled 2
+  batch 2275: ids 15492..15494
+    labeled 3
+  batch 2273: ids 15486..15488
+    labeled 3
+  batch 2274: ids 15489..15491
+    labeled 3
+  batch 2282: ids 15513..15515
+    labeled 3
+  batch 2250: ids 15417..15419
+    labeled 0
+    checkpoint @ 2272/2811 batches; labeled≈6236; ~0.6 q/s
+  batch 2266: ids 15465..15467
+    labeled 3
+  batch 2278: ids 15501..15503
+    labeled 3
+  batch 2285: ids 15522..15524
+    labeled 3
+  batch 2279: ids 15504..15506
+    labeled 3
+  batch 2280: ids 15507..15509
+    labeled 3
+  batch 2270: ids 15477..15479
+    labeled 1
+  batch 2286: ids 15525..15527
+    labeled 3
+  batch 2283: ids 15516..15518
+    labeled 3
+  batch 2276: ids 15495..15497
+    labeled 3
+  batch 2284: ids 15519..15521
+    labeled 3
+  batch 2258: ids 15441..15443
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2287: ids 15528..15530
+    labeled 3
+  batch 2289: ids 15534..15536
+    labeled 3
+  batch 2290: ids 15537..15539
+    labeled 3
+  batch 2277: ids 15498..15500
+    labeled 3
+  batch 2267: ids 15468..15470
+    labeled 3
+    checkpoint @ 2288/2811 batches; labeled≈6279; ~0.6 q/s
+  batch 2292: ids 15543..15545
+    labeled 3
+  batch 2299: ids 15564..15566
+    labeled 3
+  batch 2303: ids 15576..15578
+    labeled 3
+  batch 2301: ids 15570..15572
+    labeled 3
+  batch 2293: ids 15546..15548
+    labeled 3
+  batch 2281: ids 15510..15512
+    labeled 3
+  batch 2296: ids 15555..15557
+    labeled 3
+  batch 2300: ids 15567..15569
+    labeled 3
+  batch 2304: ids 15579..15581
+    labeled 3
+  batch 2311: ids 15600..15602
+    labeled 3
+  batch 2288: ids 15531..15533
+    labeled 3
+  batch 2298: ids 15561..15563
+    labeled 3
+  batch 2307: ids 15588..15590
+    labeled 3
+  batch 2305: ids 15582..15584
+    labeled 3
+  batch 2291: ids 15540..15542
+    labeled 0
+  batch 2308: ids 15591..15593
+    labeled 3
+    checkpoint @ 2304/2811 batches; labeled≈6324; ~0.6 q/s
+  batch 2310: ids 15597..15599
+    labeled 3
+  batch 2294: ids 15549..15551
+    labeled 3
+  batch 2302: ids 15573..15575
+    labeled 3
+  batch 2297: ids 15558..15560
+    labeled 3
+  batch 2315: ids 15612..15614
+    labeled 3
+  batch 2319: ids 15624..15626
+    labeled 3
+  batch 2312: ids 15603..15605
+    labeled 2
+  batch 2318: ids 15621..15623
+    labeled 3
+  batch 2313: ids 15606..15608
+    labeled 1
+  batch 2321: ids 15630..15632
+    labeled 3
+  batch 2322: ids 15633..15635
+    labeled 3
+  batch 2325: ids 15642..15644
+    labeled 3
+  batch 2306: ids 15585..15587
+    labeled 3
+  batch 2317: ids 15618..15620
+    labeled 3
+  batch 2320: ids 15627..15629
+    labeled 3
+  batch 2323: ids 15636..15638
+    labeled 3
+    checkpoint @ 2320/2811 batches; labeled≈6369; ~0.6 q/s
+  batch 2327: ids 15648..15650
+    labeled 3
+  batch 2309: ids 15594..15596
+    labeled 3
+  batch 2329: ids 15654..15656
+    labeled 3
+  batch 2324: ids 15639..15641
+    labeled 2
+  batch 2326: ids 15645..15647
+    labeled 3
+  batch 2295: ids 15552..15554
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2314: ids 15609..15611
+    labeled 3
+  batch 2331: ids 15660..15662
+    labeled 3
+  batch 2332: ids 15738..15759
+    labeled 3
+  batch 2333: ids 15797..15820
+    labeled 3
+  batch 2335: ids 15857..15925
+    labeled 3
+  batch 2339: ids 15935..15937
+    labeled 3
+  batch 2328: ids 15651..15653
+    labeled 3
+  batch 2342: ids 15944..15946
+    labeled 3
+  batch 2316: ids 15615..15617
+    labeled 3
+  batch 2343: ids 15947..15949
+    labeled 3
+    checkpoint @ 2336/2811 batches; labeled≈6413; ~0.6 q/s
+  batch 2345: ids 15953..15955
+    labeled 3
+  batch 2334: ids 15830..15842
+    labeled 1
+  batch 2340: ids 15938..15940
+    labeled 3
+  batch 2350: ids 15968..15970
+    labeled 3
+  batch 2346: ids 15956..15958
+    labeled 3
+  batch 2351: ids 15971..15973
+    labeled 3
+  batch 2355: ids 15983..15985
+    labeled 3
+  batch 2330: ids 15657..15659
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2336: ids 15926..15928
+    labeled 3
+  batch 2337: ids 15929..15931
+    labeled 0
+  batch 2338: ids 15932..15934
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2357: ids 15989..15991
+    labeled 0
+  batch 2358: ids 15992..15994
+    labeled 3
+  batch 2341: ids 15941..15943
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2352: ids 15974..15976
+    labeled 0
+  batch 2344: ids 15950..15952
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 2352/2811 batches; labeled≈6438; ~0.6 q/s
+  batch 2354: ids 15980..15982
+    labeled 3
+  batch 2347: ids 15959..15961
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2349: ids 15965..15967
+    labeled 2
+  batch 2348: ids 15962..15964
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2365: ids 16013..16015
+    labeled 3
+  batch 2366: ids 16016..16018
+    labeled 3
+  batch 2353: ids 15977..15979
+    labeled 3
+  batch 2360: ids 15998..16000
+    labeled 3
+  batch 2361: ids 16001..16003
+    labeled 3
+  batch 2371: ids 16031..16033
+    labeled 3
+  batch 2363: ids 16007..16009
+    labeled 1
+  batch 2372: ids 16034..16036
+    labeled 3
+  batch 2356: ids 15986..15988
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2367: ids 16019..16021
+    labeled 3
+  batch 2359: ids 15995..15997
+    labeled 3
+  batch 2376: ids 16046..16048
+    labeled 3
+    checkpoint @ 2368/2811 batches; labeled≈6474; ~0.6 q/s
+  batch 2368: ids 16022..16024
+    labeled 1
+  batch 2377: ids 16049..16051
+    labeled 3
+  batch 2370: ids 16028..16030
+    labeled 3
+  batch 2379: ids 16055..16057
+    labeled 2
+  batch 2380: ids 16058..16060
+    labeled 1
+  batch 2362: ids 16004..16006
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2374: ids 16040..16042
+    labeled 3
+  batch 2364: ids 16010..16012
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2384: ids 16070..16072
+    labeled 3
+  batch 2369: ids 16025..16027
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2390: ids 16088..16090
+    labeled 3
+  batch 2389: ids 16085..16087
+    labeled 3
+  batch 2383: ids 16067..16069
+    labeled 1
+  batch 2373: ids 16037..16039
+    labeled 3
+  batch 2375: ids 16043..16045
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2394: ids 16100..16102
+    labeled 3
+    checkpoint @ 2384/2811 batches; labeled≈6503; ~0.6 q/s
+  batch 2387: ids 16079..16081
+    labeled 3
+  batch 2392: ids 16094..16096
+    labeled 3
+  batch 2399: ids 16115..16117
+    labeled 3
+  batch 2386: ids 16076..16078
+    labeled 0
+  batch 2378: ids 16052..16054
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2385: ids 16073..16075
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2382: ids 16064..16066
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2381: ids 16061..16063
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2395: ids 16103..16105
+    labeled 3
+  batch 2397: ids 16109..16111
+    labeled 3
+  batch 2398: ids 16112..16114
+    labeled 3
+  batch 2388: ids 16082..16084
+    labeled 0
+  batch 2405: ids 16133..16135
+    labeled 3
+  batch 2408: ids 16142..16144
+    labeled 3
+  batch 2391: ids 16091..16093
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2393: ids 16097..16099
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 2400/2811 batches; labeled≈6527; ~0.6 q/s
+  batch 2403: ids 16127..16129
+    labeled 3
+  batch 2410: ids 16148..16150
+    labeled 0
+  batch 2402: ids 16124..16126
+    labeled 0
+  batch 2409: ids 16145..16147
+    labeled 3
+  batch 2407: ids 16139..16141
+    labeled 3
+  batch 2406: ids 16136..16138
+    labeled 3
+  batch 2415: ids 16163..16165
+    labeled 3
+  batch 2396: ids 16106..16108
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2417: ids 16169..16171
+    labeled 3
+  batch 2412: ids 16154..16156
+    labeled 0
+  batch 2414: ids 16160..16162
+    labeled 1
+  batch 2400: ids 16118..16120
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2404: ids 16130..16132
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2401: ids 16121..16123
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2425: ids 16193..16195
+    labeled 3
+  batch 2418: ids 16172..16174
+    labeled 3
+    checkpoint @ 2416/2811 batches; labeled≈6552; ~0.6 q/s
+  batch 2422: ids 16184..16186
+    labeled 3
+  batch 2428: ids 16202..16204
+    labeled 2
+  batch 2411: ids 16151..16153
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2413: ids 16157..16159
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2416: ids 16166..16168
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2432: ids 16214..16216
+    labeled 3
+  batch 2433: ids 16217..16219
+    labeled 3
+  batch 2427: ids 16199..16201
+    labeled 3
+  batch 2429: ids 16205..16207
+    labeled 0
+  batch 2420: ids 16178..16180
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2435: ids 16223..16225
+    labeled 1
+  batch 2419: ids 16175..16177
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2421: ids 16181..16183
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2437: ids 16229..16231
+    labeled 0
+  batch 2423: ids 16187..16189
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2424: ids 16190..16192
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 2432/2811 batches; labeled≈6567; ~0.6 q/s
+  batch 2438: ids 16232..16234
+    labeled 3
+  batch 2431: ids 16211..16213
+    labeled 2
+  batch 2426: ids 16196..16198
+    labeled 3
+  batch 2434: ids 16220..16222
+    labeled 0
+  batch 2441: ids 16241..16243
+    labeled 2
+  batch 2443: ids 16247..16249
+    labeled 0
+  batch 2444: ids 16250..16252
+    labeled 2
+  batch 2447: ids 16259..16261
+    labeled 3
+  batch 2430: ids 16208..16210
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2439: ids 16235..16237
+    labeled 3
+  batch 2451: ids 16271..16273
+    labeled 0
+  batch 2452: ids 16274..16276
+    labeled 3
+  batch 2453: ids 16277..16279
+    labeled 3
+  batch 2446: ids 16256..16258
+    labeled 3
+  batch 2436: ids 16226..16228
+    labeled 3
+  batch 2448: ids 16262..16264
+    labeled 3
+    checkpoint @ 2448/2811 batches; labeled≈6600; ~0.6 q/s
+  batch 2450: ids 16268..16270
+    labeled 2
+  batch 2456: ids 16286..16288
+    labeled 3
+  batch 2454: ids 16280..16282
+    labeled 3
+  batch 2442: ids 16244..16246
+    labeled 3
+  batch 2445: ids 16253..16255
+    labeled 0
+  batch 2462: ids 16304..16306
+    labeled 2
+  batch 2440: ids 16238..16240
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2449: ids 16265..16267
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2459: ids 16295..16297
+    labeled 2
+  batch 2467: ids 16319..16321
+    labeled 2
+  batch 2464: ids 16310..16312
+    labeled 3
+  batch 2455: ids 16283..16285
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2457: ids 16289..16291
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2472: ids 16334..16336
+    labeled 3
+  batch 2458: ids 16292..16294
+    labeled 3
+  batch 2473: ids 16337..16339
+    labeled 3
+    checkpoint @ 2464/2811 batches; labeled≈6629; ~0.6 q/s
+  batch 2474: ids 16340..16342
+    labeled 3
+  batch 2475: ids 16343..16345
+    labeled 2
+  batch 2460: ids 16298..16300
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2461: ids 16301..16303
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2463: ids 16307..16309
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2478: ids 16352..16354
+    labeled 0
+  batch 2479: ids 16355..16357
+    labeled 3
+  batch 2465: ids 16313..16315
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2476: ids 16346..16348
+    labeled 3
+  batch 2481: ids 16361..16363
+    labeled 3
+  batch 2482: ids 16364..16366
+    labeled 3
+  batch 2486: ids 16376..16378
+    labeled 3
+  batch 2483: ids 16367..16369
+    labeled 1
+  batch 2466: ids 16316..16318
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2484: ids 16370..16372
+    labeled 3
+  batch 2468: ids 16322..16324
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 2480/2811 batches; labeled≈6653; ~0.6 q/s
+  batch 2469: ids 16325..16327
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2470: ids 16328..16330
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2471: ids 16331..16333
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2485: ids 16373..16375
+    labeled 3
+  batch 2489: ids 16385..16387
+    labeled 3
+  batch 2491: ids 16391..16393
+    labeled 3
+  batch 2477: ids 16349..16351
+    labeled 3
+  batch 2492: ids 16394..16396
+    labeled 3
+  batch 2499: ids 16415..16417
+    labeled 0
+  batch 2501: ids 16421..16423
+    labeled 0
+  batch 2502: ids 16424..16426
+    labeled 0
+  batch 2480: ids 16358..16360
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2493: ids 16397..16399
+    labeled 3
+  batch 2487: ids 16379..16381
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2506: ids 16436..16438
+    labeled 2
+  batch 2507: ids 16439..16441
+    labeled 3
+    checkpoint @ 2496/2811 batches; labeled≈6676; ~0.6 q/s
+  batch 2488: ids 16382..16384
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2490: ids 16388..16390
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2504: ids 16430..16432
+    labeled 3
+  batch 2494: ids 16400..16402
+    labeled 3
+  batch 2495: ids 16403..16405
+    labeled 3
+  batch 2496: ids 16406..16408
+    labeled 3
+  batch 2500: ids 16418..16420
+    labeled 2
+  batch 2497: ids 16409..16411
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2512: ids 16454..16456
+    labeled 3
+  batch 2498: ids 16412..16414
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2510: ids 16448..16450
+    labeled 3
+  batch 2518: ids 16472..16474
+    labeled 3
+  batch 2503: ids 16427..16429
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2514: ids 16460..16462
+    labeled 3
+  batch 2515: ids 16463..16465
+    labeled 3
+  batch 2522: ids 16484..16486
+    labeled 0
+    checkpoint @ 2512/2811 batches; labeled≈6705; ~0.6 q/s
+  batch 2505: ids 16433..16435
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2511: ids 16451..16453
+    labeled 3
+  batch 2508: ids 16442..16444
+    labeled 3
+  batch 2525: ids 16493..16495
+    labeled 3
+  batch 2526: ids 16496..16498
+    labeled 3
+  batch 2519: ids 16475..16477
+    labeled 3
+  batch 2509: ids 16445..16447
+    labeled 2
+  batch 2520: ids 16478..16480
+    labeled 1
+  batch 2528: ids 16502..16504
+    labeled 3
+  batch 2513: ids 16457..16459
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2531: ids 16511..16513
+    labeled 3
+  batch 2532: ids 16514..16516
+    labeled 3
+  batch 2533: ids 16517..16519
+    labeled 2
+  batch 2535: ids 16523..16525
+    labeled 3
+  batch 2516: ids 16466..16468
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2517: ids 16469..16471
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 2528/2811 batches; labeled≈6737; ~0.6 q/s
+  batch 2521: ids 16481..16483
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2539: ids 16535..16537
+    labeled 3
+  batch 2523: ids 16487..16489
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2538: ids 16532..16534
+    labeled 0
+  batch 2540: ids 16538..16540
+    labeled 3
+  batch 2537: ids 16529..16531
+    labeled 3
+  batch 2534: ids 16520..16522
+    labeled 1
+  batch 2542: ids 16544..16546
+    labeled 2
+  batch 2524: ids 16490..16492
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2527: ids 16499..16501
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2544: ids 16550..16552
+    labeled 2
+  batch 2529: ids 16505..16507
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2530: ids 16508..16510
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2553: ids 16577..16579
+    labeled 3
+  batch 2550: ids 16568..16570
+    labeled 0
+  batch 2551: ids 16571..16573
+    labeled 3
+    checkpoint @ 2544/2811 batches; labeled≈6757; ~0.6 q/s
+  batch 2555: ids 16583..16585
+    labeled 3
+  batch 2536: ids 16526..16528
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2545: ids 16553..16555
+    labeled 3
+  batch 2547: ids 16559..16561
+    labeled 0
+  batch 2557: ids 16589..16591
+    labeled 3
+  batch 2548: ids 16562..16564
+    labeled 3
+  batch 2560: ids 16598..16600
+    labeled 3
+  batch 2541: ids 16541..16543
+    labeled 3
+  batch 2563: ids 16607..16609
+    labeled 3
+  batch 2543: ids 16547..16549
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2565: ids 16613..16615
+    labeled 3
+  batch 2546: ids 16556..16558
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2566: ids 16616..16618
+    labeled 0
+  batch 2568: ids 16622..16624
+    labeled 3
+  batch 2549: ids 16565..16567
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2552: ids 16574..16576
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 2560/2811 batches; labeled≈6784; ~0.6 q/s
+  batch 2570: ids 16628..16630
+    labeled 0
+  batch 2554: ids 16580..16582
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2556: ids 16586..16588
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2572: ids 16634..16636
+    labeled 3
+  batch 2567: ids 16619..16621
+    labeled 0
+  batch 2558: ids 16592..16594
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2559: ids 16595..16597
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2577: ids 16649..16651
+    labeled 3
+  batch 2578: ids 16652..16654
+    labeled 3
+  batch 2562: ids 16604..16606
+    labeled 3
+  batch 2561: ids 16601..16603
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2579: ids 16655..16657
+    labeled 2
+  batch 2574: ids 16640..16642
+    labeled 3
+  batch 2564: ids 16610..16612
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2575: ids 16643..16645
+    labeled 0
+  batch 2584: ids 16670..16672
+    labeled 3
+    checkpoint @ 2576/2811 batches; labeled≈6804; ~0.6 q/s
+  batch 2569: ids 16625..16627
+    labeled 3
+  batch 2588: ids 16682..16684
+    labeled 3
+  batch 2580: ids 16658..16660
+    labeled 3
+  batch 2589: ids 16685..16687
+    labeled 3
+  batch 2573: ids 16637..16639
+    labeled 2
+  batch 2590: ids 16688..16690
+    labeled 0
+  batch 2571: ids 16631..16633
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2593: ids 16697..16699
+    labeled 3
+  batch 2576: ids 16646..16648
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2594: ids 16700..16702
+    labeled 1
+  batch 2599: ids 16715..16717
+    labeled 3
+  batch 2597: ids 16709..16711
+    labeled 3
+  batch 2600: ids 16718..16720
+    labeled 3
+  batch 2591: ids 16691..16693
+    labeled 3
+  batch 2581: ids 16661..16663
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2592: ids 16694..16696
+    labeled 3
+    checkpoint @ 2592/2811 batches; labeled≈6837; ~0.6 q/s
+  batch 2582: ids 16664..16666
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2583: ids 16667..16669
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2602: ids 16724..16726
+    labeled 3
+  batch 2604: ids 16730..16732
+    labeled 3
+  batch 2585: ids 16673..16675
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2586: ids 16676..16678
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2587: ids 16679..16681
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2595: ids 16703..16705
+    labeled 0
+  batch 2605: ids 16733..16735
+    labeled 3
+  batch 2608: ids 16742..16744
+    labeled 3
+  batch 2609: ids 16745..16747
+    labeled 1
+  batch 2610: ids 16748..16750
+    labeled 3
+  batch 2603: ids 16727..16729
+    labeled 3
+  batch 2596: ids 16706..16708
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2598: ids 16712..16714
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2619: ids 16775..16777
+    labeled 3
+    checkpoint @ 2608/2811 batches; labeled≈6859; ~0.5 q/s
+  batch 2620: ids 16778..16780
+    labeled 3
+  batch 2614: ids 16760..16762
+    labeled 3
+  batch 2622: ids 16784..16786
+    labeled 3
+  batch 2612: ids 16754..16756
+    labeled 1
+  batch 2601: ids 16721..16723
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2618: ids 16772..16774
+    labeled 2
+  batch 2606: ids 16736..16738
+    labeled 0
+  batch 2607: ids 16739..16741
+    labeled 3
+  batch 2624: ids 16790..16792
+    labeled 3
+  batch 2631: ids 16811..16813
+    labeled 3
+  batch 2626: ids 16796..16798
+    labeled 3
+  batch 2628: ids 16802..16804
+    labeled 3
+  batch 2611: ids 16751..16753
+    labeled 3
+  batch 2633: ids 16817..16819
+    labeled 3
+  batch 2621: ids 16781..16783
+    labeled 3
+  batch 2615: ids 16763..16765
+    labeled 2
+    checkpoint @ 2624/2811 batches; labeled≈6897; ~0.5 q/s
+  batch 2613: ids 16757..16759
+    labeled 3
+  batch 2634: ids 16820..16822
+    labeled 3
+  batch 2630: ids 16808..16810
+    labeled 2
+  batch 2617: ids 16769..16771
+    labeled 3
+  batch 2616: ids 16766..16768
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2632: ids 16814..16816
+    labeled 3
+  batch 2625: ids 16793..16795
+    labeled 3
+  batch 2637: ids 16829..16831
+    labeled 3
+  batch 2640: ids 16838..16840
+    labeled 3
+  batch 2636: ids 16826..16828
+    labeled 3
+  batch 2643: ids 16847..16849
+    labeled 3
+  batch 2638: ids 16832..16834
+    labeled 3
+  batch 2642: ids 16844..16846
+    labeled 3
+  batch 2646: ids 16856..16858
+    labeled 2
+  batch 2623: ids 16787..16789
+    labeled 3
+  batch 2648: ids 16862..16864
+    labeled 3
+    checkpoint @ 2640/2811 batches; labeled≈6940; ~0.5 q/s
+  batch 2649: ids 16865..16867
+    labeled 3
+  batch 2650: ids 16868..16870
+    labeled 3
+  batch 2627: ids 16799..16801
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2641: ids 16841..16843
+    labeled 3
+  batch 2654: ids 16880..16882
+    labeled 3
+  batch 2629: ids 16805..16807
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2644: ids 16850..16852
+    labeled 2
+  batch 2645: ids 16853..16855
+    labeled 3
+  batch 2655: ids 16883..16885
+    labeled 3
+  batch 2657: ids 16889..16891
+    labeled 0
+  batch 2635: ids 16823..16825
+    ERROR: All LLM providers failed: bht: The read operation timed out
+  batch 2639: ids 16835..16837
+    ERROR: All LLM providers failed: bht: The read operation timed out
+  batch 2647: ids 16859..16861
+    ERROR: All LLM providers failed: bht: The read operation timed out
+  batch 2659: ids 16895..16897
+    labeled 3
+  batch 2651: ids 16871..16873
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2665: ids 16913..16915
+    labeled 3
+    checkpoint @ 2656/2811 batches; labeled≈6966; ~0.5 q/s
+  batch 2652: ids 16874..16876
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2663: ids 16907..16909
+    labeled 0
+  batch 2653: ids 16877..16879
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2669: ids 16925..16927
+    labeled 3
+  batch 2656: ids 16886..16888
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2658: ids 16892..16894
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2672: ids 16934..16936
+    labeled 3
+  batch 2673: ids 16937..16939
+    labeled 0
+  batch 2660: ids 16898..16900
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2668: ids 16922..16924
+    labeled 3
+  batch 2664: ids 16910..16912
+    labeled 3
+  batch 2662: ids 16904..16906
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2661: ids 16901..16903
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2666: ids 16916..16918
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2667: ids 16919..16921
+    labeled 0
+  batch 2670: ids 16928..16930
+    labeled 2
+    checkpoint @ 2672/2811 batches; labeled≈6980; ~0.5 q/s
+  batch 2680: ids 16958..16960
+    labeled 3
+  batch 2679: ids 16955..16957
+    labeled 3
+  batch 2674: ids 16940..16942
+    labeled 3
+  batch 2676: ids 16946..16948
+    labeled 0
+  batch 2686: ids 16976..16978
+    labeled 3
+  batch 2687: ids 16979..16981
+    labeled 3
+  batch 2678: ids 16952..16954
+    labeled 3
+  batch 2689: ids 16985..16987
+    labeled 3
+  batch 2690: ids 16988..16990
+    labeled 2
+  batch 2671: ids 16931..16933
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2683: ids 16967..16969
+    labeled 1
+  batch 2675: ids 16943..16945
+    labeled 0
+  batch 2684: ids 16970..16972
+    labeled 3
+  batch 2685: ids 16973..16975
+    labeled 2
+  batch 2677: ids 16949..16951
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2682: ids 16964..16966
+    labeled 3
+    checkpoint @ 2688/2811 batches; labeled≈7012; ~0.5 q/s
+  batch 2681: ids 16961..16963
+    labeled 1
+  batch 2701: ids 17021..17023
+    labeled 3
+  batch 2702: ids 17024..17026
+    labeled 0
+  batch 2693: ids 16997..16999
+    labeled 3
+  batch 2688: ids 16982..16984
+    labeled 0
+  batch 2697: ids 17009..17011
+    labeled 3
+  batch 2705: ids 17033..17035
+    labeled 0
+  batch 2706: ids 17036..17038
+    labeled 3
+  batch 2700: ids 17018..17020
+    labeled 2
+  batch 2691: ids 16991..16993
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2708: ids 17042..17044
+    labeled 3
+  batch 2692: ids 16994..16996
+    labeled 3
+  batch 2709: ids 17045..17047
+    labeled 3
+  batch 2694: ids 17000..17002
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2695: ids 17003..17005
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2696: ids 17006..17008
+    labeled 0
+    checkpoint @ 2704/2811 batches; labeled≈7036; ~0.5 q/s
+  batch 2712: ids 17054..17056
+    labeled 3
+  batch 2713: ids 17057..17059
+    labeled 2
+  batch 2714: ids 17060..17062
+    labeled 3
+  batch 2698: ids 17012..17014
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2699: ids 17015..17017
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2703: ids 17027..17029
+    labeled 3
+  batch 2717: ids 17069..17071
+    labeled 3
+  batch 2710: ids 17048..17050
+    labeled 3
+  batch 2719: ids 17075..17077
+    labeled 3
+  batch 2704: ids 17030..17032
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2721: ids 17081..17083
+    labeled 0
+  batch 2716: ids 17066..17068
+    labeled 3
+  batch 2707: ids 17039..17041
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2727: ids 17099..17101
+    labeled 3
+  batch 2730: ids 17108..17110
+    labeled 0
+  batch 2731: ids 17111..17113
+    labeled 2
+    checkpoint @ 2720/2811 batches; labeled≈7064; ~0.5 q/s
+  batch 2711: ids 17051..17053
+    labeled 0
+  batch 2722: ids 17084..17086
+    labeled 0
+  batch 2732: ids 17114..17116
+    labeled 3
+  batch 2733: ids 17117..17119
+    labeled 3
+  batch 2715: ids 17063..17065
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2735: ids 17123..17125
+    labeled 3
+  batch 2728: ids 17102..17104
+    labeled 2
+  batch 2737: ids 17129..17131
+    labeled 3
+  batch 2718: ids 17072..17074
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2740: ids 17138..17140
+    labeled 3
+  batch 2720: ids 17078..17080
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2723: ids 17087..17089
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2724: ids 17090..17092
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2725: ids 17093..17095
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2742: ids 17144..17146
+    labeled 3
+  batch 2741: ids 17141..17143
+    labeled 3
+    checkpoint @ 2736/2811 batches; labeled≈7087; ~0.5 q/s
+  batch 2726: ids 17096..17098
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2729: ids 17105..17107
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2738: ids 17132..17134
+    labeled 0
+  batch 2749: ids 17165..17167
+    labeled 3
+  batch 2748: ids 17162..17164
+    labeled 3
+  batch 2753: ids 17177..17179
+    labeled 3
+  batch 2736: ids 17126..17128
+    labeled 3
+  batch 2734: ids 17120..17122
+    labeled 3
+  batch 2744: ids 17150..17152
+    labeled 3
+  batch 2746: ids 17156..17158
+    labeled 0
+  batch 2756: ids 17186..17188
+    labeled 3
+  batch 2739: ids 17135..17137
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2761: ids 17201..17203
+    labeled 3
+  batch 2743: ids 17147..17149
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2745: ids 17153..17155
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2747: ids 17159..17161
+    labeled 3
+    checkpoint @ 2752/2811 batches; labeled≈7114; ~0.5 q/s
+  batch 2758: ids 17192..17194
+    labeled 3
+  batch 2759: ids 17195..17197
+    labeled 3
+  batch 2750: ids 17168..17170
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2751: ids 17171..17173
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2760: ids 17198..17200
+    labeled 2
+  batch 2752: ids 17174..17176
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2763: ids 17207..17209
+    labeled 3
+  batch 2754: ids 17180..17182
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2768: ids 17222..17224
+    labeled 3
+  batch 2755: ids 17183..17185
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2757: ids 17189..17191
+    labeled 3
+  batch 2773: ids 17237..17239
+    labeled 3
+  batch 2762: ids 17204..17206
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2777: ids 17249..17251
+    labeled 0
+  batch 2779: ids 17255..17257
+    labeled 3
+  batch 2764: ids 17210..17212
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 2768/2811 batches; labeled≈7137; ~0.5 q/s
+  batch 2765: ids 17213..17215
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2766: ids 17216..17218
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2783: ids 17267..17269
+    labeled 3
+  batch 2767: ids 17219..17221
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2769: ids 17225..17227
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2770: ids 17228..17230
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2772: ids 17234..17236
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2771: ids 17231..17233
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2774: ids 17240..17242
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2781: ids 17261..17263
+    labeled 2
+  batch 2775: ids 17243..17245
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2776: ids 17246..17248
+    labeled 0
+  batch 2778: ids 17252..17254
+    labeled 1
+  batch 2788: ids 17282..17284
+    labeled 3
+  batch 2790: ids 17288..17290
+    labeled 3
+  batch 2791: ids 17291..17293
+    labeled 0
+    checkpoint @ 2784/2811 batches; labeled≈7149; ~0.5 q/s
+  batch 2780: ids 17258..17260
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2797: ids 17309..17311
+    labeled 0
+  batch 2782: ids 17264..17266
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2784: ids 17270..17272
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2803: ids 17327..17329
+    labeled 3
+  batch 2785: ids 17273..17275
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2794: ids 17300..17302
+    labeled 3
+  batch 2802: ids 17324..17326
+    labeled 3
+  batch 2805: ids 17333..17335
+    labeled 3
+  batch 2787: ids 17279..17281
+    labeled 2
+  batch 2786: ids 17276..17278
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2807: ids 17339..17341
+    labeled 3
+  batch 2789: ids 17285..17287
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2801: ids 17321..17323
+    labeled 3
+  batch 2792: ids 17294..17296
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2793: ids 17297..17299
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 2800/2811 batches; labeled≈7169; ~0.5 q/s
+  batch 2796: ids 17306..17308
+    labeled 3
+  batch 2808: ids 17342..17344
+    labeled 2
+  batch 2795: ids 17303..17305
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2799: ids 17315..17317
+    labeled 0
+  batch 2798: ids 17312..17314
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2800: ids 17318..17320
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2810: ids 17348..17350
+    labeled 2
+  batch 2804: ids 17330..17332
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2806: ids 17336..17338
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 2811: ids 17351..17353
+    labeled 0
+  batch 2809: ids 17345..17347
+    labeled 3
+Done in 238.9 min. Newly labeled this run ≈ 7179. Still needing work: 1259

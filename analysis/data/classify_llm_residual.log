@@ -1,0 +1,296 @@
+Providers available: ['bht']
+Total questions: 17354; to label: 421; workers=12; batch_size=3
+  batch 5: ids 854..867
+    labeled 3
+  batch 1: ids 305..755
+    labeled 3
+  batch 9: ids 8882..8941
+    labeled 3
+  batch 12: ids 9024..9061
+    labeled 3
+  batch 4: ids 832..849
+    labeled 3
+  batch 6: ids 8746..8829
+    labeled 3
+  batch 10: ids 8948..8963
+    labeled 1
+  batch 2: ids 767..806
+    labeled 3
+  batch 3: ids 828..830
+    labeled 3
+  batch 14: ids 9099..9189
+    labeled 3
+  batch 16: ids 9227..9244
+    labeled 1
+  batch 20: ids 9731..9829
+    labeled 3
+    checkpoint @ 12/141 batches; labeled≈32; ~0.3 q/s
+  batch 19: ids 9514..9712
+    labeled 3
+  batch 18: ids 9459..9461
+    labeled 3
+  batch 22: ids 9863..9937
+    labeled 3
+  batch 13: ids 9062..9094
+    labeled 3
+  batch 17: ids 9245..9284
+    labeled 3
+  batch 21: ids 9830..9862
+    labeled 3
+  batch 7: ids 8830..8836
+    labeled 3
+  batch 8: ids 8837..8847
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 11: ids 8965..8985
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 28: ids 10466..10492
+    labeled 3
+  batch 24: ids 9962..10071
+    labeled 3
+  batch 30: ids 10629..10739
+    labeled 3
+    checkpoint @ 24/141 batches; labeled≈62; ~0.3 q/s
+  batch 26: ids 10163..10298
+    labeled 3
+  batch 15: ids 9190..9226
+    labeled 3
+  batch 23: ids 9938..9944
+    labeled 3
+  batch 29: ids 10565..10597
+    labeled 3
+  batch 33: ids 11057..11103
+    labeled 3
+  batch 36: ids 11196..11198
+    labeled 3
+  batch 35: ids 11114..11162
+    labeled 0
+  batch 39: ids 11406..11432
+    labeled 3
+  batch 42: ids 11549..11572
+    labeled 3
+  batch 25: ids 10076..10151
+    labeled 3
+  batch 32: ids 10898..11055
+    labeled 3
+  batch 27: ids 10416..10456
+    labeled 0
+    checkpoint @ 36/141 batches; labeled≈92; ~0.3 q/s
+  batch 38: ids 11270..11341
+    labeled 1
+  batch 46: ids 11743..11866
+    labeled 3
+  batch 47: ids 11898..11900
+    labeled 0
+  batch 31: ids 10802..10839
+    labeled 1
+  batch 48: ids 11926..12131
+    labeled 3
+  batch 34: ids 11104..11110
+    labeled 3
+  batch 52: ids 12462..12503
+    labeled 3
+  batch 44: ids 11671..11730
+    labeled 3
+  batch 37: ids 11204..11257
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 50: ids 12217..12233
+    labeled 3
+  batch 41: ids 11459..11531
+    labeled 3
+  batch 45: ids 11731..11742
+    labeled 3
+    checkpoint @ 48/141 batches; labeled≈118; ~0.3 q/s
+  batch 40: ids 11445..11458
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 53: ids 12518..12576
+    labeled 3
+  batch 54: ids 12577..12676
+    labeled 3
+  batch 43: ids 11573..11647
+    labeled 2
+  batch 56: ids 12713..12734
+    labeled 3
+  batch 49: ids 12137..12215
+    labeled 3
+  batch 51: ids 12304..12413
+    labeled 3
+  batch 57: ids 12749..12796
+    labeled 3
+  batch 58: ids 12876..12878
+    labeled 0
+  batch 55: ids 12677..12711
+    labeled 3
+  batch 66: ids 13287..13366
+    labeled 3
+  batch 67: ids 13367..13454
+    labeled 1
+    checkpoint @ 60/141 batches; labeled≈145; ~0.3 q/s
+  batch 68: ids 13461..13583
+    labeled 3
+  batch 69: ids 13606..13671
+    labeled 3
+  batch 64: ids 13184..13199
+    labeled 3
+  batch 59: ids 12917..13027
+    labeled 3
+  batch 60: ids 13083..13085
+    labeled 3
+  batch 61: ids 13094..13118
+    labeled 3
+  batch 71: ids 13836..14054
+    labeled 3
+  batch 62: ids 13134..13160
+    labeled 2
+  batch 70: ids 13672..13826
+    labeled 1
+  batch 73: ids 14208..14248
+    labeled 3
+  batch 74: ids 14249..14251
+    labeled 3
+  batch 72: ids 14094..14191
+    labeled 3
+    checkpoint @ 72/141 batches; labeled≈178; ~0.3 q/s
+  batch 77: ids 14403..14445
+    labeled 3
+  batch 78: ids 14473..14659
+    labeled 3
+  batch 79: ids 14660..14699
+    labeled 3
+  batch 80: ids 14742..14829
+    labeled 3
+  batch 81: ids 14830..14839
+    labeled 3
+  batch 82: ids 14840..14946
+    labeled 3
+  batch 63: ids 13175..13183
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 85: ids 15038..15099
+    labeled 3
+  batch 84: ids 14994..15023
+    labeled 3
+  batch 65: ids 13264..13280
+    labeled 3
+  batch 76: ids 14346..14348
+    labeled 3
+  batch 87: ids 15139..15146
+    labeled 3
+    checkpoint @ 84/141 batches; labeled≈211; ~0.3 q/s
+  batch 86: ids 15100..15116
+    labeled 1
+  batch 88: ids 15158..15164
+    labeled 0
+  batch 97: ids 15941..15974
+    labeled 3
+  batch 83: ids 14948..14965
+    labeled 3
+  batch 91: ids 15280..15311
+    labeled 2
+  batch 93: ids 15419..15540
+    labeled 2
+  batch 95: ids 15641..15836
+    labeled 3
+  batch 75: ids 14271..14301
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 90: ids 15176..15276
+    labeled 3
+  batch 101: ids 16054..16108
+    labeled 3
+  batch 102: ids 16120..16149
+    labeled 2
+  batch 94: ids 15553..15608
+    labeled 3
+    checkpoint @ 96/141 batches; labeled≈236; ~0.3 q/s
+  batch 96: ids 15851..15934
+    labeled 3
+  batch 98: ids 15976..15989
+    labeled 0
+  batch 108: ids 16332..16359
+    labeled 3
+  batch 105: ids 16229..16271
+    labeled 3
+  batch 99: ids 16005..16025
+    labeled 1
+  batch 89: ids 15172..15175
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 103: ids 16150..16155
+    labeled 3
+  batch 109: ids 16368..16409
+    labeled 3
+  batch 92: ids 15387..15418
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 110: ids 16412..16424
+    labeled 0
+  batch 111: ids 16470..16479
+    labeled 3
+  batch 112: ids 16480..16484
+    labeled 3
+    checkpoint @ 108/141 batches; labeled≈258; ~0.3 q/s
+  batch 115: ids 16522..16556
+    labeled 2
+  batch 100: ids 16026..16052
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 121: ids 16714..16755
+    labeled 3
+  batch 104: ids 16157..16209
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 106: ids 16284..16301
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 107: ids 16309..16316
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 123: ids 16801..16836
+    labeled 1
+  batch 113: ids 16485..16487
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 122: ids 16768..16800
+    labeled 2
+  batch 114: ids 16490..16508
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 116: ids 16557..16575
+    labeled 2
+  batch 117: ids 16582..16612
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+    checkpoint @ 120/141 batches; labeled≈268; ~0.3 q/s
+  batch 118: ids 16617..16632
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 119: ids 16647..16667
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 120: ids 16681..16712
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 129: ids 17032..17064
+    labeled 3
+  batch 130: ids 17074..17090
+    labeled 3
+  batch 124: ids 16860..16874
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 126: ids 16929..16963
+    labeled 0
+  batch 125: ids 16888..16906
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 133: ids 17220..17229
+    labeled 3
+  batch 127: ids 16968..17000
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 138: ids 17291..17305
+    labeled 3
+  batch 134: ids 17234..17236
+    labeled 3
+    checkpoint @ 132/141 batches; labeled≈283; ~0.2 q/s
+  batch 141: ids 17353..17353
+    labeled 1
+  batch 135: ids 17240..17247
+    labeled 3
+  batch 128: ids 17024..17030
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 131: ids 17093..17132
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 132: ids 17211..17218
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 136: ids 17248..17258
+    labeled 3
+  batch 139: ids 17319..17337
+    labeled 2
+  batch 137: ids 17259..17274
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+  batch 140: ids 17338..17351
+    ERROR: Could not parse JSON: Expecting value: line 1 column 1 (char 0)
+Done in 21.4 min. Newly labeled this run ≈ 292. Still needing work: 129

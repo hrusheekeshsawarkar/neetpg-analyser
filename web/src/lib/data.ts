@@ -107,6 +107,75 @@ export function loadAskTypeBySubject(): Array<{
   }));
 }
 
+export function loadSubjectTotals(): Array<{
+  subject: string;
+  question_count: number;
+  share: number;
+}> {
+  const p = publicData("subject_totals.csv");
+  if (!existsSync(p)) return [];
+  return parseCsv(readFileSync(p, "utf8")).map((r) => ({
+    subject: r.subject,
+    question_count: Number(r.question_count),
+    share: Number(r.share),
+  }));
+}
+
+export function loadYearSubjectMatrix(): {
+  years: number[];
+  subjects: string[];
+  matrix: Record<string, Record<number, number>>;
+} {
+  const p = publicData("year_subject_matrix.csv");
+  if (!existsSync(p)) return { years: [], subjects: [], matrix: {} };
+  const rows = parseCsv(readFileSync(p, "utf8"));
+  if (!rows.length) return { years: [], subjects: [], matrix: {} };
+  const subjects = Object.keys(rows[0]).filter((k) => k !== "year");
+  const years: number[] = [];
+  const matrix: Record<string, Record<number, number>> = {};
+  for (const s of subjects) matrix[s] = {};
+  for (const r of rows) {
+    const y = Number(r.year);
+    years.push(y);
+    for (const s of subjects) {
+      matrix[s][y] = Number(r[s] || 0);
+    }
+  }
+  return { years, subjects, matrix };
+}
+
+export function loadCleanConcepts(): Array<{
+  topic: string;
+  concept: string;
+  count: number;
+}> {
+  const p = publicData("top_concepts_clean.csv");
+  if (!existsSync(p)) return [];
+  return parseCsv(readFileSync(p, "utf8")).map((r) => ({
+    topic: r.topic,
+    concept: r.concept,
+    count: Number(r.count),
+  }));
+}
+
+export function loadAskTypeShare(): Array<{
+  subject: string;
+  ask_type: string;
+  count: number;
+  share: number;
+}> {
+  const p = publicData("ask_type_share.csv");
+  if (!existsSync(p)) {
+    return loadAskTypeBySubject().map((r) => ({ ...r, share: 0 }));
+  }
+  return parseCsv(readFileSync(p, "utf8")).map((r) => ({
+    subject: r.subject,
+    ask_type: r.ask_type,
+    count: Number(r.count),
+    share: Number(r.share),
+  }));
+}
+
 export function loadPackMarkdown(slug: string): string | null {
   const p = publicData("packs", `${slug}.md`);
   if (!existsSync(p)) return null;

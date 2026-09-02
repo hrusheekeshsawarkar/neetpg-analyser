@@ -280,6 +280,10 @@ def sync_web_public(out: Path) -> None:
         ("overlaps.csv", "overlaps.csv"),
         ("drift.csv", "drift.csv"),
         ("ask_type_by_subject.csv", "ask_type_by_subject.csv"),
+        ("subject_totals.csv", "subject_totals.csv"),
+        ("top_concepts_clean.csv", "top_concepts_clean.csv"),
+        ("ask_type_share.csv", "ask_type_share.csv"),
+        ("year_subject_matrix.csv", "year_subject_matrix.csv"),
     ]
 
     for src_name, dest_name in mapping:

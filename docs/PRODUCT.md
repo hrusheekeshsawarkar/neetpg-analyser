@@ -105,6 +105,16 @@ Env (see root `.env.example` + `web/.env.example`):
 | v1.5 | Optional Python BM25/synonym retrieval behind same API |
 | v2 | Chat tutor (cite-only), post-exam validation page |
 
+## Infographics
+
+Regenerate improved static plots + UI CSVs:
+
+```bash
+PYTHONPATH=analysis python3 analysis/export_viz_data.py
+```
+
+Live hub: `/insights` (subject share, year×subject heatmap, ask-type mix, importance bars, cleaned concepts). Home / Priorities / Subjects reuse the same chart components.
+
 ## Out of scope (v1)
 
 Always-on Python RAG microservice, payments, hosting exam images, replacing the offline pipeline.

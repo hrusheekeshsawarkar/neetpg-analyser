@@ -6,6 +6,7 @@ import { motion } from "framer-motion";
 
 const links = [
   { href: "/priorities", label: "Priorities" },
+  { href: "/insights", label: "Insights" },
   { href: "/subjects", label: "Subjects" },
   { href: "/overlaps", label: "Overlaps" },
   { href: "/drift", label: "Drift" },

@@ -1,13 +1,23 @@
 import Link from "next/link";
 import { FadeIn } from "@/components/Motion";
-import { loadPriorities, loadTopicStats } from "@/lib/data";
+import {
+  SubjectShareChart,
+  TopicScoreChart,
+} from "@/components/viz/Charts";
+import {
+  loadPriorities,
+  loadSubjectTotals,
+  loadTopicStats,
+} from "@/lib/data";
 import { MBBS_SUBJECTS, subjectToSlug } from "@/lib/types";
 
 export default function HomePage() {
   const priorities = loadPriorities();
   const stats = loadTopicStats();
+  const totals = loadSubjectTotals();
   const due = stats.filter((t) => t.due_for_return).length;
   const must = priorities.must_study_topics?.length ?? 0;
+  const mustTopics = (priorities.must_study_topics || []).slice(0, 15);
 
   return (
     <div className="space-y-14">
@@ -27,7 +37,7 @@ export default function HomePage() {
         </h1>
         <p className="mt-4 max-w-xl text-[var(--muted)]">
           Frequency, recurrence, and due-for-return signals across ~18k memory-based questions.
-          Dive into similar stems when you sign in.
+          Start with the priority list or explore interactive infographics.
         </p>
         <div className="mt-8 flex flex-wrap gap-3">
           <Link
@@ -35,6 +45,12 @@ export default function HomePage() {
             className="rounded-md bg-[var(--accent)] px-5 py-2.5 text-sm font-semibold text-[#042f2e]"
           >
             Next-exam priority list
+          </Link>
+          <Link
+            href="/insights"
+            className="rounded-md border border-[var(--line)] px-5 py-2.5 text-sm text-[var(--ink)]"
+          >
+            Infographics
           </Link>
           <Link
             href="/subjects"
@@ -59,21 +75,39 @@ export default function HomePage() {
         </div>
       </FadeIn>
 
+      <FadeIn delay={0.05} className="grid gap-6 lg:grid-cols-2">
+        <TopicScoreChart data={mustTopics} title="Must-study snapshot" />
+        <SubjectShareChart data={totals} compact />
+      </FadeIn>
+
       <FadeIn delay={0.1}>
-        <h2 className="font-display text-xl font-semibold">19 taught subjects</h2>
-        <p className="mt-1 text-sm text-[var(--muted)]">
-          Open a subject for frequency-ranked topics and due watchlists.
-        </p>
+        <div className="flex items-end justify-between gap-4">
+          <div>
+            <h2 className="font-display text-xl font-semibold">19 taught subjects</h2>
+            <p className="mt-1 text-sm text-[var(--muted)]">
+              Open a subject for frequency-ranked topics and due watchlists.
+            </p>
+          </div>
+          <Link href="/insights" className="text-sm text-[var(--accent)] hover:underline">
+            Full insights →
+          </Link>
+        </div>
         <div className="mt-4 grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-4">
-          {MBBS_SUBJECTS.map((s) => (
-            <Link
-              key={s}
-              href={`/subjects/${subjectToSlug(s)}`}
-              className="surface rounded-lg px-3 py-3 text-sm transition hover:border-[var(--accent)]/40"
-            >
-              {s}
-            </Link>
-          ))}
+          {MBBS_SUBJECTS.map((s) => {
+            const n = totals.find((t) => t.subject === s)?.question_count;
+            return (
+              <Link
+                key={s}
+                href={`/subjects/${subjectToSlug(s)}`}
+                className="surface rounded-lg px-3 py-3 text-sm transition hover:border-[var(--accent)]/40"
+              >
+                <div>{s}</div>
+                {n != null && (
+                  <div className="mt-1 text-xs text-[var(--muted)]">{n.toLocaleString()} Qs</div>
+                )}
+              </Link>
+            );
+          })}
         </div>
       </FadeIn>
     </div>

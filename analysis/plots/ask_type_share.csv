@@ -1,0 +1,166 @@
+subject,ask_type,count,share
+Anaesthesia,anatomy_structure,11,0.046218487394957986
+Anaesthesia,diagnosis,9,0.037815126050420166
+Anaesthesia,drug_of_choice,30,0.12605042016806722
+Anaesthesia,epidemiology,2,0.008403361344537815
+Anaesthesia,image_identification,7,0.029411764705882353
+Anaesthesia,investigation,18,0.07563025210084033
+Anaesthesia,management,53,0.22268907563025211
+Anaesthesia,mechanism,43,0.18067226890756302
+Anaesthesia,other,65,0.27310924369747897
+Anatomy,anatomy_structure,1359,0.8790426908150065
+Anatomy,diagnosis,37,0.023932729624838292
+Anatomy,epidemiology,2,0.00129366106080207
+Anatomy,image_identification,37,0.023932729624838292
+Anatomy,investigation,1,0.000646830530401035
+Anatomy,management,1,0.000646830530401035
+Anatomy,mechanism,70,0.045278137128072445
+Anatomy,other,39,0.025226390685640362
+Biochemistry,anatomy_structure,12,0.009787928221859706
+Biochemistry,diagnosis,117,0.09543230016313213
+Biochemistry,drug_of_choice,2,0.0016313213703099511
+Biochemistry,epidemiology,2,0.0016313213703099511
+Biochemistry,image_identification,6,0.004893964110929853
+Biochemistry,investigation,61,0.049755301794453505
+Biochemistry,management,10,0.008156606851549755
+Biochemistry,mechanism,632,0.5154975530179445
+Biochemistry,other,384,0.3132137030995106
+Community Medicine,anatomy_structure,1,0.0008741258741258741
+Community Medicine,diagnosis,17,0.01486013986013986
+Community Medicine,drug_of_choice,4,0.0034965034965034965
+Community Medicine,epidemiology,450,0.39335664335664333
+Community Medicine,image_identification,9,0.007867132867132868
+Community Medicine,investigation,26,0.022727272727272728
+Community Medicine,management,136,0.11888111888111888
+Community Medicine,mechanism,15,0.013111888111888112
+Community Medicine,other,486,0.42482517482517484
+Dermatology,anatomy_structure,5,0.013333333333333334
+Dermatology,diagnosis,205,0.5466666666666666
+Dermatology,drug_of_choice,14,0.037333333333333336
+Dermatology,epidemiology,15,0.04
+Dermatology,image_identification,31,0.08266666666666667
+Dermatology,investigation,9,0.024
+Dermatology,management,30,0.08
+Dermatology,mechanism,23,0.06133333333333333
+Dermatology,other,43,0.11466666666666667
+ENT,anatomy_structure,99,0.16694772344013492
+ENT,diagnosis,159,0.26812816188870153
+ENT,drug_of_choice,4,0.006745362563237774
+ENT,epidemiology,23,0.0387858347386172
+ENT,image_identification,27,0.045531197301854974
+ENT,investigation,57,0.09612141652613827
+ENT,management,106,0.178752107925801
+ENT,mechanism,55,0.09274873524451939
+ENT,other,63,0.10623946037099494
+Forensic Medicine,anatomy_structure,7,0.010542168674698794
+Forensic Medicine,diagnosis,115,0.17319277108433734
+Forensic Medicine,drug_of_choice,3,0.004518072289156626
+Forensic Medicine,epidemiology,5,0.007530120481927711
+Forensic Medicine,image_identification,16,0.024096385542168676
+Forensic Medicine,investigation,70,0.10542168674698796
+Forensic Medicine,management,8,0.012048192771084338
+Forensic Medicine,mechanism,55,0.08283132530120482
+Forensic Medicine,other,385,0.5798192771084337
+Medicine,anatomy_structure,17,0.011971830985915493
+Medicine,diagnosis,706,0.4971830985915493
+Medicine,drug_of_choice,45,0.03169014084507042
+Medicine,epidemiology,67,0.047183098591549295
+Medicine,image_identification,19,0.013380281690140845
+Medicine,investigation,115,0.08098591549295775
+Medicine,management,199,0.14014084507042254
+Medicine,mechanism,75,0.0528169014084507
+Medicine,other,177,0.12464788732394366
+Microbiology,anatomy_structure,10,0.00794912559618442
+Microbiology,diagnosis,383,0.30445151033386325
+Microbiology,drug_of_choice,7,0.005564387917329093
+Microbiology,epidemiology,105,0.0834658187599364
+Microbiology,image_identification,28,0.022257551669316374
+Microbiology,investigation,167,0.1327503974562798
+Microbiology,management,43,0.03418124006359301
+Microbiology,mechanism,187,0.14864864864864866
+Microbiology,other,328,0.26073131955484896
+OBG,anatomy_structure,71,0.07585470085470085
+OBG,diagnosis,214,0.22863247863247863
+OBG,drug_of_choice,39,0.041666666666666664
+OBG,epidemiology,59,0.06303418803418803
+OBG,image_identification,20,0.021367521367521368
+OBG,investigation,84,0.08974358974358974
+OBG,management,247,0.2638888888888889
+OBG,mechanism,41,0.0438034188034188
+OBG,other,161,0.172008547008547
+Ophthalmology,anatomy_structure,95,0.11801242236024845
+Ophthalmology,diagnosis,324,0.40248447204968946
+Ophthalmology,drug_of_choice,17,0.02111801242236025
+Ophthalmology,epidemiology,24,0.02981366459627329
+Ophthalmology,image_identification,30,0.037267080745341616
+Ophthalmology,investigation,46,0.05714285714285714
+Ophthalmology,management,100,0.12422360248447205
+Ophthalmology,mechanism,65,0.08074534161490683
+Ophthalmology,other,104,0.12919254658385093
+Orthopedics,anatomy_structure,63,0.122568093385214
+Orthopedics,diagnosis,199,0.38715953307393
+Orthopedics,drug_of_choice,1,0.0019455252918287938
+Orthopedics,epidemiology,23,0.04474708171206226
+Orthopedics,image_identification,38,0.07392996108949416
+Orthopedics,investigation,15,0.029182879377431907
+Orthopedics,management,87,0.16926070038910507
+Orthopedics,mechanism,25,0.048638132295719845
+Orthopedics,other,63,0.122568093385214
+Pathology,anatomy_structure,8,0.007073386383731211
+Pathology,diagnosis,426,0.376657824933687
+Pathology,epidemiology,64,0.05658709106984969
+Pathology,image_identification,29,0.02564102564102564
+Pathology,investigation,86,0.07603890362511052
+Pathology,management,7,0.00618921308576481
+Pathology,mechanism,271,0.2396109637488948
+Pathology,other,240,0.21220159151193635
+Pediatrics,anatomy_structure,7,0.011627906976744186
+Pediatrics,diagnosis,246,0.40863787375415284
+Pediatrics,drug_of_choice,17,0.02823920265780731
+Pediatrics,epidemiology,43,0.07142857142857142
+Pediatrics,image_identification,6,0.009966777408637873
+Pediatrics,investigation,13,0.02159468438538206
+Pediatrics,management,106,0.1760797342192691
+Pediatrics,mechanism,19,0.03156146179401993
+Pediatrics,other,145,0.24086378737541528
+Pharmacology,anatomy_structure,1,0.0008058017727639
+Pharmacology,diagnosis,27,0.021756647864625302
+Pharmacology,drug_of_choice,281,0.2264302981466559
+Pharmacology,epidemiology,4,0.0032232070910556
+Pharmacology,image_identification,2,0.0016116035455278
+Pharmacology,investigation,10,0.008058017727639
+Pharmacology,management,97,0.0781627719580983
+Pharmacology,mechanism,419,0.33763094278807415
+Pharmacology,other,400,0.32232070910556004
+Physiology,anatomy_structure,42,0.05042016806722689
+Physiology,diagnosis,28,0.03361344537815126
+Physiology,image_identification,11,0.013205282112845138
+Physiology,investigation,22,0.026410564225690276
+Physiology,mechanism,505,0.6062424969987995
+Physiology,other,225,0.27010804321728693
+Psychiatry,anatomy_structure,3,0.005474452554744526
+Psychiatry,diagnosis,299,0.5456204379562044
+Psychiatry,drug_of_choice,15,0.02737226277372263
+Psychiatry,epidemiology,22,0.040145985401459854
+Psychiatry,investigation,7,0.012773722627737226
+Psychiatry,management,37,0.06751824817518248
+Psychiatry,mechanism,20,0.0364963503649635
+Psychiatry,other,145,0.2645985401459854
+Radiology,anatomy_structure,6,0.014423076923076924
+Radiology,diagnosis,72,0.17307692307692307
+Radiology,drug_of_choice,2,0.004807692307692308
+Radiology,epidemiology,1,0.002403846153846154
+Radiology,image_identification,163,0.3918269230769231
+Radiology,investigation,91,0.21875
+Radiology,management,13,0.03125
+Radiology,mechanism,15,0.036057692307692304
+Radiology,other,53,0.12740384615384615
+Surgery,anatomy_structure,49,0.07111756168359942
+Surgery,diagnosis,146,0.21190130624092887
+Surgery,drug_of_choice,6,0.008708272859216255
+Surgery,epidemiology,26,0.03773584905660377
+Surgery,image_identification,46,0.06676342525399129
+Surgery,investigation,43,0.062409288824383166
+Surgery,management,243,0.35268505079825835
+Surgery,mechanism,19,0.027576197387518143
+Surgery,other,111,0.16110304789550073

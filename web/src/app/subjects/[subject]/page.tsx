@@ -1,10 +1,11 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FadeIn } from "@/components/Motion";
-import { AskTypeChart, TopicScoreChart } from "@/components/viz/Charts";
+import { AskTypeChart, ConceptBars, TopicScoreChart } from "@/components/viz/Charts";
 import { WatchlistButton } from "@/components/WatchlistButton";
 import {
   loadAskTypeBySubject,
+  loadCleanConcepts,
   loadTopicStats,
   questionsForSubject,
 } from "@/lib/data";
@@ -31,6 +32,18 @@ export default async function SubjectPage({
   const due = topics.filter((t) => t.due_for_return);
   const askTypes = loadAskTypeBySubject().filter((a) => a.subject === subject);
   const sampleQs = questionsForSubject(subject, 12);
+  const topTopicNames = topics.slice(0, 6).map((t) => t.topic);
+  const allConcepts = loadCleanConcepts();
+  const conceptGroups = topTopicNames
+    .map((topic) => ({
+      topic,
+      concepts: allConcepts
+        .filter((c) => c.topic === topic)
+        .sort((a, b) => b.count - a.count)
+        .slice(0, 5),
+    }))
+    .filter((g) => g.concepts.length > 0)
+    .slice(0, 4);
 
   return (
     <div className="space-y-8">
@@ -78,15 +91,11 @@ export default async function SubjectPage({
       )}
 
       <section className="grid gap-6 md:grid-cols-2">
-        <div>
-          <h2 className="font-display mb-3 text-lg font-semibold">Topic importance</h2>
-          <TopicScoreChart data={topics} />
-        </div>
-        <div>
-          <h2 className="font-display mb-3 text-lg font-semibold">Ask-type mix</h2>
-          <AskTypeChart data={askTypes} />
-        </div>
+        <TopicScoreChart data={topics} />
+        <AskTypeChart data={askTypes} />
       </section>
+
+      {conceptGroups.length > 0 && <ConceptBars groups={conceptGroups} />}
 
       <section>
         <h2 className="font-display mb-3 text-lg font-semibold">Frequency-ranked topics</h2>

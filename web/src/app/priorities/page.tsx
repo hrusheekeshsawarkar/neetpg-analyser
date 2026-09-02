@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { FadeIn, StaggerItem, StaggerList } from "@/components/Motion";
+import { ImportanceBandBars } from "@/components/viz/Charts";
 import { loadPriorities } from "@/lib/data";
 import { subjectToSlug } from "@/lib/types";
 
@@ -71,6 +72,26 @@ export default function PrioritiesPage() {
           Priority list for the next exam
         </h1>
         <p className="mt-2 max-w-2xl text-sm text-[var(--muted)]">{data.disclaimer}</p>
+        <p className="mt-2 text-sm">
+          <Link href="/insights" className="text-[var(--accent)] hover:underline">
+            Open interactive insights →
+          </Link>
+        </p>
+      </FadeIn>
+
+      <FadeIn delay={0.05}>
+        <ImportanceBandBars
+          data={[
+            ...(data.must_study_topics || []),
+            ...(data.high_priority_topics || []),
+          ].map((t) => ({
+            topic: t.topic,
+            primary_subject: t.primary_subject,
+            importance_score: t.importance_score ?? 0,
+            priority_band: t.priority_band || "Must",
+            question_count: t.question_count ?? 0,
+          }))}
+        />
       </FadeIn>
 
       <StaggerList className="space-y-10">

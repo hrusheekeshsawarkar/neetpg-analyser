@@ -5,7 +5,7 @@
   --bg1: #0c2229;
   --bg2: #123038;
   --ink: #e8f2f4;
-  --muted: #8aa8b0;
+  --muted: #b8d0d6;
   --accent: #2dd4bf;
   --accent2: #f0b429;
   --danger: #f07178;
@@ -86,6 +86,10 @@ a {
   background: rgba(240, 180, 41, 0.12);
   color: var(--accent2);
   border: 1px solid rgba(240, 180, 41, 0.3);
+}
+
+.chart-sub {
+  color: #c5d9de;
 }
 
 .prose-pack {

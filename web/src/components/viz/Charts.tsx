@@ -13,12 +13,19 @@ import {
   YAxis,
 } from "recharts";
 
+const AXIS = "#c5d9de";
+const GRID = "rgba(45,212,191,0.1)";
+
 const tipStyle = {
   background: "#0c2229",
-  border: "1px solid rgba(45,212,191,0.25)",
+  border: "1px solid rgba(45,212,191,0.35)",
   borderRadius: 8,
   fontSize: 12,
+  color: "#e8f2f4",
 };
+
+const tipLabelStyle = { color: "#e8f2f4", fontWeight: 600 as const };
+const tipItemStyle = { color: "#c5d9de" };
 
 const BAND: Record<string, string> = {
   Must: "#f07178",
@@ -40,28 +47,35 @@ const ASK_COLORS = [
   "#38bdf8",
 ];
 
+function pctTick(v: number) {
+  return `${Math.round(Number(v))}%`;
+}
+
 function ChartShell({
   title,
   subtitle,
   children,
   tall = false,
+  extraTall = false,
 }: {
   title?: string;
   subtitle?: string;
   children: ReactNode;
   tall?: boolean;
+  extraTall?: boolean;
 }) {
+  const height = extraTall ? "h-[34rem]" : tall ? "h-96" : "h-72";
   return (
     <div className="rounded-xl surface p-4">
       {title && (
         <div className="mb-3">
-          <h3 className="font-display text-base font-semibold">{title}</h3>
+          <h3 className="font-display text-base font-semibold text-[var(--ink)]">{title}</h3>
           {subtitle && (
-            <p className="mt-0.5 text-xs text-[var(--muted)]">{subtitle}</p>
+            <p className="mt-0.5 text-xs chart-sub">{subtitle}</p>
           )}
         </div>
       )}
-      <div className={tall ? "h-96 w-full" : "h-72 w-full"}>{children}</div>
+      <div className={`${height} w-full`}>{children}</div>
     </div>
   );
 }
@@ -79,7 +93,7 @@ export function TopicScoreChart({
   title?: string;
 }) {
   const chartData = data.slice(0, 18).map((d) => ({
-    name: d.topic.length > 20 ? d.topic.slice(0, 18) + "…" : d.topic,
+    name: d.topic.length > 20 ? d.topic.slice(0, 18) + "..." : d.topic,
     full: d.topic,
     score: d.importance_score,
     count: d.question_count,
@@ -87,20 +101,29 @@ export function TopicScoreChart({
   }));
 
   return (
-    <ChartShell title={title} subtitle="Frequency × recurrence × recency">
+    <ChartShell title={title} subtitle="Frequency × recurrence × recency" tall>
       <ResponsiveContainer width="100%" height="100%">
         <BarChart data={chartData} layout="vertical" margin={{ left: 4, right: 12 }}>
-          <CartesianGrid stroke="rgba(45,212,191,0.08)" horizontal={false} />
-          <XAxis type="number" stroke="#8aa8b0" tick={{ fontSize: 11 }} domain={[0, 100]} />
+          <CartesianGrid stroke={GRID} horizontal={false} />
+          <XAxis
+            type="number"
+            stroke={AXIS}
+            tick={{ fill: AXIS, fontSize: 11 }}
+            domain={[0, 100]}
+            ticks={[0, 25, 50, 75, 100]}
+          />
           <YAxis
             type="category"
             dataKey="name"
             width={118}
-            stroke="#8aa8b0"
-            tick={{ fontSize: 10 }}
+            stroke={AXIS}
+            tick={{ fill: AXIS, fontSize: 10 }}
+            interval={0}
           />
           <Tooltip
             contentStyle={tipStyle}
+            labelStyle={tipLabelStyle}
+            itemStyle={tipItemStyle}
             formatter={(value, _n, item) => {
               const p = item?.payload as { count?: number; band?: string; full?: string };
               return [
@@ -137,18 +160,22 @@ export function AskTypeChart({
     <ChartShell title="Ask-type mix" subtitle="How this subject is tested">
       <ResponsiveContainer width="100%" height="100%">
         <BarChart data={chartData}>
-          <CartesianGrid stroke="rgba(45,212,191,0.08)" vertical={false} />
+          <CartesianGrid stroke={GRID} vertical={false} />
           <XAxis
             dataKey="name"
-            stroke="#8aa8b0"
-            tick={{ fontSize: 10 }}
+            stroke={AXIS}
+            tick={{ fill: AXIS, fontSize: 10 }}
             interval={0}
             angle={-18}
             textAnchor="end"
             height={58}
           />
-          <YAxis stroke="#8aa8b0" tick={{ fontSize: 11 }} />
-          <Tooltip contentStyle={tipStyle} />
+          <YAxis stroke={AXIS} tick={{ fill: AXIS, fontSize: 11 }} />
+          <Tooltip
+            contentStyle={tipStyle}
+            labelStyle={tipLabelStyle}
+            itemStyle={tipItemStyle}
+          />
           <Bar dataKey="count" fill="#f0b429" radius={[4, 4, 0, 0]} />
         </BarChart>
       </ResponsiveContainer>
@@ -173,26 +200,44 @@ export function SubjectShareChart({
     }));
 
   const shown = compact ? chartData.slice(-12) : chartData;
+  const n = shown.length;
 
   return (
     <ChartShell
       title="Questions by subject"
-      subtitle={compact ? "Top subjects by volume" : "All 19 taught MBBS subjects"}
-      tall={!compact}
+      subtitle={
+        compact
+          ? `Top ${n} subjects by volume`
+          : `All ${n} taught MBBS subjects`
+      }
+      tall={compact}
+      extraTall={!compact}
     >
       <ResponsiveContainer width="100%" height="100%">
-        <BarChart data={shown} layout="vertical" margin={{ left: 8, right: 16 }}>
-          <CartesianGrid stroke="rgba(45,212,191,0.08)" horizontal={false} />
-          <XAxis type="number" stroke="#8aa8b0" tick={{ fontSize: 11 }} />
+        <BarChart
+          data={shown}
+          layout="vertical"
+          margin={{ left: 8, right: 16, top: 4, bottom: 4 }}
+        >
+          <CartesianGrid stroke={GRID} horizontal={false} />
+          <XAxis
+            type="number"
+            stroke={AXIS}
+            tick={{ fill: AXIS, fontSize: 11 }}
+            allowDecimals={false}
+          />
           <YAxis
             type="category"
             dataKey="name"
-            width={120}
-            stroke="#8aa8b0"
-            tick={{ fontSize: 11 }}
+            width={128}
+            stroke={AXIS}
+            tick={{ fill: AXIS, fontSize: 11 }}
+            interval={0}
           />
           <Tooltip
             contentStyle={tipStyle}
+            labelStyle={tipLabelStyle}
+            itemStyle={tipItemStyle}
             formatter={(value, _n, item) => {
               const p = item?.payload as { pct?: number };
               return [`${value} (${p?.pct ?? 0}%)`, "Questions"];
@@ -214,7 +259,6 @@ export function YearSubjectHeatmap({
   subjects: string[];
   matrix: Record<string, Record<number, number>>;
 }) {
-  // Top subjects by total for readability
   const ranked = [...subjects]
     .map((s) => ({
       s,
@@ -224,14 +268,6 @@ export function YearSubjectHeatmap({
     .slice(0, 12)
     .map((x) => x.s);
 
-  let maxCell = 1;
-  for (const s of ranked) {
-    for (const y of years) {
-      maxCell = Math.max(maxCell, matrix[s]?.[y] || 0);
-    }
-  }
-
-  // Within-year share for color fairness
   const yearTotals: Record<number, number> = {};
   for (const y of years) {
     yearTotals[y] = subjects.reduce((a, s) => a + (matrix[s]?.[y] || 0), 0) || 1;
@@ -239,19 +275,21 @@ export function YearSubjectHeatmap({
 
   return (
     <div className="rounded-xl surface p-4">
-      <h3 className="font-display text-base font-semibold">Subject mix across years</h3>
-      <p className="mt-0.5 mb-3 text-xs text-[var(--muted)]">
+      <h3 className="font-display text-base font-semibold text-[var(--ink)]">
+        Subject mix across years
+      </h3>
+      <p className="mt-0.5 mb-3 text-xs chart-sub">
         Cell color = share of that year&apos;s questions (top 12 subjects)
       </p>
       <div className="overflow-x-auto">
         <table className="w-full min-w-[720px] border-separate border-spacing-0.5 text-[10px]">
           <thead>
             <tr>
-              <th className="sticky left-0 bg-[var(--bg1)] px-2 py-1 text-left text-[var(--muted)]">
+              <th className="sticky left-0 bg-[var(--bg1)] px-2 py-1 text-left chart-sub">
                 Subject
               </th>
               {years.map((y) => (
-                <th key={y} className="px-1 py-1 font-normal text-[var(--muted)]">
+                <th key={y} className="px-1 py-1 font-normal chart-sub">
                   {String(y).slice(2)}
                 </th>
               ))}
@@ -303,14 +341,14 @@ export function StackedAskTypeChart({
     bySub.get(r.subject)![r.ask_type] = (bySub.get(r.subject)![r.ask_type] || 0) + r.count;
     askTypes.add(r.ask_type);
   }
+  // Show all subjects with data (up to 19), sorted by volume
   const totals = [...bySub.entries()]
     .map(([subject, counts]) => ({
       subject,
       total: Object.values(counts).reduce((a, b) => a + b, 0),
       counts,
     }))
-    .sort((a, b) => b.total - a.total)
-    .slice(0, 10);
+    .sort((a, b) => b.total - a.total);
 
   const types = [...askTypes]
     .map((t) => ({
@@ -323,34 +361,69 @@ export function StackedAskTypeChart({
 
   const chartData = totals.map((row) => {
     const out: Record<string, string | number> = {
-      name: row.subject.length > 14 ? row.subject.slice(0, 12) + "…" : row.subject,
+      name: row.subject.length > 16 ? row.subject.slice(0, 14) + "..." : row.subject,
+      full: row.subject,
     };
     const sum = types.reduce((a, t) => a + (row.counts[t] || 0), 0) || 1;
-    for (const t of types) {
-      out[t] = +(((row.counts[t] || 0) / sum) * 100).toFixed(1);
-    }
+    let running = 0;
+    types.forEach((t, i) => {
+      let pct = +(((row.counts[t] || 0) / sum) * 100).toFixed(1);
+      // Last segment absorbs rounding so stack hits exactly 100
+      if (i === types.length - 1) {
+        pct = Math.max(0, +(100 - running).toFixed(1));
+      } else {
+        running += pct;
+      }
+      out[t] = pct;
+    });
     return out;
   });
 
   return (
     <ChartShell
       title="Ask-type mix by subject"
-      subtitle="% within subject (top 10 subjects × top ask types)"
-      tall
+      subtitle={`% within subject (${totals.length} subjects × top ask types)`}
+      extraTall
     >
       <ResponsiveContainer width="100%" height="100%">
-        <BarChart data={chartData} layout="vertical" margin={{ left: 4, right: 8 }}>
-          <CartesianGrid stroke="rgba(45,212,191,0.08)" horizontal={false} />
-          <XAxis type="number" domain={[0, 100]} stroke="#8aa8b0" tick={{ fontSize: 11 }} unit="%" />
+        <BarChart
+          data={chartData}
+          layout="vertical"
+          margin={{ left: 4, right: 8, top: 4, bottom: 4 }}
+        >
+          <CartesianGrid stroke={GRID} horizontal={false} />
+          <XAxis
+            type="number"
+            domain={[0, 100]}
+            ticks={[0, 25, 50, 75, 100]}
+            tickFormatter={pctTick}
+            stroke={AXIS}
+            tick={{ fill: AXIS, fontSize: 11 }}
+          />
           <YAxis
             type="category"
             dataKey="name"
-            width={100}
-            stroke="#8aa8b0"
-            tick={{ fontSize: 10 }}
+            width={110}
+            stroke={AXIS}
+            tick={{ fill: AXIS, fontSize: 10 }}
+            interval={0}
           />
-          <Tooltip contentStyle={tipStyle} />
-          <Legend wrapperStyle={{ fontSize: 11 }} />
+          <Tooltip
+            contentStyle={tipStyle}
+            labelStyle={tipLabelStyle}
+            itemStyle={tipItemStyle}
+            formatter={(value, name) => [`${Number(value).toFixed(1)}%`, String(name)]}
+            labelFormatter={(_, payload) => {
+              const p = payload?.[0]?.payload as { full?: string } | undefined;
+              return p?.full || "";
+            }}
+          />
+          <Legend
+            wrapperStyle={{ fontSize: 11, color: AXIS }}
+            formatter={(value) => (
+              <span style={{ color: AXIS }}>{value}</span>
+            )}
+          />
           {types.map((t, i) => (
             <Bar
               key={t}
@@ -373,8 +446,10 @@ export function ConceptBars({
 }) {
   return (
     <div className="rounded-xl surface p-4">
-      <h3 className="font-display text-base font-semibold">High-yield concepts</h3>
-      <p className="mt-0.5 mb-4 text-xs text-[var(--muted)]">
+      <h3 className="font-display text-base font-semibold text-[var(--ink)]">
+        High-yield concepts
+      </h3>
+      <p className="mt-0.5 mb-4 text-xs chart-sub">
         Cleaned labels (vignette stems filtered) within top topics
       </p>
       <div className="grid gap-4 sm:grid-cols-2">
@@ -386,9 +461,9 @@ export function ConceptBars({
               <ul className="space-y-1.5">
                 {g.concepts.map((c) => (
                   <li key={c.concept} className="text-xs">
-                    <div className="mb-0.5 flex justify-between gap-2 text-[var(--muted)]">
+                    <div className="mb-0.5 flex justify-between gap-2">
                       <span className="truncate text-[var(--ink)]">{c.concept}</span>
-                      <span className="tabular-nums">{c.count}</span>
+                      <span className="tabular-nums chart-sub">{c.count}</span>
                     </div>
                     <div className="h-1.5 overflow-hidden rounded-full bg-white/5">
                       <div
@@ -420,8 +495,10 @@ export function ImportanceBandBars({
 }) {
   return (
     <div className="rounded-xl surface p-4">
-      <h3 className="font-display text-base font-semibold">Must & high priority</h3>
-      <p className="mt-0.5 mb-4 text-xs text-[var(--muted)]">
+      <h3 className="font-display text-base font-semibold text-[var(--ink)]">
+        Must & high priority
+      </h3>
+      <p className="mt-0.5 mb-4 text-xs chart-sub">
         Screenshot-friendly score bars for the next exam
       </p>
       <ul className="space-y-2">
@@ -429,10 +506,10 @@ export function ImportanceBandBars({
           <li key={`${d.topic}-${d.primary_subject}`} className="text-sm">
             <div className="mb-1 flex flex-wrap items-baseline justify-between gap-2">
               <span>
-                <span className="font-medium">{d.topic}</span>
-                <span className="ml-2 text-xs text-[var(--muted)]">{d.primary_subject}</span>
+                <span className="font-medium text-[var(--ink)]">{d.topic}</span>
+                <span className="ml-2 text-xs chart-sub">{d.primary_subject}</span>
               </span>
-              <span className="tabular-nums text-xs text-[var(--muted)]">
+              <span className="tabular-nums text-xs chart-sub">
                 {d.importance_score.toFixed(1)} · n={d.question_count}
               </span>
             </div>

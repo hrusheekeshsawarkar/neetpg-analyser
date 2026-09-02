@@ -43,21 +43,24 @@ export function DriftChart({
           <CartesianGrid stroke="rgba(45,212,191,0.08)" vertical={false} />
           <XAxis
             dataKey="name"
-            stroke="#8aa8b0"
-            tick={{ fontSize: 10 }}
+            stroke="#c5d9de"
+            tick={{ fill: "#c5d9de", fontSize: 10 }}
             interval={0}
             angle={-28}
             textAnchor="end"
             height={70}
           />
-          <YAxis stroke="#8aa8b0" tick={{ fontSize: 11 }} unit="pp" />
+          <YAxis stroke="#c5d9de" tick={{ fill: "#c5d9de", fontSize: 11 }} unit="pp" />
           <ReferenceLine y={0} stroke="#8aa8b0" />
           <Tooltip
             contentStyle={{
               background: "#0c2229",
-              border: "1px solid rgba(45,212,191,0.25)",
+              border: "1px solid rgba(45,212,191,0.35)",
               borderRadius: 8,
+              color: "#e8f2f4",
             }}
+            labelStyle={{ color: "#e8f2f4" }}
+            itemStyle={{ color: "#c5d9de" }}
             formatter={(value, _n, item) => [
               `${value} pp`,
               (item?.payload as { full?: string })?.full || "Δ share",

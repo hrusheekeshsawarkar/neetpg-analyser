@@ -20,24 +20,26 @@ See `analysis/reports/extraction_gaps.md` for PDFs still not extracted.
 ```
 neetpg-analyser/
 ├── .env.example                 # API keys (copy → .env, never commit)
+├── docs/PRODUCT.md              # Live product spec
+├── docs/RAG.md                  # Hybrid retrieval design
+├── web/                         # Next.js + Supabase front end
 ├── neet-pg-papers/              # Source PDFs
-│   ├── nishant-bhushan/
-│   ├── collegedunia/
-│   ├── neetfmgeplans/
-│   └── collegehai/
 └── analysis/
-    ├── extract_*.py             # PDF → JSON
-    ├── clean_merge.py           # normalize + dedupe
-    ├── mbbs_taxonomy.py         # taught subjects + syllabus topics
-    ├── topic_rules.py           # keyword topic matcher
-    ├── classify_topics.py / classify_llm.py
-    ├── consolidate_topics.py    # map LLM spellings → syllabus topics
-    ├── remap_subjects.py        # map to 19 MBBS subjects
-    ├── analyze.py / analyze_extra.py / predict_priority.py
-    ├── generate_subject_packs.py
+    ├── sync/                    # schema.sql, seed + embed → Supabase
+    ├── extract_*.py
+    ├── … pipeline scripts …
     ├── data/merged_questions.json
     ├── plots/
     └── reports/
+```
+
+### Live product (web)
+
+See [`docs/PRODUCT.md`](docs/PRODUCT.md) and [`web/README.md`](web/README.md).
+
+```bash
+python3 analysis/sync/seed_supabase.py --local-only
+cd web && npm install && npm run dev
 ```
 
 ## Setup

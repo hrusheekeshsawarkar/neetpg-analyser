@@ -104,8 +104,11 @@ OBG, Pediatrics, Anaesthesia, Orthopedics, Radiology, Psychiatry, Dermatology
 
 ## Next actions for agents
 
-1. Run `extract_remaining.py --gaps` → merge → classify new rows  
-2. Finish residual `needs_label` (~100–150)  
-3. Tighten topic consolidation (force syllabus-only where safe)  
-4. Keep reports regenerated after any merge  
-5. Do **not** commit `.env` or API keys  
+1. Run `extract_remaining.py --gaps` → merge → classify new rows 
+2. Finish residual `needs_label` (~100–150) 
+3. Tighten topic consolidation (force syllabus-only where safe) 
+4. Keep reports regenerated after any merge; refresh product mirror via `python analysis/sync/seed_supabase.py --local-only`
+5. Product (`web/`): configure Supabase Google Auth + run `schema.sql` / seed / embed for live hybrid RAG
+6. Do **not** commit `.env` or API keys
+
+See `docs/PRODUCT.md` and `docs/RAG.md` for the live front-end + hybrid retrieval design.

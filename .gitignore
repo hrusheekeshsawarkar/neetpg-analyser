@@ -19,3 +19,9 @@ venv/
 # LLM run logs / checkpoints (may be large)
 analysis/data/classify_llm_run.log
 analysis/data/llm_classify_checkpoint.json
+
+# Product / Next.js
+web/node_modules/
+web/.next/
+web/.env.local
+analysis/data/web_mirror/

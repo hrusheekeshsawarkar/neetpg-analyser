@@ -8,56 +8,119 @@ type SimNode = {
   label: string;
   isSubject: boolean;
   w: number;
-  x: number;
-  y: number;
-  vx: number;
-  vy: number;
+  hx: number;
+  hy: number;
+  phase: number;
+  angle: number;
 };
 
 type Edge = { a: string; b: string; w: number };
 
 function shortLabel(id: string) {
   const raw = id.replace(/^SUBJ:/, "");
-  return raw.length > 18 ? raw.slice(0, 16) + "…" : raw;
+  if (raw.length <= 15) return raw;
+  return raw.slice(0, 13) + "…";
+}
+
+function edgeKey(a: string, b: string) {
+  return a < b ? `${a}||${b}` : `${b}||${a}`;
+}
+
+function easeOutCubic(t: number) {
+  return 1 - Math.pow(1 - Math.min(1, Math.max(0, t)), 3);
 }
 
 function buildGraph(rows: OverlapRow[], W: number, H: number) {
-  const weights = new Map<string, number>();
-  const edges: Edge[] = [];
-  for (const r of rows.slice(0, 36)) {
-    weights.set(r.item_a, (weights.get(r.item_a) || 0) + r.co_occurrence);
-    weights.set(r.item_b, (weights.get(r.item_b) || 0) + r.co_occurrence);
-    edges.push({ a: r.item_a, b: r.item_b, w: r.co_occurrence });
+  const undirected = new Map<string, Edge>();
+  for (const r of rows) {
+    if (r.item_a === r.item_b) continue;
+    const key = edgeKey(r.item_a, r.item_b);
+    const prev = undirected.get(key);
+    if (!prev || r.co_occurrence > prev.w) {
+      undirected.set(key, { a: r.item_a, b: r.item_b, w: r.co_occurrence });
+    }
   }
-  const ids = [...weights.keys()];
+
+  const ranked = [...undirected.values()].sort((a, b) => b.w - a.w);
+  const subjectEdges = ranked.filter(
+    (e) => e.a.startsWith("SUBJ:") && e.b.startsWith("SUBJ:"),
+  );
+  const otherEdges = ranked.filter(
+    (e) => !(e.a.startsWith("SUBJ:") && e.b.startsWith("SUBJ:")),
+  );
+  // Clean constellation: mostly subjects + a few hot topic pairs
+  const edges = [...subjectEdges.slice(0, 16), ...otherEdges.slice(0, 6)];
+
+  const weights = new Map<string, number>();
+  for (const e of edges) {
+    weights.set(e.a, (weights.get(e.a) || 0) + e.w);
+    weights.set(e.b, (weights.get(e.b) || 0) + e.w);
+  }
+
+  const subjects = [...weights.keys()]
+    .filter((id) => id.startsWith("SUBJ:"))
+    .sort((a, b) => weights.get(b)! - weights.get(a)!);
+  const topics = [...weights.keys()]
+    .filter((id) => !id.startsWith("SUBJ:"))
+    .sort((a, b) => weights.get(b)! - weights.get(a)!);
+
   const cx = W / 2;
-  const cy = H / 2;
-  const nodes: SimNode[] = ids.map((id, i) => {
-    const angle = (i / Math.max(ids.length, 1)) * Math.PI * 2;
-    const radius = 100 + (i % 5) * 30;
-    return {
+  const cy = H / 2 - 12;
+  const nodes: SimNode[] = [];
+
+  // Inner ring — subjects (even spacing)
+  subjects.forEach((id, i) => {
+    const angle = -Math.PI / 2 + (i / Math.max(subjects.length, 1)) * Math.PI * 2;
+    const radius = 128;
+    nodes.push({
       id,
       label: shortLabel(id),
-      isSubject: id.startsWith("SUBJ:"),
+      isSubject: true,
       w: weights.get(id) || 1,
-      x: cx + Math.cos(angle) * radius,
-      y: cy + Math.sin(angle) * radius,
-      vx: 0,
-      vy: 0,
-    };
+      hx: cx + Math.cos(angle) * radius,
+      hy: cy + Math.sin(angle) * radius,
+      phase: i * 0.9,
+      angle,
+    });
   });
-  return { nodes, edges };
+
+  // Outer ring — topics (offset so labels don't stack on subjects)
+  topics.forEach((id, i) => {
+    const angle =
+      -Math.PI / 2 +
+      Math.PI / Math.max(topics.length, 1) +
+      (i / Math.max(topics.length, 1)) * Math.PI * 2;
+    const radius = 205;
+    nodes.push({
+      id,
+      label: shortLabel(id),
+      isSubject: false,
+      w: weights.get(id) || 1,
+      hx: cx + Math.cos(angle) * radius,
+      hy: cy + Math.sin(angle) * radius,
+      phase: i * 1.3 + 2,
+      angle,
+    });
+  });
+
+  return { nodes, edges, cx, cy };
 }
 
-/**
- * Client-only animated overlap map (canvas 2D).
- * Mount-gated to avoid SSR hydration mismatches; no WebGL/font CDN deps.
- */
+function neighborsOf(id: string, edges: Edge[]) {
+  const set = new Set<string>();
+  for (const e of edges) {
+    if (e.a === id) set.add(e.b);
+    if (e.b === id) set.add(e.a);
+  }
+  return set;
+}
+
 export function OverlapGraph({ rows }: { rows: OverlapRow[] }) {
   const W = 960;
-  const H = 440;
+  const H = 500;
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const hoverRef = useRef<string | null>(null);
+  const hoverBlend = useRef(0);
   const [mounted, setMounted] = useState(false);
   const [hoverLabel, setHoverLabel] = useState<string | null>(null);
 
@@ -77,108 +140,161 @@ export function OverlapGraph({ rows }: { rows: OverlapRow[] }) {
     canvas.height = H * dpr;
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
 
-    const nodes = graph.nodes.map((n) => ({ ...n }));
-    const edges = graph.edges;
+    const { nodes, edges, cx, cy } = graph;
     const maxW = Math.max(...nodes.map((n) => n.w), 1);
     const maxE = Math.max(...edges.map((e) => e.w), 1);
-    let frame = 0;
+    const pos = new Map(nodes.map((n) => [n.id, { x: n.hx, y: n.hy }]));
+    const start = performance.now();
     let raf = 0;
 
-    const draw = () => {
-      frame += 1;
-      const byId = new Map(nodes.map((n) => [n.id, n]));
+    const radiusOf = (w: number) => 9 + 13 * Math.sqrt(w / maxW);
 
-      for (let i = 0; i < nodes.length; i++) {
-        for (let j = i + 1; j < nodes.length; j++) {
-          const a = nodes[i];
-          const b = nodes[j];
-          let dx = a.x - b.x;
-          let dy = a.y - b.y;
-          const dist = Math.hypot(dx, dy) || 0.01;
-          const force = 1100 / (dist * dist);
-          dx = (dx / dist) * force;
-          dy = (dy / dist) * force;
-          a.vx += dx;
-          a.vy += dy;
-          b.vx -= dx;
-          b.vy -= dy;
-        }
-      }
+    const draw = (now: number) => {
+      const elapsed = (now - start) / 1000;
+      const intro = easeOutCubic(elapsed / 1.0);
+      const t = elapsed;
 
-      for (const e of edges) {
-        const a = byId.get(e.a);
-        const b = byId.get(e.b);
-        if (!a || !b) continue;
-        const dx = b.x - a.x;
-        const dy = b.y - a.y;
-        const dist = Math.hypot(dx, dy) || 0.01;
-        const ideal = 125 - 45 * (e.w / maxE);
-        const force = (dist - ideal) * 0.022;
-        a.vx += (dx / dist) * force;
-        a.vy += (dy / dist) * force;
-        b.vx -= (dx / dist) * force;
-        b.vy -= (dy / dist) * force;
-      }
+      const target = hoverRef.current ? 1 : 0;
+      hoverBlend.current += (target - hoverBlend.current) * 0.14;
+      const hA = hoverBlend.current;
+      const hover = hoverRef.current;
+      const neigh = hover ? neighborsOf(hover, edges) : null;
 
-      const cx = W / 2;
-      const cy = H / 2;
-      const t = frame * 0.004;
-      for (const n of nodes) {
-        n.vx += (cx - n.x) * 0.0045;
-        n.vy += (cy - n.y) * 0.0045;
-        n.vx += Math.cos(t + n.w * 0.01) * 0.02;
-        n.vy += Math.sin(t * 0.85 + n.w * 0.01) * 0.02;
-        n.vx *= 0.84;
-        n.vy *= 0.84;
-        n.x = Math.min(W - 48, Math.max(48, n.x + n.vx));
-        n.y = Math.min(H - 36, Math.max(36, n.y + n.vy));
-      }
-
-      // background
-      const grad = ctx.createRadialGradient(cx, cy * 0.9, 40, cx, cy, 420);
-      grad.addColorStop(0, "#123038");
-      grad.addColorStop(1, "#07151a");
-      ctx.fillStyle = grad;
+      // Background
+      const bg = ctx.createRadialGradient(cx, cy, 30, cx, cy, 460);
+      bg.addColorStop(0, "#1a4550");
+      bg.addColorStop(0.45, "#0e2a32");
+      bg.addColorStop(1, "#07151a");
+      ctx.fillStyle = bg;
       ctx.fillRect(0, 0, W, H);
 
-      const hover = hoverRef.current;
+      // Decorative rings
+      for (const [rad, alpha] of [
+        [128, 0.1],
+        [205, 0.07],
+      ] as const) {
+        ctx.beginPath();
+        ctx.arc(cx, cy, rad, 0, Math.PI * 2);
+        ctx.strokeStyle = `rgba(45,212,191,${alpha})`;
+        ctx.lineWidth = 1;
+        ctx.stroke();
+      }
 
+      // Slow orbital drift of the whole constellation + per-node float
+      const orbit = t * 0.12;
+      for (const n of nodes) {
+        const rot = n.angle + orbit;
+        const baseR = Math.hypot(n.hx - cx, n.hy - cy);
+        const amp = n.isSubject ? 2.2 : 3.5;
+        const breathe = Math.sin(t * 0.7 + n.phase) * amp;
+        const x = cx + Math.cos(rot) * (baseR + breathe * 0.15);
+        const y = cy + Math.sin(rot) * (baseR + breathe * 0.15);
+        // tiny tangential sway
+        const tx = -Math.sin(rot) * Math.cos(t * 0.55 + n.phase) * amp;
+        const ty = Math.cos(rot) * Math.sin(t * 0.5 + n.phase) * amp * 0.85;
+        pos.set(n.id, { x: x + tx * 0.35, y: y + ty * 0.35 });
+      }
+
+      // Edges — draw under nodes
       for (const e of edges) {
-        const a = byId.get(e.a);
-        const b = byId.get(e.b);
+        const a = pos.get(e.a);
+        const b = pos.get(e.b);
         if (!a || !b) continue;
-        const active = hover === e.a || hover === e.b;
+
+        const onPath =
+          !!hover &&
+          ((e.a === hover && neigh?.has(e.b)) || (e.b === hover && neigh?.has(e.a)));
+
+        let alpha = (0.22 + 0.55 * (e.w / maxE)) * intro;
+        if (hA > 0.02) {
+          alpha = onPath ? 0.25 + 0.7 * hA : alpha * (1 - 0.88 * hA);
+        }
+
+        const mx = (a.x + b.x) / 2;
+        const my = (a.y + b.y) / 2;
+        const dx = b.x - a.x;
+        const dy = b.y - a.y;
+        const cxOff = -dy * 0.05;
+        const cyOff = dx * 0.05;
+
         ctx.beginPath();
         ctx.moveTo(a.x, a.y);
-        ctx.lineTo(b.x, b.y);
-        ctx.strokeStyle = active ? "#f0b429" : "#2dd4bf";
-        ctx.globalAlpha = active ? 0.9 : 0.12 + 0.45 * (e.w / maxE);
-        ctx.lineWidth = active ? 2.4 : 1 + 2 * (e.w / maxE);
+        ctx.quadraticCurveTo(mx + cxOff, my + cyOff, b.x, b.y);
+        ctx.strokeStyle = onPath ? "#f0b429" : "#5eead4";
+        ctx.globalAlpha = alpha;
+        ctx.lineWidth = onPath ? 3 : 1.2 + 2.4 * (e.w / maxE);
+        ctx.lineCap = "round";
         ctx.stroke();
         ctx.globalAlpha = 1;
       }
 
-      for (const n of nodes) {
-        const r = 8 + 16 * (n.w / maxW);
-        const fill = n.isSubject ? "#f0b429" : "#2dd4bf";
-        const active = hover === n.id;
-        if (active) {
-          ctx.beginPath();
-          ctx.arc(n.x, n.y, r + 7, 0, Math.PI * 2);
-          ctx.fillStyle = fill;
-          ctx.globalAlpha = 0.2;
-          ctx.fill();
-          ctx.globalAlpha = 1;
+      // Nodes — stagger from center outward
+      const ordered = [...nodes].sort((a, b) => {
+        if (a.isSubject !== b.isSubject) return a.isSubject ? -1 : 1;
+        return b.w - a.w;
+      });
+
+      ordered.forEach((n, i) => {
+        const delay = 0.06 + i * 0.035;
+        const appear = easeOutCubic((elapsed - delay) / 0.6);
+        if (appear <= 0.01) return;
+
+        const p = pos.get(n.id)!;
+        const x = cx + (p.x - cx) * appear;
+        const y = cy + (p.y - cy) * appear;
+        const r = radiusOf(n.w) * (0.4 + 0.6 * appear);
+
+        const isHover = hover === n.id;
+        const isNeigh = Boolean(neigh?.has(n.id));
+        let nodeAlpha = intro;
+        if (hA > 0.02) {
+          nodeAlpha = isHover || isNeigh ? 1 : 1 - 0.8 * hA;
         }
+
+        const pulse = 1 + Math.sin(t * 2.4 + n.phase) * 0.05;
+        const liveAngle = n.angle + orbit;
+
+        // Glow
+        ctx.globalAlpha = nodeAlpha * (isHover ? 0.6 : 0.32);
         ctx.beginPath();
-        ctx.arc(n.x, n.y, r, 0, Math.PI * 2);
-        ctx.fillStyle = fill;
+        ctx.arc(x, y, r * pulse + (isHover ? 14 : 8), 0, Math.PI * 2);
+        ctx.fillStyle = n.isSubject ? "rgba(240,180,41,0.55)" : "rgba(45,212,191,0.5)";
         ctx.fill();
-        ctx.fillStyle = active ? "#ffffff" : "#d5e6ea";
-        ctx.font = `${active ? "600" : "400"} 11px var(--font-ibm), system-ui, sans-serif`;
-        ctx.textAlign = "center";
-        ctx.fillText(n.label, n.x, n.y + r + 14);
-      }
+
+        // Core with highlight
+        ctx.globalAlpha = nodeAlpha;
+        const core = ctx.createRadialGradient(
+          x - r * 0.35,
+          y - r * 0.4,
+          0.5,
+          x,
+          y,
+          r,
+        );
+        core.addColorStop(0, n.isSubject ? "#fff3c4" : "#b8fff4");
+        core.addColorStop(0.45, n.isSubject ? "#f0b429" : "#2dd4bf");
+        core.addColorStop(1, n.isSubject ? "#c48410" : "#0f766e");
+        ctx.beginPath();
+        ctx.arc(x, y, r * pulse, 0, Math.PI * 2);
+        ctx.fillStyle = core;
+        ctx.fill();
+        ctx.strokeStyle = "rgba(255,255,255,0.4)";
+        ctx.lineWidth = 1.25;
+        ctx.stroke();
+
+        // Label outside along radial
+        const labelR = r * pulse + 16;
+        const lx = x + Math.cos(liveAngle) * labelR;
+        const ly = y + Math.sin(liveAngle) * labelR;
+        const cos = Math.cos(liveAngle);
+        ctx.globalAlpha = nodeAlpha * appear;
+        ctx.fillStyle = isHover || isNeigh ? "#ffffff" : "#d8ecef";
+        ctx.font = `${isHover ? 600 : 500} ${isHover ? 13 : 11.5}px ui-sans-serif, system-ui, sans-serif`;
+        ctx.textAlign = cos > 0.25 ? "left" : cos < -0.25 ? "right" : "center";
+        ctx.textBaseline = "middle";
+        ctx.fillText(n.label, lx, ly);
+        ctx.globalAlpha = 1;
+      });
 
       raf = requestAnimationFrame(draw);
     };
@@ -187,12 +303,16 @@ export function OverlapGraph({ rows }: { rows: OverlapRow[] }) {
       const rect = canvas.getBoundingClientRect();
       const x = ((ev.clientX - rect.left) / rect.width) * W;
       const y = ((ev.clientY - rect.top) / rect.height) * H;
-      let hit: SimNode | null = null;
+      let hit: (typeof nodes)[0] | null = null;
+      let best = Infinity;
       for (const n of nodes) {
-        const r = 10 + 16 * (n.w / maxW);
-        if (Math.hypot(n.x - x, n.y - y) <= r + 4) {
+        const p = pos.get(n.id);
+        if (!p) continue;
+        const r = radiusOf(n.w) + 8;
+        const d = Math.hypot(p.x - x, p.y - y);
+        if (d <= r && d < best) {
+          best = d;
           hit = n;
-          break;
         }
       }
       const next = hit?.id ?? null;
@@ -220,7 +340,7 @@ export function OverlapGraph({ rows }: { rows: OverlapRow[] }) {
 
   if (!rows.length) {
     return (
-      <div className="flex h-[420px] items-center justify-center rounded-xl surface text-sm text-[var(--muted)]">
+      <div className="flex h-[500px] items-center justify-center rounded-xl surface text-sm text-[var(--muted)]">
         No overlap data loaded.
       </div>
     );
@@ -228,7 +348,7 @@ export function OverlapGraph({ rows }: { rows: OverlapRow[] }) {
 
   if (!mounted) {
     return (
-      <div className="flex h-[420px] items-center justify-center rounded-xl surface text-sm text-[var(--muted)]">
+      <div className="flex h-[500px] items-center justify-center rounded-xl surface text-sm text-[var(--muted)]">
         Loading overlap graph…
       </div>
     );
@@ -238,22 +358,24 @@ export function OverlapGraph({ rows }: { rows: OverlapRow[] }) {
     <div className="relative overflow-hidden rounded-xl surface bg-[#07151a]">
       <canvas
         ref={canvasRef}
-        className="h-[420px] w-full"
+        className="h-[500px] w-full"
         style={{ display: "block" }}
         aria-label="Topic and subject co-occurrence graph"
       />
-      <div className="pointer-events-none absolute bottom-2 left-3 flex flex-wrap gap-3 text-[10px] text-[var(--muted)]">
+      <div className="pointer-events-none absolute bottom-3 left-3 flex flex-wrap items-center gap-3 text-[10px] text-[var(--muted)]">
         <span>
           <span className="mr-1 inline-block h-2 w-2 rounded-full bg-[var(--accent2)]" />
           Subject
         </span>
         <span>
           <span className="mr-1 inline-block h-2 w-2 rounded-full bg-[var(--accent)]" />
-          Topic / pair
+          Topic
         </span>
-        <span>Size ∝ co-occurrence · hover to highlight</span>
+        <span>Hover to focus links</span>
         {hoverLabel && (
-          <span className="text-[var(--ink)]">Selected: {hoverLabel}</span>
+          <span className="rounded-md bg-white/10 px-2 py-0.5 text-[var(--ink)]">
+            {hoverLabel}
+          </span>
         )}
       </div>
     </div>

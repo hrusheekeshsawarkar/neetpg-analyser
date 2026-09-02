@@ -1,4 +1,4 @@
-import { readFileSync, existsSync } from "fs";
+import { readFileSync, existsSync, realpathSync } from "fs";
 import path from "path";
 import type {
   DriftRow,
@@ -113,17 +113,30 @@ export function loadPackMarkdown(slug: string): string | null {
   return readFileSync(p, "utf8");
 }
 
-function questionsMirrorPath(): string {
-  if (process.env.QUESTIONS_MIRROR_PATH) return process.env.QUESTIONS_MIRROR_PATH;
+function questionsMirrorPath(): string | null {
+  if (process.env.QUESTIONS_MIRROR_PATH) {
+    try {
+      return realpathSync(process.env.QUESTIONS_MIRROR_PATH);
+    } catch {
+      return null;
+    }
+  }
   const candidates = [
+    // Prefer a real file under web/ (works on Vercel when Root Directory = web)
     path.join(process.cwd(), "data", "questions.json"),
     path.join(process.cwd(), "..", "analysis", "data", "web_mirror", "questions.json"),
     path.join(process.cwd(), "public", "data", "questions.json"),
   ];
   for (const c of candidates) {
-    if (existsSync(c)) return c;
+    try {
+      // realpathSync fails on dangling symlinks (e.g. gitignored web_mirror on Vercel)
+      if (!existsSync(c)) continue;
+      return realpathSync(c);
+    } catch {
+      continue;
+    }
   }
-  return candidates[1];
+  return null;
 }
 
 let questionsCache: QuestionRow[] | null = null;
@@ -132,7 +145,7 @@ let questionsById: Map<string, QuestionRow> | null = null;
 export function loadQuestions(): QuestionRow[] {
   if (questionsCache) return questionsCache;
   const p = questionsMirrorPath();
-  if (!existsSync(p)) {
+  if (!p) {
     questionsCache = [];
     questionsById = new Map();
     return questionsCache;

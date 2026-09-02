@@ -263,10 +263,14 @@ def upsert_packs(client, subjects_dir: Path) -> int:
 
 
 def sync_web_public(out: Path) -> None:
-    """Copy viz artifacts into web/public/data for Next.js static reads."""
-    web_data = ROOT / "web" / "public" / "data"
-    if not web_data.parent.exists():
+    """Copy viz + questions into web/ for Next.js (Vercel-safe; no symlinks)."""
+    import shutil
+
+    web_root = ROOT / "web"
+    if not web_root.exists():
         return
+
+    web_data = web_root / "public" / "data"
     web_data.mkdir(parents=True, exist_ok=True)
     packs = web_data / "packs"
     packs.mkdir(exist_ok=True)
@@ -277,7 +281,6 @@ def sync_web_public(out: Path) -> None:
         ("drift.csv", "drift.csv"),
         ("ask_type_by_subject.csv", "ask_type_by_subject.csv"),
     ]
-    import shutil
 
     for src_name, dest_name in mapping:
         src = out / src_name
@@ -286,6 +289,17 @@ def sync_web_public(out: Path) -> None:
     for path in (out / "packs").glob("*.md"):
         shutil.copy2(path, packs / path.name)
     print(f"  synced → {web_data}")
+
+    # Real file under web/data (not a symlink into gitignored analysis/web_mirror)
+    qsrc = out / "questions.json"
+    if qsrc.exists():
+        qdest_dir = web_root / "data"
+        qdest_dir.mkdir(parents=True, exist_ok=True)
+        qdest = qdest_dir / "questions.json"
+        if qdest.is_symlink() or qdest.exists():
+            qdest.unlink()
+        shutil.copy2(qsrc, qdest)
+        print(f"  synced questions → {qdest}")
 
 
 def export_local_mirror() -> Path:

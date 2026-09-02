@@ -12,14 +12,16 @@ npm install
 npm run dev
 ```
 
-Without Supabase, the app runs in **local mode**: public viz from `public/data/*`, and similar-question search uses the on-disk BM25-ish index over `../analysis/data/web_mirror/questions.json`.
+Without Supabase, the app runs in **local mode**: public viz from `public/data/*`, and similar-question search uses `data/questions.json` (copied by the seed script — do not symlink into gitignored `analysis/data/web_mirror/`).
 
 Refresh mirror data:
 
 ```bash
 python ../analysis/sync/seed_supabase.py --local-only
-# then re-copy CSVs/JSON into public/data if needed, or re-run the cp steps from the product plan
+# writes analysis/data/web_mirror/* and copies into web/public/data + web/data/questions.json
 ```
+
+**Vercel:** Root Directory = `web`, leave Output Directory empty, commit `web/data/questions.json` (~11MB) so explore works without Supabase.
 
 ## Supabase
 

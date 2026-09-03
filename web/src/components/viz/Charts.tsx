@@ -1,6 +1,7 @@
 "use client";
 
 import type { ReactNode } from "react";
+import Link from "next/link";
 import {
   Bar,
   BarChart,
@@ -12,6 +13,7 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
+import { ScoreMethodology } from "@/components/ScoreMethodology";
 
 const AXIS = "#c5d9de";
 const GRID = "rgba(45,212,191,0.1)";
@@ -274,22 +276,23 @@ export function YearSubjectHeatmap({
   }
 
   return (
-    <div className="rounded-xl surface p-4">
+    <div className="rounded-xl surface p-3 sm:p-4">
       <h3 className="font-display text-base font-semibold text-[var(--ink)]">
         Subject mix across years
       </h3>
-      <p className="mt-0.5 mb-3 text-xs chart-sub">
+      <p className="mt-0.5 mb-2 text-xs chart-sub">
         Cell color = share of that year&apos;s questions (top 12 subjects)
       </p>
-      <div className="overflow-x-auto">
-        <table className="w-full min-w-[720px] border-separate border-spacing-0.5 text-[10px]">
+      <p className="mb-2 text-[10px] chart-sub sm:hidden">Swipe sideways for years →</p>
+      <div className="-mx-1 overflow-x-auto overscroll-x-contain pb-1">
+        <table className="w-full min-w-[540px] border-separate border-spacing-0.5 text-[9px] sm:min-w-[720px] sm:text-[10px]">
           <thead>
             <tr>
-              <th className="sticky left-0 bg-[var(--bg1)] px-2 py-1 text-left chart-sub">
+              <th className="sticky left-0 z-10 bg-[#0c2229] px-1.5 py-1 text-left chart-sub sm:px-2">
                 Subject
               </th>
               {years.map((y) => (
-                <th key={y} className="px-1 py-1 font-normal chart-sub">
+                <th key={y} className="px-0.5 py-1 font-normal chart-sub sm:px-1">
                   {String(y).slice(2)}
                 </th>
               ))}
@@ -298,7 +301,7 @@ export function YearSubjectHeatmap({
           <tbody>
             {ranked.map((s) => (
               <tr key={s}>
-                <td className="sticky left-0 bg-[var(--bg1)] whitespace-nowrap px-2 py-0.5 text-[var(--ink)]">
+                <td className="sticky left-0 z-10 max-w-[5.5rem] truncate bg-[#0c2229] px-1.5 py-0.5 text-[var(--ink)] sm:max-w-none sm:whitespace-nowrap sm:px-2">
                   {s}
                 </td>
                 {years.map((y) => {
@@ -313,7 +316,7 @@ export function YearSubjectHeatmap({
                       style={{
                         background: `rgba(45, 212, 191, ${Math.min(alpha, 0.92)})`,
                         color: share > 0.12 ? "#042f2e" : "#9bb8c0",
-                        minWidth: 28,
+                        minWidth: 22,
                       }}
                     >
                       {n || "·"}
@@ -495,22 +498,35 @@ export function ImportanceBandBars({
 }) {
   return (
     <div className="rounded-xl surface p-4">
-      <h3 className="font-display text-base font-semibold text-[var(--ink)]">
-        Must & high priority
-      </h3>
-      <p className="mt-0.5 mb-4 text-xs chart-sub">
-        Screenshot-friendly score bars for the next exam
+      <div className="mb-1 flex flex-wrap items-center justify-between gap-2">
+        <h3 className="font-display text-base font-semibold text-[var(--ink)]">
+          Must & high priority
+        </h3>
+        <ScoreMethodology />
+      </div>
+      <p className="mb-4 text-xs chart-sub">
+        Shareable score bars — tap a score to see the weighting
       </p>
-      <ul className="space-y-2">
+      <ul className="space-y-2.5">
         {data.slice(0, 20).map((d) => (
           <li key={`${d.topic}-${d.primary_subject}`} className="text-sm">
             <div className="mb-1 flex flex-wrap items-baseline justify-between gap-2">
-              <span>
-                <span className="font-medium text-[var(--ink)]">{d.topic}</span>
+              <span className="min-w-0">
+                <Link
+                  href={`/topics/${encodeURIComponent(d.topic)}`}
+                  className="font-medium text-[var(--ink)] hover:text-[var(--accent)]"
+                >
+                  {d.topic}
+                </Link>
                 <span className="ml-2 text-xs chart-sub">{d.primary_subject}</span>
               </span>
-              <span className="tabular-nums text-xs chart-sub">
-                {d.importance_score.toFixed(1)} · n={d.question_count}
+              <span
+                className="shrink-0 tabular-nums text-xs font-semibold"
+                style={{ color: BAND[d.priority_band] || BAND.Medium }}
+                title="Importance score — open methodology above"
+              >
+                {d.importance_score.toFixed(1)}
+                <span className="ml-1 font-normal chart-sub">n={d.question_count}</span>
               </span>
             </div>
             <div className="h-2 overflow-hidden rounded-full bg-white/5">

@@ -1,9 +1,12 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FadeIn } from "@/components/Motion";
+import { ScoreMethodology } from "@/components/ScoreMethodology";
+import { TopicSparkline } from "@/components/TopicSparkline";
 import { AskTypeChart, ConceptBars, TopicScoreChart } from "@/components/viz/Charts";
 import { WatchlistButton } from "@/components/WatchlistButton";
 import {
+  getTopicYearSeries,
   loadAskTypeBySubject,
   loadCleanConcepts,
   loadTopicStats,
@@ -58,7 +61,8 @@ export default async function SubjectPage({
         <p className="mt-2 text-sm text-[var(--muted)]">
           {topics.length} scored topics · {due.length} due for return
         </p>
-        <div className="mt-4">
+        <div className="mt-3 flex flex-wrap items-center gap-3">
+          <ScoreMethodology compact />
           <Link
             href={`/packs/${slug}`}
             className="text-sm text-[var(--accent)] hover:underline"
@@ -74,18 +78,31 @@ export default async function SubjectPage({
             Due for return
           </h2>
           <div className="flex flex-wrap gap-2">
-            {due.slice(0, 12).map((t) => (
-              <div
-                key={t.topic}
-                className="surface flex items-center gap-2 rounded-lg px-3 py-2 text-sm"
-              >
-                <span>{t.topic}</span>
-                <span className="text-xs text-[var(--muted)]">
-                  gap {t.years_since_last}y
-                </span>
-                <WatchlistButton topic={t.topic} primarySubject={subject} />
-              </div>
-            ))}
+            {due.slice(0, 12).map((t) => {
+              const series = getTopicYearSeries(t.topic);
+              return (
+                <div
+                  key={t.topic}
+                  className="surface flex max-w-full flex-wrap items-center gap-2 rounded-lg px-3 py-2 text-sm"
+                >
+                  <Link
+                    href={`/topics/${encodeURIComponent(t.topic)}`}
+                    className="hover:text-[var(--accent)]"
+                  >
+                    {t.topic}
+                  </Link>
+                  <span className="text-xs text-[var(--muted)]">gap {t.years_since_last}y</span>
+                  {series && (
+                    <TopicSparkline
+                      years={series.years}
+                      values={series.values}
+                      dueGap={t.years_since_last}
+                    />
+                  )}
+                  <WatchlistButton topic={t.topic} primarySubject={subject} />
+                </div>
+              );
+            })}
           </div>
         </section>
       )}
@@ -99,34 +116,100 @@ export default async function SubjectPage({
 
       <section>
         <h2 className="font-display mb-3 text-lg font-semibold">Frequency-ranked topics</h2>
-        <div className="overflow-x-auto rounded-xl surface">
-          <table className="w-full min-w-[560px] text-left text-sm">
+
+        {/* Mobile cards */}
+        <ul className="space-y-3 md:hidden">
+          {topics.map((t) => {
+            const series = getTopicYearSeries(t.topic);
+            return (
+              <li key={t.topic} className="surface rounded-xl p-4">
+                <div className="flex items-start justify-between gap-3">
+                  <div className="min-w-0">
+                    <Link
+                      href={`/topics/${encodeURIComponent(t.topic)}`}
+                      className="font-medium hover:text-[var(--accent)]"
+                    >
+                      {t.topic}
+                    </Link>
+                    <div className="mt-1 text-xs chart-sub">
+                      {t.priority_band}
+                      {t.due_for_return ? ` · gap ${t.years_since_last}y` : ""}
+                    </div>
+                  </div>
+                  <div className="shrink-0 text-right">
+                    <div className="font-display text-lg tabular-nums text-[var(--accent2)]">
+                      {t.importance_score.toFixed(1)}
+                    </div>
+                    <div className="text-[10px] chart-sub">n={t.question_count}</div>
+                  </div>
+                </div>
+                {series && (
+                  <div className="mt-3">
+                    <TopicSparkline
+                      years={series.years}
+                      values={series.values}
+                      dueGap={t.years_since_last}
+                    />
+                  </div>
+                )}
+              </li>
+            );
+          })}
+        </ul>
+
+        {/* Desktop table */}
+        <div className="hidden overflow-x-auto rounded-xl surface md:block">
+          <table className="w-full min-w-[640px] text-left text-sm">
             <thead className="border-b border-[var(--line)] text-xs uppercase text-[var(--muted)]">
               <tr>
                 <th className="px-4 py-3">Topic</th>
                 <th className="px-4 py-3">Score</th>
                 <th className="px-4 py-3">Count</th>
+                <th className="px-4 py-3">Trend</th>
                 <th className="px-4 py-3">Band</th>
                 <th className="px-4 py-3"></th>
               </tr>
             </thead>
             <tbody>
-              {topics.map((t) => (
-                <tr key={t.topic} className="border-b border-[var(--line)]/50">
-                  <td className="px-4 py-2.5 font-medium">{t.topic}</td>
-                  <td className="px-4 py-2.5 tabular-nums">{t.importance_score.toFixed(1)}</td>
-                  <td className="px-4 py-2.5 tabular-nums">{t.question_count}</td>
-                  <td className="px-4 py-2.5 text-[var(--muted)]">{t.priority_band}</td>
-                  <td className="px-4 py-2.5">
-                    <Link
-                      href={`/explore?topic=${encodeURIComponent(t.topic)}&subject=${encodeURIComponent(subject)}`}
-                      className="text-xs text-[var(--accent)] hover:underline"
-                    >
-                      Explore Qs
-                    </Link>
-                  </td>
-                </tr>
-              ))}
+              {topics.map((t) => {
+                const series = getTopicYearSeries(t.topic);
+                return (
+                  <tr key={t.topic} className="border-b border-[var(--line)]/50">
+                    <td className="px-4 py-2.5 font-medium">
+                      <Link
+                        href={`/topics/${encodeURIComponent(t.topic)}`}
+                        className="hover:text-[var(--accent)]"
+                      >
+                        {t.topic}
+                      </Link>
+                    </td>
+                    <td className="px-4 py-2.5 tabular-nums">
+                      {t.importance_score.toFixed(1)}
+                    </td>
+                    <td className="px-4 py-2.5 tabular-nums">{t.question_count}</td>
+                    <td className="px-4 py-2.5">
+                      {series ? (
+                        <TopicSparkline
+                          years={series.years}
+                          values={series.values}
+                          dueGap={t.years_since_last}
+                        />
+                      ) : (
+                        <span className="chart-sub">—</span>
+                      )}
+                    </td>
+                    <td className="px-4 py-2.5 text-[var(--muted)]">{t.priority_band}</td>
+                    <td className="px-4 py-2.5">
+                      <Link
+                        href={`/explore?topic=${encodeURIComponent(t.topic)}&subject=${encodeURIComponent(subject)}`}
+                        className="text-xs text-[var(--accent)] hover:underline"
+                      >
+                        Explore Qs
+                      </Link>
+                    </td>
+                  </tr>
+                );
+              })}
             </tbody>
           </table>
         </div>

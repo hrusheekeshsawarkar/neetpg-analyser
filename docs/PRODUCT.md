@@ -60,7 +60,7 @@ qid = sha256("{year}|{exam}|{shift}|{question_number}|{normalized_stem[:200]}")
 ### Image references
 
 If stem matches image cues (`image below`, `marked A`, `x-ray`, `shown in the figure`, etc.) and no asset exists → `has_image_ref = true`. UI shows **Image missing**.
-
+**need to find out ways to include images in the questions**
 ### Answers
 
 Show correct option on explore / similar results when `answer` is present. Empty answer → show options without highlight.
@@ -115,6 +115,20 @@ PYTHONPATH=analysis python3 analysis/export_viz_data.py
 
 Live hub: `/insights` (subject share, year×subject heatmap, ask-type mix, importance bars, cleaned concepts). Home / Priorities / Subjects reuse the same chart components.
 
+Share / trust UX:
+
+- OG cards via `next/og`: `/api/og/topic`, `/api/og/priorities` (Download / Share on priority + topic pages)
+- Score methodology tooltip (35/30/20/10/5 weights) on priorities, insights, subjects, topic detail
+- Per-topic year sparklines + `/topics/[topic]` bars from `topic_year_series.json`
+- Mobile: card layout for priority/subject topic lists; swipeable year heatmap
+
 ## Out of scope (v1)
 
 Always-on Python RAG microservice, payments, hosting exam images, replacing the offline pipeline.
+
+## To-Dos
+1. find ways to add images
+2. add a seperate section where papers are arranged according to the sources
+3. add sources to the og explore questions
+4. connect other remaing services to vercel
+5. add o-auth

@@ -108,9 +108,35 @@ def export_csvs(df: pd.DataFrame) -> None:
     ask["share"] = ask["count"] / ask.groupby("subject")["count"].transform("sum")
     ask.to_csv(PLOTS / "ask_type_share.csv", index=False)
 
+    export_topic_year_series(df)
+
     print(f"  subject_totals: {len(totals)} rows")
     print(f"  top_concepts_clean: {len(concepts)} rows")
     print(f"  ask_type_share: {len(ask)} rows")
+
+
+def export_topic_year_series(df: pd.DataFrame, top_n: int = 400) -> None:
+    """Per-topic yearly counts for UI sparklines (top N by volume)."""
+    import json
+
+    years = sorted(int(y) for y in df["year"].dropna().unique())
+    if not years:
+        return
+    topics = (
+        df[df["topic_clean"].fillna("").astype(str).str.len() > 0]["topic_clean"]
+        .value_counts()
+        .head(top_n)
+        .index.tolist()
+    )
+    series: dict[str, list[int]] = {}
+    for topic in topics:
+        sub = df[df["topic_clean"] == topic]
+        counts = sub.groupby("year").size()
+        series[str(topic)] = [int(counts.get(y, 0)) for y in years]
+    payload = {"years": years, "series": series}
+    out = PLOTS / "topic_year_series.json"
+    out.write_text(json.dumps(payload, separators=(",", ":")), encoding="utf-8")
+    print(f"  topic_year_series: {len(series)} topics × {len(years)} years")
 
 
 def style_dark_ish():
@@ -295,6 +321,7 @@ def sync_web() -> None:
         "topic_year_drift.csv",
         "ask_type_by_subject.csv",
         "multi_topic_overlaps_top50.csv",
+        "topic_year_series.json",
     ]:
         src = PLOTS / name
         if src.exists():

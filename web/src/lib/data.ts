@@ -176,6 +176,36 @@ export function loadAskTypeShare(): Array<{
   }));
 }
 
+let yearSeriesCache: { years: number[]; series: Record<string, number[]> } | null =
+  null;
+
+export function loadTopicYearSeries(): {
+  years: number[];
+  series: Record<string, number[]>;
+} {
+  if (yearSeriesCache) return yearSeriesCache;
+  const p = publicData("topic_year_series.json");
+  if (!existsSync(p)) {
+    yearSeriesCache = { years: [], series: {} };
+    return yearSeriesCache;
+  }
+  yearSeriesCache = JSON.parse(readFileSync(p, "utf8")) as {
+    years: number[];
+    series: Record<string, number[]>;
+  };
+  return yearSeriesCache;
+}
+
+export function getTopicYearSeries(topic: string): {
+  years: number[];
+  values: number[];
+} | null {
+  const { years, series } = loadTopicYearSeries();
+  const values = series[topic];
+  if (!values) return null;
+  return { years, values };
+}
+
 export function loadPackMarkdown(slug: string): string | null {
   const p = publicData("packs", `${slug}.md`);
   if (!existsSync(p)) return null;

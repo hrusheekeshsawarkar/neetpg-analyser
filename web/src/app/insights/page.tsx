@@ -1,4 +1,6 @@
 import { FadeIn } from "@/components/Motion";
+import { ScoreMethodology } from "@/components/ScoreMethodology";
+import { ShareCardButton } from "@/components/ShareCardButton";
 import {
   ConceptBars,
   ImportanceBandBars,
@@ -56,6 +58,10 @@ export default function InsightsPage() {
           Interactive versions of the analysis plots — subject volume, year mix, how questions
           are asked, and cleaned high-yield concepts. Memory-based sources only.
         </p>
+        <div className="mt-4 flex flex-wrap items-center gap-3">
+          <ScoreMethodology />
+          <ShareCardButton kind="priorities" />
+        </div>
       </FadeIn>
 
       <div className="grid gap-6 lg:grid-cols-2">

@@ -21,7 +21,14 @@ python ../analysis/sync/seed_supabase.py --local-only
 # writes analysis/data/web_mirror/* and copies into web/public/data + web/data/questions.json
 ```
 
-**Vercel:** Root Directory = `web`, leave Output Directory empty, commit `web/data/questions.json` (~11MB) so explore works without Supabase.
+**Vercel:** Root Directory = `web`, leave Output Directory empty. Commit:
+
+- `web/data/questions.json` (~11MB) so explore works without Supabase
+- `web/public/question_images/` (compressed JPEGs of linked figures, ~13MB) so images render in production
+
+Regenerate both via `python ../analysis/sync/seed_supabase.py --local-only`. Full-res extracts stay gitignored under `analysis/data/question_images/`.
+
+Optional CDN override: set `NEXT_PUBLIC_QUESTION_IMAGES_BASE_URL` if figures are hosted on Blob / Supabase Storage instead of `public/`.
 
 ## Supabase
 

@@ -306,32 +306,118 @@ def sync_web_public(out: Path) -> None:
         print(f"  synced questions → {qdest}")
 
 
+def normalize_image_relpath(p: str) -> str:
+    """analysis/data-relative path under question_images/."""
+    p = str(p).lstrip("/")
+    if not p.startswith("question_images/"):
+        p = f"question_images/{p}"
+    return p
+
+
+def web_image_relpath(p: str) -> str:
+    """Public asset path (always .jpg — web sync recompresses figures)."""
+    return str(Path(normalize_image_relpath(p)).with_suffix(".jpg"))
+
+
 def public_image_paths(row: dict) -> list[str]:
     """Map analysis/data-relative image paths to Next.js public URLs."""
-    out = []
-    for p in row.get("images") or []:
-        p = str(p).lstrip("/")
-        if p.startswith("question_images/"):
-            out.append(f"/{p}")
-        else:
-            out.append(f"/question_images/{p}")
-    return out
+    return [f"/{web_image_relpath(p)}" for p in row.get("images") or []]
 
 
-def sync_question_images(web_root: Path) -> int:
-    """Copy extracted figures into web/public/question_images for static serving."""
+def _resolve_source_image(rel: str) -> Path | None:
+    """Find the on-disk extract for a question_images/… relative path."""
+    src_root = DATA / "question_images"
+    # Prefer the exact relative path under analysis/data/
+    exact = DATA / normalize_image_relpath(rel)
+    if exact.is_file():
+        return exact
+    # Fall back: same stem, any common image extension
+    stem = exact.with_suffix("")
+    for ext in (".jpg", ".jpeg", ".png", ".webp"):
+        cand = stem.with_suffix(ext)
+        if cand.is_file():
+            return cand
+    # Last resort: path as stored under question_images/ only
+    alt = src_root / Path(normalize_image_relpath(rel)).relative_to("question_images")
+    if alt.is_file():
+        return alt
+    return None
+
+
+def sync_question_images(web_root: Path, source_rels: list[str] | None = None) -> int:
+    """
+    Write Vercel-shippable figures into web/public/question_images.
+
+    Only images referenced by the web mirror are included, recompressed to
+    JPEG (max edge 1400px, q75) so the public tree stays ~10–15MB and can
+    be committed. Full-res extracts remain in analysis/data/question_images/
+    (gitignored).
+    """
     import shutil
 
-    src = DATA / "question_images"
-    dest = web_root / "public" / "question_images"
-    if not src.exists():
-        return 0
-    if dest.exists():
-        shutil.rmtree(dest)
-    shutil.copytree(src, dest)
-    n = sum(1 for p in dest.rglob("*") if p.is_file())
-    print(f"  synced question images → {dest} ({n} files)")
-    return n
+    try:
+        from PIL import Image
+    except ImportError:
+        print("Install Pillow to sync web question images: pip install Pillow", file=sys.stderr)
+        raise
+
+    dest_root = web_root / "public" / "question_images"
+    if dest_root.exists():
+        shutil.rmtree(dest_root)
+    dest_root.mkdir(parents=True, exist_ok=True)
+
+    if source_rels is None:
+        qpath = DATA / "merged_questions.json"
+        if not qpath.exists():
+            return 0
+        source_rels = []
+        for row in json.loads(qpath.read_text()):
+            source_rels.extend(row.get("images") or [])
+
+    # Dedupe while preserving order
+    seen: set[str] = set()
+    unique_rels: list[str] = []
+    for rel in source_rels:
+        key = normalize_image_relpath(rel)
+        if key in seen:
+            continue
+        seen.add(key)
+        unique_rels.append(key)
+
+    written = 0
+    missing = 0
+    max_edge = 1400
+    for rel in unique_rels:
+        src = _resolve_source_image(rel)
+        web_rel = web_image_relpath(rel)
+        dest = web_root / "public" / web_rel
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        if src is None:
+            missing += 1
+            continue
+        try:
+            im = Image.open(src)
+            if im.mode not in ("RGB", "L"):
+                im = im.convert("RGB")
+            elif im.mode == "L":
+                im = im.convert("RGB")
+            w, h = im.size
+            m = max(w, h)
+            if m > max_edge:
+                scale = max_edge / m
+                im = im.resize((int(w * scale), int(h * scale)), Image.Resampling.LANCZOS)
+            im.save(dest, format="JPEG", quality=75, optimize=True)
+            written += 1
+        except Exception as exc:  # noqa: BLE001 — keep syncing remaining assets
+            print(f"  skip {rel}: {exc}", file=sys.stderr)
+            missing += 1
+
+    mb = sum(p.stat().st_size for p in dest_root.rglob("*") if p.is_file()) / 1e6
+    print(
+        f"  synced question images → {dest_root} "
+        f"({written} jpeg, {missing} missing, {mb:.1f} MB)"
+    )
+    return written
 
 
 def export_local_mirror() -> Path:
@@ -339,6 +425,7 @@ def export_local_mirror() -> Path:
     out = ANALYSIS / "data" / "web_mirror"
     out.mkdir(parents=True, exist_ok=True)
 
+    source_image_rels: list[str] = []
     qpath = DATA / "merged_questions.json"
     if qpath.exists():
         rows = json.loads(qpath.read_text())
@@ -346,6 +433,7 @@ def export_local_mirror() -> Path:
         for row in rows:
             qtext = row.get("question_text") or ""
             images = public_image_paths(row)
+            source_image_rels.extend(row.get("images") or [])
             slim.append(
                 {
                     "qid": make_qid(row),
@@ -389,7 +477,7 @@ def export_local_mirror() -> Path:
         (packs_out / path.name).write_text(path.read_text())
     print(f"  mirrored packs → {packs_out}")
     sync_web_public(out)
-    sync_question_images(ROOT / "web")
+    sync_question_images(ROOT / "web", source_image_rels)
     return out
 
 

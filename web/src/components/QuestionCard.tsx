@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
 import type { QuestionRow } from "@/lib/types";
+import { questionImageSrc } from "@/lib/question-images";
 
 const OPTION_KEYS = ["1", "2", "3", "4"] as const;
 
@@ -66,7 +67,7 @@ export function QuestionCard({
             // eslint-disable-next-line @next/next/no-img-element
             <img
               key={src}
-              src={src.startsWith("/") ? src : `/question_images/${src}`}
+              src={questionImageSrc(src)}
               alt="Question figure"
               className="max-h-56 max-w-full rounded-md border border-[var(--line)] object-contain"
               loading="lazy"

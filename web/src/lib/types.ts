@@ -43,6 +43,7 @@ export type QuestionRow = {
   option_3: string | null;
   option_4: string | null;
   answer_key: string | null;
+  answer_note?: string | null;
   has_image_ref: boolean;
 };
 

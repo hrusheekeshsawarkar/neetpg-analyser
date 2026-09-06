@@ -1,6 +1,6 @@
 # Dermatology — Revision pack
 
-> 400 questions · years 2010–2025
+> 409 questions · years 2010–2025
 
 ## Syllabus map (study under these headings)
 
@@ -16,8 +16,8 @@
 
 | Topic | Score | Count | Years |
 |-------|------:|------:|-------|
-| Dermatology | 85.6 | 323 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Leprosy | 73.3 | 20 | 2011,2012,2013,2014,2016,2019,2021,2024 |
+| Dermatology | 85.6 | 324 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Leprosy | 73.4 | 22 | 2011,2012,2013,2014,2016,2019,2021,2024 |
 
 ## High priority
 
@@ -45,7 +45,7 @@
 ## Ask-type mix
 
 - diagnosis: 205
-- other: 68
+- other: 77
 - image_identification: 31
 - management: 30
 - mechanism: 23

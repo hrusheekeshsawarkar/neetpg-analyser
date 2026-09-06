@@ -1,6 +1,6 @@
 # Anaesthesia — Revision pack
 
-> 253 questions · years 2010–2025
+> 256 questions · years 2010–2025
 
 ## Syllabus map (study under these headings)
 
@@ -44,7 +44,7 @@ _—_
 
 ## Ask-type mix
 
-- other: 80
+- other: 83
 - management: 53
 - mechanism: 43
 - drug_of_choice: 30

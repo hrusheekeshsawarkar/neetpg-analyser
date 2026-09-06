@@ -1,6 +1,6 @@
 # Forensic Medicine — Revision pack
 
-> 705 questions · years 2010–2025
+> 711 questions · years 2010–2025
 
 ## Syllabus map (study under these headings)
 
@@ -16,11 +16,11 @@
 | Topic | Score | Count | Years |
 |-------|------:|------:|-------|
 | Toxicology | 86.1 | 214 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Thanatology | 86.0 | 356 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Medical Jurisprudence | 83.1 | 84 | 2010,2012,2013,2014,2016,2017,2018,2019,2020,2021,2022,2023,2024 |
+| Thanatology | 86.0 | 358 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Medical Jurisprudence | 83.0 | 87 | 2010,2012,2013,2014,2016,2017,2018,2019,2020,2021,2022,2023,2024 |
 | Identification | 80.4 | 27 | 2010,2011,2012,2013,2014,2015,2017,2018,2019,2020,2022,2024 |
+| Postmortem Changes | 72.8 | 19 | 2012,2013,2014,2016,2017,2018,2019,2024,2025 |
 | Sexual Offences | 70.8 | 20 | 2012,2013,2014,2015,2016,2019,2024,2025 |
-| Postmortem Changes | 70.8 | 18 | 2012,2013,2014,2016,2017,2018,2019,2024,2025 |
 
 ## High priority
 
@@ -44,15 +44,15 @@
 - M'Naghten rule legal provision (2)
 - First organ putrefaction (2)
 - Cadmium poisoning proximal tubule proteinuria (2)
+- insanity defense legal provision (2)
 - Postmortem muscular irritability (2)
 - Presumptive blood testing (2)
 - Cephalic index for race (2)
 - Permanent loss of sight (2)
-- Permanent loss of hearing (2)
 
 ## Ask-type mix
 
-- other: 426
+- other: 432
 - diagnosis: 115
 - investigation: 70
 - mechanism: 55

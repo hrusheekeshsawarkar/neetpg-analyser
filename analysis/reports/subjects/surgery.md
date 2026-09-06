@@ -1,6 +1,6 @@
 # Surgery — Revision pack
 
-> 784 questions · years 2010–2025
+> 796 questions · years 2010–2025
 
 ## Syllabus map (study under these headings)
 
@@ -17,10 +17,10 @@
 
 | Topic | Score | Count | Years |
 |-------|------:|------:|-------|
-| Urology | 86.7 | 107 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024 |
-| Gastrointestinal Surgery | 86.3 | 60 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Trauma | 86.1 | 278 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Breast & Endocrine Surgery | 85.9 | 160 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Urology | 86.6 | 108 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024 |
+| Gastrointestinal Surgery | 86.4 | 59 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Trauma | 86.1 | 277 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Breast & Endocrine Surgery | 85.9 | 162 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 | Vascular | 85.7 | 193 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 | General Surgery | 84.4 | 117 | 2010,2011,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 | Burns & Plastic | 78.4 | 32 | 2011,2012,2013,2014,2015,2016,2017,2018,2020,2022,2024 |
@@ -30,12 +30,14 @@
 ## High priority
 
 - **Surgical Oncology** — score 69.5, n=18
+- **Surgical Instruments** — score 65.2, n=16
+- **Neurosurgery** — score 61.5, n=15
 - **Colorectal Surgery** — score 60.4, n=17
-- **Surgical Instruments** — score 60.1, n=14
 - **Surgical Procedures** — score 59.1, n=13
-- **Neurosurgery** — score 58.6, n=14
 - **Cardiothoracic** — score 58.3, n=14
+- **Pediatric Surgery** — score 55.6, n=14
 - **Congenital anomalies** — score 54.3, n=13
+- **Plastic Surgery** — score 45.6, n=13
 
 ## Top concepts asked
 
@@ -58,7 +60,7 @@
 ## Ask-type mix
 
 - management: 243
-- other: 206
+- other: 218
 - diagnosis: 146
 - anatomy_structure: 49
 - image_identification: 46

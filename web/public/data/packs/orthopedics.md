@@ -1,6 +1,6 @@
 # Orthopedics — Revision pack
 
-> 602 questions · years 2010–2025
+> 610 questions · years 2010–2025
 
 ## Syllabus map (study under these headings)
 
@@ -16,7 +16,7 @@
 | Topic | Score | Count | Years |
 |-------|------:|------:|-------|
 | Fractures | 84.2 | 417 | 2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Spine | 80.9 | 55 | 2010,2012,2013,2014,2015,2016,2018,2019,2020,2021,2023,2024 |
+| Spine | 82.8 | 56 | 2010,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2023,2024 |
 
 ## High priority
 
@@ -24,13 +24,14 @@
 - **Hip Disorders** — score 63.2, n=21
 - **Knee** — score 51.4, n=15
 - **Dislocations** — score 50.9, n=11
-- **Osteoporosis** — score 46.7, n=10
+- **Osteoporosis** — score 49.5, n=11
+- **Peripheral Nerve Injuries** — score 46.0, n=13
 - **Metabolic bone disease** — score 45.3, n=11
 
 ## Top concepts asked
 
+- Osteoporotic vertebral fracture site (3)
 - Femoral neck fracture AVN (2)
-- Osteoporotic vertebral fracture site (2)
 - Perilunate dislocation definition (2)
 - late complications elbow dislocation (2)
 - Ortolani test for DDH (2)
@@ -47,12 +48,12 @@
 
 ## Ask-type mix
 
-- diagnosis: 199
-- other: 151
+- diagnosis: 200
+- other: 156
 - management: 87
-- anatomy_structure: 63
+- anatomy_structure: 64
 - image_identification: 38
 - mechanism: 25
-- epidemiology: 23
+- epidemiology: 24
 - investigation: 15
 - drug_of_choice: 1

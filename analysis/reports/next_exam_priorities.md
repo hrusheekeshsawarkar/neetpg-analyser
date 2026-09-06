@@ -6,31 +6,31 @@
 
 | Topic | Subject | Score | Count | Years |
 |-------|---------|------:|------:|-------|
-| Urology | Surgery | 86.7 | 107 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024 |
 | Reproductive | Physiology | 86.6 | 183 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024 |
-| Lower Limb | Anatomy | 86.6 | 134 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Urology | Surgery | 86.6 | 108 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024 |
+| Lower Limb | Anatomy | 86.5 | 136 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 | Neoplasia | Pathology | 86.4 | 451 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Inflammation & Healing | Pathology | 86.4 | 316 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Gastrointestinal Surgery | Surgery | 86.3 | 60 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Neurology | Medicine | 86.2 | 312 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Inflammation & Healing | Pathology | 86.4 | 315 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Gastrointestinal Surgery | Surgery | 86.4 | 59 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Neurology | Medicine | 86.2 | 317 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 | Genetics & Molecular Biology | Biochemistry | 86.1 | 330 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 | Endocrinology | Medicine | 86.1 | 293 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Trauma | Surgery | 86.1 | 278 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Trauma | Surgery | 86.1 | 277 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 | Toxicology | Forensic Medicine | 86.1 | 214 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Cardiology | Medicine | 86.0 | 618 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Hematopathology | Pathology | 86.0 | 445 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Thanatology | Forensic Medicine | 86.0 | 356 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Cardiology | Medicine | 86.0 | 619 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Hematopathology | Pathology | 86.0 | 451 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Thanatology | Forensic Medicine | 86.0 | 358 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 | Antimicrobials | Pharmacology | 86.0 | 86 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024 |
-| Emergency Medicine | Medicine | 86.0 | 83 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Emergency Medicine | Medicine | 86.0 | 84 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 | General Medicine | Medicine | 85.9 | 418 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Obstetric Complications | OBG | 85.9 | 343 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Obstetric Complications | OBG | 85.9 | 347 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 | Renal | Physiology | 85.9 | 296 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 | Gastroenterology | Medicine | 85.9 | 211 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Breast & Endocrine Surgery | Surgery | 85.9 | 160 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Pulmonology | Physiology | 85.8 | 495 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Vitamins & Nutrition | Biochemistry | 85.8 | 396 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Gastrointestinal | Physiology | 85.8 | 266 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
-| Growth & Development | Pediatrics | 85.8 | 239 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024 |
+| Breast & Endocrine Surgery | Surgery | 85.9 | 162 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Pulmonology | Physiology | 85.8 | 500 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Vitamins & Nutrition | Biochemistry | 85.8 | 407 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Growth & Development | Pediatrics | 85.8 | 242 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024 |
+| Infectious Diseases | Microbiology | 85.7 | 747 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 
 ## High priority
 
@@ -38,6 +38,7 @@
 - **Surgical Oncology** (Surgery) — score 69.5, n=18, years=2010,2013,2014,2015,2018,2019,2020,2024,2025
 - **Abdominal Imaging** (Radiology) — score 68.9, n=16, years=2010,2013,2015,2016,2017,2018,2019,2020,2021,2024
 - **Antimicrobial Drugs** (Pharmacology) — score 68.8, n=18, years=2010,2011,2012,2013,2016,2017,2018,2019,2020,2025
+- **Uterine Anomalies** (OBG) — score 68.6, n=20, years=2013,2016,2017,2018,2020,2021,2024
 - **Protein Structure** (Biochemistry) — score 68.1, n=18, years=2013,2014,2015,2016,2018,2019,2020
 - **Autoimmune Diseases** (Medicine) — score 68.0, n=16, years=2011,2013,2014,2015,2016,2017,2018,2019,2020,2022
 - **Study Designs** (Community Medicine) — score 67.5, n=18, years=2012,2014,2015,2016,2017,2018,2019,2020,2025
@@ -48,17 +49,16 @@
 - **Lymphatic System** (Anatomy) — score 66.6, n=26, years=2012,2013,2014,2015,2016,2024
 - **Urea Cycle** (Biochemistry) — score 66.4, n=18, years=2011,2012,2013,2014,2015,2016,2019
 - **Amino Acids** (Biochemistry) — score 66.4, n=17, years=2012,2013,2014,2015,2016,2017,2018,2020
+- **Antimicrobial Resistance** (Microbiology) — score 66.3, n=17, years=2010,2011,2013,2015,2016,2017,2018,2020
 - **Thyroid Disorders** (Medicine) — score 66.3, n=16, years=2011,2013,2014,2015,2016,2017,2018,2019,2020
 - **Congenital Heart Disease** (Pediatrics) — score 66.2, n=26, years=2011,2013,2014,2016,2019,2021
 - **Arteries** (Anatomy) — score 66.2, n=20, years=2010,2011,2012,2013,2019,2024
 - **Neuromuscular Blocking Agents** (Pharmacology) — score 66.2, n=20, years=2013,2014,2015,2016,2018,2019
-- **Antidepressants** (Pharmacology) — score 66.2, n=17, years=2011,2012,2013,2014,2015,2016,2018,2022
-- **Drug Interactions** (Pharmacology) — score 66.2, n=16, years=2010,2013,2014,2015,2016,2017,2018,2020,2021
 
 ## Possibly due for return (quiet recently, strong earlier)
 
-- Urology — last gap 1y, prior years 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
 - Reproductive — last gap 1y, prior years 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
+- Urology — last gap 1y, prior years 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
 - Antimicrobials — last gap 1y, prior years 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
 - Growth & Development — last gap 1y, prior years 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
 - Airway Management — last gap 1y, prior years 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2024
@@ -67,6 +67,7 @@
 - Autonomic — last gap 1y, prior years 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2024
 - Regional Anaesthesia — last gap 1y, prior years 2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
 - Medical Jurisprudence — last gap 1y, prior years 2010,2012,2013,2014,2016,2017,2018,2019,2020,2021,2022,2023,2024
+- Spine — last gap 1y, prior years 2010,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2023,2024
 - Mood Disorders — last gap 2y, prior years 2010,2011,2012,2013,2014,2015,2016,2019,2020,2021,2022,2023
 - Lymphoma — last gap 3y, prior years 2010,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022
 - Contraception — last gap 1y, prior years 2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2024
@@ -76,16 +77,8 @@
 - Glaucoma — last gap 1y, prior years 2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
 - Pharmacokinetics — last gap 1y, prior years 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2022,2024
 - Adverse Drug Reactions — last gap 1y, prior years 2010,2011,2012,2013,2014,2016,2017,2018,2019,2020,2021,2022,2024
-- Critical Care — last gap 1y, prior years 2010,2011,2013,2014,2015,2016,2017,2018,2019,2021,2023,2024
 
 ## Within-topic: what is actually asked
-
-### Urology
-- A 40-year-old man with a known case of hypertension presented with multiple episodes of (n=1)
-- A 55-year-old male presented with verrucous carcinoma around the glans of the penis. (n=1)
-- A 6- year old boy came with a history of recurrent urinary tract infections. Imaging was done (n=1)
-- A diabetic patient presents with sudden-onset perineal pain. On examinatiorn, foul-smelling (n=1)
-- A patient presents with prostate carcinoma, which has now spread to the vertebra. What is the (n=1)
 
 ### Reproductive
 - Internal spermatic fascia origin (n=2)
@@ -93,6 +86,13 @@
 - hCG stimulates fetal testosterone (n=2)
 - 17 alpha hydroxylprogesterone exception (n=1)
 - 19-nortestosterone progestin derivatives (n=1)
+
+### Urology
+- A 40-year-old man with a known case of hypertension presented with multiple episodes of (n=1)
+- A 55-year-old male presented with verrucous carcinoma around the glans of the penis. (n=1)
+- A 6- year old boy came with a history of recurrent urinary tract infections. Imaging was done (n=1)
+- A diabetic patient presents with sudden-onset perineal pain. On examinatiorn, foul-smelling (n=1)
+- A patient presents with prostate carcinoma, which has now spread to the vertebra. What is the (n=1)
 
 ### Lower Limb
 - Femoral head arterial supply (n=2)
@@ -109,11 +109,11 @@
 - AFP in germ cell tumors (n=1)
 
 ### Inflammation & Healing
+- Histamine vascular permeability (n=2)
 - IFN gamma macrophage activation (n=2)
 - Negative acute phase proteins (n=2)
 - Stellate granuloma association (n=2)
 - ASEPSIS score elements (n=1)
-- Abscess types (n=1)
 
 ### Gastrointestinal Surgery
 - Bowel anastomosis principles (n=2)
@@ -145,10 +145,10 @@
 
 ### Trauma
 - Glasgow Coma Scale calculation (n=3)
+- Laceration over bony prominence (n=2)
 - Tension pneumothorax emergency management (n=2)
 - orbital blow out fracture location (n=2)
 - ATLS class III hemorrhage volume (n=1)
-- ATLS primary survey elements (n=1)
 
 ### Toxicology
 - Cadmium poisoning proximal tubule proteinuria (n=2)
@@ -213,6 +213,13 @@
 - Clofazimine antimicrobial mechanism (n=1)
 - First generation cephalosporin spectrum (n=1)
 
+### Uterine Anomalies
+- Breech delivery and septate uterus (n=1)
+- Classification of uterine malformations (n=1)
+- Congenital uterine anomalies (n=1)
+- Congenital uterine anomaly imaging (n=1)
+- Hysterosalpingogram findings (n=1)
+
 ### Protein Structure
 - Fibrinopeptide acidic amino acids (n=2)
 - Actin protein type (n=1)
@@ -247,10 +254,3 @@
 - Level 1 uterine support (n=1)
 - Membranous urethral injury extravasation (n=1)
 - Most suitable pelvis type female (n=1)
-
-### Peripheral nerves
-- High radial nerve palsy (n=2)
-- Adductor magnus dual innervation (n=1)
-- Anterior interosseous nerve origin (n=1)
-- Anterior interosseous nerve supply (n=1)
-- Anterior interosseous palsy (n=1)

@@ -1,6 +1,6 @@
 # Pharmacology — Revision pack
 
-> 1342 questions · years 2010–2025
+> 1353 questions · years 2010–2025
 
 ## Syllabus map (study under these headings)
 
@@ -19,13 +19,13 @@
 | Topic | Score | Count | Years |
 |-------|------:|------:|-------|
 | Antimicrobials | 86.0 | 86 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024 |
-| Endocrine Pharmacology | 85.5 | 629 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
+| Endocrine Pharmacology | 85.5 | 632 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 |
 | Autonomic | 84.1 | 89 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2024 |
 | Pharmacokinetics | 82.1 | 57 | 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2022,2024 |
-| Adverse Drug Reactions | 82.1 | 38 | 2010,2011,2012,2013,2014,2016,2017,2018,2019,2020,2021,2022,2024 |
-| Chemotherapy & Anticancer | 78.4 | 33 | 2010,2012,2013,2014,2015,2016,2019,2020,2021,2023,2024 |
+| Adverse Drug Reactions | 82.1 | 39 | 2010,2011,2012,2013,2014,2016,2017,2018,2019,2020,2021,2022,2024 |
 | Anticoagulants | 78.0 | 22 | 2010,2012,2013,2014,2015,2016,2017,2018,2019,2022,2023,2025 |
 | Psychopharmacology | 76.7 | 37 | 2011,2012,2013,2014,2016,2018,2019,2020,2022,2024,2025 |
+| Chemotherapy & Anticancer | 76.6 | 32 | 2010,2012,2013,2014,2015,2016,2019,2020,2023,2024 |
 | Antipsychotics | 75.0 | 21 | 2011,2013,2014,2015,2016,2017,2018,2020 |
 | Diuretics | 74.8 | 30 | 2012,2013,2014,2015,2018,2019,2020,2022,2024,2025 |
 | Local Anaesthetics | 73.2 | 28 | 2011,2012,2013,2014,2015,2016,2019,2024 |
@@ -37,17 +37,17 @@
 - **Neuromuscular Blocking Agents** — score 66.2, n=20
 - **Antidepressants** — score 66.2, n=17
 - **Drug Interactions** — score 66.2, n=16
-- **General Pharmacology** — score 57.1, n=14
+- **General Pharmacology** — score 60.1, n=15
 - **Antimalarial drugs** — score 57.0, n=17
 - **Pharmacodynamics** — score 55.2, n=16
 - **Antimalarial Drugs** — score 54.3, n=16
+- **Drug Metabolism** — score 54.2, n=13
 - **Clinical Pharmacology** — score 54.1, n=13
 - **Anticancer Drugs** — score 53.6, n=13
 - **Antiarrhythmic Drugs** — score 53.3, n=12
 - **Antidiabetic Drugs** — score 52.8, n=17
+- **Antifungal Drugs** — score 51.6, n=12
 - **Neuropharmacology** — score 51.1, n=12
-- **Antidiabetic drugs** — score 51.0, n=17
-- **Anticancer drugs** — score 49.2, n=14
 
 ## Top concepts asked
 
@@ -69,10 +69,10 @@
 
 ## Ask-type mix
 
-- other: 501
+- other: 511
 - mechanism: 419
 - drug_of_choice: 281
-- management: 97
+- management: 98
 - diagnosis: 27
 - investigation: 10
 - epidemiology: 4

@@ -292,6 +292,7 @@ Acid-Base Balance,High altitude hyperventilation,1,2025
 Acid-Base Balance,High altitude respiratory alkalosis,1,2024
 Acid-Base Balance,High altitude respiratory alkalosis mechanism,1,2024
 Acid-Base Balance,High anion gap acidosis,1,2019
+Acid-Base Balance,Intracellular pH relative to ECF,1,2015
 Acid-Base Balance,Metabolic acidosis HCO3 loss,1,2020
 Acid-Base Balance,Metabolic acidosis lab interpretation,1,2020
 Acid-Base Balance,Metabolic acidosis respiratory alkalosis interpretation,1,2020
@@ -452,6 +453,7 @@ Adolescent Psychiatry,Binge eating self-induced vomiting,1,2022
 Adolescent health,Tanner stage II thelarche,1,2014
 Adrenergic Agents,Alpha-2 agonist identification,1,2015
 Adrenergic Agonists,Alpha-2 agonist apraclonidine,1,2019
+Adrenergic Agonists,alpha-2 agonist identification,1,2019
 Adrenergic Agonists,epinephrine pharmacology facts,1,2016
 Adrenergic Blockers,Atenolol is beta blocker,1,2012
 Adrenergic Blockers,Guanethidine chemical sympathectomy,1,2013
@@ -496,6 +498,7 @@ Adverse Drug Reactions,Imipenem seizure risk,1,2019
 Adverse Drug Reactions,Irreversible ototoxicity drugs,1,2014
 Adverse Drug Reactions,Laxative induced melanosis coli,1,2016
 Adverse Drug Reactions,Lithium causes ADH resistance,1,2013
+Adverse Drug Reactions,Lithium hypercalcemia,1,2020
 Adverse Drug Reactions,Lithium inhibits thyroid hormone synthesis,1,2013
 Adverse Drug Reactions,Melanosis coli laxative cause,1,2017
 Adverse Drug Reactions,Methysergide banned pulmonary fibrosis,1,2014
@@ -754,6 +757,7 @@ Alopecia,Alopecia areata patches,1,2019
 Alopecia,Patchy hair loss velvety skin,1,2014
 Alopecia,SLE causing both alopecia types,1,2014
 Alopecia Areata,Alopecia areata autoimmune,1,2014
+Alopecia Areata,alopecia areata identification,1,2019
 Alopecia areata,Alopecia areata autoimmune,1,2014
 Alopecia areata,alopecia areata identification,1,2019
 Alpha Blockers,cheese reaction phentolamine,1,2014
@@ -1454,6 +1458,7 @@ Anthropometry,Sternal symphysis height estimation,1,2013
 Anthropometry,Vertebral column height estimation,1,2013
 Anthropometry,Vertex symphysis stature ratio,1,2013
 Anthropometry,height weight index relationship,1,2012
+Anti-Craving Agents,Anticraving agents classification,1,2014
 Anti-Gout Drugs,Allopurinol use,1,2010
 Anti-Inflammatory Agents,Colchicine mechanism acute gout,1,2017
 Anti-Inflammatory Drugs,Colchicine mechanism acute gout,1,2018
@@ -1574,6 +1579,7 @@ Anticholinesterase agents,Irreversible anticholinesterase mechanism,1,2015
 Anticholinesterase agents,Longest acting anticholinesterase,1,2015
 Anticholinesterases,Physostigmine central action,1,2015
 Anticoagulant Drugs,Univalent direct thrombin inhibitor,1,2014
+Anticoagulant Therapy,Drug requiring PT monitoring,2,"2017,2018"
 Anticoagulant Therapy,Warfarin PT/INR monitoring,1,2018
 Anticoagulant drugs,Univalent direct thrombin inhibitor,1,2014
 Anticoagulant therapy,Drug requiring PT monitoring,1,2018
@@ -1744,6 +1750,7 @@ Antifungal Drugs,Amphotericin B mechanism,1,2018
 Antifungal Drugs,Azole antifungals list,1,2016
 Antifungal Drugs,Azole antifungals mechanism,1,2019
 Antifungal Drugs,Invasive aspergillosis drug choice,1,2020
+Antifungal Drugs,Invasive aspergillosis drug of choice,1,2020
 Antifungal Drugs,Miscellaneous topical antifungals list,1,2016
 Antifungal Drugs,Terbinafine onychomycosis,1,2020
 Antifungal Drugs,Terbinafine oral formulation,1,2012
@@ -1779,6 +1786,7 @@ Antigen-Antibody Reactions,Prozone phenomenon definition,1,2012
 Antigens,Carbohydrate antigen immune response,1,2011
 Antigout Agents,Allopurinol inhibits xanthine oxidase,1,2023
 Antigout Drugs,Colchicine metaphase arrest,1,2019
+Antigout Drugs,colchicine mechanism,1,2019
 Antigout agents,Allopurinol inhibits xanthine oxidase,1,2023
 Antigout drugs,Colchicine metaphase arrest,1,2019
 Antigout drugs,colchicine inhibits leukocyte migration,1,2018
@@ -1808,6 +1816,7 @@ Antihyperlipidemic drugs,Hypolipidemic drug mechanisms,1,2014
 Antihyperlipidemic drugs,Serum triglyceride reduction,1,2015
 Antihyperlipidemic drugs,Torcetrapib CETP inhibition,1,2016
 Antihypertensive Agents,Fenoldopam hypertensive emergency,1,2015
+Antihypertensive Drugs,Atenolol not used in preeclampsia,2,"2017,2018"
 Antihypertensive Drugs,ACE inhibition increases renin,1,2012
 Antihypertensive Drugs,Antihypertensive anticholinergic effects,1,2024
 Antihypertensive Drugs,Antihypertensive contraindicated in pregnancy,1,2014
@@ -1900,9 +1909,10 @@ Antimicrobial Drugs,Sulfonamide folic acid inhibition mechanism,1,2012
 Antimicrobial Drugs,Sulfonamide longest acting drug,1,2012
 Antimicrobial Drugs,Sulfonamides cause SJS,1,2013
 Antimicrobial Drugs,Tetracycline prophylactic uses,1,2011
+Antimicrobial Pharmacology,Cyclosporiasis TMP-SMX,1,2019
 Antimicrobial Pharmacology,Meningococcal meningitis alternative drug,1,2010
 Antimicrobial Prophylaxis,Meningococcal prophylaxis drug,1,2024
-Antimicrobial Resistance,Burkholderia cepacia drug resistance,2,"2016,2018"
+Antimicrobial Resistance,Burkholderia cepacia drug resistance,3,"2016,2018"
 Antimicrobial Resistance,Anaerobe antibiotic resistance,1,2017
 Antimicrobial Resistance,Beta-lactamase penicillin inactivation,1,2013
 Antimicrobial Resistance,Beta-lactamase penicillin resistance,1,2020
@@ -2084,6 +2094,7 @@ Antiparasitic drugs,Ivermectin for onchocerciasis,1,2016
 Antiparkinson Drugs,Levodopa pharmacokinetics,1,2016
 Antiparkinson drugs,Levodopa pharmacokinetics,1,2016
 Antiparkinson drugs,levodopa adjunct COMT inhibitor,1,2014
+Antiparkinsonian Drugs,Clorgyline not MAO-B,1,2016
 Antiparkinsonian drugs,Clorgyline not MAO-B,1,2016
 Antiphospholipid Syndrome,Recurrent abortion APLS treatment,1,2019
 Antiplatelet Agents,Clopidogrel lower hematotoxicity,1,2016
@@ -2113,6 +2124,7 @@ Antiplatelet drugs,Prasugrel prodrug mechanism,1,2018
 Antiplatelet drugs,Ticagrelor P2Y12 antagonist,1,2015
 Antiplatelet drugs,Tirofiban platelet receptor blockade,1,2013
 Antiprotozoal Drugs,Antimonial drug for kala azar,1,2013
+Antiprotozoal Drugs,Isospora drug of choice,1,2019
 Antiprotozoal Drugs,Metronidazole for trichomoniasis,1,2013
 Antiprotozoal drugs,Antimonial drug for kala azar,1,2013
 Antiprotozoal drugs,Fast acting antimalarial classification,1,2012
@@ -2128,6 +2140,7 @@ Antipsychotic Drugs,Haloperidol causes akathisia,1,2013
 Antipsychotic Drugs,Heterocyclic antipsychotic examples,1,2013
 Antipsychotic Drugs,Phenothiazine antipsychotic examples,1,2013
 Antipsychotic Drugs,Thioxanthene antipsychotic examples,1,2013
+Antipsychotic Side Effects,Antipsychotic weight gain risk,1,2015
 Antipsychotic Side Effects,Fluphenazine EPS management,1,2020
 Antipsychotic drugs,Acute dystonia central anticholinergic,1,2014
 Antipsychotic drugs,Akathisia drug treatment,1,2015
@@ -2224,6 +2237,7 @@ Antitubercular drugs,Isoniazid pyridoxine prophylaxis,1,2018
 Antitubercular drugs,Rifampicin antiretroviral interaction,1,2014
 Antitubercular therapy,Four drug therapy prevents resistance,1,2012
 Antiulcer Drugs,H. pylori eradication drugs,1,2015
+Antiulcer Drugs,Pirenzepine gastric ulcer,1,2018
 Antiulcer Drugs,Proton pump inhibitor identification,1,2010
 Antiulcer Drugs,most potent H2 antagonist,1,2016
 Antiulcer drugs,Cimetidine adverse effect not present,1,2016
@@ -2294,6 +2308,7 @@ Aortic Arch,Commonest aortic arch variation,1,2015
 Aortic Diseases,Acute aortic dissection diagnosis,1,2019
 Aortic Diseases,Aortic dissection etiology,1,2012
 Aortic Dissection,Aortic dissection classification,1,2013
+Aortic Dissection,Thoracic aortic dissection CT,1,2017
 Aortic Dissection,cystic medial necrosis arterial degeneration,1,2014
 Aortic Imaging,Aortic dissection imaging and complications,1,2019
 Aortic Imaging,Aortic dissection radiographic features,1,2019
@@ -2530,6 +2545,7 @@ Astigmatism,myopic astigmatism prescription,1,2016
 Ataxia,Labyrinthine past-pointing direction,1,2013
 Ataxia,Vestibular cause of past-pointing,1,2013
 Ataxia,Vestibular cerebellar past-pointing distinction,1,2013
+Ataxia Telangiectasia,AT increased AFP,1,2018
 Ataxia telangiectasia,AT increased AFP,1,2018
 Atelectasis,Atelectasis definition,1,2016
 Atherosclerosis,Atherosclerosis earliest vascular site,1,2012
@@ -3288,6 +3304,7 @@ Bariatric Surgery,Roux-en-Y gastric bypass,1,2014
 Bariatric Surgery,Sleeve gastrectomy duodenal switch,1,2014
 Bariatric Surgery,most common bariatric surgery,1,2016
 Barium Studies,Radiological procedure identification,1,2019
+Barium Swallow,Achalasia diagnosis on barium swallow,1,2020
 Barium Swallow,Barium swallow pyriform sinus,1,2024
 Barium studies,barium meal follow through,1,2013
 Barium swallow,Achalasia diagnosis on barium swallow,1,2020
@@ -3438,6 +3455,7 @@ Biliary Tract,Gallstone radio-opacity,1,2016
 Biliary Tract,Strasberg bile duct injury classification,1,2025
 Biliary Tract,most common gallstone type,1,2019
 Biliary Tract Anomalies,choledochal cyst anatomical location,1,2014
+Biliary Tract Disease,CBD stones treatment choice,1,2020
 Biliary Tract Neoplasms,gallbladder carcinoma risk,1,2015
 Biliary Tract Neoplasms,gallbladder polyp size significance,1,2015
 Biliary Tract Neoplasms,nitrosamine gallbladder carcinogen,1,2015
@@ -3897,6 +3915,7 @@ Biomedical Waste Management,Biomedical waste disposal methods,1,2018
 Biomedical Waste Management,Biomedical waste disposal rules,1,2011
 Biomedical Waste Management,Blood bag waste color coding,1,2020
 Biomedical Waste Management,Category 4 BMW contents,1,2016
+Biomedical Waste Management,Chemical liquid waste bin,1,2020
 Biomedical Waste Management,Cytotoxic waste incineration,1,2014
 Biomedical Waste Management,Hazardous waste disposal methods,1,2016
 Biomedical Waste Management,Incineration waste category,1,2015
@@ -3904,6 +3923,7 @@ Biomedical Waste Management,Incineration waste exceptions,1,2015
 Biomedical Waste Management,Infectious waste disposal color,1,2021
 Biomedical Waste Management,Red bag waste category,1,2015
 Biomedical Waste Management,Vaccine vial biomedical waste disposal,1,2022
+Biomedical Waste Management,blood bag waste color,1,2020
 Biomedical Waste Management,double chamber infectious waste incinerator,1,2012
 Biomedical Waste Management,halogenated plastic incineration restriction,1,2013
 Biomedical Waste Management,infectious hospital waste proportion,1,2012
@@ -4063,6 +4083,7 @@ Blast injuries,Tympanic membrane vulnerability,1,2013
 Blast injuries,Underwater blast bowel injury,1,2013
 Bleeding,proximal colon bleeding cause,1,2014
 Bleeding Disorders,Conditions with marked bleeding,1,2017
+Bleeding Disorders,Marked bleeding haemophilia,1,2017
 Bleeding Disorders,Severe von Willebrand deficiency,1,2019
 Bleeding disorders,Bleeding disorder contraindication,1,2013
 Bleeding disorders,Conditions causing marked bleeding,1,2016
@@ -4126,9 +4147,11 @@ Bone Imaging,MDP similar to calcium phosphate,1,2016
 Bone Imaging,Skull bone pathology imaging,1,2018
 Bone Imaging,osteogenic activity governs uptake,1,2016
 Bone Lesions,Fallen fragment sign characteristic lesion,1,2016
+Bone Lesions,Fallen fragment sign diagnosis,1,2018
 Bone Lesions,Fallen fragment sign in simple bone cyst,1,2018
 Bone Lesions,Fallen fragment sign simple bone cyst,1,2017
 Bone Lesions,Solitary lytic bone lesion causes,1,2019
+Bone Lesions,solitary lytic lesion cause,1,2019
 Bone Marrow Examination,Bone marrow smear identification,1,2022
 Bone Marrow Failure Syndromes,Aplastic anemia clinical presentation,1,2021
 Bone Metabolism,Isolated ALP elevation Paget's disease,1,2025
@@ -4258,6 +4281,7 @@ Brainstem Syndromes,Pontine gaze palsy syndrome,1,2024
 Brainstem Syndromes,Weber syndrome clinical features,1,2018
 Brainstem Syndromes,Weber syndrome clinical presentation,1,2016
 Brainstem Syndromes,Weber syndrome features,1,2017
+Brainstem Syndromes,Weber's syndrome features,1,2017
 Brainstem death,Brainstem death criteria,1,2015
 Brainstem syndromes,Lateral medullary lesion features,1,2013
 Brainstem syndromes,Weber's syndrome features,1,2017
@@ -4797,6 +4821,7 @@ CSF rhinorrhoea,CSF rhinorrhoea diagnosis,1,2015
 CSOM,CSOM diagnosis in child,1,2016
 CSOM,CSOM most commonly involved ossicle,1,2016
 CT,bone highest Hounsfield unit,1,2014
+CT & MRI,Cranial pathology imaging,1,2017
 CT & MRI,MRI water-soluble contrast agent,1,2019
 CT & MRI,Ochsner Sherren regimen indication,1,2015
 CT Imaging,CT scan diagnostic accuracy,1,2011
@@ -5163,6 +5188,7 @@ Cardiac Arrhythmias,Torsades de pointes not SVT,1,2016
 Cardiac Arrhythmias,Unstable SVT immediate cardioversion,1,2020
 Cardiac Arrhythmias,Ventricular fibrillation ECG characteristics,1,2019
 Cardiac Arrhythmias,sudden palpitations chest pain,1,2025
+Cardiac Arrhythmias,unstable SVT management,1,2020
 Cardiac Arrhythmias Management,AICD implantation indications,1,2018
 Cardiac Biomarkers,ALP not elevated in heart disease,1,2015
 Cardiac Conduction System,bundle of Kent WPW syndrome,1,2019
@@ -5256,6 +5282,7 @@ Cardiology,Left axis deviation,2,2014
 Cardiology,Myocardial stunning non-coronary pattern,2,"2016,2017"
 Cardiology,Nifedipine reflex tachycardia,2,2013
 Cardiology,Nitric oxide cGMP pathway,2,"2016,2018"
+Cardiology,post-MI aneurysm location,2,"2016,2019"
 Cardiology,A 25-year-old patient is undergoing tooth extraction for dental caries. Which of the following,1,2022
 Cardiology,A hypertensive patient who is non-compliant with medication presents to you with sudden,1,2022
 Cardiology,A male patient presents with senLsory loss and weakness of limbs for 3 months. He also has,1,2023
@@ -5719,7 +5746,6 @@ Cardiology,most common malignant heart tumor,1,2015
 Cardiology,non-high-pitched heart sound identification,1,2014
 Cardiology,pharyngeal arch artery derivatives,1,2020
 Cardiology,post-MI LV aneurysm anterior,1,2019
-Cardiology,post-MI aneurysm location,1,2016
 Cardiology,prasugrel antiplatelet facts,1,2016
 Cardiology,presystolic accentuation,1,2025
 Cardiology,pulmonary stenosis,1,2016
@@ -5812,6 +5838,7 @@ Catecholamine Metabolism,VMA in pheochromocytoma,1,2017
 Catecholamine Metabolism,VMA pheochromocytoma,1,2016
 Catecholamine Metabolism,VMA pheochromocytoma diagnosis,1,2018
 Catecholamine Synthesis,Norepinephrine epinephrine conversion enzyme,1,2019
+Catecholamine Synthesis,PNMT methyl donor,1,2019
 Catecholamine Synthesis Inhibitors,Metyrosine blocks tyrosine hydroxylase,1,2016
 Catecholamine synthesis,PNMT methyl donor,1,2019
 Catecholamine synthesis inhibitors,Metyrosine blocks tyrosine hydroxylase,1,2016
@@ -5963,6 +5990,7 @@ Cell Signaling,Beta 2 receptor secondary messenger,1,2021
 Cell Signaling,Fastest receptor mediated action,1,2015
 Cell Signaling,GPCR alpha subunit effects,1,2013
 Cell Signaling,Insulin tyrosine kinase receptor,1,2020
+Cell Signaling,NO increases cGMP,1,2018
 Cell Signaling,endothelin receptor pathway,1,2016
 Cell Signaling,heterophilic receptor definition,1,2016
 Cell Signaling,spinal level cell signaling,1,2023
@@ -7154,6 +7182,7 @@ Compartment syndromes,Acute compartment syndrome signs,1,2024
 Compartment syndromes,Compartment syndrome hallmark pain,1,2024
 Compartment syndromes,Deep peroneal nerve compression,1,2024
 Complement,C1 macrophage synthesis,1,2014
+Complement Disorders,CD59 marker PNH,1,2017
 Complement System,C3 complement central role,1,2012
 Complement System,Complement C3b opsonization,1,2017
 Complement System,Complement MAC regulation,1,2013
@@ -7241,6 +7270,7 @@ Congenital Anomalies,posterior urethral valve obstruction,1,2020
 Congenital Anomalies,umbilical cord cyst differential,1,2015
 Congenital Anomalies Screening,Neural tube defect screening markers,1,2011
 Congenital Brain Malformations,Dandy Walker malformation imaging,1,2024
+Congenital Brain Malformations,Dandy Walker syndrome imaging,1,2019
 Congenital CNS Anomalies,Congenital hindbrain malformation,1,2024
 Congenital CNS Anomalies,Small posterior fossa anomaly,1,2013
 Congenital CNS malformations,Agenesis of corpus callosum,1,2019
@@ -7380,6 +7410,7 @@ Conjunctival Disorders,Bitot spots vitamin A deficiency,1,2022
 Conjunctival Disorders,Ocular surface lesion features,1,2021
 Conjunctival Disorders,Pterygium characteristics,1,2019
 Conjunctival Disorders,VKC clinical features,1,2012
+Conjunctival Disorders,pterygium features,1,2019
 Conjunctival Lesions,Limbal dermoid diagnosis,1,2024
 Conjunctival Lesions,Ocular surface lesion features,1,2021
 Conjunctival Lesions,Pyogenic granuloma post surgery,1,2024
@@ -7466,10 +7497,10 @@ Contact Dermatitis,contact dermatitis metal cause,1,2016
 Contact Dermatitis,most common metal in contact dermatitis,1,2013
 Contact dermatitis,contact dermatitis metal cause,1,2016
 Contraception,IUD absolute contraindications,3,"2015,2020,2022"
+Contraception,fimbriectomy method,3,"2017,2018"
 Contraception,sterilization eligibility,3,2015
 Contraception,POP mechanism of action,2,"2016,2018"
 Contraception,Tubectomy isthmus site,2,2018
-Contraception,fimbriectomy method,2,"2017,2018"
 Contraception,Antibiotic disruption of enterohepatic cycling,1,2013
 Contraception,Basal body temperature method,1,2013
 Contraception,Billings method basis,1,2014
@@ -7536,6 +7567,8 @@ Contraindications,LMA large oral tumor contraindication,1,2014
 Contraindications,Vasoconstrictor local anaesthetic contraindication,1,2011
 Contraindications,contraindication to neuraxial block,1,2015
 Contrast Agents,Radiographic contrast agent elements,1,2019
+Contrast Agents,water soluble contrast,1,2017
+Contrast Agents,water soluble contrast agent,1,2019
 Contrast Media,CT contrast enhancement cause,1,2013
 Contrast Media,Contrast media characteristics and safety,1,2011
 Contrast Media,Contrast nephropathy prevention strategies,1,2011
@@ -7760,6 +7793,7 @@ Cranial Nerve Examination,Gag reflex CN IX X,1,2024
 Cranial Nerve Functions,taste nerve involvement,1,2016
 Cranial Nerve Innervation,postganglionic parotid supply,1,2015
 Cranial Nerve Nuclei,Cranial nerve functional components,1,2016
+Cranial Nerve Nuclei,SVE column nerves,1,2018
 Cranial Nerve Nuclei,Special visceral efferent components,1,2017
 Cranial Nerve Palsies,Marcus Gunn jaw-winking syndrome,1,2010
 Cranial Nerve Palsies,Third nerve down-out position,1,2013
@@ -7782,6 +7816,7 @@ Cranial Nerves,Facial nerve exit branches,1,2013
 Cranial Nerves,Facial nerve lesion signs,1,2022
 Cranial Nerves,Facial nerve stapedius branch,1,2013
 Cranial Nerves,Facial nerve terminal branches,1,2013
+Cranial Nerves,Facial nerve thickening,1,2018
 Cranial Nerves,Frey's syndrome nerve injury,1,2019
 Cranial Nerves,Gag reflex cranial nerve,1,2021
 Cranial Nerves,Glossopharyngeal referred otalgia,1,2013
@@ -7791,6 +7826,7 @@ Cranial Nerves,Identify nuclei of GVA column,1,2016
 Cranial Nerves,Jugular foramen structures,1,2025
 Cranial Nerves,Lacrimal gland parasympathetic,1,2014
 Cranial Nerves,Maxillary nerve V2 identification,1,2016
+Cranial Nerves,Nasal tip V1 innervation,1,2016
 Cranial Nerves,Nucleus ambiguus excludes hypoglossal nerve,1,2012
 Cranial Nerves,Oculomotor nerve supplies LPS,1,2016
 Cranial Nerves,Oculomotor superior orbital fissure,1,2012
@@ -7805,6 +7841,7 @@ Cranial Nerves,Structures passing foramen magnum,1,2010
 Cranial Nerves,Submandibular gland nerve supply,1,2019
 Cranial Nerves,Sympathetic fibers supply Muller's muscle,1,2016
 Cranial Nerves,Tensor veli palatini innervation,1,2012
+Cranial Nerves,Thickened facial nerve,1,2017
 Cranial Nerves,Tongue sensory innervation,1,2015
 Cranial Nerves,Tonsillitis glossopharyngeal nerve,1,2017
 Cranial Nerves,Trigeminal autonomic cephalalgia nerve,1,2022
@@ -7902,9 +7939,12 @@ Creatinine metabolism,creatinine formation from arginine,1,2016
 Creche,Factory Act creche eligibility,1,2016
 Criminal Abortion,Criminal abortion causing maternal death,1,2018
 Criminal Law,Class I magistrate punishment powers,1,2013
+Criminal Law,Concurrent list 52 items,1,2019
+Criminal Law,Criminal law IPC coverage,1,2019
 Criminal Law,IPC offences trial jurisdiction,1,2012
 Criminal Law,M'Naghten rule legal provision,1,2017
 Criminal Law,Trial jurisdiction under special laws,1,2012
+Criminal Procedure,Criminal procedure CrPC coverage,1,2019
 Criminal Responsibility,Child age doli incapax,1,2014
 Criminal abortion,Criminal abortion causing maternal death,1,2018
 Criminal law,Concurrent list 52 items,1,2019
@@ -8008,9 +8048,11 @@ Cutaneous Lymphoma,Cutaneous lymphoma risk,1,2024
 Cutaneous Manifestations,Gardner syndrome features,1,2011
 Cutaneous T-Cell Lymphoma,Sezary cells cerebriform nucleus,1,2015
 Cutaneous T-cell Lymphoma,Sezary cells cerebriform nucleus,1,2015
+Cutaneous Tuberculosis,Apple jelly nodule in lupus vulgaris,1,2014
 Cutaneous Tuberculosis,Tissue paper scarring,1,2013
 Cutaneous receptors,Ruffini sustained pressure sensation,1,2013
 Cutaneous tuberculosis,Apple jelly nodule in lupus vulgaris,1,2014
+Cutis Marmorata,Cutis marmorata etiology,1,2017
 Cutis marmorata,Cutis marmorata etiology,1,2017
 Cvs Pharmacology,A chronic smoker was on nicotine replacement therapy and clonidine tablets for smoking,1,2023
 Cvs Pharmacology,A patient was brought to the emergency with a history of consumption of 8 tablets of digoxin.,1,2022
@@ -8120,6 +8162,7 @@ Decidua,Cleavage plane through decidua basalis layers,1,2015
 Decompensated Heart Failure,Decompensated heart failure management,1,2019
 Decomposition,Adipocere formation saponification,1,2019
 Decomposition,Last organ to putrefy female,1,2015
+Decomposition And Putrefaction,first organ to putrefy,1,2017
 Decomposition and Putrefaction,first organ to putrefy,1,2017
 Decompression Sickness,Caisson disease nitrogen bubbles,1,2015
 Deep Venous Thrombosis,DVT clinical assessment reliability,1,2019
@@ -8224,6 +8267,7 @@ Demographic transition,Demographic stages birth rates,1,2024
 Demographic transition,Stage 3 birth rate decline,1,2024
 Demography & Family Planning,"Demographic transition stages, MMR calculation",4,2019
 Demography & Family Planning,IUD absolute contraindications,2,"2020,2022"
+Demography & Family Planning,NRR 1 CPR target,2,"2017,2018"
 Demography & Family Planning,NRR and couple protection rate,2,"2017,2018"
 Demography & Family Planning,Net reproduction rate definition,2,2012
 Demography & Family Planning,Adult predominant population structure,1,2013
@@ -8266,7 +8310,6 @@ Demography & Family Planning,Mortality measure in infancy,1,2012
 Demography & Family Planning,NFHS data for policy,1,2014
 Demography & Family Planning,NFHS unmet contraception need,1,2013
 Demography & Family Planning,NFHS-3 year,1,2014
-Demography & Family Planning,NRR 1 CPR target,1,2018
 Demography & Family Planning,NRR 1 couple protection,1,2017
 Demography & Family Planning,Natural family planning methods,1,2013
 Demography & Family Planning,Net Reproduction Rate calculation,1,2016
@@ -8313,6 +8356,7 @@ Depressive Disorders,DSM-IV depression criteria,1,2014
 Depressive Disorders,Depression with psychotic features,1,2020
 Depressive Disorders,Melancholia definition,1,2019
 Depressive Disorders,major depressive episode criteria,1,2013
+Depth Of Anaesthesia,BIS depth of anesthesia,1,2019
 Depth Of Anaesthesia,Ether anesthesia stages,1,2012
 Depth Of Anesthesia Monitoring,Ketamine not used for EEG monitoring,1,2019
 Depth of Anaesthesia,BIS depth of anesthesia,1,2019
@@ -9004,6 +9048,7 @@ Dna Repair,DNA ligase sealing,1,2015
 Dna Repair,Mismatch repair defect association,1,2021
 Dna Repair,Xeroderma pigmentosum repair defect,1,2024
 Dna Repair,nucleotide excision repair defect,1,2024
+Dna Repair Disorders,AT AFP increase,1,2017
 Dna Replication,DNA polymerase I Okazaki fragment,1,2018
 Dna Replication,DNA polymerase I role,1,2016
 Dna Replication,Okazaki fragments lagging strand,1,2015
@@ -9082,6 +9127,7 @@ Drug Classification,Neprilysin inhibitor hyperglycemia,1,2018
 Drug Contraindications,drug contraindicated in liver dysfunction,1,2014
 Drug Dependence,Cross tolerance in dependence,1,2013
 Drug Dependence,Initial dependence development,1,2013
+Drug Dependence,Most common drug causing dependence,1,2020
 Drug Dependence,Self tolerance in dependence,1,2013
 Drug Dependence,nicotine withdrawal symptoms,1,2013
 Drug Distribution,Protein-bound drug compartment,1,2014
@@ -9123,6 +9169,8 @@ Drug Metabolism,Second gen antihistamine no active metabolite,1,2013
 Drug Metabolism,Trichloroethylene degradation mechanism,1,2018
 Drug Metabolism,Trichloroethylene metabolic pathway,1,2017
 Drug Metabolism,Trichloroethylene metabolism,1,2018
+Drug Metabolism,Trilene degradation mechanism,1,2017
+Drug Metabolism,Trilene degradation pathway,1,2018
 Drug Metabolism,drug oxidation smooth ER,1,2015
 Drug Metabolism,true statements about drug metabolism,1,2015
 Drug Monitoring,Anticoagulant PT monitoring,1,2017
@@ -9572,11 +9620,11 @@ Embolism,Fat embolism histology,1,2012
 Embolism,Lendrum stain fat embolism,1,2012
 Embolism,fat embolism after femur fracture,1,2014
 Embryology,Dorsal mesentery development,3,"2016,2017,2018"
+Embryology,fetoplacental circulation timing,3,"2017,2018"
 Embryology,Aortic arch embryonic development,2,2024
 Embryology,Fetal heart development timeline,2,"2017,2018"
 Embryology,Malleus incus from 1st arch,2,"2014,2015"
 Embryology,Neural crest derived structures,2,"2015,2016"
-Embryology,fetoplacental circulation timing,2,"2017,2018"
 Embryology,4-8 cell embryo transfer,1,2016
 Embryology,Accessory breasts along milk line,1,2012
 Embryology,Accessory pancreatic duct embryology,1,2015
@@ -9921,6 +9969,7 @@ Endocrine,ADH mediated water retention,1,2013
 Endocrine,ADH-mediated blood pressure regulation,1,2013
 Endocrine,AGRP appetite stimulation,1,2014
 Endocrine,AMH source,1,2015
+Endocrine,Adrenal hypoplasia pseudohermaphroditism,1,2018
 Endocrine,Aldosterone ADH trauma effects,1,2015
 Endocrine,Androgen insensitivity syndrome,1,2013
 Endocrine,Antithyroid drug pregnancy,1,2022
@@ -10020,6 +10069,7 @@ Endocrine,insulin mediated glucose transport,1,2014
 Endocrine,male precocious puberty CAH,1,2014
 Endocrine,multiple mucosal neuromas,1,2022
 Endocrine,priority investigation for acromegaly,1,2022
+Endocrine Pharmacology,Cytotoxic drug disposal method,2,"2017,2018"
 Endocrine Pharmacology,Hydrocortisone replacement dose,2,"2016,2017"
 Endocrine Pharmacology,Identify insulin secretagogue drug,2,2015
 Endocrine Pharmacology,Ketamine dissociative anesthesia,2,"2013,2015"
@@ -10148,7 +10198,6 @@ Endocrine Pharmacology,Curare like drugs mechanism,1,2019
 Endocrine Pharmacology,Curonium muscle relaxant mechanism,1,2017
 Endocrine Pharmacology,Cyclophosphamide toxicity,1,2016
 Endocrine Pharmacology,Cyclosporiasis drug of choice,1,2019
-Endocrine Pharmacology,Cytotoxic drug disposal method,1,2018
 Endocrine Pharmacology,DCGI permission before phase 1,1,2015
 Endocrine Pharmacology,DOC for Listeria meningitis,1,2016
 Endocrine Pharmacology,DOC for schizophrenia with poor oral absorption,1,2016
@@ -11209,8 +11258,9 @@ Environment & Occupational Health,tubotympanic CSOM perforation location,1,2015
 Environment & Occupational Health,turbinate hypertrophy surgical options,1,2014
 Environment And Health,e,1,2023
 Environmental Emergencies,Frostbite rewarming temperature,1,2020
+Environmental Health,Active chlorine form hypochlorous acid,2,"2017,2018"
+Environmental Health,Hardness of water,2,"2017,2018"
 Environmental Health,Active chlorine form chlorination,1,2016
-Environmental Health,Active chlorine form hypochlorous acid,1,2018
 Environmental Health,Air Quality Index interpretation,1,2021
 Environmental Health,Air pollution monitoring indicators,1,2020
 Environmental Health,Air pollution noise control,1,2012
@@ -11240,7 +11290,6 @@ Environmental Health,Epidemic dropsy causative toxin,1,2012
 Environmental Health,Food and drug safety,1,2012
 Environmental Health,Greenhouse gas identification,1,2013
 Environmental Health,Hardness 50-150 mg/L,1,2014
-Environmental Health,Hardness of water,1,2018
 Environmental Health,Hazardous waste disposal methods,1,2016
 Environmental Health,Heat stress index comfort threshold,1,2012
 Environmental Health,Holder method pasteurization temperature,1,2018
@@ -11276,6 +11325,7 @@ Environmental Health,Water hardness chemistry,1,2017
 Environmental Health,Water hardness contributors,1,2018
 Environmental Health,Water hardness salts,1,2017
 Environmental Health,Winter temperature inversion,1,2012
+Environmental Health,active chlorine form,1,2017
 Environmental Health,aeration tank function,1,2012
 Environmental Health,air cooling power measurement,1,2019
 Environmental Health,diatoms forensic significance,1,2019
@@ -11481,12 +11531,15 @@ Epidemiological Study Designs,Occupational cohort study design,1,2018
 Epidemiological methods,cluster testing disease applicability,1,2014
 Epidemiological studies,Single blinding common in epidemiology,1,2015
 Epidemiological study designs,Occupational cohort study design,1,2018
-Epidemiology,Secondary attack rate definition,4,"2016,2018"
+Epidemiology,Secondary attack rate definition,5,"2016,2017,2018"
 Epidemiology,Bradford Hill criteria,3,2015
 Epidemiology,Tuberculosis incidence rate,3,"2010,2013"
+Epidemiology,Direct transmission examples,2,"2017,2018"
 Epidemiology,Ecological study unit of analysis,2,"2017,2018"
+Epidemiology,Ecological study unit population,2,"2017,2018"
 Epidemiology,Incubation period definition,2,"2024,2025"
 Epidemiology,Kala-azar endemic regions India,2,"2016,2018"
+Epidemiology,Major sign for AIDS surveillance,2,"2013,2014"
 Epidemiology,Male cancer prevalence ranking,2,"2012,2013"
 Epidemiology,Minimum floor space per worker,2,2016
 Epidemiology,Natural history study design,2,"2012,2014"
@@ -11631,7 +11684,6 @@ Epidemiology,Dietary colorectal cancer factors,1,2013
 Epidemiology,Diphtheria contact management,1,2020
 Epidemiology,Direct disease transmission types,1,2018
 Epidemiology,Direct standardization age distribution,1,2011
-Epidemiology,Direct transmission examples,1,2018
 Epidemiology,Disease excluded from IDSP,1,2013
 Epidemiology,Disease occurrence definition,1,2025
 Epidemiology,Disease transmission routes,1,2017
@@ -11647,7 +11699,6 @@ Epidemiology,Early diagnosis changes disease course,1,2013
 Epidemiology,Early disease stage prevention,1,2012
 Epidemiology,Ecological study characteristics,1,2020
 Epidemiology,Ecological study definition,1,2016
-Epidemiology,Ecological study unit population,1,2018
 Epidemiology,El Tor biotype features,1,2015
 Epidemiology,Encephalitis vaccine characteristics,1,2021
 Epidemiology,Endemic disease definition,1,2016
@@ -11769,7 +11820,6 @@ Epidemiology,MMR definition calculation,1,2010
 Epidemiology,MO disaster responsibilities,1,2022
 Epidemiology,MONICA project definition,1,2020
 Epidemiology,MONICA project description,1,2020
-Epidemiology,Major sign for AIDS surveillance,1,2013
 Epidemiology,Malaria control challenges,1,2011
 Epidemiology,Malaria control strategic plan,1,2015
 Epidemiology,Malaria operational efficiency index,1,2014
@@ -12220,6 +12270,7 @@ Esophageal Motility Disorders,Achalasia diagnostic investigation,1,2016
 Esophageal Motility Disorders,Achalasia manometry,1,2015
 Esophageal Motility Disorders,Heller myotomy for achalasia,1,2018
 Esophageal Motility Disorders,Nutcracker esophagus forceful peristalsis,1,2020
+Esophageal Motility Disorders,Nutcracker esophagus hypercontractility,1,2020
 Esophageal Pathology,Barretts esophagus characteristics,1,2019
 Esophageal Perforation,Boerhaave syndrome facts,1,2015
 Esophageal Perforation,Cervical esophagus iatrogenic perforation,1,2014
@@ -12334,6 +12385,7 @@ Extraocular Muscles,Right LR yoke muscle,1,2017
 Extraocular Muscles,Superior rectus yoke pairing,1,2013
 Extraocular Muscles,Yoke muscle identification,1,2018
 Extraocular Muscles,yoke muscle identification,1,2016
+Extraocular Muscles,yoke muscle pairing extraocular,1,2018
 Extraocular muscles,CN III innervation exception,1,2015
 Extraocular muscles,Duane syndrome lateral rectus,1,2013
 Extraocular muscles,Longest extraocular muscle,1,2012
@@ -12376,6 +12428,7 @@ Eyelid Anatomy,Moll gland opens into hair follicle,1,2014
 Eyelid Anatomy & Disorders,Extra cilia definition,1,2020
 Eyelid Disorders,Ankyloblepharon definition,1,2016
 Eyelid Disorders,Corneal exposure complications,1,2021
+Eyelid Disorders,Distichiasis extra cilia posterior grey line,1,2020
 Eyelid Disorders,Extra cilia definition,1,2020
 Eyelid Disorders,Marcus Gunn jaw-winking syndrome,1,2010
 Eyelid Disorders,Stye gland involvement,1,2014
@@ -12408,6 +12461,7 @@ Facial Nerve,Stapedius nerve supply,1,2015
 Facial Nerve,chorda tympani fiber types,1,2016
 Facial Nerve,facial nerve supplies orbicularis oculi,1,2016
 Facial Nerve,facial nerve topodiagnosis,1,2016
+Facial Nerve Palsy,Bell's palsy nerve involvement,1,2019
 Facial Nerve Palsy,Facial nerve palsy features,1,2015
 Facial Nerve Palsy,Facial nerve palsy sign,1,2015
 Facial Nerve Paralysis,synkinesis sequel,1,2014
@@ -12464,7 +12518,7 @@ Fascia,Hypogastric sheath anatomy,1,2010
 Fascia,Sibson's fascia anatomical details,1,2018
 Fascial Spaces,Deep fascia protects neck structures,1,2013
 Fascial Spaces,Platysma investing fascia,1,2013
-Fasciotomy,Fasciotomy layer dissection,1,2017
+Fasciotomy,Fasciotomy layer dissection,2,"2017,2018"
 Fasting,fasting pathway suppression glycolysis,1,2015
 Fasting Metabolism,Hexokinase activity during fasting,1,2013
 Fasting Metabolism,Ketone bodies brain fuel,1,2025
@@ -12800,6 +12854,7 @@ Food Hygiene,Holder method pasteurization temperature,1,2018
 Food Hygiene,Holder method pasteurization temperature time,1,2016
 Food Hygiene,Milk pasteurization assessment test,1,2011
 Food Hygiene,Milk pasteurization temperature,1,2017
+Food Hygiene,pasteurization temperature time,1,2017
 Food Microbiology,Methods of pasteurization,1,2016
 Food Microbiology,Pasteurization temperature duration,1,2018
 Food Poisoning,Food poisoning bacterial causes,1,2021
@@ -12868,9 +12923,9 @@ Foreign body in esophagus,paediatric esophageal coin impaction,1,2016
 Formula Feeding,F-75 formula protein content,1,2014
 Fourth Ventricle,Vagal triangle in floor of fourth ventricle,1,2014
 Fourth ventricle,Vagal triangle in floor of fourth ventricle,1,2014
+Fractures,Osteoporotic vertebral fracture site,3,"2014,2016"
 Fractures,Ankylosing spondylitis diagnosis,2,2021
 Fractures,Femoral neck fracture AVN,2,2012
-Fractures,Osteoporotic vertebral fracture site,2,2014
 Fractures,Tom Smith septic arthritis definition,2,"2017,2018"
 Fractures,orbital blow out fracture location,2,"2016,2017"
 Fractures,AVN risk in femoral neck fracture,1,2015
@@ -15235,13 +15290,13 @@ Gross Anatomy,Anatomical snuffbox identification,1,2020
 Gross Anatomy,Joint type identification,1,2020
 Gross Anatomy,Muscle nerve supply,1,2020
 Gross Anatomy,Umbilical cord vessel count,1,2025
+Growth & Development,True hermaphroditism karyotype,4,"2017,2018,2020"
 Growth & Development,Fetal heart development timeline,2,"2017,2018"
 Growth & Development,First permanent molar eruption,2,"2012,2013"
 Growth & Development,Intellectual disability terminology,2,"2017,2018"
 Growth & Development,Last fontanelle to close,2,"2017,2018"
 Growth & Development,Ortolani test for DDH,2,"2014,2016"
 Growth & Development,Placenta umbilical cord anatomy physiology,2,"2016,2017"
-Growth & Development,True hermaphroditism karyotype,2,"2018,2020"
 Growth & Development,1-year developmental milestones,1,2015
 Growth & Development,10-month developmental expectations,1,2014
 Growth & Development,10-month motor milestones,1,2016
@@ -15498,6 +15553,7 @@ Gynaecological procedures,D&C contraindication conditions,1,2016
 Gynaecological procedures,D&C contraindications,1,2017
 Gynaecological surgery,Laparoscopic hysterectomy bladder injury,1,2018
 Gynaecological surgery,Renal pelvis surgical injury,1,2012
+Gynecologic Imaging,uterine anomaly imaging,1,2017
 Gynecologic Oncology,RET oncogene associated cancers,3,"2016,2017,2018"
 Gynecologic Oncology,Cowden syndrome PTEN mutation,2,"2017,2018"
 Gynecologic Oncology,Cutaneous lymphoma risk factors,2,"2016,2017"
@@ -15923,6 +15979,7 @@ Hand surgery,Flexor tendon graft source,1,2013
 Hanging,Facies sympathique in asphyxia,1,2012
 Hanging,Hanging ligature abrasion,1,2012
 Hanging,Typical hanging knot location,1,2014
+Hard Palate,Hard palate composition,1,2017
 Hard palate,Hard palate composition,1,2017
 Head & Neck,A 2-month-old infant is brought to the OPD with a parietal swelling present since birth. The,1,2023
 Head & Neck,Abductor paralysis causing airway compromise,1,2016
@@ -15933,6 +15990,7 @@ Head & Neck,Blowout fracture posteromedial maxilla,1,2016
 Head & Neck,C7 vertebra prominens,1,2014
 Head & Neck,Cavernous sinus contents,1,2012
 Head & Neck,Cementum apposition,1,2014
+Head & Neck,Cranial pathology imaging,1,2017
 Head & Neck,Cricopharyngeal sphincter distance from incisor,1,2016
 Head & Neck,Dangerous area of scalp,1,2015
 Head & Neck,Delta sign imaging condition,1,2013
@@ -15992,6 +16050,7 @@ Head And Neck,A patient presents with swelling under the left ear lobule and com
 Head And Neck,A student had his jaw locked while yawning. Which of the following muscles is attached to the,1,2023
 Head And Neck,Adult retropharyngeal abscess cause,1,2013
 Head And Neck,Anterior border sternocleidomastoid,1,2019
+Head And Neck,Auriculotemporal nerve injury,1,2019
 Head And Neck,Bilateral recurrent laryngeal supply,1,2012
 Head And Neck,Carotid body glomus cells,1,2013
 Head And Neck,Carotid body tumor diagnosis,1,2024
@@ -16010,6 +16069,7 @@ Head And Neck,Horner ptosis cause,1,2024
 Head And Neck,Hyoid level C3,1,2013
 Head And Neck,Hypopharynx lymphatic drainage,1,2013
 Head And Neck,Incudomalleolar joint type,1,2015
+Head And Neck,Inferior alveolar nerve passage,1,2019
 Head And Neck,Inferior parathyroid embryologic origin,1,2012
 Head And Neck,Internal carotid in cavernous sinus,1,2012
 Head And Neck,Investing fascia parotid capsule,1,2018
@@ -16043,7 +16103,10 @@ Head And Neck,Tensor tympani attaches to malleus,1,2016
 Head And Neck,Tensor veli palatini innervation,1,2012
 Head And Neck,Thyroid carcinoma histopathology,1,2022
 Head And Neck,Trigeminal sensory distribution,1,2019
+Head And Neck,Zenker diverticulum location,1,2020
 Head And Neck,areas drained by submandibular nodes,1,2016
+Head And Neck,branchial arch nerve origin,1,2017
+Head And Neck,branchial cyst common location,1,2019
 Head And Neck,lamina papyracea ethmoid sinus orbit,1,2014
 Head And Neck,nasal cavity floor bones,1,2015
 Head And Neck,oropharyngeal cancer risk factors,1,2024
@@ -16072,6 +16135,7 @@ Head And Neck Anatomy,nasal tip most prominent point,1,2016
 Head And Neck Anatomy,quadrangular septum location,1,2016
 Head And Neck Cancer,MRND adjuvant radiotherapy indication,1,2024
 Head And Neck Cancers,ethmoidal carcinoma risk factors,1,2016
+Head And Neck Imaging,Chemodectoma imaging modality,1,2016
 Head And Neck Lymphatics,Retropharyngeal lymph nodes,1,2012
 Head And Neck Lymphatics,facial lower area drainage,1,2016
 Head And Neck Lymphatics,facial middle area drainage,1,2016
@@ -16084,7 +16148,9 @@ Head And Neck Oncology,Nasopharyngeal carcinoma radiotherapy,1,2013
 Head And Neck Oncology,most common oropharyngeal carcinoma type,1,2016
 Head And Neck Pathology,Angiofibroma Holman Miller sign,1,2025
 Head And Neck Radiology,Caldwell view sinus,1,2014
+Head And Neck Radiology,PNS occipitomental view naming,1,2020
 Head And Neck Surgery,Carotid body tumor diagnosis,1,2024
+Head And Neck Surgery,Dohlman procedure indication,1,2019
 Head And Neck Surgery,Modified radical dissection levels I V,1,2013
 Head And Neck Surgery,Neck dissection levels I V,1,2013
 Head And Neck Surgery,Sistrunk operation indication,1,2013
@@ -16654,6 +16720,7 @@ Heavy Metal Poisoning,Chronic arsenic poisoning,1,2022
 Heavy Metal Poisoning,Copper poisoning bluish pigmentation,1,2011
 Heavy Metal Poisoning,Thallium poisoning clinical features,1,2022
 Heavy Metal Poisoning,lead poisoning pure motor palsy,1,2016
+Heavy Metal Toxicity,Cadmium proximal tubule proteinuria,1,2018
 Heavy metal poisoning,Arsenic poisoning gastric signs,1,2017
 Heavy metal poisoning,Cadmium induced renal injury,1,2012
 Heavy metal poisoning,Commonest heavy metal poisoning,1,2012
@@ -17334,6 +17401,7 @@ Herpes Keratitis,Herpetic stromal keratitis,1,2013
 Herpes Keratitis,Herpetic trophic ulcer,1,2013
 Herpes Simplex,Herpes perianal ulcer diagnosis,1,2013
 Herpes Viruses,Shingles causative agent,1,2018
+Herpes Zoster,Herpes zoster identification,1,2019
 Herpes Zoster,scaling absent in herpes zoster,1,2016
 Herpes Zoster Ophthalmicus,Herpes Zoster Ophthalmicus presentation,1,2015
 Herpes keratitis,Amoeboid herpetic ulcer,1,2013
@@ -17587,6 +17655,7 @@ Hiv/Aids Surveillance,Major sign for AIDS surveillance,1,2013
 Hla Matching,HLA matching criteria count,1,2015
 Hodgkin Lymphoma,Hodgkin lymphoma cell types,1,2016
 Hodgkin Lymphoma,L&H flipping LDH pattern,1,2018
+Hodgkin Lymphoma,Reed-Sternberg cells diagnosis,1,2018
 Hodgkin Lymphoma,lacunar Reed-Sternberg cell,1,2014
 Hodgkin Lymphoma,most common HL subtype,1,2014
 Hodgkin Lymphoma,popcorn cells HL variant,1,2014
@@ -17888,6 +17957,7 @@ Imaging techniques,Radiology image modality,1,2022
 Immobilization,proximal forearm fracture cast position,1,2013
 Immune Response,vaccine not immunogenic <2,1,2014
 Immunization,Diphtheria contact management,2,"2019,2020"
+Immunization,Live vaccine interval,2,"2017,2018"
 Immunization,Live vaccine minimum interval,2,"2016,2017"
 Immunization,Tetanus prophylaxis clean wound,2,"2018,2020"
 Immunization,10-year-old intramuscular vaccine,1,2021
@@ -17922,7 +17992,6 @@ Immunization,Live vaccine administration gap,1,2017
 Immunization,Live vaccine administration interval,1,2018
 Immunization,Live vaccine co-administration,1,2014
 Immunization,Live vaccine coadministration rule,1,2016
-Immunization,Live vaccine interval,1,2018
 Immunization,Live vaccine interval 4 weeks,1,2018
 Immunization,MCA Doppler fetal anemia assessment,1,2015
 Immunization,MCA Doppler for fetal anemia in Rh disease,1,2020
@@ -18249,8 +18318,9 @@ Immunomodulators,Vedolizumab cytokine target,1,2025
 Immunomodulatory Agents,Thalidomide adverse effects,1,2015
 Immunomodulatory Drugs,Abatacept binds CD28,1,2016
 Immunomodulatory drugs,Abatacept binds CD28,1,2016
-Immunopathology,Hyperacute graft rejection timing,2,"2017,2018"
+Immunopathology,Hyperacute graft rejection timing,3,"2017,2018"
 Immunopathology,ADA deficiency SCID,1,2025
+Immunopathology,AIDS related complex components,1,2018
 Immunopathology,AMA diagnostic marker,1,2025
 Immunopathology,ANA test for SLE,1,2015
 Immunopathology,ARC differential diagnosis,1,2018
@@ -18262,6 +18332,7 @@ Immunopathology,Atopy type I hypersensitivity,1,2014
 Immunopathology,Autoimmune gastritis B12 deficiency,1,2016
 Immunopathology,Birbeck granule morphology,1,2014
 Immunopathology,Birbeck granules in Langerhans cells,1,2014
+Immunopathology,Common AIDS pleural effusion cause,1,2015
 Immunopathology,Commonest diarrheal pathogen in AIDS,1,2014
 Immunopathology,Drug-induced SLE features,1,2015
 Immunopathology,Eosinophilic granuloma common site,1,2014
@@ -18277,6 +18348,7 @@ Immunopathology,IL-2 Th1,1,2014
 Immunopathology,Least chance organ rejection,1,2015
 Immunopathology,Lupus nephritis mortality,1,2013
 Immunopathology,MAS characteristic features,1,2014
+Immunopathology,Major sign for AIDS surveillance,1,2014
 Immunopathology,Mantoux test hypersensitivity type,1,2014
 Immunopathology,Most common graft rejection type,1,2015
 Immunopathology,Negative RF,1,2014
@@ -18306,6 +18378,7 @@ Immunosuppressants,Tacrolimus inhibits calcineurin,1,2014
 Immunosuppressants,Tocilizumab IL-6 inhibition,1,2021
 Immunosuppressants,mycophenolate mofetil properties,1,2010
 Immunosuppressive Agents,IL-2 receptor blockade,1,2014
+Immunosuppressive Drugs,Basiliximab IL-2 receptor antagonist,1,2018
 Immunosuppressive Drugs,Cyclosporine with systemic steroids,1,2016
 Immunosuppressive agents,IL-2 receptor blockade,1,2014
 Immunosuppressive drugs,Basiliximab IL-2 receptor antagonist,1,2018
@@ -18360,6 +18433,7 @@ Inborn Errors Of Metabolism,Richner-Hanhart syndrome features,1,2012
 Inborn Errors Of Metabolism,Sweaty feet odour urine cause,1,2013
 Inborn Errors Of Metabolism,Tyrosinemia odor,1,2014
 Inborn Errors Of Metabolism,Vitamin B6 use,1,2013
+Inborn Errors Of Metabolism,Wilson's disease urinary excretion,1,2019
 Inborn Errors of Metabolism,Galactosemia enzyme defect,2,"2023,2024"
 Inborn Errors of Metabolism,Abetalipoproteinemia acanthocytosis,1,2022
 Inborn Errors of Metabolism,Aldolase B deficiency,1,2013
@@ -18520,6 +18594,7 @@ Infectious Diseases,Incubation period definition,2,"2024,2025"
 Infectious Diseases,Leptospirosis clinical features,2,"2022,2024"
 Infectious Diseases,Parvovirus B19 aplastic crisis,2,2019
 Infectious Diseases,Parvovirus B19 associated conditions,2,"2017,2018"
+Infectious Diseases,Pasteurization temperature,2,"2017,2018"
 Infectious Diseases,Shingles causative agent,2,"2016,2018"
 Infectious Diseases,Trichomonas vaginalis diagnosis,2,"2020,2021"
 Infectious Diseases,r,2,2023
@@ -18927,7 +19002,6 @@ Infectious Diseases,Parasitic infection nephropathy,1,2012
 Infectious Diseases,Parvovirus B19 clinical manifestations,1,2016
 Infectious Diseases,Parvovirus B19 features,1,2011
 Infectious Diseases,Pasteurella cellulitis transmission,1,2015
-Infectious Diseases,Pasteurization temperature,1,2018
 Infectious Diseases,Pediatric sinusitis orbital complication investigation,1,2010
 Infectious Diseases,Pediatric tuberculosis testing,1,2018
 Infectious Diseases,Pelvic TB amenorrhea mass,1,2020
@@ -19227,6 +19301,7 @@ Infertility,ovarian reserve markers,1,2015
 Infertility,tubal patency test phase,1,2014
 Infestations,Scabies interdigital pruritus,1,2019
 Infiltration anaesthesia,Infiltration anaesthesia technique,1,2015
+Inflammation & Healing,Histamine vascular permeability,2,"2013,2014"
 Inflammation & Healing,IFN gamma macrophage activation,2,2013
 Inflammation & Healing,Negative acute phase proteins,2,2013
 Inflammation & Healing,Stellate granuloma association,2,"2016,2017"
@@ -19279,7 +19354,6 @@ Inflammation & Healing,Gray hepatization stage,1,2016
 Inflammation & Healing,Heparan sulfate adhesion ligand,1,2012
 Inflammation & Healing,Hereditary angioedema mechanism,1,2012
 Inflammation & Healing,Histamine first inflammatory mediator,1,2015
-Inflammation & Healing,Histamine vascular permeability,1,2013
 Inflammation & Healing,Histamine-induced vascular permeability,1,2013
 Inflammation & Healing,IL-1 cytokine functions,1,2013
 Inflammation & Healing,IL-1 fever,1,2015
@@ -19429,6 +19503,7 @@ Inguinal Canal,Superficial inguinal ring defect,1,2015
 Inguinal Canal,deep inguinal ring exceptions,1,2015
 Inguinal Region,Cremasteric fascia muscle origin,1,2013
 Inguinal Region,External spermatic fascia origin,1,2013
+Inguinal Region,Hesselbach's triangle anatomy,1,2019
 Inguinal Region,Inguinal ligament anatomical relations,1,2012
 Inguinal Region,Internal spermatic fascia origin,1,2013
 Inguinal Region,Triangle of Doom boundaries,1,2014
@@ -19970,6 +20045,7 @@ Intracranial Complications,Ear discharge intracranial complication,1,2021
 Intracranial Haemorrhage,Intracranial haematoma management principles,1,2017
 Intracranial Hemorrhage,Chronic subdural hematoma imaging,1,2024
 Intracranial Hemorrhage,Lucid interval causes,1,2014
+Intracranial Hemorrhage,Management of intracranial hemorrhage,1,2018
 Intracranial Pressure,ICP not raised during hyperventilation,1,2016
 Intracranial complications,Epistaxis brain abscess,1,2021
 Intracranial haemorrhage,Intracranial haematoma management principles,1,2017
@@ -20032,6 +20108,7 @@ Intravenous fluids,Plasma-like oncotic pressure,1,2013
 Introduction To Dermatology,A female patient presented with acne that is not resolving on oral isotretinoin and antibiotics,1,2023
 Introduction To Pathology,Meaning of pathology,1,2016
 Introduction To Pathology,Pathology term definition,1,2018
+Introduction To Pathology,pathology meaning,1,2018
 Introduction to Pathology,Meaning of pathology,1,2016
 Introduction to Pathology,Pathology term definition,1,2018
 Introduction to pathology,pathology meaning,1,2018
@@ -20063,6 +20140,7 @@ Iodine deficiency,Iodine RDA 250 µg for lactating women,1,2018
 Iodine deficiency disorders,iodized salt for goitre prevention,1,2014
 Ion Channel,Patch clamp records single channel current,1,2020
 Ion Channels,Drug acting on potassium channels,1,2019
+Ion Channels,ENaC subunit composition,1,2015
 Ion channels,ENaC subunit composition,1,2015
 Ion channels,Endothelial ion channel roles,1,2015
 Ionization,50% ionized when pH equals pKa,1,2018
@@ -20360,6 +20438,7 @@ LMA Supreme,Supreme LMA device features,1,2013
 La Belle indifference,La Belle indifference,1,2014
 Lab techniques,Microscope lens order,1,2013
 Labor & Delivery,Episiotomy repair steps,2,2024
+Labor & Delivery,Fetal lung maturity drug,2,"2017,2018"
 Labor & Delivery,Shoulder dystocia maneuvers,2,"2016,2017"
 Labor & Delivery,Active labor diagnostic criteria,1,2022
 Labor & Delivery,Active management prevents postpartum hemorrhage,1,2012
@@ -20398,7 +20477,6 @@ Labor & Delivery,Expulsive phase duration,1,2015
 Labor & Delivery,External version contraindicated,1,2013
 Labor & Delivery,Factory act child labour,1,2017
 Labor & Delivery,Fetal head presenting diameter,1,2019
-Labor & Delivery,Fetal lung maturity drug,1,2018
 Labor & Delivery,Fetal lung maturity promotion drug,1,2016
 Labor & Delivery,Flow cytometry investigation uses,1,2025
 Labor & Delivery,Forceps delivery nerve block,1,2013
@@ -20601,6 +20679,7 @@ Laryngeal Nerve Palsy,Abductor paralysis causing airway compromise,1,2016
 Laryngeal Nerve Palsy,Bilateral recurrent laryngeal nerve palsy,1,2016
 Laryngeal Nerves,Galen's anastomosis nerves,1,2014
 Laryngeal Pathology,Inspiratory stridor lesion site,1,2019
+Laryngeal Pathology,Reinkes edema identification,1,2019
 Laryngeal Pathology,Turban epiglottis associated disease,1,2014
 Laryngeal Procedures,Laryngeal surgery CO2 laser,1,2010
 Laryngeal Surgery,Laryngeal surgery CO2 laser,1,2010
@@ -20688,6 +20767,7 @@ Legal Procedures,Leading questions in court,1,2022
 Legal Procedures,Plaintiff in civil litigation,1,2012
 Legal Procedures,Presumption of death period,1,2016
 Legal Procedures,closed court for sexual assault,1,2024
+Legal Procedures,insanity defense legal provision,1,2017
 Legal Sections,M'Naghten rule legal provision,1,2016
 Legal Terms,Plaintiff legal term definition,1,2012
 Legal and ethical issues,posthumous child definition,1,2018
@@ -20880,6 +20960,7 @@ Lichen Planus,Lichen planus distribution,1,2015
 Lichen Planus,Lichen planus lesions,1,2014
 Lichen Planus,Lichen planus not feature,1,2016
 Lichen Planus,treatment of choice lichen planus,1,2013
+Lichen Sclerosus,BXO malignant transformation,1,2020
 Lichen planus,Actinic LP features,1,2015
 Lichen planus,Koebner phenomenon associations,1,2012
 Lichen planus,Lichen planus 5 Ps,1,2015
@@ -20890,7 +20971,9 @@ Lichen sclerosus,BXO malignant transformation,1,2020
 Lid Disorders,meibomianitis treatment,1,2016
 Lid disorders,meibomianitis treatment,1,2016
 Lidocaine,Lidocaine drug characteristics,1,2022
+Lids And Lacrimal Apparatus,ptosis sign,1,2019
 Lids and lacrimal apparatus,ptosis sign,1,2019
+Lie Detection,Polygraph test principle,1,2019
 Lie detection,Polygraph test principle,1,2019
 Lifestyle modifications,GERD lifestyle modifications,1,2016
 Ligament Injuries,Ankle eversion injury,1,2025
@@ -21562,6 +21645,7 @@ Lysosomal Storage Disorders,MPS I enzyme deficiency,1,2025
 Lysosomal Storage Disorders,Niemann-Pick disease features,1,2015
 Lysosomal Storage Disorders,Parvovirus B19 aplastic crisis,1,2019
 Lysosomal Storage Disorders,Sphingomyelinase deficiency disease,1,2010
+Lysosomal Storage Disorders,Spontaneous recovery in enzyme deficiency,1,2024
 Lysosomal Storage Disorders,Tay-Sachs disease enzyme,1,2014
 Lysosomal Storage Disorders,Type A Niemann-Pick disease features,1,2015
 Lysosomal Storage Disorders,Type B Niemann-Pick disease features,1,2015
@@ -21965,6 +22049,7 @@ Medical Jurisprudence,Consumer Protection Act enactment,1,2013
 Medical Jurisprudence,Consumer Protection Act provisions,1,2013
 Medical Jurisprudence,Contempt of Court,1,2019
 Medical Jurisprudence,Contract law overview,1,2019
+Medical Jurisprudence,Court jurisdiction over matters,1,2019
 Medical Jurisprudence,Court witness examination,1,2021
 Medical Jurisprudence,CrPC section suspicious death,1,2010
 Medical Jurisprudence,Criminal abortion IPC,1,2016
@@ -21976,6 +22061,7 @@ Medical Jurisprudence,Dowry offence statutory punishment,1,2013
 Medical Jurisprudence,Evacuee property disposal law,1,2019
 Medical Jurisprudence,Evidence oaths judicial proceedings,1,2019
 Medical Jurisprudence,Examination in chief vs redirect,1,2021
+Medical Jurisprudence,Fees definition,1,2019
 Medical Jurisprudence,Fetal viability legal definition,1,2014
 Medical Jurisprudence,First res ipsa condition,1,2013
 Medical Jurisprudence,Husband assault wife IPC,1,2016
@@ -22022,6 +22108,7 @@ Medical Jurisprudence,Quoad Hanc definition,1,2013
 Medical Jurisprudence,Res ipsa loquitur doctrine,1,2013
 Medical Jurisprudence,Second res ipsa condition,1,2013
 Medical Jurisprudence,Simple and grievous hurt,1,2013
+Medical Jurisprudence,Stamp duty definition,1,2019
 Medical Jurisprudence,State commission jurisdiction limit,1,2013
 Medical Jurisprudence,Superfecundation superfetation,1,2021
 Medical Jurisprudence,Surgical negligence legal classification,1,2018
@@ -22088,6 +22175,7 @@ Medicolegal autopsy,Exhumation ordered by magistrate,1,2014
 Medicolegal jurisprudence,Posthumous child definition,1,2019
 Megaloblastic Anemia,B12 deficiency diagnosis,1,2020
 Megaloblastic Anemia,B12 malabsorption causes,1,2013
+Megaloblastic Anemia,hypersegmented neutrophils macrocytic anemia,1,2020
 Megaloblastic anemia,B12 deficiency diagnosis,1,2020
 Megaloblastic anemia,B12 malabsorption causes,1,2013
 Megaloblastic anemia,Folic acid B12 combination rationale,1,2014
@@ -22173,7 +22261,7 @@ Meningococcal vaccine,Meningococcal C vaccine dosage infants,1,2016
 Meningococcal vaccine,Meningococcal serogroup vaccine,1,2015
 Meniscal Injuries,knee locking mechanism,1,2015
 Meniscal injuries,knee locking mechanism,1,2015
-Menopausal Hormone Therapy,HT indication hot flash,1,2018
+Menopausal Hormone Therapy,HT indication hot flash,2,"2017,2018"
 Menopause,Breast carcinoma contraindicates HRT,1,2013
 Menopause,Estrogen-progesterone HRT cancer risk,1,2014
 Menopause,Hormone replacement for estrogen deficiency,1,2012
@@ -23087,6 +23175,7 @@ Mood Disorders,Melancholia definition,1,2019
 Mood Disorders,Mixed anxiety depression diagnosis,1,2010
 Mood Disorders,P,1,2023
 Mood Disorders,Persistent mild depression,1,2013
+Mood Disorders,Postpartum blues diagnosis,1,2023
 Mood Disorders,Psychomotor retardation agitation,1,2013
 Mood Disorders,Serotonin in depression treatment,1,2012
 Mood Disorders,Sleep disturbance,1,2013
@@ -23525,6 +23614,7 @@ NSAIDs,NSAID prostaglandin inhibition,1,2013
 NSAIDs,Piroxicam for acute gout,1,2013
 NSAIDs,aspirin anti-inflammatory dose,1,2014
 Nabothian Cyst,Nabothian cyst characteristics,1,2015
+Nadph Metabolism,Non-NADPH source ATP citrate lyase,1,2019
 Nadph Production,NADPH cytosolic production pathways,1,2019
 Nail Disorders,DLE nail abnormality,1,2019
 Nail Disorders,Ingrown toenail etiology,1,2016
@@ -23831,6 +23921,7 @@ Neonatal skin conditions,Collodion baby diagnosis,1,2020
 Neonatal skin disorders,Benign neonatal rash,1,2016
 Neonatal skin disorders,Cold temperature cause,1,2018
 Neonatal transport,Kangaroo mother care,1,2013
+Neonatology,APGAR score 3 interpretation,2,"2019,2020"
 Neonatology,APGAR score 3 meaning,2,"2020,2024"
 Neonatology,BPD severity classification,2,2012
 Neonatology,Newborn vitamin K dose,2,"2012,2014"
@@ -23844,7 +23935,6 @@ Neonatology,ADA deficiency SCID,1,2025
 Neonatology,ADHD essential features exclusion,1,2015
 Neonatology,ALL cranial irradiation,1,2016
 Neonatology,APGAR grimace score,1,2014
-Neonatology,APGAR score 3 interpretation,1,2019
 Neonatology,ARPKD characteristics,1,2015
 Neonatology,ASOM common pathogens in children,1,2014
 Neonatology,AT increased AFP,1,2018
@@ -24425,6 +24515,7 @@ Neoplasia,Pheochromocytoma rule of ten,1,2012
 Neoplasia,Pleomorphic adenoma eye displacement,1,2014
 Neoplasia,Polycythemia vera laboratory findings,1,2013
 Neoplasia,Post-traumatic bone lesion X-ray diagnosis,1,2016
+Neoplasia,Postcricoid region common in Plummer-Vinson,1,2016
 Neoplasia,Primary site of thyroid metastasis,1,2016
 Neoplasia,Psammoma bodies associated tumors,1,2011
 Neoplasia,Psammoma body features,1,2012
@@ -25546,6 +25637,7 @@ Neurology,INH neuropathy risk,1,2015
 Neurology,Infantile spasm treatment,1,2016
 Neurology,Intracerebral and subarachnoid hemorrhage,1,2013
 Neurology,Ipsilateral motor loss contralateral pain,1,2018
+Neurology,Japanese encephalitis true statements,1,2020
 Neurology,Korsakoff syndrome features,1,2014
 Neurology,Lambert-Eaton pathophysiology,1,2016
 Neurology,Lateral cutaneous nerve root,1,2025
@@ -25965,7 +26057,7 @@ Neutropenia,moderate neutropenia neutrophil count,1,2014
 Neutrophil Left Shift,Left shift Arneth,1,2016
 Nevi,Image identification skin lesion,1,2016
 Nevi,Non-melanocytic nevus identification,1,2012
-Nevi And Moles,Nevus identification,1,2018
+Nevi And Moles,Nevus identification,2,"2017,2018"
 Nevi and Moles,Nevus identification,1,2018
 Nevus,Becker nevus identification,1,2017
 New bone formation,juxtaarticular new bone formation psoriatic,1,2014
@@ -26754,6 +26846,7 @@ Operative Surgery,Surgical retractor identification,1,2018
 Operative Techniques,surgical instrument identification,1,2016
 Operative Vaginal Delivery,Vacuum cup placement,1,2019
 Operative vaginal delivery,Vacuum cup placement,1,2019
+Ophthalmia Neonatorum,Most common neonatal blindness cause,2,"2017,2018"
 Ophthalmia neonatorum,Most common neonatal blindness cause,1,2018
 Ophthalmic Anaesthesia,Amide anesthetic for ester allergy,1,2013
 Ophthalmic Drugs,Retinoscopy cycloplegic choice,1,2013
@@ -26877,6 +26970,7 @@ Optics and Refraction,Objective subjective refraction discrepancy,1,2013
 Oral Anatomy,Filiform papillae lack taste buds,1,2024
 Oral Anatomy,Hard palate tissue layers,1,2018
 Oral Anatomy,Nasmyth's membrane tooth covering,1,2016
+Oral And Maxillofacial Surgery,odontogenic deep neck infection,1,2020
 Oral Anticoagulants,Warfarin longest acting oral anticoagulant,1,2014
 Oral Cancer,commando oral cancer resection,1,2013
 Oral Cancers,Squamous cell carcinoma tongue,1,2012
@@ -26982,6 +27076,7 @@ Orbit,peripheral space anatomy,1,2014
 Orbit,subperiosteal space definition,1,2014
 Orbital Cellulitis,Orbital cellulitis diagnosis,1,2025
 Orbital Cysts,Most common orbital cyst in children,1,2014
+Orbital Disease,Unilateral proptosis bilateral abducens palsy,1,2020
 Orbital Diseases,Euthyroid proptosis differential diagnosis,1,2020
 Orbital Diseases,Pulsatile proptosis feature,1,2015
 Orbital Diseases,most common malignant intraorbital tumor adult,1,2014
@@ -27570,7 +27665,7 @@ Paracetamol poisoning,Paracetamol overdose N-acetylcysteine,1,2022
 Paracetamol toxicity,Acetaminophen hepatotoxicity mechanism,1,2015
 Paragonimiasis,Paragonimus identification,1,2019
 Paralytic polio,Flaccid paralysis polio,1,2014
-Paranasal Sinus,Caldwell's view sinus imaging,1,2018
+Paranasal Sinus,Caldwell's view sinus imaging,2,"2017,2018"
 Paranasal Sinus,Ethmoid sinus cancer risk,1,2016
 Paranasal Sinus,Water's view maxillary sinus,1,2014
 Paranasal Sinus,Water's view sinus identification,1,2018
@@ -27580,6 +27675,7 @@ Paranasal Sinus Imaging,CT sinus obstruction localization,1,2024
 Paranasal Sinus Imaging,Caldwell's view indication,1,2017
 Paranasal Sinus Imaging,Caldwell's view sinus,1,2018
 Paranasal Sinus Imaging,Water's view indication,1,2017
+Paranasal Sinus Imaging,Water's view maxillary sinus,1,2017
 Paranasal Sinus Radiology,Allergic rhinitis CT finding,1,2019
 Paranasal Sinuses,Caldwell's view indication,1,2018
 Paranasal Sinuses,Caldwells view indication,1,2016
@@ -27984,7 +28080,9 @@ Pediatric Surgery,Pediatric surgical management,1,2022
 Pediatric Surgery,Raspberry tumor umbilical adenoma,1,2012
 Pediatric Surgery,Umbilical adenoma presentation,1,2012
 Pediatric Surgery,Undescended testis surgery timing,1,2010
+Pediatric Surgery,optimal age for congenital repair,1,2024
 Pediatric Surgery,optimal age for hypospadias repair,1,2016
+Pediatric Surgery,surgical debridement identification,1,2025
 Pediatric Surgery,undescended testis facts,1,2015
 Pediatric Surgery,undescended testis malignancy risk,1,2016
 Pediatric airway,Laryngomalacia clinical features,1,2014
@@ -28033,6 +28131,7 @@ Pelvic Anatomy,Pelvic outlet identification,1,2022
 Pelvic Anatomy,Pelvis associated with DTA,1,2013
 Pelvic Anatomy,Prostate cancer vertebral spread,1,2022
 Pelvic Anatomy,Prostate lobe uvula vesicae,1,2019
+Pelvic Anatomy,Sacral promontory in sacrocolpopexy,1,2024
 Pelvic Anatomy,Spongy urethra lymphatics,1,2010
 Pelvic Anatomy,Ureter internal iliac boundary,1,2012
 Pelvic Anatomy,Uterine anteversion supporting ligament,1,2017
@@ -28076,6 +28175,7 @@ Pelvic Ligaments,Uterine anteversion round ligament,1,2018
 Pelvic Ligaments,pyometra anteversion ligament,1,2018
 Pelvic Organ Prolapse,3rd degree uterine prolapse management,1,2019
 Pelvic Organ Prolapse,Cervical prolapse stress incontinence,1,2021
+Pelvic Organ Prolapse,McCall procedure for apical prolapse,1,2024
 Pelvic Organ Prolapse,Prolapse ulcer diagnosis,1,2013
 Pelvic Organ Prolapse,Rectus sheath sling procedure,1,2012
 Pelvic Organ Prolapse,Sacrocolpopexy anatomical attachment,1,2018
@@ -28887,8 +28987,8 @@ Plastic surgery,DIEP flap common breast reconstruction,1,2020
 Plastic surgery,Keloid recurrence after excision,1,2012
 Plastic surgery,Z-plasty length gain,1,2012
 Platelet And Bleeding Disorders,A young patient presents with a large retroperitoneal hemorrhage. He also gives a frequent,1,2023
+Platelet Disorders,Bernard-Soulier Gp Ib deficiency,2,2017
 Platelet Disorders,Bernard-Soulier Gp 1b deficiency,1,2018
-Platelet Disorders,Bernard-Soulier Gp Ib deficiency,1,2017
 Platelet Disorders,Giant platelets in Bernard-Soulier,1,2014
 Platelet Disorders,Glanzmann thrombasthenia cause,1,2019
 Platelet Disorders,Glanzmann thrombasthenia underlying defect,1,2019
@@ -29108,6 +29208,7 @@ Postmortem Changes,Head to foot rigor progression,1,2019
 Postmortem Changes,Ideal site postmortem temperature,1,2013
 Postmortem Changes,Mummification body odor,1,2018
 Postmortem Changes,Mummified body odor,1,2017
+Postmortem Changes,Mummified body odor characteristic,1,2018
 Postmortem Changes,Mummified body smell,1,2016
 Postmortem Changes,Putrefaction initial organ,1,2018
 Postmortem Changes,Rectal postmortem temperature,1,2013
@@ -29393,6 +29494,7 @@ Prognostic Scores,MELD score components,1,2019
 Prognostic Scores,VNPI factors not included,1,2018
 Prognostic factors,Serum amylase not prognostic,1,2016
 Prokinetic Agents,Identify non-prokinetic drug,1,2019
+Prokinetic Agents,non-prokinetic drug identification,1,2020
 Prokinetic Drugs,5-HT4 receptor agonist drug,1,2016
 Prokinetic Drugs,Metoclopramide esophageal motility promotion,1,2025
 Prokinetic agents,Identify non-prokinetic drug,1,2019
@@ -29547,6 +29649,7 @@ Protein Synthesis,Polyribosome protein synthesis,1,2013
 Protein Synthesis,mRNA carries amino acid codons,1,2013
 Protein Synthesis,stop codon translation termination,1,2012
 Protein Synthesis,tRNA anticodon region,1,2012
+Protein Synthesis Inhibitors,Drug inhibits translation,1,2020
 Protein binding,High protein binding long acting,1,2014
 Protein binding,Highly protein-bound drug reduces GFR,1,2024
 Protein binding,hypoalbuminemia reduces drug binding,1,2014
@@ -30014,6 +30117,7 @@ Pulmonology,Ciclesonide prodrug mechanism,1,2022
 Pulmonology,Clicking noise in pneumomediastinum,1,2015
 Pulmonology,Coal dust causing anthracosis,1,2016
 Pulmonology,Coccidioides pulmonary infection,1,2024
+Pulmonology,Common AIDS pleural effusion cause,1,2015
 Pulmonology,Common LRTI pathogens children,1,2014
 Pulmonology,Common primary sites for lung metastasis,1,2016
 Pulmonology,Compliance falls at inspiration,1,2012
@@ -30125,6 +30229,7 @@ Pulmonology,Most common LRTI sign in children,1,2016
 Pulmonology,Most common idiopathic interstitial pneumonia,1,2015
 Pulmonology,Most common metastatic lung carcinoma,1,2015
 Pulmonology,Most common pediatric lung tumor,1,2013
+Pulmonology,Mouth-to-mouth oxygen percent,1,2020
 Pulmonology,Myoglobin has reduced Bohr effect,1,2016
 Pulmonology,Needle decompression for tension pneumothorax,1,2015
 Pulmonology,Neonatal lung underexpansion,1,2012
@@ -30385,6 +30490,7 @@ Purine synthesis,Purine synthesis true statement,1,2016
 Pustular Psoriasis,Pustular psoriasis pregnancy management,1,2010
 Putrefaction,First organ to putrefy,1,2017
 Putrefaction,Warmth accelerates putrefaction,1,2013
+Pyloric Stenosis,CHPS mass palpation site,1,2017
 Pyloric Stenosis,Congenital hypertrophic pyloric stenosis diagnosis,1,2014
 Pyloric Stenosis,Pyloric stenosis abdominal mass,1,2018
 Pyloric Stenosis,Pyloric stenosis mass detection,1,2024
@@ -30482,6 +30588,7 @@ Radiation Physics,X-ray electromagnetic spectrum properties,1,2010
 Radiation Physics,endogenous radiation source,1,2016
 Radiation Physics,lead apron radiation shielding,1,2012
 Radiation Physics,least penetrating radiation,1,2016
+Radiation Physics,proton therapy Bragg peak,1,2017
 Radiation Protection,lead apron radiation shielding,1,2012
 Radiation Safety,Acute radiation syndrome dose,1,2011
 Radiation Safety,CT scanner room shielding material,1,2010
@@ -30665,6 +30772,7 @@ Refractive Errors,Retinoscopy cycloplegic choice,1,2013
 Refractive Errors,Simple Myopic Astigmatism prescription,1,2018
 Refractive Errors,Spectacles for mild astigmatism,1,2013
 Refractive Errors,Trichiasis refractive error type,1,2024
+Refractive Errors,convex lens for hyperopia,1,2018
 Refractive Errors,esotropia refractive error link,1,2019
 Refractive Errors,myopic astigmatism prescription,1,2016
 Refractive Errors,objective refraction methods,1,2014
@@ -30944,6 +31052,7 @@ Renal,Laxative abuse renal stones,1,2016
 Renal,Liddle Syndrome presentation,1,2018
 Renal,Lienorenal ligament spleen,1,2015
 Renal,MPGN type I deposits,1,2013
+Renal,MSUD accumulates branched-chain amino acids,1,2016
 Renal,Major adrenal androgen,1,2012
 Renal,Malakoplakia characteristic bodies,1,2013
 Renal,Mannitol retains fluid in proximal tubule,1,2014
@@ -31429,6 +31538,7 @@ Rheumatic Fever,Rheumatic fever acute abdomen,1,2019
 Rheumatic Fever,Rheumatic fever penicillin prophylaxis,1,2022
 Rheumatic Fever,Rheumatic fever steroid use,1,2013
 Rheumatic Fever,Steroids for rheumatic carditis,1,2013
+Rheumatic Fever,modified Jones criteria,1,2014
 Rheumatic Fever,modified Jones criteria major,1,2014
 Rheumatic Fever And Rhd,Rheumatic fever clinical features,1,2021
 Rheumatic Fever and RHD,Rheumatic fever clinical features,1,2021
@@ -31669,6 +31779,7 @@ Risk factors,Urothelial carcinoma risk factors,1,2015
 Risk groups,Heterosexual HIV risk,1,2015
 Risk groups,MSM HIV risk,1,2015
 Risk-benefit analysis,Screening benefit vs risk,1,2014
+Rna Enzymes,non-ribozyme enzyme,1,2019
 Rna Splicing,Splicing removal of introns,1,2016
 Road Traffic Accidents,Pedestrian RTA primary impact,1,2010
 Road Traffic Injuries,Tyre track patterned bruise,1,2011
@@ -31801,6 +31912,7 @@ Scarring,Keloid features and management,1,2016
 Scarring,keloid true statement,1,2017
 Scars,Keloid scar identification,1,2018
 Schilling test,Schilling test B12 malabsorption,1,2014
+Schizoaffective Disorder,schizoaffective disorder diagnosis,1,2020
 Schizoaffective disorder,schizoaffective disorder diagnosis,1,2020
 Schizophrenia & Psychosis,Schizophrenia diagnostic criteria,2,2013
 Schizophrenia & Psychosis,Schizophrenia negative symptoms,2,2012
@@ -32111,6 +32223,7 @@ Sexual Offences,Tribadism definition,1,2015
 Sexual Offenses,Age of consent legal implications,1,2024
 Sexual Offenses,Exhibitionism legal section,1,2019
 Sexual Offenses,Legal proof sexual assault,1,2024
+Sexual Offenses,exhibitionism IPC section,1,2019
 Sexual Response Cycle,Premature ejaculation sexual phase,1,2019
 Sexual assault,Distensible hymen in child assault,1,2012
 Sexual assault,Posterior hymenal rupture,1,2012
@@ -32176,6 +32289,7 @@ Shoulder Dislocation,Preglenoid anterior shoulder dislocation,1,2013
 Shoulder Dislocation,Shoulder reduction external rotation,1,2016
 Shoulder Dislocation,Subclavicular shoulder dislocation,1,2013
 Shoulder Dislocation,Subcoracoid shoulder dislocation,1,2013
+Shoulder Disorders,supraspinatus tendon calcification,1,2019
 Shoulder Dystocia,McRoberts maneuver nerve injury,1,2016
 Shoulder Dystocia,Shoulder dystocia management maneuvers,1,2011
 Shoulder Dystocia,Shoulder dystocia management sequence,1,2018
@@ -32321,6 +32435,7 @@ Skull,Maxillary orbital floor contribution,1,2012
 Skull,Structures passing foramen magnum,1,2010
 Skull Anatomy,Basiocciput basisphenoid fusion age,1,2017
 Skull Anatomy,Skull bone fusion age,1,2018
+Skull And Facial Bones,basiocciput basisphenoid fusion timing,1,2017
 Skull Base,Hypoglossal nerve pathway,1,2025
 Skull Base,Jugular foramen neural contents,1,2013
 Skull Base,Jugular foramen structures,1,2025
@@ -32362,6 +32477,7 @@ Sleep Disorders,Obstructive sleep apnea characteristics,1,2014
 Sleep Disorders,Sleepwalking NREM stage,1,2013
 Sleep Disorders,narcolepsy clinical features,1,2015
 Sleep Disorders,nightmare disorder features,1,2015
+Sleep Disorders,sleepwalking facts,1,2019
 Sleep Disorders,somnambulism characteristics,1,2019
 Sleep Hygiene,Consistent sleep schedule,1,2015
 Sleep Hygiene,Dark quiet cool bedroom,1,2015
@@ -32420,6 +32536,7 @@ Snake Envenomation,Avoid local incision,1,2012
 Snake Envenomation,Viper-induced hematologic abnormalities,1,2012
 Social Cognition,Sarcasm detection,1,2013
 Social Determinants,Social mobility definition,2,"2010,2016"
+Social Determinants Of Health,Social security and health,1,2019
 Social Determinants of Health,Social security and health,1,2019
 Social Medicine,Leprosy social stigma reduction,1,2019
 Social Medicine,health as living standard component,1,2013
@@ -32596,6 +32713,7 @@ Spinal tuberculosis,Gibbus two three spinous processes,1,2013
 Spinal tuberculosis,Pott spine common site,1,2012
 Spinal tuberculosis,Pott's paraplegia prognosis,1,2013
 Spinal tuberculosis,Spinal TB commonest level,1,2016
+Spine,Iliolumbar ligament anatomy,2,"2017,2018"
 Spine,Adam forward bending test,1,2014
 Spine,Alkaptonuria disc calcification,1,2012
 Spine,Anterior decompression for Pott's,1,2016
@@ -32608,7 +32726,6 @@ Spine,Disc prolapse common sites,1,2013
 Spine,Gibbus two three spinous processes,1,2013
 Spine,Halopelvic traction indication,1,2013
 Spine,Hangman's fracture C2,1,2014
-Spine,Iliolumbar ligament anatomy,1,2018
 Spine,Klippel-Feil VACTREL vertebral fusion,1,2013
 Spine,Klippel-Feil triad,1,2010
 Spine,Knuckle prominence spinous process,1,2013
@@ -32623,6 +32740,7 @@ Spine,Lumbosacral MRI interpretation,1,2019
 Spine,Odontoid Type II fracture,1,2016
 Spine,Osteochondritis vertebral body,1,2015
 Spine,Osteochondritis vertebral body Calve disease,1,2013
+Spine,Osteoporotic vertebral fracture site,1,2016
 Spine,Paraplegia failed conservative treatment,1,2016
 Spine,Posterior fusion kyphosis correction,1,2016
 Spine,Pott's paraplegia management,1,2016
@@ -32683,6 +32801,7 @@ Sports injuries,Chance fracture flexion distraction,1,2018
 Sports injuries,Lachman versus anterior drawer,1,2020
 Sports injuries,Stress fracture immobilization duration,1,2018
 Squint & Pediatric Ophthalmology,Roth spots association,2,"2016,2017"
+Squint & Pediatric Ophthalmology,oculocardiac reflex management,2,"2017,2018"
 Squint & Pediatric Ophthalmology,100 day glaucoma association,1,2018
 Squint & Pediatric Ophthalmology,100 day glaucoma cause,1,2017
 Squint & Pediatric Ophthalmology,100-day glaucoma cause,1,2016
@@ -32847,7 +32966,6 @@ Squint & Pediatric Ophthalmology,gaze fixation developmental milestone,1,2014
 Squint & Pediatric Ophthalmology,meibomianitis treatment,1,2016
 Squint & Pediatric Ophthalmology,most common protozoan causing keratitis,1,2016
 Squint & Pediatric Ophthalmology,newborn subconjunctival hemorrhage management,1,2015
-Squint & Pediatric Ophthalmology,oculocardiac reflex management,1,2018
 Squint & Pediatric Ophthalmology,optic cup neural ectoderm,1,2015
 Squint & Pediatric Ophthalmology,optic vesicle neuroectoderm,1,2016
 Squint & Pediatric Ophthalmology,partial unilateral cataract non-surgical management,1,2016
@@ -32864,6 +32982,7 @@ Squint & Pediatric Ophthalmology,tetracaine concentration eye surgery,1,2014
 Squint & Pediatric Ophthalmology,unilateral dense cataract urgent surgery,1,2016
 Squint & Pediatric Ophthalmology,vitreous anatomy facts,1,2016
 Squint & Pediatric Ophthalmology,yoke muscle pairing extraocular,1,2018
+Squint Surgery,oculocardiac reflex management,1,2018
 Squint surgery,oculocardiac reflex management,1,2018
 Stable angina,stable angina typical duration,1,2016
 Stages of anaesthesia,Guedel's stages of ether anaesthesia,1,2012
@@ -32946,6 +33065,7 @@ Steroid biosynthesis,Enzyme deficiencies in testosterone synthesis,1,2013
 Steroidogenesis,Aromatase substrate,1,2014
 Steroidogenesis,LDL required progesterone synthesis,1,2016
 Steroidogenesis,Progesterone from pregnenolone,1,2013
+Stevens-Johnson Syndrome,Drug-induced bullous disease,1,2020
 Stevens-Johnson syndrome,Drug-induced bullous disease,1,2020
 Stis,Painless genital ulcer diagnosis,1,2023
 Stomach,Corrosive acid pathway in stomach,1,2014
@@ -33207,8 +33327,10 @@ Surgical Indications,Main indications for surgery,1,2016
 Surgical Instruments,Identify retractor in image,1,2018
 Surgical Instruments,Laparoscopic pneumoperitoneum instrument,1,2020
 Surgical Instruments,Laryngeal surgery CO2 laser,1,2010
+Surgical Instruments,Morris retractor identification,1,2018
 Surgical Instruments,Nasal fracture reduction instruments,1,2024
 Surgical Instruments,Obstetric forceps types,1,2024
+Surgical Instruments,Scalpel blade identification,1,2019
 Surgical Instruments,Scalpel blade number,1,2019
 Surgical Instruments,Surgical blade types,1,2019
 Surgical Instruments,Surgical drain identification,1,2024
@@ -33219,6 +33341,7 @@ Surgical Instruments,Ureteroscope use,1,2024
 Surgical Instruments,surgical instrument identification,1,2016
 Surgical Instruments,surgical retractor types,1,2017
 Surgical Knots,Surgical knot identification,1,2019
+Surgical Knots,Surgical knot type identification,1,2019
 Surgical Knots,Surgical knot types,1,2019
 Surgical Management,Aqueous drainage mechanism,1,2015
 Surgical Management,Heller myotomy for achalasia,1,2018
@@ -33327,6 +33450,7 @@ Sustained Release,sustained release benefits over conventional,1,2014
 Sustained release,sustained release benefits over conventional,1,2014
 Suture Materials,PDS suture classification,1,2025
 Suture Materials,Suture material identification properties,1,2018
+Suture Materials,Suture material properties,1,2018
 Suture Materials,Suture tensile strength tissue reaction,1,2016
 Suture Materials,absorbable suture degradation,1,2016
 Suture Materials,absorbable suture properties,1,2017
@@ -34263,8 +34387,8 @@ Thermal regulation,Kangaroo mother care,1,2013
 Thermoreception,CMR1 moderate cold receptor,1,2013
 Thermoreception,Thermal nociceptor allodynia,1,2024
 Thermoreception,Warmth carried by C fibers,1,2016
+Thermoregulation,Cutis marmorata due to cold,2,"2017,2018"
 Thermoregulation,PGE2 endogenous pyrogen,2,"2016,2018"
-Thermoregulation,Cutis marmorata due to cold,1,2018
 Thermoregulation,Daily insensible sweat loss,1,2013
 Thermoregulation,Endogenous pyrogen identification,1,2017
 Thermoregulation,Endogenous pyrogens raise hypothalamic set point,1,2014
@@ -34352,6 +34476,7 @@ Thorax,Cardiac sympathetic outflow,1,2012
 Thorax,Carina at T4-T5,1,2013
 Thorax,Chest tube output >1500 ml,1,2014
 Thorax,Chest wall muscle anatomy,1,2015
+Thorax,Common AIDS pleural effusion cause,1,2015
 Thorax,Coronary sinus tributary,1,2015
 Thorax,Costal cartilage joint type,1,2016
 Thorax,Costal cartilage synchondrosis,1,2024
@@ -34647,6 +34772,7 @@ Tonsillitis,Streptococcal tonsillitis cause,1,2013
 Tonsillitis,tonsillitis referred ear pain,1,2024
 Tophi,Tophi location in gout,1,2014
 Topical Anaesthesia,EMLA cream formulation,1,2013
+Topical Antifungal Agents,Whitfield's ointment composition,1,2014
 Topical Corticosteroids,topical steroid formulation potency,1,2010
 Topical Therapy,Clobetasol highest topical potency,1,2013
 Topical anesthesia,EMLA induced methemoglobinemia,1,2024
@@ -34760,6 +34886,7 @@ Toxicology,Lead poisoning gout cause,1,2018
 Toxicology,Lead poisoning heme synthesis enzymes,1,2022
 Toxicology,Lead poisoning heme synthesis inhibition,1,2019
 Toxicology,Least toxic lead form,1,2015
+Toxicology,Lithium-induced nephrogenic diabetes insipidus,1,2015
 Toxicology,Magnan's symptom association,1,2020
 Toxicology,Magnan's symptom cocaine,1,2020
 Toxicology,Magnan's symptom in cocaine,1,2020
@@ -34932,6 +35059,7 @@ Transverse Lie,transverse lie etiology,1,2014
 Transverse Vaginal Septum,Transverse vaginal septum pelvic pain cause,1,2021
 Trapezius,Trapezius innervation,1,2014
 Trauma,Glasgow Coma Scale calculation,3,"2016,2017,2018"
+Trauma,Laceration over bony prominence,2,"2012,2014"
 Trauma,Tension pneumothorax emergency management,2,"2016,2020"
 Trauma,orbital blow out fracture location,2,"2016,2017"
 Trauma,ATLS class III hemorrhage volume,1,2013
@@ -35027,7 +35155,6 @@ Trauma,Iron foreign body retinal toxicity,1,2013
 Trauma,Irregular pupil after trauma,1,2012
 Trauma,Jersey finger mechanism,1,2015
 Trauma,K-nail femur fracture,1,2015
-Trauma,Laceration over bony prominence,1,2012
 Trauma,Layers involved in degloving,1,2019
 Trauma,Le Fort I fracture anatomy,1,2013
 Trauma,Liver injury grade,1,2016
@@ -35749,6 +35876,7 @@ Urologic Pathology,Renal cell carcinoma radiosensitivity,1,2014
 Urologic Pathology,Schistosoma haematobium bladder cancer,1,2024
 Urologic pathology,Schistosoma haematobium bladder cancer,1,2024
 Urological Drugs,Postoperative urinary retention drug,1,2020
+Urological Imaging,Identify Foley catheter on X-ray,1,2018
 Urological Neoplasms,Bladder carcinoma etiologic factors,1,2012
 Urological Oncology,Bladder cancer management,1,2011
 Urological Oncology,Most common male urethral carcinoma site,1,2010
@@ -35871,6 +35999,9 @@ Uterine Anomalies,Classification of uterine malformations,1,2020
 Uterine Anomalies,Congenital uterine anomalies,1,2018
 Uterine Anomalies,Congenital uterine anomaly imaging,1,2013
 Uterine Anomalies,Hysterosalpingogram findings,1,2016
+Uterine Anomalies,Metroplasty high success,1,2020
+Uterine Anomalies,Metroplasty short stay,1,2020
+Uterine Anomalies,Septate uterus best metroplasty,1,2020
 Uterine Anomalies,Septate uterus best treatment,1,2020
 Uterine Anomalies,Uterine anomaly HSG identification,1,2018
 Uterine Anomalies,Uterine anomaly identification,1,2024
@@ -35881,6 +36012,7 @@ Uterine Anomalies,Uterine didelphys adverse outcomes,1,2021
 Uterine Anomalies,Uterine didelphys associated conditions,1,2021
 Uterine Anomalies,Uterine didelphys associated features,1,2021
 Uterine Anomalies,Uterine septum surgical correction,1,2021
+Uterine Anomalies,Uterus didelphys imaging,1,2017
 Uterine Anomalies,most common Mullerian anomaly,1,2016
 Uterine Artery,Uterine artery branching order,1,2015
 Uterine Causes Of Aub,Leiomyoma hysteroscopy AUB,1,2018
@@ -35888,6 +36020,7 @@ Uterine Causes of AUB,Leiomyoma hysteroscopy AUB,1,2018
 Uterine Disorders,AUB hysteroscopy diagnosis,1,2017
 Uterine Disorders,Mifepristone fibroid treatment,1,2011
 Uterine Disorders,Uterine pathology identification,1,2019
+Uterine Fibroids,AUB due to submucosal fibroid,2,"2017,2018"
 Uterine Fibroids,Fibroid red degeneration timing,1,2013
 Uterine Fibroids,GnRH analogs for fibroids,1,2016
 Uterine Fibroids,Hyaline fibroid degeneration,1,2012
@@ -35910,13 +36043,14 @@ Uterine Pathology,Hysteroscopic diagnosis AUB,1,2016
 Uterine Pathology,Hysteroscopy Asherman syndrome,1,2023
 Uterine Pathology,Leiomyoma hysteroscopy AUB,1,2018
 Uterine Pathology,Pelvic inflammation pyometra link,1,2018
+Uterine Prolapse,Ring pessary placement test,2,"2017,2018"
 Uterine Prolapse,Cardinal ligament support,1,2025
 Uterine Prolapse,Le Fort operation for prolapse,1,2015
 Uterine Prolapse,Manchester operation alternative name,1,2014
 Uterine Prolapse,Moschowitz surgery indication,1,2016
 Uterine Prolapse,Preferred treatment complete prolapse completed family,1,2015
 Uterine Prolapse,Ring pessary insertion timing,1,2012
-Uterine Prolapse,Ring pessary placement test,1,2018
+Uterine Prolapse,Ring placement in uterine prolapse,1,2017
 Uterine Prolapse,Sacrospinous hysteropexy landmark,1,2018
 Uterine Prolapse,Uterine prolapse pessary placement,1,2016
 Uterine Prolapse,confirm pessary correct placement,1,2018
@@ -35934,6 +36068,7 @@ Uterine Rupture,Uterine rupture risk cesarean type,1,2013
 Uterine Rupture,hematuria indicates uterine rupture,1,2013
 Uterine Rupture,uterine rupture classical C.S,1,2013
 Uterine Support,Level 1 uterine support,1,2016
+Uterine Support,Uterine anteversion ligaments,1,2018
 Uterine Support,Uterine anteversion round ligament,1,2018
 Uterine Support,Uterine ligamentous support,1,2024
 Uterine adhesions,Asherman syndrome features,1,2012
@@ -36055,6 +36190,7 @@ Vaccination,Rabies vaccine administration site,1,2013
 Vaccination,Rotavirus vaccine initiation age limit,1,2016
 Vaccination,Vaccine contraindication recurrent illness,1,2021
 Vaccination,avian influenza vaccine administration,1,2014
+Vaccination Campaigns,MR campaign false statement,1,2017
 Vaccination Schedule,Live vaccine minimum interval,1,2017
 Vaccination Schedule,Measles vaccine first dose age,1,2012
 Vaccination Schedule,booster every 3 years,1,2014
@@ -36347,6 +36483,7 @@ Vascular,intermittent claudication,1,2014
 Vascular,intralobar sequestration blood supply,1,2014
 Vascular,most common cause of embolic stroke,1,2014
 Vascular,obliterative endarteritis vasa vasorum,1,2015
+Vascular,post-MI aneurysm location,1,2019
 Vascular,radial collateral artery anastomosis,1,2014
 Vascular,right subcardinal vitelline vein anastomosis,1,2016
 Vascular,saphenofemoral incompetence diagnosis,1,2015
@@ -36630,6 +36767,7 @@ Virology,Influenza incubation period,2,"2013,2014"
 Virology,Parvovirus B19 aplastic crisis,2,"2019,2022"
 Virology,Parvovirus B19 clinical manifestations,2,"2016,2018"
 Virology,Shingles causative agent,2,"2016,2018"
+Virology,varicella-zoster cause,2,"2017,2018"
 Virology,2009 pandemic influenza strain,1,2020
 Virology,"A patient presented with a high fever, altered sensorium, headache, neck rigidity, and",1,2023
 Virology,Acute hemorrhagic conjunctivitis enterovirus,1,2018
@@ -36852,7 +36990,6 @@ Virology,rabies urban control,1,2022
 Virology,suckling mice isolation Coxsackie,1,2014
 Virology,syncytium formation measles virus,1,2014
 Virology,varicella zoster neuropathy,1,2016
-Virology,varicella-zoster cause,1,2018
 Virology,viral DNA integration,1,2015
 Virology,viral integration outcomes,1,2015
 Virology,virus inclusion bodies,1,2016
@@ -36968,6 +37105,7 @@ Vitamins & Nutrition,Richest source of vitamin B12,2,"2016,2020"
 Vitamins & Nutrition,Thiamine before glucose,2,"2021,2023"
 Vitamins & Nutrition,Vitamin K properties,2,"2017,2018"
 Vitamins & Nutrition,e,2,2023
+Vitamins & Nutrition,iodine RDA in lactation,2,"2017,2018"
 Vitamins & Nutrition,6-month developmental milestones,1,2015
 Vitamins & Nutrition,7-year-old calorie needs,1,2014
 Vitamins & Nutrition,A 50-year-old woman presents with foul-smelling bloody discharge per vagina mixed with,1,2023
@@ -37185,7 +37323,6 @@ Vitamins & Nutrition,TPN hyperglycemia,1,2024
 Vitamins & Nutrition,TPN hyperglycemia complications,1,2013
 Vitamins & Nutrition,TPN metabolic complications,1,2013
 Vitamins & Nutrition,Tetrahydrofolate carbon transfer,1,2013
-Vitamins & Nutrition,The average daily dietary nutrienLt intake level sufficient to meet the nutrient requirements of,1,2023
 Vitamins & Nutrition,Thiamine cofactor in TCA,1,2013
 Vitamins & Nutrition,Thiamine deficiency Wernicke syndrome,1,2018
 Vitamins & Nutrition,Thiamine deficiency cause,1,2023
@@ -37279,7 +37416,6 @@ Vitamins & Nutrition,dietary fibre exclusion,1,2019
 Vitamins & Nutrition,glutathione reductase RBC assay,1,2022
 Vitamins & Nutrition,growth monitoring reference standard,1,2016
 Vitamins & Nutrition,height-for-age Z-score,1,2021
-Vitamins & Nutrition,iodine RDA in lactation,1,2018
 Vitamins & Nutrition,iodine RDA lactation,1,2017
 Vitamins & Nutrition,iodine salt concentration,1,2012
 Vitamins & Nutrition,leucine induced pellagra,1,2012
@@ -37427,6 +37563,7 @@ Water testing,Bleaching powder dose for water disinfection,1,2015
 Water treatment,Alum lime defluoridation,1,2025
 Waterborne Diseases,Cholera transmission,1,2020
 Waterborne Diseases,Water breeding disease identification,1,2020
+Waterborne Diseases,waterborne disease cholera,1,2020
 Waterborne diseases,Cholera transmission,1,2020
 Waterborne diseases,waterborne disease cholera,1,2020
 Waterhouse-Friderichsen Syndrome,WFS organism,1,2014
@@ -37511,6 +37648,7 @@ X-ray,Aortic knob silhouette sign,1,2011
 X-ray,Bowel obstruction imaging findings,1,2021
 X-ray,CXR tracheal deviation causes,1,2019
 X-ray,Chest X-ray identification,1,2022
+X-ray,Esophageal pathology imaging,1,2017
 X-ray,Foul-smelling sputum lung abscess,1,2024
 X-ray,Sarcoidosis chest X-ray,1,2013
 X-ray,Skull bone pathology imaging,1,2018

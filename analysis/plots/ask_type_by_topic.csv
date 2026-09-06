@@ -116,9 +116,11 @@ Acid base disorders,management,1
 Acid base disorders,other,1
 Acid-Base Balance,diagnosis,15
 Acid-Base Balance,mechanism,5
+Acid-Base Balance,other,1
 Acid-Base Disorders,diagnosis,8
 Acid-Base Disorders,mechanism,3
 Acid-Base Disorders,management,1
+Acid-Base Disorders / Calcium Metabolism,other,1
 Acid-base balance,mechanism,2
 Acid-base balance,diagnosis,1
 Acid-base balance,other,1
@@ -236,6 +238,7 @@ Adolescent Psychiatry,diagnosis,1
 Adolescent health,diagnosis,1
 Adrenergic Agents,other,1
 Adrenergic Agonists,mechanism,2
+Adrenergic Agonists,other,1
 Adrenergic Blockers,drug_of_choice,1
 Adrenergic Blockers,other,1
 Adrenergic Drugs,drug_of_choice,2
@@ -255,7 +258,7 @@ Advanced cardiac life support,management,1
 Adverse Drug Effects,mechanism,1
 Adverse Drug Effects,other,1
 Adverse Drug Reactions,other,18
-Adverse Drug Reactions,mechanism,12
+Adverse Drug Reactions,mechanism,13
 Adverse Drug Reactions,management,3
 Adverse Drug Reactions,diagnosis,2
 Adverse Drug Reactions,drug_of_choice,1
@@ -285,7 +288,7 @@ Aging physiology,other,1
 Agoraphobia,diagnosis,1
 Agranulocytosis,other,1
 Aids Control Programme,other,1
-Air Pollution,other,2
+Air Pollution,other,3
 Air Pollution,epidemiology,1
 Air Pollution,investigation,1
 Air Pollution,mechanism,1
@@ -355,7 +358,7 @@ Alcohols and Glycols,mechanism,1
 Aldose Reductase Inhibitors,drug_of_choice,1
 Aldosterone Regulation,mechanism,2
 Alkaloids,other,1
-Alkaptonuria,other,1
+Alkaptonuria,other,2
 Alkylating agents,other,1
 Allergic Bronchopulmonary Aspergillosis,diagnosis,2
 Allergic Eye Disease,other,2
@@ -369,6 +372,7 @@ Allied Health Disciplines,other,2
 Alopecia,diagnosis,2
 Alopecia,image_identification,1
 Alopecia Areata,diagnosis,1
+Alopecia Areata,image_identification,1
 Alopecia areata,diagnosis,1
 Alopecia areata,image_identification,1
 Alpha Blockers,drug_of_choice,1
@@ -420,7 +424,7 @@ Amino Acid Transport Defects,mechanism,1
 Amino Acids,other,14
 Amino Acids,mechanism,2
 Amino Acids,investigation,1
-Amino Acids And Proteins Chemistry,other,2
+Amino Acids And Proteins Chemistry,other,3
 Amino Sugar Metabolism,mechanism,1
 Amino acid chemistry,mechanism,1
 Amino acid chemistry,other,1
@@ -519,6 +523,7 @@ Anemia Prevention,management,1
 Anemias,diagnosis,2
 Anemias,other,1
 Anencephaly,epidemiology,1
+Anesthesia,other,2
 Anesthesia,drug_of_choice,1
 Anesthesia,mechanism,1
 Anesthesia Circuits,other,2
@@ -549,8 +554,8 @@ Ankle Injuries,diagnosis,5
 Ankle Sprains,diagnosis,1
 Ankle and foot,anatomy_structure,1
 Ankle injuries,diagnosis,3
+Ankylosing Spondylitis,other,3
 Ankylosing Spondylitis,diagnosis,1
-Ankylosing Spondylitis,other,1
 Ankylosing spondylitis,diagnosis,2
 Ankylosing spondylitis,other,2
 Anorectal Disease,mechanism,1
@@ -565,8 +570,8 @@ Anorexia Nervosa,other,1
 Anovulation,mechanism,1
 Anovulatory DUB,mechanism,1
 Anovulatory Dub,mechanism,1
-Ans Pharmacology,other,3
-Antenatal Care,other,119
+Ans Pharmacology,other,4
+Antenatal Care,other,122
 Antenatal Care,management,58
 Antenatal Care,diagnosis,46
 Antenatal Care,drug_of_choice,28
@@ -598,6 +603,7 @@ Anthrax,mechanism,1
 Anthropology,other,1
 Anthropometry,other,12
 Anthropometry,anatomy_structure,2
+Anti-Craving Agents,other,1
 Anti-Gout Drugs,management,1
 Anti-Inflammatory Agents,mechanism,1
 Anti-Inflammatory Drugs,mechanism,1
@@ -667,6 +673,7 @@ Anticholinesterase agents,drug_of_choice,2
 Anticholinesterase agents,mechanism,1
 Anticholinesterases,drug_of_choice,1
 Anticoagulant Drugs,other,1
+Anticoagulant Therapy,drug_of_choice,2
 Anticoagulant Therapy,management,1
 Anticoagulant drugs,other,1
 Anticoagulant therapy,drug_of_choice,1
@@ -732,8 +739,8 @@ Antifungal Agents,other,4
 Antifungal Agents,drug_of_choice,3
 Antifungal Agents,mechanism,2
 Antifungal Drugs,mechanism,4
+Antifungal Drugs,drug_of_choice,3
 Antifungal Drugs,other,3
-Antifungal Drugs,drug_of_choice,2
 Antifungal Drugs,management,2
 Antifungal Pharmacology,other,1
 Antifungal Therapy,drug_of_choice,2
@@ -753,7 +760,7 @@ Antigen properties,other,1
 Antigen-Antibody Reactions,other,1
 Antigens,other,1
 Antigout Agents,mechanism,1
-Antigout Drugs,mechanism,1
+Antigout Drugs,mechanism,2
 Antigout agents,mechanism,1
 Antigout drugs,mechanism,3
 Antihelminthic Drugs,mechanism,2
@@ -770,7 +777,7 @@ Antihyperlipidemic drugs,drug_of_choice,1
 Antihyperlipidemic drugs,other,1
 Antihypertensive Agents,management,1
 Antihypertensive Drugs,drug_of_choice,4
-Antihypertensive Drugs,management,2
+Antihypertensive Drugs,management,4
 Antihypertensive Drugs,other,2
 Antihypertensive Drugs,mechanism,1
 Antihypertensive agents,management,1
@@ -798,10 +805,10 @@ Antimicrobial Agents,mechanism,1
 Antimicrobial Drugs,other,8
 Antimicrobial Drugs,mechanism,6
 Antimicrobial Drugs,drug_of_choice,4
-Antimicrobial Pharmacology,drug_of_choice,1
+Antimicrobial Pharmacology,drug_of_choice,2
 Antimicrobial Prophylaxis,drug_of_choice,1
 Antimicrobial Resistance,mechanism,12
-Antimicrobial Resistance,other,2
+Antimicrobial Resistance,other,3
 Antimicrobial Resistance,drug_of_choice,1
 Antimicrobial Resistance,management,1
 Antimicrobial Sensitivity,investigation,1
@@ -862,6 +869,7 @@ Antiparasitic drugs,drug_of_choice,1
 Antiparkinson Drugs,mechanism,1
 Antiparkinson drugs,drug_of_choice,1
 Antiparkinson drugs,mechanism,1
+Antiparkinsonian Drugs,other,1
 Antiparkinsonian drugs,other,1
 Antiphospholipid Syndrome,management,1
 Antiplatelet Agents,mechanism,3
@@ -874,13 +882,14 @@ Antiplatelet agents,management,1
 Antiplatelet agents,other,1
 Antiplatelet drugs,mechanism,5
 Antiplatelet drugs,other,2
-Antiprotozoal Drugs,drug_of_choice,2
+Antiprotozoal Drugs,drug_of_choice,3
 Antiprotozoal drugs,drug_of_choice,3
 Antiprotozoal drugs,other,2
 Antipsychotic Drugs,other,7
 Antipsychotic Drugs,drug_of_choice,1
 Antipsychotic Drugs,mechanism,1
 Antipsychotic Side Effects,management,1
+Antipsychotic Side Effects,other,1
 Antipsychotic drugs,other,9
 Antipsychotic drugs,drug_of_choice,3
 Antipsychotic drugs,management,1
@@ -922,6 +931,7 @@ Antitubercular Drugs,mechanism,3
 Antitubercular Drugs,other,3
 Antitubercular Drugs,drug_of_choice,2
 Antitubercular Drugs,management,2
+Antitubercular Drugs And Oral Contraceptive Pills (Ocps) Interaction,other,1
 Antitubercular Therapy,management,1
 Antitubercular drug toxicity,mechanism,1
 Antitubercular drugs,mechanism,4
@@ -929,8 +939,8 @@ Antitubercular drugs,other,3
 Antitubercular drugs,drug_of_choice,1
 Antitubercular drugs,management,1
 Antitubercular therapy,mechanism,1
+Antiulcer Drugs,drug_of_choice,2
 Antiulcer Drugs,other,2
-Antiulcer Drugs,drug_of_choice,1
 Antiulcer drugs,other,3
 Antiulcer drugs,drug_of_choice,2
 Antiviral Agents,other,4
@@ -965,6 +975,7 @@ Aortic Arch,anatomy_structure,3
 Aortic Diseases,diagnosis,1
 Aortic Diseases,epidemiology,1
 Aortic Dissection,diagnosis,1
+Aortic Dissection,image_identification,1
 Aortic Dissection,other,1
 Aortic Imaging,image_identification,3
 Aortic Regurgitation,diagnosis,1
@@ -985,6 +996,7 @@ Apgar Scoring,diagnosis,1
 Aphakia,other,1
 Aphasia,diagnosis,4
 Aphasia,anatomy_structure,1
+Aplastic Anemia,other,1
 Apocrine Gland Disorders,diagnosis,1
 Apocrine gland disorders,diagnosis,1
 Apolipoproteins,mechanism,1
@@ -1091,6 +1103,7 @@ Astigmatism,diagnosis,2
 Astigmatism,other,2
 Ataxia,diagnosis,2
 Ataxia,mechanism,1
+Ataxia Telangiectasia,diagnosis,1
 Ataxia telangiectasia,diagnosis,1
 Atelectasis,other,1
 Atherosclerosis,mechanism,3
@@ -1137,8 +1150,8 @@ Auscultation areas,anatomy_structure,1
 Auscultation points,anatomy_structure,1
 Austrian Syndrome,diagnosis,1
 Austrian syndrome,diagnosis,1
+Autacoids,other,5
 Autacoids,mechanism,4
-Autacoids,other,4
 Autism,other,1
 Autism Spectrum Disorder,diagnosis,3
 Autism Spectrum Disorder,epidemiology,1
@@ -1189,6 +1202,7 @@ Autonomic,diagnosis,4
 Autonomic,image_identification,1
 Autopsy,other,6
 Autopsy,investigation,1
+Autopsy Findings / Physiological Changes,other,1
 Autopsy Technique,anatomy_structure,1
 Autopsy Techniques,other,5
 Autopsy findings,other,1
@@ -1286,7 +1300,7 @@ Barbiturates,other,1
 Bariatric Surgery,management,6
 Bariatric Surgery,other,1
 Barium Studies,image_identification,1
-Barium Swallow,image_identification,1
+Barium Swallow,image_identification,2
 Barium studies,investigation,1
 Barium swallow,image_identification,1
 Barlow test,diagnosis,1
@@ -1343,6 +1357,7 @@ Benign uterine conditions,diagnosis,1
 Benign uterine disorders,diagnosis,1
 Benign uterine disorders,image_identification,1
 Benign vulvar disorders,management,1
+Benzene Exposure And Associated Health Effects,other,1
 Benzodiazepine Receptor,mechanism,1
 Benzodiazepine receptor,mechanism,1
 Benzodiazepines,mechanism,4
@@ -1386,6 +1401,7 @@ Biliary Imaging,image_identification,1
 Biliary Injuries,other,1
 Biliary Pathology,diagnosis,1
 Biliary Stones,diagnosis,1
+Biliary Stones,other,1
 Biliary Surgery,management,1
 Biliary Surgery,other,1
 Biliary System,anatomy_structure,2
@@ -1397,6 +1413,7 @@ Biliary Tract,anatomy_structure,1
 Biliary Tract,epidemiology,1
 Biliary Tract,other,1
 Biliary Tract Anomalies,anatomy_structure,1
+Biliary Tract Disease,management,1
 Biliary Tract Neoplasms,epidemiology,2
 Biliary Tract Neoplasms,management,1
 Biliary Tract Surgery,diagnosis,1
@@ -1453,16 +1470,17 @@ Biological therapies,mechanism,1
 Biologics,mechanism,2
 Biomarkers,investigation,2
 Biomedical Waste,management,2
-Biomedical Waste Management,management,14
-Biomedical Waste Management,other,8
+Biomedical Waste Management,management,15
+Biomedical Waste Management,other,9
 Biomedical Waste Management,epidemiology,1
+Biomedical Waste Management (Color-Coded Disposal Bags),other,1
 Biomedical waste management,other,6
 Biomedical waste management,management,2
 Biomedical waste management,epidemiology,1
 Biomolecular Interactions,other,1
 Biomolecules,other,1
 Biopsy,investigation,1
-Biostatistics,other,96
+Biostatistics,other,95
 Biostatistics,epidemiology,18
 Biostatistics,investigation,6
 Biostatistics,image_identification,2
@@ -1493,7 +1511,7 @@ Blast injuries,mechanism,7
 Blast injuries,other,3
 Blast injuries,anatomy_structure,1
 Bleeding,diagnosis,1
-Bleeding Disorders,diagnosis,1
+Bleeding Disorders,diagnosis,2
 Bleeding Disorders,other,1
 Bleeding disorders,diagnosis,4
 Bleeding disorders,other,2
@@ -1538,7 +1556,8 @@ Bone Imaging,image_identification,1
 Bone Imaging,investigation,1
 Bone Imaging,mechanism,1
 Bone Imaging,other,1
-Bone Lesions,diagnosis,3
+Bone Lesions,diagnosis,4
+Bone Lesions,image_identification,1
 Bone Lesions,other,1
 Bone Marrow Examination,image_identification,1
 Bone Marrow Failure Syndromes,diagnosis,1
@@ -1610,6 +1629,7 @@ Brain MRI,image_identification,1
 Brain Malformations,diagnosis,1
 Brain Malformations,image_identification,1
 Brain Mri,image_identification,1
+Brain Pathology,other,1
 Brain Vasculature,anatomy_structure,1
 Brain Waves,other,1
 Brain vasculature,anatomy_structure,1
@@ -1618,7 +1638,7 @@ Brainstem,diagnosis,2
 Brainstem Death,diagnosis,1
 Brainstem Lesions,other,1
 Brainstem Nuclei,anatomy_structure,2
-Brainstem Syndromes,diagnosis,8
+Brainstem Syndromes,diagnosis,9
 Brainstem Syndromes,anatomy_structure,1
 Brainstem death,diagnosis,1
 Brainstem syndromes,diagnosis,1
@@ -1628,7 +1648,7 @@ Branchial Cyst,epidemiology,1
 Branchial cyst,diagnosis,1
 Breast & Endocrine Surgery,management,61
 Breast & Endocrine Surgery,diagnosis,32
-Breast & Endocrine Surgery,other,30
+Breast & Endocrine Surgery,other,32
 Breast & Endocrine Surgery,investigation,11
 Breast & Endocrine Surgery,anatomy_structure,6
 Breast & Endocrine Surgery,epidemiology,6
@@ -1718,7 +1738,7 @@ CNS Pharmacology,drug_of_choice,2
 CNS Pharmacology,mechanism,2
 CNS Pharmacology,management,1
 CNS Physiology,mechanism,94
-CNS Physiology,other,51
+CNS Physiology,other,53
 CNS Physiology,diagnosis,20
 CNS Physiology,anatomy_structure,14
 CNS Physiology,investigation,6
@@ -1757,8 +1777,8 @@ CSF rhinorrhea,diagnosis,1
 CSF rhinorrhoea,diagnosis,1
 CSOM,diagnosis,2
 CT,investigation,1
-CT & MRI,other,13
-CT & MRI,image_identification,1
+CT & MRI,other,11
+CT & MRI,image_identification,2
 CT & MRI,management,1
 CT Imaging,diagnosis,1
 CT Physics,mechanism,2
@@ -1854,8 +1874,8 @@ Cardiac Arrest,diagnosis,1
 Cardiac Arrest Management,drug_of_choice,6
 Cardiac Arrhythmia,other,1
 Cardiac Arrhythmias,diagnosis,9
+Cardiac Arrhythmias,management,2
 Cardiac Arrhythmias,image_identification,1
-Cardiac Arrhythmias,management,1
 Cardiac Arrhythmias,other,1
 Cardiac Arrhythmias Management,management,1
 Cardiac Biomarkers,investigation,1
@@ -1912,7 +1932,7 @@ Cardiogenic Shock,other,1
 Cardiology,other,211
 Cardiology,diagnosis,150
 Cardiology,mechanism,104
-Cardiology,anatomy_structure,40
+Cardiology,anatomy_structure,41
 Cardiology,management,40
 Cardiology,drug_of_choice,31
 Cardiology,image_identification,16
@@ -1927,7 +1947,7 @@ Cardiomyopathy,image_identification,1
 Cardiomyopathy,mechanism,1
 Cardiomyopathy,other,1
 Cardiopulmonary Baroreceptors,anatomy_structure,1
-Cardiopulmonary Cerebral Resuscitation,other,4
+Cardiopulmonary Cerebral Resuscitation,other,5
 Cardiopulmonary Resuscitation,diagnosis,1
 Cardiopulmonary Resuscitation,other,1
 Cardiopulmonary baroreceptors,anatomy_structure,1
@@ -1938,8 +1958,8 @@ Cardiothoracic ratio,other,1
 Cardiotoxicity,other,1
 Cardiovascular Drugs,mechanism,3
 Cardiovascular Drugs,management,2
+Cardiovascular Drugs,other,2
 Cardiovascular Drugs,drug_of_choice,1
-Cardiovascular Drugs,other,1
 Cardioversion,management,1
 Carditis management,management,1
 Carotid Artery Stenosis,investigation,1
@@ -1969,7 +1989,7 @@ Catatonia,management,1
 Catatonia,other,1
 Catecholamine Metabolism,diagnosis,2
 Catecholamine Metabolism,investigation,1
-Catecholamine Synthesis,mechanism,1
+Catecholamine Synthesis,mechanism,2
 Catecholamine Synthesis Inhibitors,mechanism,1
 Catecholamine synthesis,mechanism,1
 Catecholamine synthesis inhibitors,mechanism,1
@@ -2004,7 +2024,7 @@ Cell Cycle,mechanism,2
 Cell Death,mechanism,5
 Cell Death,diagnosis,1
 Cell Injury & Death,mechanism,39
-Cell Injury & Death,other,28
+Cell Injury & Death,other,29
 Cell Injury & Death,diagnosis,15
 Cell Lines,other,1
 Cell Membrane Physiology,other,1
@@ -2014,7 +2034,7 @@ Cell Physiology,other,4
 Cell Physiology,anatomy_structure,1
 Cell Physiology,image_identification,1
 Cell Regeneration,other,1
-Cell Signaling,mechanism,6
+Cell Signaling,mechanism,7
 Cell Signaling,anatomy_structure,1
 Cell Structure And Function,other,1
 Cell Structure and Function,other,1
@@ -2048,7 +2068,7 @@ Cellular Immunity,other,1
 Cellular Metabolism,mechanism,1
 Cellular Movement,mechanism,1
 Cellular Pathology,mechanism,2
-Cellular Pathology,other,1
+Cellular Pathology,other,2
 Cellular Physiology,mechanism,7
 Cellular Physiology,anatomy_structure,2
 Cellular Physiology,other,1
@@ -2170,7 +2190,7 @@ Chemokines,other,1
 Chemoprophylaxis,drug_of_choice,6
 Chemoprophylaxis,management,1
 Chemoreceptors,mechanism,4
-Chemotherapy & Anticancer,other,18
+Chemotherapy & Anticancer,other,17
 Chemotherapy & Anticancer,drug_of_choice,6
 Chemotherapy & Anticancer,mechanism,5
 Chemotherapy & Anticancer,epidemiology,2
@@ -2232,7 +2252,7 @@ Child Health,epidemiology,1
 Child Health Indicators,epidemiology,1
 Child Mortality Determinants,other,1
 Child Psychiatry,diagnosis,138
-Child Psychiatry,other,86
+Child Psychiatry,other,87
 Child Psychiatry,mechanism,15
 Child Psychiatry,management,14
 Child Psychiatry,drug_of_choice,12
@@ -2533,7 +2553,7 @@ Colposcopy,diagnosis,1
 Colposcopy,other,1
 Coma and brain injury,other,1
 Common Peroneal Nerve,anatomy_structure,1
-Communicable And Non-Communicable Diseases,other,9
+Communicable And Non-Communicable Diseases,other,10
 Communicable Diseases,epidemiology,14
 Communicable Diseases,other,13
 Communicable Diseases,drug_of_choice,3
@@ -2560,6 +2580,7 @@ Compartment syndrome,anatomy_structure,1
 Compartment syndrome,management,1
 Compartment syndromes,diagnosis,3
 Complement,other,1
+Complement Disorders,diagnosis,1
 Complement System,mechanism,10
 Complement System,other,3
 Complement disorders,diagnosis,1
@@ -2576,7 +2597,7 @@ Complications of Puerperium,diagnosis,1
 Complications of neuraxial anesthesia,other,1
 Computed Tomography (CT),investigation,1
 Computed Tomography (Ct),investigation,1
-Concept Of Health And Disease,other,5
+Concept Of Health And Disease,other,7
 Concomitant squint,diagnosis,1
 Conduction abnormalities,diagnosis,2
 Conductive hearing loss,anatomy_structure,1
@@ -2590,7 +2611,7 @@ Congenital Anomalies,epidemiology,1
 Congenital Anomalies,investigation,1
 Congenital Anomalies,mechanism,1
 Congenital Anomalies Screening,investigation,1
-Congenital Brain Malformations,image_identification,1
+Congenital Brain Malformations,image_identification,2
 Congenital CNS Anomalies,diagnosis,1
 Congenital CNS Anomalies,image_identification,1
 Congenital CNS malformations,diagnosis,1
@@ -2666,8 +2687,8 @@ Conjunctiva,anatomy_structure,3
 Conjunctiva,image_identification,2
 Conjunctiva,management,1
 Conjunctival Disorders,diagnosis,2
+Conjunctival Disorders,other,2
 Conjunctival Disorders,image_identification,1
-Conjunctival Disorders,other,1
 Conjunctival Lesions,diagnosis,2
 Conjunctival Lesions,image_identification,1
 Conjunctival Staining,diagnosis,1
@@ -2676,7 +2697,7 @@ Conjunctival disorders,epidemiology,1
 Conjunctival lesions,diagnosis,2
 Conjunctival staining,diagnosis,1
 Conjunctivitis,diagnosis,9
-Conjunctivitis,other,1
+Conjunctivitis,other,2
 Connective Tissue,anatomy_structure,4
 Connective Tissue,mechanism,4
 Connective Tissue,other,4
@@ -2707,7 +2728,7 @@ Constrictive pericarditis,diagnosis,1
 Consumer Protection,other,6
 Contact Dermatitis,epidemiology,2
 Contact dermatitis,epidemiology,1
-Contraception,other,32
+Contraception,other,34
 Contraception,management,21
 Contraception,mechanism,7
 Contraception,drug_of_choice,5
@@ -2728,6 +2749,7 @@ Contraindications,management,5
 Contraindications,diagnosis,1
 Contraindications,drug_of_choice,1
 Contraindications,investigation,1
+Contrast Agents,investigation,2
 Contrast Agents,other,1
 Contrast Media,investigation,3
 Contrast Media,other,2
@@ -2810,13 +2832,14 @@ Cranial Nerve Disorders,mechanism,2
 Cranial Nerve Examination,anatomy_structure,1
 Cranial Nerve Functions,mechanism,1
 Cranial Nerve Innervation,anatomy_structure,1
-Cranial Nerve Nuclei,anatomy_structure,2
+Cranial Nerve Nuclei,anatomy_structure,3
 Cranial Nerve Palsies,diagnosis,2
 Cranial Nerve Palsies,anatomy_structure,1
-Cranial Nerves,anatomy_structure,49
+Cranial Nerves,anatomy_structure,51
 Cranial Nerves,diagnosis,3
+Cranial Nerves,image_identification,2
 Cranial Nerves,mechanism,2
-Cranial Nerves,image_identification,1
+Cranial Nerves,other,2
 Cranial Sutures And Fontanelles,anatomy_structure,1
 Cranial Sutures and Fontanelles,anatomy_structure,1
 Cranial Vasculature,anatomy_structure,1
@@ -2844,7 +2867,8 @@ Creatinine Metabolism,mechanism,1
 Creatinine metabolism,mechanism,1
 Creche,other,1
 Criminal Abortion,other,1
-Criminal Law,other,4
+Criminal Law,other,6
+Criminal Procedure,other,1
 Criminal Responsibility,other,1
 Criminal abortion,other,1
 Criminal law,other,2
@@ -2904,11 +2928,12 @@ Cutaneous Lymphoma,epidemiology,1
 Cutaneous Manifestations,diagnosis,1
 Cutaneous T-Cell Lymphoma,diagnosis,1
 Cutaneous T-cell Lymphoma,diagnosis,1
-Cutaneous Tuberculosis,diagnosis,1
+Cutaneous Tuberculosis,diagnosis,2
 Cutaneous receptors,mechanism,1
 Cutaneous tuberculosis,diagnosis,1
+Cutis Marmorata,epidemiology,1
 Cutis marmorata,epidemiology,1
-Cvs Pharmacology,other,9
+Cvs Pharmacology,other,10
 Cyanosis,diagnosis,1
 Cyanotic Congenital Heart Disease,diagnosis,1
 Cyanotic Heart Disease,diagnosis,1
@@ -2923,6 +2948,7 @@ Cycloplegic Agents,other,1
 Cycloplegic agents,other,1
 Cyclothymia,diagnosis,1
 Cyclothymia,other,1
+Cystathionine Beta Synthase,other,1
 Cystic Fibrosis,diagnosis,1
 Cystic Fibrosis,mechanism,1
 Cystic Fibrosis,other,1
@@ -2978,6 +3004,7 @@ Death definition,other,1
 Decidua,anatomy_structure,1
 Decompensated Heart Failure,management,1
 Decomposition,other,2
+Decomposition And Putrefaction,other,1
 Decomposition and Putrefaction,other,1
 Decompression Sickness,mechanism,1
 Deep Venous Thrombosis,diagnosis,1
@@ -3018,7 +3045,7 @@ Demographic Cycle,image_identification,1
 Demographic Indicators,other,1
 Demographic Transition,epidemiology,2
 Demographic transition,epidemiology,2
-Demography & Family Planning,epidemiology,38
+Demography & Family Planning,epidemiology,39
 Demography & Family Planning,other,25
 Demography & Family Planning,management,4
 Demography & Family Planning,image_identification,3
@@ -3037,6 +3064,7 @@ Dental eruption,other,3
 Dentition,other,3
 Depolarizing Neuromuscular Blockers,other,1
 Depressive Disorders,diagnosis,4
+Depth Of Anaesthesia,investigation,1
 Depth Of Anaesthesia,other,1
 Depth Of Anesthesia Monitoring,mechanism,1
 Depth of Anaesthesia,investigation,2
@@ -3062,7 +3090,7 @@ Dermatological investigations,investigation,1
 Dermatological pharmacology,drug_of_choice,2
 Dermatological signs,other,1
 Dermatology,diagnosis,176
-Dermatology,other,53
+Dermatology,other,54
 Dermatology,management,24
 Dermatology,image_identification,16
 Dermatology,mechanism,15
@@ -3110,6 +3138,7 @@ Diabetic Neuropathy,diagnosis,3
 Diabetic Retinopathy,diagnosis,6
 Diabetic Retinopathy,image_identification,2
 Diabetic Retinopathy,management,1
+Diabetic Retinopathy,other,1
 Diabetic complications,diagnosis,1
 Diabetic foot,diagnosis,1
 Diabetic ketoacidosis,mechanism,1
@@ -3126,6 +3155,7 @@ Diagnostic Criteria,investigation,1
 Diagnostic Evaluation,investigation,1
 Diagnostic Imaging,investigation,1
 Diagnostic Methods,investigation,2
+Diagnostic Methods For Treponema Pallidum,other,1
 Diagnostic Microbiology,investigation,5
 Diagnostic Microbiology,other,2
 Diagnostic Procedures,investigation,1
@@ -3183,6 +3213,7 @@ Digestive secretions,other,1
 Digitalis,drug_of_choice,1
 Digitalis Toxicity,drug_of_choice,1
 Digoxin Toxicity,management,1
+Digoxin Toxicity,other,1
 Dilation and Evacuation,management,1
 Dilation and curettage,investigation,1
 Diphtheria,mechanism,3
@@ -3248,6 +3279,7 @@ Diverticular disease,diagnosis,1
 Dmards,other,1
 Dna Repair,mechanism,3
 Dna Repair,other,1
+Dna Repair Disorders,other,1
 Dna Replication,mechanism,6
 Dna Replication And Repair,mechanism,1
 Dna Structure,other,5
@@ -3292,6 +3324,7 @@ Drug Classification,mechanism,1
 Drug Contraindications,other,1
 Drug Dependence,mechanism,2
 Drug Dependence,diagnosis,1
+Drug Dependence,epidemiology,1
 Drug Dependence,other,1
 Drug Distribution,mechanism,1
 Drug Dosing,mechanism,1
@@ -3309,7 +3342,7 @@ Drug Interactions,other,4
 Drug Interactions,drug_of_choice,1
 Drug Kinetics,other,1
 Drug Mechanism,mechanism,2
-Drug Metabolism,mechanism,6
+Drug Metabolism,mechanism,8
 Drug Metabolism,other,3
 Drug Metabolism,anatomy_structure,1
 Drug Metabolism,management,1
@@ -3450,7 +3483,7 @@ ENT Procedures,management,1
 ESRD,diagnosis,1
 Eales Disease,other,1
 Eales disease,other,1
-Ear,other,21
+Ear,other,22
 Ear,anatomy_structure,19
 Ear,mechanism,9
 Ear,diagnosis,8
@@ -3556,7 +3589,7 @@ Electrosurgery,management,1
 Embolism,investigation,2
 Embolism,epidemiology,1
 Embryology,anatomy_structure,158
-Embryology,other,42
+Embryology,other,43
 Embryology,mechanism,30
 Embryology,diagnosis,2
 Embryology,epidemiology,2
@@ -3568,9 +3601,9 @@ Emergency Medicine,management,35
 Emergency Medicine,diagnosis,28
 Emergency Medicine,drug_of_choice,8
 Emergency Medicine,investigation,4
+Emergency Medicine,other,3
 Emergency Medicine,image_identification,2
 Emergency Medicine,mechanism,2
-Emergency Medicine,other,2
 Emergency Medicine,anatomy_structure,1
 Emergency Medicine,epidemiology,1
 Emergency Ophthalmology,management,1
@@ -3601,8 +3634,8 @@ Endocrine,anatomy_structure,3
 Endocrine,management,2
 Endocrine Pharmacology,mechanism,199
 Endocrine Pharmacology,drug_of_choice,163
-Endocrine Pharmacology,other,158
-Endocrine Pharmacology,management,86
+Endocrine Pharmacology,other,160
+Endocrine Pharmacology,management,87
 Endocrine Pharmacology,diagnosis,17
 Endocrine Pharmacology,epidemiology,3
 Endocrine Pharmacology,investigation,2
@@ -3652,6 +3685,7 @@ Endothelin Receptors,mechanism,1
 Endothelin receptors,mechanism,1
 Endothelium,investigation,1
 Endotracheal Intubation,diagnosis,1
+Endotracheal Tube Position,other,1
 Endotracheal tube,anatomy_structure,1
 Energy Metabolism,other,7
 Energy Metabolism,mechanism,4
@@ -3691,7 +3725,7 @@ Environment & Occupational Health,epidemiology,11
 Environment & Occupational Health,drug_of_choice,1
 Environment And Health,other,1
 Environmental Emergencies,management,1
-Environmental Health,other,45
+Environmental Health,other,48
 Environmental Health,management,11
 Environmental Health,investigation,9
 Environmental Health,epidemiology,4
@@ -3743,7 +3777,7 @@ Enzymes,other,11
 Enzymes,investigation,5
 Enzymes,mechanism,5
 Enzymology,mechanism,61
-Enzymology,other,52
+Enzymology,other,51
 Enzymology,investigation,7
 Enzymology,diagnosis,3
 Eosinophilia,diagnosis,1
@@ -3763,8 +3797,8 @@ Epidemiological Study Designs,epidemiology,3
 Epidemiological methods,epidemiology,1
 Epidemiological studies,epidemiology,1
 Epidemiological study designs,epidemiology,1
-Epidemiology,epidemiology,383
-Epidemiology,other,171
+Epidemiology,epidemiology,387
+Epidemiology,other,172
 Epidemiology,management,48
 Epidemiology,diagnosis,28
 Epidemiology,investigation,16
@@ -3802,6 +3836,7 @@ Episiotomy repair,management,2
 Epistaxis,anatomy_structure,3
 Epistaxis,diagnosis,2
 Epistaxis,management,1
+Epistaxis Management,other,1
 Epithelial Tissue,anatomy_structure,1
 Epithelial repair,mechanism,1
 Epithelial sodium channel,mechanism,1
@@ -3840,6 +3875,7 @@ Esophageal Motility,diagnosis,1
 Esophageal Motility Disorders,investigation,3
 Esophageal Motility Disorders,diagnosis,1
 Esophageal Motility Disorders,management,1
+Esophageal Motility Disorders,mechanism,1
 Esophageal Pathology,other,1
 Esophageal Perforation,epidemiology,1
 Esophageal Perforation,other,1
@@ -3883,6 +3919,7 @@ Eustachian tube,anatomy_structure,1
 Eustachian tube,management,1
 Eustachian tube function,diagnosis,1
 Evidence,other,1
+Evidence / Witness Examination,other,1
 Ewing sarcoma,diagnosis,1
 Exanthematous Fevers,other,1
 Exanthems,diagnosis,1
@@ -3910,7 +3947,7 @@ Extracellular Matrix,diagnosis,1
 Extracellular Matrix,mechanism,1
 Extracellular matrix,mechanism,1
 Extracellular matrix,other,1
-Extraocular Muscles,anatomy_structure,7
+Extraocular Muscles,anatomy_structure,8
 Extraocular muscles,anatomy_structure,5
 Extraocular muscles,diagnosis,1
 Extrapyramidal Side Effects,management,2
@@ -3937,8 +3974,8 @@ Eye anatomy,diagnosis,1
 Eyelid,anatomy_structure,1
 Eyelid Anatomy,anatomy_structure,3
 Eyelid Anatomy & Disorders,anatomy_structure,1
+Eyelid Disorders,diagnosis,3
 Eyelid Disorders,anatomy_structure,2
-Eyelid Disorders,diagnosis,2
 Eyelid Disorders,other,1
 Eyelid Muscles,anatomy_structure,1
 Eyelid anatomy,anatomy_structure,2
@@ -3956,6 +3993,7 @@ Facial Nerve,anatomy_structure,10
 Facial Nerve,investigation,2
 Facial Nerve,diagnosis,1
 Facial Nerve Palsy,diagnosis,2
+Facial Nerve Palsy,anatomy_structure,1
 Facial Nerve Paralysis,diagnosis,1
 Facial Pain,diagnosis,1
 Facial Pain Syndromes,diagnosis,1
@@ -3989,7 +4027,7 @@ Family Studies,other,1
 Family history,other,1
 Fascia,anatomy_structure,5
 Fascial Spaces,anatomy_structure,2
-Fasciotomy,anatomy_structure,1
+Fasciotomy,anatomy_structure,2
 Fasting,other,1
 Fasting Metabolism,mechanism,2
 Fasting Metabolism,other,1
@@ -4071,9 +4109,9 @@ Fetal Physiology,other,6
 Fetal Physiology,mechanism,1
 Fetal Position,anatomy_structure,1
 Fetal Presentation,diagnosis,2
+Fetal Presentation,other,2
 Fetal Presentation,anatomy_structure,1
 Fetal Presentation,management,1
-Fetal Presentation,other,1
 Fetal Presentation And Position,anatomy_structure,1
 Fetal Presentation And Position,diagnosis,1
 Fetal Presentation and Position,anatomy_structure,1
@@ -4121,6 +4159,7 @@ Fibrinolytic agents,mechanism,1
 Fibrinolytics,mechanism,2
 Fibromatosis,diagnosis,1
 Fibrous Dysplasia,diagnosis,1
+Filarial Worms,other,1
 Filariasis,diagnosis,2
 Filariasis,drug_of_choice,1
 Filariasis,image_identification,1
@@ -4162,6 +4201,7 @@ Flavivirus,diagnosis,1
 Flow Cytometry,investigation,1
 Flow cytometry,investigation,1
 Fluid & Electrolyte Balance,management,2
+Fluid & Electrolyte Balance,other,1
 Fluid And Electrolyte Balance,management,2
 Fluid And Electrolyte Balance,diagnosis,1
 Fluid And Electrolyte Balance,mechanism,1
@@ -4223,12 +4263,12 @@ Follicular Lymphoma,diagnosis,2
 Follicular lymphoma,diagnosis,2
 Food Adulteration,investigation,1
 Food Adulteration,other,1
-Food Hygiene,other,3
+Food Hygiene,other,4
 Food Hygiene,investigation,1
 Food Microbiology,other,2
 Food Poisoning,diagnosis,3
+Food Poisoning,other,3
 Food Poisoning,mechanism,2
-Food Poisoning,other,2
 Food Poisoning,epidemiology,1
 Food Quality Tests,investigation,1
 Food Safety,investigation,1
@@ -4280,11 +4320,11 @@ Fourth Ventricle,anatomy_structure,1
 Fourth ventricle,anatomy_structure,1
 Fractures,diagnosis,135
 Fractures,management,75
-Fractures,other,67
+Fractures,other,66
 Fractures,anatomy_structure,41
 Fractures,image_identification,39
 Fractures,mechanism,24
-Fractures,epidemiology,19
+Fractures,epidemiology,20
 Fractures,investigation,16
 Fractures,drug_of_choice,1
 Fragile X Syndrome,other,2
@@ -4425,7 +4465,7 @@ Gastroesophageal Reflux Disease,investigation,1
 Gastroesophageal Reflux Disease,management,1
 Gastroesophageal reflux disease,drug_of_choice,1
 Gastroesophageal reflux disease,management,1
-Gastrointestinal,other,79
+Gastrointestinal,other,80
 Gastrointestinal,mechanism,54
 Gastrointestinal,diagnosis,49
 Gastrointestinal,anatomy_structure,38
@@ -4434,7 +4474,7 @@ Gastrointestinal,image_identification,12
 Gastrointestinal,drug_of_choice,8
 Gastrointestinal,epidemiology,7
 Gastrointestinal,management,1
-Gastrointestinal Surgery,other,36
+Gastrointestinal Surgery,other,35
 Gastrointestinal Surgery,management,12
 Gastrointestinal Surgery,diagnosis,6
 Gastrointestinal Surgery,anatomy_structure,3
@@ -4485,9 +4525,9 @@ General Microbiology,other,1
 General Paralysis Of Insane,diagnosis,1
 General Paralysis of Insane,diagnosis,1
 General Pathology,other,1
-General Pharmacology,other,12
+General Pharmacology,other,13
 General Pharmacology,mechanism,2
-General Physiology,other,6
+General Physiology,other,8
 General Physiology,mechanism,4
 General Physiology,image_identification,1
 General Radiology,diagnosis,1
@@ -4562,7 +4602,7 @@ Genitourinary Drugs,mechanism,1
 Genitourinary Fistulas,investigation,1
 Genitourinary Pathology,diagnosis,2
 Genitourinary Pathology,image_identification,2
-Genitourinary Radiology,other,2
+Genitourinary Radiology,other,3
 Genitourinary Radiology,diagnosis,1
 Genitourinary drugs,mechanism,1
 Genitourinary pharmacology,drug_of_choice,1
@@ -4586,6 +4626,7 @@ Gestational Age,other,3
 Gestational Age,investigation,1
 Gestational Age Assessment,diagnosis,1
 Gestational Age Calculation,investigation,1
+Gestational Age Calculation,other,1
 Gestational Age Estimation,investigation,2
 Gestational Diabetes,diagnosis,2
 Gestational Diabetes,other,2
@@ -4613,8 +4654,8 @@ Glanders,diagnosis,1
 Glands,mechanism,1
 Glandular Anatomy,anatomy_structure,1
 Glasgow Coma Scale,other,3
+Glaucoma,other,24
 Glaucoma,diagnosis,23
-Glaucoma,other,21
 Glaucoma,mechanism,14
 Glaucoma,drug_of_choice,11
 Glaucoma,management,7
@@ -4623,6 +4664,7 @@ Glaucoma,image_identification,4
 Glaucoma,investigation,4
 Glaucoma,epidemiology,1
 Global Health,epidemiology,1
+Global Hunger Index,other,1
 Global health initiatives,other,1
 Globus Pharyngeus,diagnosis,1
 Globus pharyngeus,diagnosis,1
@@ -4675,6 +4717,7 @@ Glycolysis,other,4
 Glycoprotein Hormones,mechanism,1
 Glycosaminoglycans,mechanism,6
 Glycosaminoglycans,other,6
+Glycosaminoglycans / Keratan Sulphate,other,1
 Glycosylation,mechanism,2
 GnRH agonists,mechanism,1
 GnRH analogues,other,1
@@ -4733,8 +4776,8 @@ Grievous injury,other,1
 Grisel syndrome,diagnosis,1
 Gross Anatomy,anatomy_structure,3
 Gross Anatomy,image_identification,1
-Growth & Development,other,107
-Growth & Development,diagnosis,42
+Growth & Development,other,108
+Growth & Development,diagnosis,44
 Growth & Development,anatomy_structure,35
 Growth & Development,mechanism,23
 Growth & Development,investigation,11
@@ -4771,8 +4814,9 @@ Gynaecological oncology,diagnosis,1
 Gynaecological procedures,investigation,1
 Gynaecological procedures,management,1
 Gynaecological surgery,other,2
+Gynecologic Imaging,investigation,1
 Gynecologic Oncology,diagnosis,87
-Gynecologic Oncology,other,67
+Gynecologic Oncology,other,74
 Gynecologic Oncology,management,34
 Gynecologic Oncology,investigation,24
 Gynecologic Oncology,anatomy_structure,14
@@ -4840,6 +4884,7 @@ Hair Cycle,mechanism,1
 Hair Disorders,other,2
 Hair Disorders,diagnosis,1
 Hair Loss,other,1
+Hair Peroforation Test,other,1
 Hair cycle,mechanism,1
 Hair disorders,image_identification,1
 Hair disorders,investigation,1
@@ -4879,16 +4924,17 @@ Hand spaces,anatomy_structure,1
 Hand surgery,anatomy_structure,1
 Hanging,other,2
 Hanging,anatomy_structure,1
+Hard Palate,anatomy_structure,1
 Hard palate,anatomy_structure,1
 Head & Neck,other,91
 Head & Neck,anatomy_structure,36
 Head & Neck,diagnosis,8
 Head & Neck,mechanism,5
+Head & Neck,image_identification,4
 Head & Neck,epidemiology,3
-Head & Neck,image_identification,3
 Head & Neck,drug_of_choice,1
 Head & Neck,management,1
-Head And Neck,anatomy_structure,52
+Head And Neck,anatomy_structure,57
 Head And Neck,other,9
 Head And Neck,epidemiology,3
 Head And Neck,mechanism,3
@@ -4898,6 +4944,7 @@ Head And Neck Anatomy,anatomy_structure,19
 Head And Neck Anatomy,image_identification,1
 Head And Neck Cancer,management,1
 Head And Neck Cancers,epidemiology,1
+Head And Neck Imaging,investigation,1
 Head And Neck Lymphatics,anatomy_structure,4
 Head And Neck Neoplasms,diagnosis,1
 Head And Neck Neoplasms,investigation,1
@@ -4905,10 +4952,10 @@ Head And Neck Oncology,management,2
 Head And Neck Oncology,diagnosis,1
 Head And Neck Oncology,other,1
 Head And Neck Pathology,diagnosis,1
-Head And Neck Radiology,image_identification,1
+Head And Neck Radiology,image_identification,2
 Head And Neck Surgery,anatomy_structure,5
+Head And Neck Surgery,management,2
 Head And Neck Surgery,diagnosis,1
-Head And Neck Surgery,management,1
 Head And Neck Surgery,other,1
 Head Injuries,diagnosis,1
 Head Injuries,other,1
@@ -4972,7 +5019,7 @@ Health Administration,other,6
 Health Administration,epidemiology,1
 Health Administration,management,1
 Health Behavior Models,other,1
-Health Care Delivery,other,25
+Health Care Delivery,other,26
 Health Care Delivery,anatomy_structure,9
 Health Care Delivery,epidemiology,2
 Health Care Delivery,mechanism,1
@@ -5070,6 +5117,7 @@ Heart Murmurs,diagnosis,2
 Heart Rate Assessment,management,1
 Heart Sounds,other,2
 Heart Sounds,mechanism,1
+Heart Valves / Stenosis,other,1
 Heart block,diagnosis,1
 Heart failure,diagnosis,1
 Heart failure,drug_of_choice,1
@@ -5084,6 +5132,7 @@ Heat-Related Illness,diagnosis,1
 Heat-related illness,diagnosis,2
 Heavy Chain Disease,epidemiology,1
 Heavy Metal Poisoning,diagnosis,7
+Heavy Metal Toxicity,other,1
 Heavy metal poisoning,diagnosis,4
 Heavy metal poisoning,mechanism,2
 Heavy metal poisoning,epidemiology,1
@@ -5112,7 +5161,7 @@ Hematological Malignancies,diagnosis,1
 Hematological Malignancies,management,1
 Hematological Malignancies,other,1
 Hematological Markers,other,1
-Hematopathology,other,163
+Hematopathology,other,169
 Hematopathology,diagnosis,129
 Hematopathology,mechanism,57
 Hematopathology,investigation,41
@@ -5205,7 +5254,7 @@ Hepatobiliary,management,1
 Hepatobiliary Disease,epidemiology,1
 Hepatobiliary Diseases,diagnosis,1
 Hepatobiliary Imaging,image_identification,1
-Hepatobiliary Pancreatic Surgery,other,5
+Hepatobiliary Pancreatic Surgery,other,6
 Hepatobiliary Pathology,investigation,2
 Hepatobiliary Radiology,investigation,1
 Hepatobiliary Surgery,investigation,2
@@ -5250,6 +5299,7 @@ Herpes Keratitis,mechanism,3
 Herpes Simplex,diagnosis,1
 Herpes Viruses,diagnosis,1
 Herpes Zoster,diagnosis,1
+Herpes Zoster,image_identification,1
 Herpes Zoster Ophthalmicus,diagnosis,1
 Herpes keratitis,diagnosis,3
 Herpes keratitis,mechanism,3
@@ -5280,6 +5330,7 @@ Hip,mechanism,1
 Hip Arthroplasty,management,1
 Hip Arthroplasty,mechanism,1
 Hip Dislocation,diagnosis,1
+Hip Dislocation,other,1
 Hip Dislocations,diagnosis,1
 Hip Disorders,diagnosis,12
 Hip Disorders,investigation,3
@@ -5300,7 +5351,7 @@ Hirsutism,investigation,1
 Histamine Release,mechanism,1
 Histamine receptors,mechanism,1
 Histocompatibility,other,1
-Histology,other,66
+Histology,other,67
 Histology,anatomy_structure,55
 Histology,image_identification,16
 Histology,mechanism,11
@@ -5340,13 +5391,14 @@ Hiv/Aids,management,4
 Hiv/Aids Control,epidemiology,1
 Hiv/Aids Surveillance,epidemiology,1
 Hla Matching,other,1
-Hodgkin Lymphoma,diagnosis,4
+Hodgkin Lymphoma,diagnosis,5
 Hodgkin Lymphoma,investigation,1
 Hodgkin lymphoma,diagnosis,1
 Hodgkin lymphoma,epidemiology,1
 Homeostasis,mechanism,1
 Homeostasis,other,1
 Homicide,investigation,2
+Homocystinuria / Inborn Errors Of Amino Acid Metabolism,other,1
 Homonymous hemianopia,anatomy_structure,1
 Horizontal Gene Transfer,mechanism,2
 Hormonal Assays,investigation,1
@@ -5547,8 +5599,8 @@ Imaging of cystic brain lesions,image_identification,1
 Imaging techniques,image_identification,1
 Immobilization,management,1
 Immune Response,mechanism,1
-Immunization,other,37
-Immunization,management,34
+Immunization,other,39
+Immunization,management,35
 Immunization,epidemiology,24
 Immunization,mechanism,2
 Immunization,investigation,1
@@ -5559,6 +5611,7 @@ Immunocompromised hosts,epidemiology,1
 Immunodeficiency,diagnosis,16
 Immunodeficiency,mechanism,5
 Immunodeficiency,other,2
+Immunodeficiency / Vaccination Contraindications,other,1
 Immunodeficiency Disorders,diagnosis,2
 Immunodeficiency disorders,diagnosis,1
 Immunofluorescence,image_identification,1
@@ -5583,11 +5636,11 @@ Immunomodulators,mechanism,2
 Immunomodulatory Agents,other,1
 Immunomodulatory Drugs,mechanism,1
 Immunomodulatory drugs,mechanism,1
-Immunopathology,other,65
-Immunopathology,diagnosis,14
+Immunopathology,other,62
+Immunopathology,diagnosis,15
 Immunopathology,mechanism,9
+Immunopathology,epidemiology,5
 Immunopathology,investigation,4
-Immunopathology,epidemiology,3
 Immunopharmacology,other,4
 Immunopharmacology,mechanism,3
 Immunopharmacology,drug_of_choice,1
@@ -5597,6 +5650,7 @@ Immunosuppressants,other,2
 Immunosuppressants,drug_of_choice,1
 Immunosuppressive Agents,mechanism,1
 Immunosuppressive Drugs,drug_of_choice,1
+Immunosuppressive Drugs,mechanism,1
 Immunosuppressive agents,mechanism,1
 Immunosuppressive drugs,drug_of_choice,1
 Immunosuppressive drugs,mechanism,1
@@ -5613,7 +5667,7 @@ Impulse Control Disorders,other,2
 Impulse control disorders,diagnosis,1
 Inborn Errors,mechanism,1
 Inborn Errors Of Metabolism,diagnosis,18
-Inborn Errors Of Metabolism,other,9
+Inborn Errors Of Metabolism,other,10
 Inborn Errors Of Metabolism,mechanism,4
 Inborn Errors Of Metabolism,drug_of_choice,2
 Inborn Errors Of Metabolism,management,1
@@ -5667,7 +5721,7 @@ Infections of Skin,other,1
 Infectious Dermatoses,diagnosis,2
 Infectious Dermatoses,investigation,1
 Infectious Diseases,diagnosis,299
-Infectious Diseases,other,196
+Infectious Diseases,other,207
 Infectious Diseases,epidemiology,70
 Infectious Diseases,management,64
 Infectious Diseases,investigation,38
@@ -5700,16 +5754,16 @@ Inferior frontal gyrus,anatomy_structure,1
 Inferior pancreaticoduodenal artery,anatomy_structure,1
 Infertility,diagnosis,14
 Infertility,investigation,13
+Infertility,other,11
 Infertility,management,9
-Infertility,other,9
 Infertility,epidemiology,4
 Infertility,drug_of_choice,3
 Infertility,mechanism,2
 Infertility,image_identification,1
 Infestations,image_identification,1
 Infiltration anaesthesia,management,1
-Inflammation & Healing,other,203
-Inflammation & Healing,mechanism,65
+Inflammation & Healing,other,201
+Inflammation & Healing,mechanism,66
 Inflammation & Healing,diagnosis,33
 Inflammation & Healing,management,6
 Inflammation & Healing,image_identification,4
@@ -5739,7 +5793,7 @@ Influenza,epidemiology,5
 Influenza,other,1
 Infratemporal fossa,anatomy_structure,1
 Inguinal Canal,anatomy_structure,8
-Inguinal Region,anatomy_structure,5
+Inguinal Region,anatomy_structure,6
 Inguinal Region Anatomy,anatomy_structure,1
 Inguinal canal,anatomy_structure,2
 Inguinal region,anatomy_structure,7
@@ -5864,7 +5918,7 @@ Interstitial lung disease,investigation,1
 Interventional Radiology,image_identification,105
 Interventional Radiology,investigation,68
 Interventional Radiology,diagnosis,57
-Interventional Radiology,other,28
+Interventional Radiology,other,29
 Interventional Radiology,management,14
 Interventional Radiology,anatomy_structure,11
 Interventional Radiology,mechanism,7
@@ -5896,6 +5950,7 @@ Intracellular receptors,mechanism,1
 Intracranial Complications,diagnosis,3
 Intracranial Haemorrhage,management,1
 Intracranial Hemorrhage,diagnosis,2
+Intracranial Hemorrhage,management,1
 Intracranial Pressure,mechanism,1
 Intracranial complications,diagnosis,1
 Intracranial haemorrhage,management,1
@@ -5938,7 +5993,7 @@ Intravenous anesthetics,drug_of_choice,1
 Intravenous fluids,mechanism,2
 Intravenous fluids,other,1
 Introduction To Dermatology,other,1
-Introduction To Pathology,other,2
+Introduction To Pathology,other,3
 Introduction to Pathology,other,2
 Introduction to pathology,other,1
 Intubation,anatomy_structure,3
@@ -5959,6 +6014,7 @@ Iodine deficiency,other,1
 Iodine deficiency disorders,epidemiology,1
 Ion Channel,other,1
 Ion Channels,mechanism,1
+Ion Channels,other,1
 Ion channels,mechanism,1
 Ion channels,other,1
 Ionization,mechanism,1
@@ -6115,13 +6171,13 @@ LMA,management,1
 LMA Supreme,other,1
 La Belle indifference,diagnosis,1
 Lab techniques,anatomy_structure,1
-Labor & Delivery,other,49
+Labor & Delivery,other,50
 Labor & Delivery,management,48
 Labor & Delivery,diagnosis,13
 Labor & Delivery,investigation,13
 Labor & Delivery,anatomy_structure,8
 Labor & Delivery,epidemiology,5
-Labor & Delivery,drug_of_choice,3
+Labor & Delivery,drug_of_choice,4
 Labor & Delivery,image_identification,2
 Labor & Delivery,mechanism,1
 Lac Operon,mechanism,1
@@ -6193,6 +6249,7 @@ Laryngeal Nerve Palsy,diagnosis,1
 Laryngeal Nerve Palsy,mechanism,1
 Laryngeal Nerves,anatomy_structure,1
 Laryngeal Pathology,diagnosis,2
+Laryngeal Pathology,image_identification,1
 Laryngeal Procedures,other,1
 Laryngeal Surgery,other,1
 Laryngeal Tuberculosis,diagnosis,1
@@ -6265,7 +6322,7 @@ Legitimacy,other,1
 Leishmaniasis,epidemiology,3
 Leishmaniasis,diagnosis,1
 Leishmaniasis,drug_of_choice,1
-Lens & Cataract,other,30
+Lens & Cataract,other,33
 Lens & Cataract,management,21
 Lens & Cataract,diagnosis,18
 Lens & Cataract,anatomy_structure,10
@@ -6276,7 +6333,7 @@ Lens & Cataract,investigation,1
 Lepromin test,diagnosis,1
 Leprosy,diagnosis,10
 Leprosy,management,5
-Leprosy,other,3
+Leprosy,other,5
 Leprosy,drug_of_choice,1
 Leprosy,image_identification,1
 Leptospirosis,diagnosis,2
@@ -6317,13 +6374,16 @@ Li-Fraumeni syndrome,mechanism,1
 Lichen Planus,diagnosis,4
 Lichen Planus,other,2
 Lichen Planus,management,1
+Lichen Sclerosus,diagnosis,1
 Lichen planus,diagnosis,4
 Lichen planus,other,2
 Lichen sclerosus,diagnosis,1
 Lid Disorders,management,1
 Lid disorders,management,1
 Lidocaine,other,1
+Lids And Lacrimal Apparatus,diagnosis,1
 Lids and lacrimal apparatus,diagnosis,1
+Lie Detection,investigation,1
 Lie detection,investigation,1
 Lifestyle modifications,management,1
 Ligament Injuries,diagnosis,2
@@ -6340,7 +6400,7 @@ Limbic System,mechanism,1
 Limping Child,diagnosis,1
 Lipid Lowering Drugs,mechanism,1
 Lipid Metabolism,mechanism,96
-Lipid Metabolism,other,81
+Lipid Metabolism,other,83
 Lipid Metabolism,diagnosis,21
 Lipid Metabolism,investigation,5
 Lipid Metabolism,drug_of_choice,2
@@ -6456,7 +6516,7 @@ Long QT syndrome,other,1
 Loop Diuretics,mechanism,1
 Low birth weight,epidemiology,1
 Lower Limb,anatomy_structure,93
-Lower Limb,other,33
+Lower Limb,other,35
 Lower Limb,image_identification,3
 Lower Limb,management,2
 Lower Limb,mechanism,2
@@ -6537,10 +6597,11 @@ Lymphoma,management,1
 Lymphoma,mechanism,1
 Lymphoma Classification,diagnosis,1
 Lymphomas,diagnosis,5
+Lymphomas (Follicular Lymphoma),other,1
 Lymphoproliferative Disorders,investigation,2
 Lysosomal Storage Diseases,diagnosis,2
 Lysosomal Storage Diseases,mechanism,2
-Lysosomal Storage Disorders,diagnosis,8
+Lysosomal Storage Disorders,diagnosis,9
 Lysosomal Storage Disorders,mechanism,6
 Lysosomal Storage Disorders,other,3
 Lysosomal Storage Disorders,image_identification,2
@@ -6642,6 +6703,7 @@ Mapleson Systems,other,1
 Marasmus,mechanism,1
 Marfan Syndrome,diagnosis,1
 Marfan syndrome,diagnosis,2
+Marking Nut,other,1
 Mask Ventilation,diagnosis,1
 Mass drug administration,drug_of_choice,1
 Mastectomy,anatomy_structure,1
@@ -6700,8 +6762,8 @@ Mch Programme,management,1
 Mch Services,epidemiology,1
 Mckeown'S Theory,other,1
 Measles,epidemiology,4
+Measles,other,3
 Measles,diagnosis,2
-Measles,other,2
 Measles Virus,diagnosis,1
 Measures Of Association,other,2
 Measures Of Central Tendency,other,1
@@ -6753,7 +6815,7 @@ Medical Ethics,other,5
 Medical Ethics,management,1
 Medical Ethics And Law,other,1
 Medical Ethics and Law,other,3
-Medical Jurisprudence,other,79
+Medical Jurisprudence,other,82
 Medical Jurisprudence,management,2
 Medical Jurisprudence,diagnosis,1
 Medical Jurisprudence,image_identification,1
@@ -6786,7 +6848,7 @@ Medicolegal Radiology,investigation,1
 Medicolegal Terminology,other,1
 Medicolegal autopsy,other,1
 Medicolegal jurisprudence,other,1
-Megaloblastic Anemia,diagnosis,1
+Megaloblastic Anemia,diagnosis,2
 Megaloblastic Anemia,other,1
 Megaloblastic anemia,diagnosis,2
 Megaloblastic anemia,mechanism,1
@@ -6838,7 +6900,7 @@ Meningococcal vaccine,management,1
 Meningococcal vaccine,other,1
 Meniscal Injuries,mechanism,1
 Meniscal injuries,mechanism,1
-Menopausal Hormone Therapy,management,1
+Menopausal Hormone Therapy,management,2
 Menopause,management,7
 Menopause,other,4
 Menopause,diagnosis,3
@@ -6901,7 +6963,7 @@ Metabolic Bone Disorders,diagnosis,2
 Metabolic Changes,diagnosis,1
 Metabolic Cycles Linkage,mechanism,1
 Metabolic Disorders,diagnosis,25
-Metabolic Disorders,other,10
+Metabolic Disorders,other,11
 Metabolic Disorders,mechanism,9
 Metabolic Disorders,investigation,2
 Metabolic Disorders,management,1
@@ -6944,6 +7006,7 @@ Methanol poisoning,mechanism,1
 Methemoglobinemia,mechanism,2
 Methotrexate,drug_of_choice,1
 Metronidazole,management,1
+Metronidazole Interactions,other,1
 Metropathic hemorrhagica,epidemiology,1
 Mevalonate Pathway,mechanism,1
 Mevalonate pathway,mechanism,1
@@ -6956,8 +7019,8 @@ Microbial Pathogenesis,other,4
 Microbial Preservation,other,1
 Microbial pathogenesis,other,4
 Microbiology,diagnosis,202
+Microbiology,other,69
 Microbiology,mechanism,68
-Microbiology,other,68
 Microbiology,investigation,57
 Microbiology,epidemiology,44
 Microbiology,management,34
@@ -7014,7 +7077,7 @@ Minimal Change Disease,diagnosis,1
 Minimal change disease,diagnosis,1
 Mirena,other,1
 Miscellaneous,other,1
-Miscellaneous Disorders,other,2
+Miscellaneous Disorders,other,3
 Mitochondria,anatomy_structure,1
 Mitochondrial Diseases,diagnosis,1
 Mitochondrial Disorders,diagnosis,2
@@ -7043,7 +7106,7 @@ Monitoring,investigation,2
 Monitoring,other,1
 Monoclonal Antibodies,mechanism,2
 Monoclonal antibodies,mechanism,1
-Mood Disorders,diagnosis,23
+Mood Disorders,diagnosis,24
 Mood Disorders,other,7
 Mood Disorders,mechanism,6
 Mood Disorders,drug_of_choice,4
@@ -7231,6 +7294,7 @@ Myometrium,anatomy_structure,1
 Myopia,diagnosis,5
 Myopia,epidemiology,1
 Myopia,management,1
+Myopic Astigmatism,other,1
 Myositis Ossificans,anatomy_structure,1
 Myositis Ossificans,management,1
 Myositis ossificans,management,1
@@ -7246,6 +7310,7 @@ NSAIDs,mechanism,3
 NSAIDs,drug_of_choice,2
 NSAIDs,other,1
 Nabothian Cyst,other,1
+Nadph Metabolism,mechanism,1
 Nadph Production,other,1
 Nail Disorders,diagnosis,8
 Nail Disorders,image_identification,1
@@ -7421,8 +7486,8 @@ Neonatal skin conditions,diagnosis,1
 Neonatal skin disorders,diagnosis,1
 Neonatal skin disorders,mechanism,1
 Neonatal transport,management,1
-Neonatology,diagnosis,152
-Neonatology,other,82
+Neonatology,diagnosis,153
+Neonatology,other,81
 Neonatology,management,76
 Neonatology,epidemiology,32
 Neonatology,mechanism,20
@@ -7430,9 +7495,9 @@ Neonatology,image_identification,16
 Neonatology,investigation,10
 Neonatology,anatomy_structure,7
 Neonatology,drug_of_choice,5
-Neoplasia,other,168
+Neoplasia,other,167
 Neoplasia,diagnosis,127
-Neoplasia,epidemiology,47
+Neoplasia,epidemiology,48
 Neoplasia,mechanism,34
 Neoplasia,investigation,33
 Neoplasia,image_identification,24
@@ -7450,7 +7515,7 @@ Nephrogenic Diabetes Insipidus,diagnosis,1
 Nephrogenic diabetes insipidus,other,1
 Nephrolithiasis,diagnosis,1
 Nephrology,diagnosis,53
-Nephrology,other,35
+Nephrology,other,36
 Nephrology,management,13
 Nephrology,investigation,12
 Nephrology,mechanism,11
@@ -7461,7 +7526,7 @@ Nephron,mechanism,1
 Nephron Physiology,mechanism,1
 Nephron Transport,mechanism,1
 Nephrosclerosis,diagnosis,1
-Nephrotic Syndrome,other,1
+Nephrotic Syndrome,other,2
 Nephrotic syndrome,other,4
 Nephrotic syndrome,mechanism,2
 Nephrotoxic Drugs,other,1
@@ -7482,9 +7547,11 @@ Nerve Fiber Properties,mechanism,1
 Nerve Fiber Types,other,1
 Nerve Fibers,mechanism,1
 Nerve Injuries,anatomy_structure,3
+Nerve Injuries,other,1
 Nerve Injury,mechanism,3
 Nerve Injury,anatomy_structure,1
 Nerve Injury,diagnosis,1
+Nerve Injury,other,1
 Nerve Innervation,anatomy_structure,1
 Nerve Muscle,other,16
 Nerve Muscle,mechanism,3
@@ -7522,7 +7589,7 @@ Neuraxial Block,other,1
 Neuraxial Blockade,diagnosis,1
 Neuraxial block,other,1
 Neuraxial blockade,diagnosis,1
-Neuro Ophthalmology,other,2
+Neuro Ophthalmology,other,3
 Neuro-Oncology,diagnosis,2
 Neuro-Otology,anatomy_structure,1
 Neuro-oncology,diagnosis,2
@@ -7568,7 +7635,7 @@ Neuroimaging,diagnosis,6
 Neuroimaging,investigation,5
 Neuroimaging Findings,diagnosis,1
 Neuroimaging findings,diagnosis,1
-Neurolathyrism,other,1
+Neurolathyrism,other,2
 Neuroleptic Malignant Syndrome,drug_of_choice,1
 Neuroleptic Malignant Syndrome,management,1
 Neuroleptic malignant syndrome,drug_of_choice,1
@@ -7589,7 +7656,7 @@ Neurological emergencies,management,1
 Neurological examination,diagnosis,1
 Neurological signs,diagnosis,1
 Neurology,diagnosis,120
-Neurology,other,108
+Neurology,other,113
 Neurology,mechanism,25
 Neurology,drug_of_choice,15
 Neurology,epidemiology,11
@@ -7661,7 +7728,7 @@ Neuroradiology,diagnosis,2
 Neuroregression,diagnosis,1
 Neurosis,diagnosis,1
 Neurosurgery,diagnosis,5
-Neurosurgery,other,4
+Neurosurgery,other,5
 Neurosurgery,management,2
 Neurosurgery,drug_of_choice,1
 Neurosurgery,epidemiology,1
@@ -7684,7 +7751,7 @@ Neutropenia,diagnosis,1
 Neutrophil Left Shift,diagnosis,1
 Nevi,image_identification,1
 Nevi,other,1
-Nevi And Moles,image_identification,1
+Nevi And Moles,image_identification,2
 Nevi and Moles,image_identification,1
 Nevus,diagnosis,1
 New bone formation,diagnosis,1
@@ -7730,7 +7797,7 @@ Normal Distribution,other,2
 Normal Flora,mechanism,1
 Normal flora,other,4
 Normal flora,mechanism,1
-Nose & PNS,other,25
+Nose & PNS,other,27
 Nose & PNS,epidemiology,12
 Nose & PNS,management,7
 Nose & PNS,diagnosis,6
@@ -7793,7 +7860,7 @@ Obstetric Analgesia,management,1
 Obstetric Anatomy,diagnosis,1
 Obstetric Anesthesia,management,1
 Obstetric Care,other,1
-Obstetric Complications,other,120
+Obstetric Complications,other,124
 Obstetric Complications,diagnosis,72
 Obstetric Complications,management,53
 Obstetric Complications,anatomy_structure,33
@@ -7963,6 +8030,7 @@ Operative Surgery,image_identification,1
 Operative Techniques,image_identification,1
 Operative Vaginal Delivery,management,1
 Operative vaginal delivery,management,1
+Ophthalmia Neonatorum,diagnosis,2
 Ophthalmia neonatorum,diagnosis,1
 Ophthalmic Anaesthesia,management,1
 Ophthalmic Drugs,investigation,1
@@ -8031,7 +8099,7 @@ Optic neuropathy,diagnosis,1
 Optic pathway,anatomy_structure,1
 Optic tract lesions,diagnosis,1
 Optical density,mechanism,1
-Optics,other,4
+Optics,other,6
 Optics,mechanism,3
 Optics,anatomy_structure,2
 Optics,diagnosis,1
@@ -8044,6 +8112,7 @@ Optics and Refraction,investigation,2
 Optics and Refraction,management,1
 Optics and Refraction,other,1
 Oral Anatomy,anatomy_structure,3
+Oral And Maxillofacial Surgery,diagnosis,1
 Oral Anticoagulants,drug_of_choice,1
 Oral Cancer,other,1
 Oral Cancers,other,1
@@ -8102,6 +8171,7 @@ Orbit,mechanism,1
 Orbit,other,1
 Orbital Cellulitis,diagnosis,1
 Orbital Cysts,diagnosis,1
+Orbital Disease,diagnosis,1
 Orbital Diseases,diagnosis,3
 Orbital Disorders,diagnosis,4
 Orbital Imaging,image_identification,1
@@ -8180,6 +8250,7 @@ Osteoporosis,diagnosis,1
 Osteoporosis,investigation,1
 Osteoporosis,management,1
 Osteoporosis,mechanism,1
+Osteoporosis,other,1
 Osteoporosis Drugs,mechanism,1
 Osteoporosis Management,management,1
 Osteosarcoma,diagnosis,1
@@ -8389,12 +8460,12 @@ Paracetamol poisoning,management,1
 Paracetamol toxicity,mechanism,1
 Paragonimiasis,image_identification,1
 Paralytic polio,diagnosis,1
-Paranasal Sinus,image_identification,3
+Paranasal Sinus,image_identification,4
 Paranasal Sinus,diagnosis,1
 Paranasal Sinus,epidemiology,1
 Paranasal Sinus Disorders,diagnosis,1
+Paranasal Sinus Imaging,investigation,3
 Paranasal Sinus Imaging,image_identification,2
-Paranasal Sinus Imaging,investigation,2
 Paranasal Sinus Radiology,image_identification,1
 Paranasal Sinuses,investigation,5
 Paranasal Sinuses,anatomy_structure,3
@@ -8419,11 +8490,12 @@ Paraphilias,diagnosis,4
 Paraphilias,other,3
 Paraphilic Disorders,diagnosis,1
 Paraphilic disorders,diagnosis,1
+Parasites,other,1
 Parasitic Diseases,management,3
 Parasitic Diseases,other,1
 Parasitic diseases,image_identification,1
 Parasitology,diagnosis,77
-Parasitology,other,68
+Parasitology,other,70
 Parasitology,epidemiology,21
 Parasitology,investigation,15
 Parasitology,mechanism,15
@@ -8454,6 +8526,7 @@ Parkinson Disease,diagnosis,1
 Parkinson Disease Drugs,management,1
 Parkinson Disease Treatment,management,1
 Parkinson disease,diagnosis,1
+Parkinson'S,other,1
 Parkinson'S Disease,diagnosis,2
 Parkinson'S Disease,drug_of_choice,1
 Parkinson's disease,diagnosis,2
@@ -8533,18 +8606,19 @@ Pediatric Oncology,other,4
 Pediatric Oncology,management,3
 Pediatric Oncology,epidemiology,2
 Pediatric Oncology,drug_of_choice,1
-Pediatric Orthopedics,other,6
+Pediatric Orthopedics,other,7
 Pediatric Orthopedics,diagnosis,2
 Pediatric Orthopedics,epidemiology,1
 Pediatric Pathology,anatomy_structure,1
 Pediatric Poisoning,management,1
 Pediatric Radiology,image_identification,2
 Pediatric Radiology,diagnosis,1
-Pediatric Respiratory,other,6
+Pediatric Respiratory,other,8
 Pediatric Sinusitis,investigation,1
-Pediatric Surgery,management,6
+Pediatric Surgery,management,7
 Pediatric Surgery,diagnosis,3
 Pediatric Surgery,epidemiology,2
+Pediatric Surgery,image_identification,1
 Pediatric Surgery,other,1
 Pediatric airway,other,1
 Pediatric anesthesia,management,1
@@ -8565,7 +8639,7 @@ Pediatric surgery,epidemiology,2
 Pediatric surgery,image_identification,1
 Pegloticase,drug_of_choice,1
 Pellagra,diagnosis,1
-Pelvic Anatomy,anatomy_structure,22
+Pelvic Anatomy,anatomy_structure,23
 Pelvic Anatomy,image_identification,1
 Pelvic Cavity,anatomy_structure,1
 Pelvic Diameters,image_identification,1
@@ -8587,6 +8661,7 @@ Pelvic Inlet,anatomy_structure,1
 Pelvic Ligaments,anatomy_structure,3
 Pelvic Organ Prolapse,management,8
 Pelvic Organ Prolapse,diagnosis,3
+Pelvic Organ Prolapse,image_identification,1
 Pelvic Organ Prolapse Management,management,1
 Pelvic Organ Prolapse Surgery,management,1
 Pelvic Pain,image_identification,1
@@ -8702,7 +8777,7 @@ Peripheral Nerve Blocks,anatomy_structure,1
 Peripheral Nerve Disorders,mechanism,1
 Peripheral Nerve Entrapment,diagnosis,1
 Peripheral Nerve Entrapment,other,1
-Peripheral Nerve Injuries,other,5
+Peripheral Nerve Injuries,other,6
 Peripheral Nerve Injuries,diagnosis,3
 Peripheral Nerve Injuries,management,3
 Peripheral Nerve Injuries,image_identification,1
@@ -8824,7 +8899,7 @@ Pharyngeal wall,anatomy_structure,1
 Pharyngology,diagnosis,2
 Pharyngology,other,1
 Pharynx,anatomy_structure,12
-Pharynx,other,10
+Pharynx,other,11
 Pharynx,image_identification,1
 Pharynx And Esophagus,anatomy_structure,1
 Pharynx And Esophagus Anatomy,anatomy_structure,1
@@ -8969,13 +9044,13 @@ Plasmodium species,diagnosis,1
 Plaster Of Paris Cast,management,1
 Plaster application,management,1
 Plaster of Paris cast,management,1
-Plastic Surgery,other,9
+Plastic Surgery,other,11
 Plastic Surgery,image_identification,1
 Plastic Surgery,mechanism,1
 Plastic surgery,management,2
 Plastic surgery,other,2
-Platelet And Bleeding Disorders,other,2
-Platelet Disorders,mechanism,4
+Platelet And Bleeding Disorders,other,3
+Platelet Disorders,mechanism,5
 Platelet Disorders,diagnosis,2
 Platelet disorders,mechanism,5
 Platelet function,mechanism,1
@@ -9016,6 +9091,7 @@ Poison antidotes,mechanism,1
 Poisoning,management,6
 Poisoning,diagnosis,4
 Poisoning,image_identification,1
+Poisoning,other,1
 Poisoning Management,management,1
 Poisoning Signs,diagnosis,1
 Poisoning Symptoms,diagnosis,1
@@ -9110,7 +9186,7 @@ Postinflammatory hypopigmentation,diagnosis,1
 Postmenopausal Bleeding,management,1
 Postmenopausal bleeding,management,1
 Postmortem,anatomy_structure,1
-Postmortem Changes,other,12
+Postmortem Changes,other,13
 Postmortem Changes,diagnosis,3
 Postmortem Changes,mechanism,2
 Postmortem Changes,investigation,1
@@ -9179,7 +9255,7 @@ Poxviruses,other,4
 Poxviruses,diagnosis,1
 Poxviruses,epidemiology,1
 Prader-Willi Syndrome,diagnosis,1
-Pre-Anaesthetic Evaluation,other,2
+Pre-Anaesthetic Evaluation,other,3
 Pre-Eclampsia,other,1
 Pre-Eclampsia Eclampsia Management,management,2
 Pre-Eclampsia Management,drug_of_choice,1
@@ -9285,7 +9361,7 @@ Prognostic Factors,other,2
 Prognostic Scores,investigation,2
 Prognostic Scores,diagnosis,1
 Prognostic factors,management,1
-Prokinetic Agents,other,1
+Prokinetic Agents,other,2
 Prokinetic Drugs,drug_of_choice,1
 Prokinetic Drugs,mechanism,1
 Prokinetic agents,other,2
@@ -9340,6 +9416,7 @@ Protein Structure and Function,mechanism,1
 Protein Synthesis,mechanism,8
 Protein Synthesis,other,2
 Protein Synthesis,anatomy_structure,1
+Protein Synthesis Inhibitors,mechanism,1
 Protein binding,mechanism,3
 Protein biochemistry,other,1
 Protein chemistry,other,4
@@ -9384,6 +9461,7 @@ Psoriatic Arthritis,epidemiology,1
 Psoriatic arthritis,diagnosis,7
 Psychiatric Assessment,management,1
 Psychiatric Certification,other,1
+Psychiatric Disorders,other,1
 Psychiatric Management,management,1
 Psychiatric Symptoms,other,1
 Psychiatric Terminology,other,2
@@ -9404,7 +9482,7 @@ Psychological Concepts,other,1
 Psychology,other,2
 Psychomotor Symptoms,diagnosis,1
 Psychomotor symptoms,diagnosis,2
-Psychopathology,other,10
+Psychopathology,other,11
 Psychopathology,diagnosis,5
 Psychopharmacology,mechanism,12
 Psychopharmacology,drug_of_choice,11
@@ -9413,7 +9491,7 @@ Psychopharmacology,management,3
 Psychopharmacology,diagnosis,2
 Psychopharmacology,investigation,1
 Psychophysics,mechanism,1
-Psychotherapy,other,7
+Psychotherapy,other,8
 Psychotherapy,management,4
 Psychotherapy,mechanism,1
 Psychotherapy Concepts,other,1
@@ -9500,11 +9578,11 @@ Pulmonary metastasis,diagnosis,1
 Pulmonary nodules,diagnosis,1
 Pulmonary radiology,image_identification,1
 Pulmonary tuberculosis,other,1
-Pulmonology,other,161
+Pulmonology,other,165
 Pulmonology,diagnosis,130
 Pulmonology,mechanism,93
 Pulmonology,management,25
-Pulmonology,epidemiology,22
+Pulmonology,epidemiology,23
 Pulmonology,anatomy_structure,18
 Pulmonology,investigation,18
 Pulmonology,image_identification,17
@@ -9546,7 +9624,7 @@ Purine salvage pathway,mechanism,1
 Purine synthesis,other,1
 Pustular Psoriasis,management,1
 Putrefaction,other,2
-Pyloric Stenosis,diagnosis,4
+Pyloric Stenosis,diagnosis,5
 Pyloric stenosis,diagnosis,3
 Pyometra,anatomy_structure,1
 Pyramidal Tract Lesion,diagnosis,1
@@ -9592,7 +9670,7 @@ Radiation Oncology,management,4
 Radiation Oncology,mechanism,1
 Radiation Oncology,other,1
 Radiation Physics,other,14
-Radiation Physics,mechanism,1
+Radiation Physics,mechanism,2
 Radiation Protection,other,1
 Radiation Safety,other,5
 Radiation Safety,management,1
@@ -9616,6 +9694,7 @@ Radiculopathy,anatomy_structure,1
 Radiculopathy,investigation,1
 Radioactivity,other,1
 Radiobiology,mechanism,2
+Radiobiology,other,1
 Radiofrequency Ablation,mechanism,1
 Radiofrequency ablation,mechanism,1
 Radiographic Anatomy Of Skull,image_identification,1
@@ -9642,6 +9721,7 @@ Radiological Signs Of Fetal Death,image_identification,1
 Radiological Signs of Fetal Death,image_identification,1
 Radiological signs,image_identification,2
 Radiological signs,other,1
+Radiology / Bone Disorders,other,1
 Radiopharmaceuticals,other,2
 Radiopharmaceuticals,mechanism,1
 Radiotherapy,management,5
@@ -9696,7 +9776,7 @@ Refraction,investigation,4
 Refraction,anatomy_structure,3
 Refraction,diagnosis,2
 Refractive Errors,diagnosis,12
-Refractive Errors,management,8
+Refractive Errors,management,9
 Refractive Errors,other,5
 Refractive Errors,mechanism,3
 Refractive Errors,investigation,2
@@ -9774,7 +9854,7 @@ Resuscitation,management,4
 Resuscitation,other,2
 Resuscitation equipment,image_identification,1
 Retina,diagnosis,55
-Retina,other,32
+Retina,other,33
 Retina,mechanism,11
 Retina,management,10
 Retina,image_identification,7
@@ -9818,7 +9898,7 @@ Rhabdomyolysis,diagnosis,2
 Rhabdomyosarcoma,other,1
 Rhabdoviruses,other,1
 Rheumatic Fever,management,4
-Rheumatic Fever,diagnosis,2
+Rheumatic Fever,diagnosis,3
 Rheumatic Fever,drug_of_choice,2
 Rheumatic Fever,other,1
 Rheumatic Fever And Rhd,diagnosis,1
@@ -9895,6 +9975,7 @@ Risk factors,epidemiology,2
 Risk factors,other,1
 Risk groups,epidemiology,2
 Risk-benefit analysis,other,1
+Rna Enzymes,other,1
 Rna Splicing,mechanism,1
 Road Traffic Accidents,anatomy_structure,1
 Road Traffic Injuries,other,1
@@ -9987,9 +10068,10 @@ Scapula,anatomy_structure,1
 Scarring,other,2
 Scars,image_identification,1
 Schilling test,investigation,1
+Schizoaffective Disorder,diagnosis,1
 Schizoaffective disorder,diagnosis,1
 Schizophrenia & Psychosis,diagnosis,23
-Schizophrenia & Psychosis,other,15
+Schizophrenia & Psychosis,other,16
 Schizophrenia & Psychosis,epidemiology,5
 Schizophrenia & Psychosis,mechanism,4
 Schizophrenia & Psychosis,drug_of_choice,2
@@ -10003,7 +10085,7 @@ Schwalbe's ring,anatomy_structure,1
 Schwann cells,anatomy_structure,1
 Sciatic nerve,anatomy_structure,1
 Sciatica,anatomy_structure,1
-Sclera,other,4
+Sclera,other,5
 Sclera,anatomy_structure,2
 Scleritis,other,4
 Scleritis,epidemiology,1
@@ -10103,7 +10185,7 @@ Septoplasty,management,8
 Septoplasty,anatomy_structure,1
 Serology,investigation,9
 Serology,diagnosis,3
-Serology,other,2
+Serology,other,3
 Serology,mechanism,1
 Seronegative Spondyloarthropathies,diagnosis,1
 Serotonin Metabolism,diagnosis,2
@@ -10122,19 +10204,19 @@ Sexual Assault,mechanism,1
 Sexual Assault Examination,investigation,1
 Sexual Assault Examination,other,1
 Sexual Disorders,diagnosis,4
-Sexual Disorders,other,3
+Sexual Disorders,other,4
 Sexual Disorders,investigation,1
 Sexual Disorders,management,1
 Sexual Dysfunction,diagnosis,4
 Sexual Dysfunction,investigation,2
 Sexual Dysfunction,management,2
 Sexual Dysfunctions,management,1
-Sexual Jurisprudence,other,1
+Sexual Jurisprudence,other,3
 Sexual Offences,other,14
 Sexual Offences,investigation,3
 Sexual Offences,diagnosis,2
 Sexual Offences,mechanism,1
-Sexual Offenses,other,3
+Sexual Offenses,other,4
 Sexual Response Cycle,other,1
 Sexual assault,other,2
 Sexual assault,diagnosis,1
@@ -10172,6 +10254,7 @@ Shoulder Anatomy,anatomy_structure,1
 Shoulder Clinical Tests,investigation,1
 Shoulder Dislocation,diagnosis,4
 Shoulder Dislocation,management,2
+Shoulder Disorders,diagnosis,1
 Shoulder Dystocia,management,6
 Shoulder Dystocia,anatomy_structure,1
 Shoulder Examination,investigation,1
@@ -10240,9 +10323,9 @@ Skin Appendages And Their Disorders,other,3
 Skin Cancer,diagnosis,1
 Skin Cancer,epidemiology,1
 Skin Cancers,epidemiology,1
+Skin Conditions,other,2
 Skin Conditions,diagnosis,1
 Skin Conditions,image_identification,1
-Skin Conditions,other,1
 Skin Disorders,other,2
 Skin Disorders,diagnosis,1
 Skin Disorders,drug_of_choice,1
@@ -10276,6 +10359,7 @@ Skin reactions,epidemiology,1
 Skull,anatomy_structure,5
 Skull Anatomy,anatomy_structure,1
 Skull Anatomy,other,1
+Skull And Facial Bones,anatomy_structure,1
 Skull Base,anatomy_structure,4
 Skull Base Anatomy,anatomy_structure,1
 Skull Bones,anatomy_structure,1
@@ -10291,7 +10375,7 @@ Sleep Apnea,investigation,1
 Sleep Apnea,management,1
 Sleep Apnea,other,1
 Sleep Disorders,diagnosis,6
-Sleep Disorders,other,4
+Sleep Disorders,other,5
 Sleep Disorders,mechanism,1
 Sleep Hygiene,other,3
 Sleep Physiology,diagnosis,2
@@ -10328,6 +10412,7 @@ Snake Envenomation,management,1
 Snake Envenomation,mechanism,1
 Social Cognition,other,1
 Social Determinants,other,2
+Social Determinants Of Health,other,1
 Social Determinants of Health,other,1
 Social Medicine,other,3
 Social Sciences,other,4
@@ -10404,6 +10489,7 @@ Spinal Deformities,investigation,1
 Spinal Deformities,management,1
 Spinal Deformities,other,1
 Spinal Deformity,management,1
+Spinal Deformity,other,1
 Spinal Disorders,diagnosis,3
 Spinal Disorders,other,1
 Spinal Imaging,image_identification,2
@@ -10436,11 +10522,11 @@ Spinal tuberculosis,management,3
 Spinal tuberculosis,epidemiology,2
 Spinal tuberculosis,anatomy_structure,1
 Spinal tuberculosis,other,1
-Spine,anatomy_structure,17
+Spine,anatomy_structure,18
 Spine,diagnosis,15
-Spine,other,11
+Spine,other,10
 Spine,management,7
-Spine,epidemiology,2
+Spine,epidemiology,3
 Spine,image_identification,2
 Spine,mechanism,1
 Spinothalamic tract,anatomy_structure,1
@@ -10471,14 +10557,15 @@ Sports injuries,diagnosis,1
 Sports injuries,image_identification,1
 Sports injuries,management,1
 Squint & Pediatric Ophthalmology,diagnosis,74
-Squint & Pediatric Ophthalmology,management,35
-Squint & Pediatric Ophthalmology,other,27
+Squint & Pediatric Ophthalmology,management,36
+Squint & Pediatric Ophthalmology,other,26
 Squint & Pediatric Ophthalmology,anatomy_structure,18
 Squint & Pediatric Ophthalmology,investigation,11
 Squint & Pediatric Ophthalmology,epidemiology,8
 Squint & Pediatric Ophthalmology,mechanism,6
 Squint & Pediatric Ophthalmology,drug_of_choice,5
 Squint & Pediatric Ophthalmology,image_identification,4
+Squint Surgery,management,1
 Squint surgery,management,1
 Stable angina,other,1
 Stages of anaesthesia,other,1
@@ -10529,6 +10616,7 @@ Steroid Hormones,other,1
 Steroid Metabolism,mechanism,2
 Steroid biosynthesis,mechanism,2
 Steroidogenesis,mechanism,3
+Stevens-Johnson Syndrome,diagnosis,1
 Stevens-Johnson syndrome,diagnosis,1
 Stis,diagnosis,1
 Stomach,anatomy_structure,3
@@ -10615,7 +10703,7 @@ Substance abuse,other,1
 Substance dependence,epidemiology,1
 Substance induced psychosis,mechanism,1
 Substance-Induced Psychosis,mechanism,1
-Substance-Related And Addictive Disorders,other,3
+Substance-Related And Addictive Disorders,other,4
 Substance-Related And Addictive Disorders,diagnosis,1
 Substance-Related Disorders,diagnosis,7
 Substance-Related Disorders,epidemiology,1
@@ -10670,10 +10758,10 @@ Surgical Equipment,image_identification,1
 Surgical Incisions,anatomy_structure,1
 Surgical Incisions,other,1
 Surgical Indications,management,1
-Surgical Instruments,image_identification,10
+Surgical Instruments,image_identification,12
 Surgical Instruments,management,2
 Surgical Instruments,other,2
-Surgical Knots,image_identification,2
+Surgical Knots,image_identification,3
 Surgical Management,management,4
 Surgical Management,mechanism,1
 Surgical Management Of Itp,management,1
@@ -10732,7 +10820,7 @@ Surveillance,epidemiology,4
 Surveillance,management,1
 Sustained Release,other,1
 Sustained release,other,1
-Suture Materials,other,3
+Suture Materials,other,4
 Suture Materials,image_identification,1
 Suture Materials,management,1
 Suture materials,other,2
@@ -10777,7 +10865,7 @@ Systemic Mycoses,drug_of_choice,1
 Systemic Mycoses,other,1
 Systemic Pathology,diagnosis,189
 Systemic Pathology,mechanism,75
-Systemic Pathology,other,58
+Systemic Pathology,other,59
 Systemic Pathology,investigation,35
 Systemic Pathology,epidemiology,23
 Systemic Pathology,image_identification,16
@@ -10817,6 +10905,7 @@ Tabes dorsalis,other,1
 Tachypnea,diagnosis,3
 Taeniasis,epidemiology,1
 Takayasu Arteritis,diagnosis,1
+Takayasu Arteritis,other,1
 Takayasu arteritis,diagnosis,1
 Takayasu arteritis,epidemiology,1
 Takayasu arteritis,other,1
@@ -10880,7 +10969,7 @@ Tetralogy of Fallot,other,1
 Thalamus,anatomy_structure,2
 Thalassemia,diagnosis,5
 Thalassemia,other,1
-Thanatology,other,208
+Thanatology,other,210
 Thanatology,investigation,50
 Thanatology,diagnosis,49
 Thanatology,mechanism,25
@@ -10889,7 +10978,7 @@ Thanatology,anatomy_structure,8
 Thanatology,management,2
 Thanatology,drug_of_choice,1
 Thanatology,epidemiology,1
-The Nervous System,other,4
+The Nervous System,other,5
 Theca Lutein Cysts,epidemiology,1
 Therapeutic Apheresis,management,1
 Therapeutic phlebotomy,management,1
@@ -10898,7 +10987,7 @@ Thermal Injuries,other,1
 Thermal injuries,diagnosis,1
 Thermal regulation,management,1
 Thermoreception,mechanism,3
-Thermoregulation,mechanism,10
+Thermoregulation,mechanism,11
 Thermoregulation,other,4
 Thermoregulation,diagnosis,1
 Thermoregulation In Fever,mechanism,1
@@ -10921,7 +11010,7 @@ Thoracic Imaging,investigation,1
 Thoracic Inlet Anatomy,anatomy_structure,1
 Thoracic Outlet Syndrome,diagnosis,2
 Thoracic Pathology,other,1
-Thoracic Radiology,other,5
+Thoracic Radiology,other,6
 Thoracic Radiology,diagnosis,1
 Thoracic Radiology,image_identification,1
 Thoracic Surgery,management,4
@@ -10941,12 +11030,13 @@ Thoracic surgery,other,1
 Thoracolumbar Fascia,anatomy_structure,1
 Thoracolumbar fascia,anatomy_structure,1
 Thorax,anatomy_structure,100
-Thorax,other,72
+Thorax,other,73
 Thorax,diagnosis,6
 Thorax,management,6
 Thorax,image_identification,4
 Thorax,mechanism,3
 Thorax,investigation,2
+Thorax,epidemiology,1
 Thought Disorder,diagnosis,1
 Thought Disorders,other,1
 Thought disorder,diagnosis,1
@@ -11058,6 +11148,7 @@ Tonsillitis,management,1
 Tonsillitis,mechanism,1
 Tophi,other,1
 Topical Anaesthesia,other,1
+Topical Antifungal Agents,other,1
 Topical Corticosteroids,other,1
 Topical Therapy,drug_of_choice,1
 Topical anesthesia,other,1
@@ -11130,8 +11221,8 @@ Transposons,mechanism,1
 Transverse Lie,other,1
 Transverse Vaginal Septum,diagnosis,1
 Trapezius,anatomy_structure,1
-Trauma,other,93
-Trauma,diagnosis,70
+Trauma,other,91
+Trauma,diagnosis,71
 Trauma,management,52
 Trauma,mechanism,22
 Trauma,anatomy_structure,16
@@ -11146,6 +11237,7 @@ Travel Medicine,epidemiology,1
 Travel Medicine,management,1
 Treatment,management,1
 Treatment,other,1
+Treatment Protocol For High Risk Cases,other,1
 Treatment Protocols,management,1
 Treatment Resistance,other,1
 Treatment resistance,other,1
@@ -11241,7 +11333,7 @@ Ulcerative colitis,other,1
 Ulcers,diagnosis,1
 Ulnar nerve,diagnosis,1
 Ultrasonography,investigation,2
-Ultrasound,other,16
+Ultrasound,other,15
 Ultrasound,investigation,10
 Ultrasound,diagnosis,4
 Ultrasound,image_identification,3
@@ -11373,6 +11465,7 @@ Urologic Pathology,epidemiology,1
 Urologic Pathology,other,1
 Urologic pathology,epidemiology,1
 Urological Drugs,drug_of_choice,1
+Urological Imaging,image_identification,1
 Urological Neoplasms,epidemiology,1
 Urological Oncology,epidemiology,1
 Urological Oncology,management,1
@@ -11385,7 +11478,7 @@ Urological Symptoms,investigation,1
 Urological imaging,image_identification,1
 Urological neoplasms,epidemiology,1
 Urological surgery,management,1
-Urology,other,42
+Urology,other,43
 Urology,management,30
 Urology,diagnosis,22
 Urology,anatomy_structure,4
@@ -11403,10 +11496,10 @@ Uterine Abnormalities,diagnosis,1
 Uterine Adhesions,diagnosis,1
 Uterine Adhesions,other,1
 Uterine Anatomy,anatomy_structure,1
+Uterine Anomalies,management,6
+Uterine Anomalies,image_identification,4
 Uterine Anomalies,investigation,4
 Uterine Anomalies,diagnosis,3
-Uterine Anomalies,image_identification,3
-Uterine Anomalies,management,3
 Uterine Anomalies,anatomy_structure,1
 Uterine Anomalies,epidemiology,1
 Uterine Anomalies,other,1
@@ -11417,8 +11510,8 @@ Uterine Disorders,diagnosis,1
 Uterine Disorders,image_identification,1
 Uterine Disorders,management,1
 Uterine Fibroids,other,4
+Uterine Fibroids,diagnosis,3
 Uterine Fibroids,management,3
-Uterine Fibroids,diagnosis,1
 Uterine Fibroids,epidemiology,1
 Uterine Height,diagnosis,1
 Uterine Imaging,image_identification,1
@@ -11428,9 +11521,9 @@ Uterine Involution,other,1
 Uterine Ligaments,anatomy_structure,1
 Uterine Pathology,diagnosis,4
 Uterine Pathology,investigation,1
-Uterine Prolapse,management,8
+Uterine Prolapse,management,9
 Uterine Prolapse,anatomy_structure,4
-Uterine Prolapse,diagnosis,1
+Uterine Prolapse,diagnosis,2
 Uterine Prolapse,other,1
 Uterine Prolapse Management,management,1
 Uterine Receptivity,other,1
@@ -11438,7 +11531,7 @@ Uterine Relaxation,drug_of_choice,1
 Uterine Rupture,epidemiology,4
 Uterine Rupture,diagnosis,1
 Uterine Rupture,other,1
-Uterine Support,anatomy_structure,3
+Uterine Support,anatomy_structure,4
 Uterine adhesions,diagnosis,1
 Uterine adhesions,other,1
 Uterine anomalies,management,4
@@ -11489,6 +11582,7 @@ Vaccination,management,7
 Vaccination,other,4
 Vaccination,epidemiology,3
 Vaccination,investigation,2
+Vaccination Campaigns,epidemiology,1
 Vaccination Schedule,other,3
 Vaccination Schedule,epidemiology,1
 Vaccination campaigns,epidemiology,1
@@ -11500,7 +11594,7 @@ Vaccine preventable diseases,epidemiology,1
 Vaccine schedule,epidemiology,2
 Vaccine schedule,management,1
 Vaccine storage,other,1
-Vaccines,other,20
+Vaccines,other,22
 Vaccines,mechanism,11
 Vaccines,management,6
 Vaccinology,other,2
@@ -11508,6 +11602,7 @@ Vaccinology,management,1
 Vaginal Bleeding,diagnosis,1
 Vaginal Cysts,other,1
 Vaginal Discharge,diagnosis,2
+Vaginal Discharge,other,2
 Vaginal Pathology,anatomy_structure,1
 Vaginal Surgery,anatomy_structure,1
 Vaginal changes,other,1
@@ -11528,7 +11623,7 @@ Validity of Screening Tests,epidemiology,1
 Validity of Screening Tests,other,1
 Valve timing,mechanism,1
 Valvular Heart Disease,diagnosis,11
-Valvular Heart Disease,other,4
+Valvular Heart Disease,other,5
 Valvular Heart Disease,management,3
 Valvular Heart Disease,mechanism,3
 Valvular Heart Disease,investigation,1
@@ -11540,6 +11635,7 @@ Vancomycin,drug_of_choice,1
 Variceal Bleeding,drug_of_choice,1
 Varicella,diagnosis,1
 Varicella,management,1
+Varicella,other,1
 Varicella Zoster Virus,anatomy_structure,1
 Varicella Zoster Virus,management,1
 Varicella zoster virus,anatomy_structure,1
@@ -11547,14 +11643,15 @@ Varicella zoster virus,epidemiology,1
 Varicella-Zoster Virus,diagnosis,1
 Varicella-Zoster Virus,epidemiology,1
 Varicose Veins,management,1
+Varicose Veins,other,1
 Vasa Previa,anatomy_structure,1
 Vasa Previa,diagnosis,1
 Vasa Previa,mechanism,1
 Vasa Previa,other,1
 Vasa previa,mechanism,1
 Vascular,diagnosis,52
-Vascular,anatomy_structure,42
-Vascular,other,36
+Vascular,anatomy_structure,43
+Vascular,other,35
 Vascular,management,20
 Vascular,mechanism,15
 Vascular,epidemiology,12
@@ -11696,10 +11793,10 @@ Viral inclusions,other,1
 Viral keratitis,investigation,1
 Viral retinitis,diagnosis,1
 Viral warts,diagnosis,1
-Virology,other,140
+Virology,other,142
 Virology,diagnosis,64
 Virology,epidemiology,41
-Virology,mechanism,26
+Virology,mechanism,27
 Virology,investigation,20
 Virology,management,9
 Virology,anatomy_structure,2
@@ -11725,6 +11822,7 @@ Visual Pathway,anatomy_structure,5
 Visual Pathway,diagnosis,2
 Visual Pathway Lesions,anatomy_structure,1
 Visual Pathways,anatomy_structure,1
+Visual Pathways / Optic Tract,other,1
 Visual acuity,other,2
 Visual cortex,anatomy_structure,1
 Visual cycle,mechanism,1
@@ -11747,6 +11845,8 @@ Vitamin A,diagnosis,1
 Vitamin A,other,1
 Vitamin A Deficiency,diagnosis,2
 Vitamin A Deficiency,management,2
+Vitamin A Deficiency,other,1
+Vitamin A Deficiency / Retinoic Acid,other,1
 Vitamin A Metabolism,anatomy_structure,1
 Vitamin A deficiency,diagnosis,2
 Vitamin A deficiency,management,2
@@ -11764,6 +11864,7 @@ Vitamin C Deficiency,mechanism,1
 Vitamin Deficiencies,mechanism,2
 Vitamin Deficiencies,diagnosis,1
 Vitamin Deficiencies,management,1
+Vitamin Deficiencies (Pellagra),other,1
 Vitamin E Deficiency,other,1
 Vitamin K,other,2
 Vitamin K,management,1
@@ -11773,7 +11874,7 @@ Vitamin Metabolism,other,1
 Vitamin deficiencies,mechanism,1
 Vitamin deficiencies,other,1
 Vitamin transport,mechanism,1
-Vitamins & Nutrition,other,190
+Vitamins & Nutrition,other,201
 Vitamins & Nutrition,mechanism,71
 Vitamins & Nutrition,diagnosis,60
 Vitamins & Nutrition,management,44
@@ -11862,7 +11963,7 @@ Water supply,other,1
 Water supply and sanitation,other,1
 Water testing,other,1
 Water treatment,management,1
-Waterborne Diseases,diagnosis,1
+Waterborne Diseases,diagnosis,2
 Waterborne Diseases,other,1
 Waterborne diseases,diagnosis,2
 Waterhouse-Friderichsen Syndrome,diagnosis,1
@@ -11925,7 +12026,7 @@ X-Linked Inheritance,diagnosis,1
 X-linked inheritance,diagnosis,1
 X-linked metabolic disorder,diagnosis,1
 X-ray,other,21
-X-ray,image_identification,12
+X-ray,image_identification,13
 X-ray,diagnosis,2
 X-ray,anatomy_structure,1
 X-ray,mechanism,1

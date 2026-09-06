@@ -91,6 +91,12 @@ export function QuestionCard({
       {showAnswers && !answer && options.length > 0 && (
         <p className="mt-2 text-xs text-[var(--muted)]">Answer key not available for this stem.</p>
       )}
+      {showAnswers && q.answer_note && (
+        <p className="mt-3 text-xs leading-relaxed text-[var(--muted)]">
+          <span className="font-semibold text-[var(--fg)]">Explanation. </span>
+          {q.answer_note}
+        </p>
+      )}
     </article>
   );
 

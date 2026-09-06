@@ -26,6 +26,7 @@ Cardiology,HOCM sudden cardiac death,2
 Cardiology,Left axis deviation,2
 Cardiology,Nifedipine reflex tachycardia,2
 Cardiology,Nitric oxide cGMP pathway,2
+Cardiology,post-MI aneurysm location,2
 Cardiomyopathies,Myocardial stunning non-coronary pattern,2
 Cell Injury & Death,Execution caspases apoptosis,2
 Clinical Signs,Roth spots association,2
@@ -33,24 +34,26 @@ Communicable Diseases,Kala-azar endemic regions India,2
 Community Health Workers,ASHA worker duties,3
 Congenital Uterine Anomalies,Uterine anomaly HSG identification,2
 Contraception,IUD absolute contraindications,3
+Contraception,fimbriectomy method,3
 Contraception,sterilization eligibility,3
 Contraception,Tubectomy isthmus site,2
-Contraception,fimbriectomy method,2
 Copper Metabolism,Wilson disease investigation,2
 Cornea & Refractive,Fungal corneal ulcer satellite lesions,2
 Culture Media,Blood agar enriched media,2
 Delusional Disorders,Erotomania love delusion,2
 Delusional Disorders,Subjective double syndrome,2
 Demographic Cycle,"Demographic transition stages, MMR calculation",4
+Demography & Family Planning,NRR 1 CPR target,2
 Demography & Family Planning,Net reproduction rate definition,2
 Diabetic Ketoacidosis (Dka),Pediatric DKA management,2
 Diabetic Neuropathy,Diabetic 3rd nerve palsy earliest sign,2
 Elbow Dislocation,late complications elbow dislocation,2
 Electroconvulsive Therapy,ECT contraindications,4
+Embryology,fetoplacental circulation timing,3
 Embryology,Dorsal mesentery development,2
-Embryology,fetoplacental circulation timing,2
 Endocrine,Pregnancy thyroid hormone alteration,2
 Endocrine,first-line drug for acromegaly,2
+Endocrine Pharmacology,Cytotoxic drug disposal method,2
 Endocrinology,VIPoma Verner Morrison syndrome,2
 Endocrinology,hCG stimulates fetal testosterone,2
 Endocrinology,insulin mediated glucose transport,2
@@ -58,17 +61,19 @@ Energy Metabolism,ATP immediate energy source,2
 Environment & Occupational Health,Minimum floor space per worker,2
 Enzymology,Trypsin serine protease,2
 Epidemiological Study Designs,Ecological study unit of analysis,2
+Epidemiology,Secondary attack rate definition,4
 Epidemiology,Bradford Hill criteria,3
-Epidemiology,Secondary attack rate definition,3
 Epidemiology,Tuberculosis incidence rate,3
+Epidemiology,Direct transmission examples,2
+Epidemiology,Ecological study unit population,2
 Epidemiology,Natural history study design,2
 Epidemiology,Relative risk definition,2
 Episiotomy Repair,Episiotomy repair steps,2
 Esophageal Imaging,Esophageal pathology imaging,2
 Extraocular Muscles,Longest extraocular muscle,2
 Facial Nerve,Facial nerve terminal branches,2
+Fractures,Osteoporotic vertebral fracture site,3
 Fractures,Femoral neck fracture AVN,2
-Fractures,Osteoporotic vertebral fracture site,2
 Fractures,orbital blow out fracture location,2
 Gastrointestinal,Hirschsprung ganglion cell absence,2
 Gastrointestinal,NO action GI tract,2
@@ -80,10 +85,10 @@ Glaucoma,100 day glaucoma association,2
 Glaucoma,Glaucomatous nasal step,2
 Gout,Pegloticase for chronic gout,2
 Graves Disease,Graves disease false statement,2
+Growth & Development,True hermaphroditism karyotype,4
 Growth & Development,Intellectual disability terminology,2
 Growth & Development,Ortolani test for DDH,2
 Growth & Development,Placenta umbilical cord anatomy physiology,2
-Growth & Development,True hermaphroditism karyotype,2
 Head And Neck Anatomy,Korner's septum location,2
 Head Injury Assessment,Glasgow Coma Scale calculation,3
 Heart,Left atrium forms heart base,2
@@ -97,14 +102,19 @@ Hepatology,Wilson disease investigation,3
 Hernia & Abdominal Wall,McBurney incision nerve injury,2
 Histology,Schwann cells myelinate PNS,2
 Immunization,Diphtheria contact management,2
+Immunization,Live vaccine interval,2
 Immunization,Live vaccine minimum interval,2
 Immunization,Tetanus prophylaxis clean wound,2
 Immunodeficiency,DiGeorge syndrome features,2
 Immunology,IFN gamma macrophage activation,2
 Immunology,Oakley-Fulthorpe double diffusion,2
+Immunopathology,Hyperacute graft rejection timing,2
 Infectious Diseases,Donovanosis diagnosis,2
+Infectious Diseases,Pasteurization temperature,2
 Infectious Diseases,Warthin-Finkeldey cells measles,2
+Inflammation & Healing,Histamine vascular permeability,2
 Inflammation & Healing,Negative acute phase proteins,2
+Labor & Delivery,Fetal lung maturity drug,2
 Lower Limb,Femoral head arterial supply,2
 Lower Limb,Posterior tibial artery location,2
 Lower Limb,Psoas major hip flexion,2
@@ -162,6 +172,7 @@ Schizophrenia & Psychosis,Schizophrenia negative symptoms,2
 Septic Arthritis,Tom Smith septic arthritis definition,2
 Skull Imaging,Salt and pepper skull appearance,2
 Special Senses,Sour taste receptor mechanism,2
+Spine,Iliolumbar ligament anatomy,2
 Spondyloarthropathies,Ankylosing spondylitis diagnosis,2
 Substance Use,Alcohol dependence criteria,4
 Syphilis,Saddle nose tertiary syphilis,2
@@ -172,6 +183,7 @@ Thermoregulation,PGE2 endogenous pyrogen,2
 Throat & Larynx,Postlaryngectomy voice rehabilitation,2
 Toxicology,Deferoxamine for iron overdose,2
 Toxicology,Methanol toxic metabolites,2
+Trauma,Laceration over bony prominence,2
 Upper Limb,Posterior axilla wall formation,2
 Upper Limb,Thumb opposition muscle,2
 Uveitis,Red keratic precipitates,2
@@ -180,10 +192,12 @@ Ventilation Perfusion Matching,Va/Q ratio infinity condition,2
 Viral Hepatitis,Hepatitis B serology interpretation,2
 Virology,Influenza incubation period,2
 Virology,Parvovirus B19 aplastic crisis,2
+Virology,varicella-zoster cause,2
 Vitamins & Nutrition,Pellagra niacin deficiency,3
 Vitamins & Nutrition,Breast milk vitamin K deficiency,2
 Vitamins & Nutrition,Iodine RDA during lactation,2
 Vitamins & Nutrition,Richest source of vitamin B12,2
 Vitamins & Nutrition,Thiamine before glucose,2
+Vitamins & Nutrition,iodine RDA in lactation,2
 Wilson Disease,Wilson disease investigation,3
 Wound Care,VAC negative pressure setting,3

@@ -45,6 +45,9 @@ export type QuestionRow = {
   answer_key: string | null;
   answer_note?: string | null;
   has_image_ref: boolean;
+  /** Public paths under /question_images/... when figures were extracted */
+  images?: string[];
+  image_status?: string | null;
 };
 
 export type OverlapRow = {

@@ -52,10 +52,28 @@ export function QuestionCard({
             <span>{q.ask_type.replace(/_/g, " ")}</span>
           </>
         )}
-        {q.has_image_ref && <span className="badge badge-missing">Image missing</span>}
+        {q.images && q.images.length > 0 ? (
+          <span className="badge">Has image</span>
+        ) : (
+          q.has_image_ref && <span className="badge badge-missing">Image missing</span>
+        )}
         {meta}
       </div>
       <p className="mt-2 text-sm leading-relaxed">{q.question_text}</p>
+      {q.images && q.images.length > 0 && (
+        <div className="mt-3 flex flex-wrap gap-3">
+          {q.images.map((src) => (
+            // eslint-disable-next-line @next/next/no-img-element
+            <img
+              key={src}
+              src={src.startsWith("/") ? src : `/question_images/${src}`}
+              alt="Question figure"
+              className="max-h-56 max-w-full rounded-md border border-[var(--line)] object-contain"
+              loading="lazy"
+            />
+          ))}
+        </div>
+      )}
       {options.length > 0 && (
         <ul className="mt-3 space-y-1.5 text-sm">
           {options.map((o) => {

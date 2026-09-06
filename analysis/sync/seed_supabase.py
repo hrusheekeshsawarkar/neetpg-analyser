@@ -306,6 +306,34 @@ def sync_web_public(out: Path) -> None:
         print(f"  synced questions → {qdest}")
 
 
+def public_image_paths(row: dict) -> list[str]:
+    """Map analysis/data-relative image paths to Next.js public URLs."""
+    out = []
+    for p in row.get("images") or []:
+        p = str(p).lstrip("/")
+        if p.startswith("question_images/"):
+            out.append(f"/{p}")
+        else:
+            out.append(f"/question_images/{p}")
+    return out
+
+
+def sync_question_images(web_root: Path) -> int:
+    """Copy extracted figures into web/public/question_images for static serving."""
+    import shutil
+
+    src = DATA / "question_images"
+    dest = web_root / "public" / "question_images"
+    if not src.exists():
+        return 0
+    if dest.exists():
+        shutil.rmtree(dest)
+    shutil.copytree(src, dest)
+    n = sum(1 for p in dest.rglob("*") if p.is_file())
+    print(f"  synced question images → {dest} ({n} files)")
+    return n
+
+
 def export_local_mirror() -> Path:
     """Write a local JSON mirror for the Next.js app when Supabase is unset."""
     out = ANALYSIS / "data" / "web_mirror"
@@ -317,6 +345,7 @@ def export_local_mirror() -> Path:
         slim = []
         for row in rows:
             qtext = row.get("question_text") or ""
+            images = public_image_paths(row)
             slim.append(
                 {
                     "qid": make_qid(row),
@@ -334,7 +363,9 @@ def export_local_mirror() -> Path:
                     "option_3": row.get("option_3"),
                     "option_4": row.get("option_4"),
                     "answer_key": str(row.get("answer") or "") or None,
-                    "has_image_ref": has_image_ref(qtext),
+                    "has_image_ref": has_image_ref(qtext) and not images,
+                    "images": images,
+                    "image_status": row.get("image_status"),
                 }
             )
         (out / "questions.json").write_text(json.dumps(slim))
@@ -358,6 +389,7 @@ def export_local_mirror() -> Path:
         (packs_out / path.name).write_text(path.read_text())
     print(f"  mirrored packs → {packs_out}")
     sync_web_public(out)
+    sync_question_images(ROOT / "web")
     return out
 
 

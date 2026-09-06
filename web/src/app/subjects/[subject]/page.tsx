@@ -227,7 +227,11 @@ export default async function SubjectPage({
                 <span>{q.year}</span>
                 <span>·</span>
                 <span>{q.topic_clean}</span>
-                {q.has_image_ref && <span className="badge badge-missing">Image missing</span>}
+                {q.images && q.images.length > 0 ? (
+                  <span className="badge">Has image</span>
+                ) : (
+                  q.has_image_ref && <span className="badge badge-missing">Image missing</span>
+                )}
               </div>
               <p className="mt-1 line-clamp-2">{q.question_text}</p>
               <Link

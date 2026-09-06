@@ -162,7 +162,11 @@ export default async function TopicPage({ params }: Props) {
               <li key={q.qid} className="surface rounded-lg px-4 py-3 text-sm">
                 <div className="flex flex-wrap items-center gap-2 text-xs chart-sub">
                   <span>{q.year}</span>
-                  {q.has_image_ref && <span className="badge badge-missing">Image missing</span>}
+                  {q.images && q.images.length > 0 ? (
+                    <span className="badge">Has image</span>
+                  ) : (
+                    q.has_image_ref && <span className="badge badge-missing">Image missing</span>
+                  )}
                 </div>
                 <p className="mt-1 line-clamp-2">{q.question_text}</p>
                 <Link

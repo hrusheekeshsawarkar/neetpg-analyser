@@ -1,3841 +1,3800 @@
 topic_clean,count
-Infectious Diseases,341
-Cardiology,336
-Vitamins & Nutrition,286
-Pulmonology,285
-Neoplasia,269
+Infectious Diseases,353
+Cardiology,338
+Vitamins & Nutrition,297
+Pulmonology,290
+Neoplasia,270
 Bacteriology,244
-Hematopathology,230
-Antenatal Care,220
-Virology,217
-Epidemiology,216
-Fractures,205
-Renal,194
+Hematopathology,236
+Antenatal Care,223
+Epidemiology,221
+Virology,220
+Fractures,206
+Renal,195
+Thanatology,170
+Gastrointestinal,170
 Genetics & Molecular Biology,169
-Gastrointestinal,169
-Thanatology,168
 Inflammation & Healing,167
-Embryology,156
+Embryology,157
+Lipid Metabolism,147
+Growth & Development,146
 Carbohydrate Metabolism,146
-Lipid Metabolism,145
-Growth & Development,143
-Thorax,139
-Parasitology,138
-Toxicology,136
+Thorax,141
+Parasitology,140
+Toxicology,137
+Endocrinology,135
 Trauma,135
-Endocrinology,134
+Neurology,134
 Immunology,133
-Neurology,129
-Neuroanatomy,126
+Neuroanatomy,127
 Upper Limb,120
 Abdomen,111
 Cornea & Refractive,110
-Head & Neck,106
-Lower Limb,101
-Retina,99
-Breast & Endocrine Surgery,95
-Vascular,93
+Head & Neck,107
+Lower Limb,103
+Retina,100
+Breast & Endocrine Surgery,97
 Reproductive,93
+Vascular,93
 Endocrine,91
-Histology,88
+Histology,89
 Gastroenterology,83
-Mycology,81
-Labor & Delivery,79
+Immunization,82
+Mycology,82
+Lens & Cataract,81
+Labor & Delivery,81
 Enzymology,79
-Immunization,79
-Lens & Cataract,78
-Glaucoma,75
-Nephrology,73
+Glaucoma,78
+Head And Neck,74
+Nephrology,74
 Otology,71
+Cell Injury & Death,70
 Rheumatology,70
-Cell Injury & Death,69
-Head And Neck,69
+Obstetric Complications,64
 Neurophysiology,63
+Gynecologic Oncology,63
 Immunopathology,62
-Obstetric Complications,60
+Medical Jurisprudence,60
 Biostatistics,59
-Medical Jurisprudence,57
 Joints & Arthritis,56
-Gynecologic Oncology,56
+Contraception,54
 Neonatology,54
-Contraception,52
 Amino Acid Metabolism,50
 Airway Management,50
+Urology,50
 Tuberculosis,49
-Urology,48
 Antimicrobials,48
-Schizophrenia & Psychosis,43
+Schizophrenia & Psychosis,44
 National Health Programs,43
-Demography & Family Planning,40
+Nose & PNS,41
+Cranial Nerves,41
+Demography & Family Planning,41
 Pharmacokinetics,39
-Nose & PNS,39
-Protein Metabolism,38
+Environmental Health,39
 Throat & Larynx,38
-Environmental Health,38
+Protein Metabolism,38
 Autonomic,37
-Cranial Nerves,36
-Inborn Errors Of Metabolism,34
+Infertility,35
+Endocrine Pharmacology,35
+Inborn Errors Of Metabolism,35
+Mood Disorders,34
 Uveitis,33
-Mood Disorders,33
-Gastrointestinal Surgery,33
-Infertility,33
-Endocrine Pharmacology,32
+Gastrointestinal Surgery,32
+Spine,32
 Hernia & Abdominal Wall,32
-Spine,31
 Environment & Occupational Health,29
 Personality Disorders,29
 Peripheral Nerves,28
+Vaccines,27
+Health Care Delivery,27
 Vasculitis,27
 Burns & Plastic,26
-Health Care Delivery,26
+Ear,26
+Dermatology,26
 Inhalational Anaesthetics,25
-Ear,25
+Biomedical Waste Management,25
 Strabismus,25
 Otitis Media,25
-Vaccines,25
+Genetic Disorders,24
+X-ray,24
+Malaria,24
+Disaster Management,24
 Neuro-ophthalmology,24
 Audiology,24
-Malaria,24
 Orbit,24
-Disaster Management,24
-Dermatology,24
-Genetic Disorders,24
 Local Anaesthetics,23
-Biomedical Waste Management,23
-Refractive Errors,22
-Lymphoma,22
+Refractive Errors,23
 Muscle Physiology,22
-X-ray,22
 Pneumonia,22
-Delusional Disorders,20
-Neuromuscular Blocking Agents,20
-Pelvis & Perineum,20
-Chemotherapy & Anticancer,20
-Head And Neck Anatomy,20
+Lymphoma,22
 Diuretics,20
-Metabolic Disorders,19
-Glomerular Diseases,19
+Neuromuscular Blocking Agents,20
+Head And Neck Anatomy,20
+Metabolic Disorders,20
+Delusional Disorders,20
+Pelvis & Perineum,20
 Identification,19
 Immunodeficiency,19
+Pharynx,19
+Glomerular Diseases,19
 Rhinology,19
-Pharynx,18
-Pelvic Anatomy,18
-Endometriosis,18
+Pelvic Anatomy,19
+Leprosy,19
+Chemotherapy & Anticancer,19
 Sexual Offences,18
-Urea Cycle,17
+Endometriosis,18
+Child Psychiatry,18
 Screening,17
-Drowning,17
+Communicable Diseases,17
 Health Indicators,17
 Anticoagulants,17
 Antidiabetic Drugs,17
-Communicable Diseases,17
-Leprosy,17
+Urea Cycle,17
 Mania,17
+Drowning,17
 Vestibular Disorders,17
-Child Psychiatry,17
-Hiv/Aids,16
-Adverse Drug Reactions,16
-Anxiety & OCD,16
+Adverse Drug Reactions,17
 Antimalarial Drugs,16
-Esophageal Disorders,16
 Ballistics,16
-Regional Anaesthesia,15
-Age Estimation,15
+Hiv/Aids,16
+Anxiety & OCD,16
+Esophageal Disorders,16
+Uterine Anomalies,16
 Scabies,15
-Ultrasound,15
+Radiation Physics,15
+Regional Anaesthesia,15
 Brachial Plexus,15
-Lacrimal Apparatus,15
 Chlamydia,15
+Lacrimal Apparatus,15
+Valvular Heart Disease,15
+Age Estimation,15
+Lysosomal Storage Disorders,15
 Postpartum Hemorrhage,15
-Abdominal Anatomy,14
+Psychotic Disorders,14
+Uterine Prolapse,14
+Purine Metabolism,14
+Lymphatic System,14
 Maternal And Child Health,14
 Metabolic Bone Disease,14
-Purine Metabolism,14
-Psychotic Disorders,14
-Valvular Heart Disease,14
-Antidepressants,14
-Lysosomal Storage Disorders,14
-Radiation Physics,14
 Neuromuscular Blockers,14
-Lymphatic System,14
+Antidepressants,14
+Ultrasound,14
+Abdominal Anatomy,14
 Protein Chemistry,14
+General Pharmacology,14
+Cardiac Arrhythmias,13
+Glycolysis,13
 Colorectal Surgery,13
 Pelvic Inflammatory Disease,13
-Menstrual Disorders,13
-Antipsychotics,13
-Glycolysis,13
-Cholesteatoma,13
 Transfusion Medicine,13
-Inflammatory Bowel Disease,13
-Uterine Prolapse,13
+Postmortem Changes,13
 Facial Nerve,13
-General Pharmacology,13
-Substance Use,12
-Health Education,12
-Menopause,12
-Leukemia,12
-Coagulation Disorders,12
-Osteology,12
-Uterine Anomalies,12
-Anemia,12
-Anticancer Drugs,12
-Cardiac Arrhythmias,12
-Legal Medicine,12
-Abdominal Imaging,12
-Oxidative Phosphorylation,12
+Antipsychotics,13
+Inflammatory Bowel Disease,13
+Cholesteatoma,13
+Menstrual Disorders,13
 Neuroimaging,12
+Osteology,12
+Anemia,12
 Nerve Muscle,12
+Abdominal Imaging,12
 Cerebellum,12
-Chromosomal Abnormalities,12
-Cervical Cancer,12
 Anthropometry,12
-Otosclerosis,12
-Congenital Anomalies,12
-Drug Interactions,12
+Plastic Surgery,12
 Ocular Anatomy,12
+Legal Medicine,12
+Health Education,12
+Substance Use,12
+Leukemia,12
+Anticancer Drugs,12
+Cervical Cancer,12
+Pelvic Organ Prolapse,12
+Antimicrobial Resistance,12
+Acid-Base Balance,12
+Congenital Anomalies,12
 Peptic Ulcer Disease,12
-Postmortem Changes,12
-Asphyxial Deaths,11
+Chromosomal Abnormalities,12
+Oxidative Phosphorylation,12
+Coagulation Disorders,12
+Otosclerosis,12
+Drug Interactions,12
+Menopause,12
 Squint & Pediatric Ophthalmology,11
-Pharmacodynamics,11
-Protein Structure,11
-Spinal Tuberculosis,11
-Antiepileptic Drugs,11
-Electron Transport Chain,11
-Pelvic Organ Prolapse,11
-Obsessive-Compulsive Disorder,11
-Acid-Base Disorders,11
-Pancreatitis,11
-Congenital Heart Disease,11
+Psychotherapy,11
 Complement System,11
-Acid-Base Balance,11
 Sleep,11
-Surgical Oncology,11
-Gout,11
-Cell Physiology,11
-Asthma,11
+Peripheral Nerve Injuries,11
 Amino Acids,11
-Culture Media,11
-Refraction,11
-Antimicrobial Drugs,11
-Gluconeogenesis,11
-Middle Ear,11
 Beta Blockers,11
-Hallucinations,11
+Acid-Base Disorders,11
+Cell Physiology,11
+Pancreatitis,11
+Surgical Oncology,11
+Antimicrobial Drugs,11
+Congenital Heart Disease,11
 Cns Pharmacology,11
-Delusions,11
+Middle Ear,11
+Electron Transport Chain,11
+Gluconeogenesis,11
+Gout,11
+Refraction,11
+Culture Media,11
+Asphyxial Deaths,11
+Antiepileptic Drugs,11
+Protein Structure,11
+Obsessive-Compulsive Disorder,11
+General Physiology,11
 Clinical Pharmacology,11
-Antimicrobial Resistance,11
-Dissociative Disorders,10
-Meningitis,10
-Preeclampsia,10
-Thermoregulation,10
+Asthma,11
+Spinal Tuberculosis,11
+Pharmacodynamics,11
+Hallucinations,11
+Delusions,11
+Citric Acid Cycle,10
+Nucleotide Metabolism,10
+Antitubercular Drugs,10
+Neuroradiology,10
+Brainstem Syndromes,10
+Gestational Trophoblastic Disease,10
+Pulmonary Embolism,10
+Antiarrhythmic Drugs,10
+Cvs Pharmacology,10
+Viral Hepatitis,10
+Esophagus,10
+Antihypertensive Drugs,10
+Eating Disorders,10
+Large Intestine,10
+Hemoglobinopathies,10
 Psychopharmacology,10
 Conversion Disorder,10
-Nucleotide Metabolism,10
 Dyslipidemia,10
-Hemoglobinopathies,10
-Gestational Trophoblastic Disease,10
-Neonatal Resuscitation,10
-Esophagus,10
-Large Intestine,10
-Diabetes Mellitus,10
-Psychotherapy,10
-Cerebral Circulation,10
-Neuroradiology,10
 Heart,10
-Plastic Surgery,10
-Peripheral Nerve Injuries,10
-Viral Hepatitis,10
-Pulmonary Embolism,10
-Citric Acid Cycle,10
-Antitubercular Drugs,10
-Antiarrhythmic Drugs,10
-Eating Disorders,10
 Pediatric Oncology,10
-Medical Negligence,10
 Nail Disorders,10
-Antifungal Agents,9
-Musculoskeletal Radiology,9
-Knee Injuries,9
-Chest Radiology,9
-Breech Presentation,9
-Conjunctiva,9
-Electroconvulsive Therapy,9
-Ptosis,9
-Communicable And Non-Communicable Diseases,9
-Hemolytic Anemias,9
-Psoriasis,9
-Pelvis And Perineum,9
-Injuries & Trauma,9
-Membrane Transport,9
+Dissociative Disorders,10
+Neonatal Resuscitation,10
+Diabetes Mellitus,10
+Preeclampsia,10
+Communicable And Non-Communicable Diseases,10
+Thermoregulation,10
+Meningitis,10
+Sleep Disorders,10
+Medical Negligence,10
+Cerebral Circulation,10
+Uterine Fibroids,9
+Sexual Disorders,9
+Neuropharmacology,9
 Antipsychotic Drugs,9
+Hemolytic Anemias,9
+Prostaglandins,9
+Cranial Venous Sinuses,9
+Cell Biology,9
+Antifungal Drugs,9
+Electroconvulsive Therapy,9
+Injuries & Trauma,9
+Drug Metabolism,9
+Conjunctivitis,9
+Intellectual Disability,9
+Psoriasis,9
+Diabetic Retinopathy,9
+Antifungal Agents,9
 Enzymes,9
 Neurofibromatosis,9
-Neuropharmacology,9
-Intellectual Disability,9
-Cvs Pharmacology,9
-Prostaglandins,9
-General Physiology,9
-Antihypertensive Drugs,9
-Cell Biology,9
-Brainstem Syndromes,9
+Musculoskeletal Radiology,9
+Pelvis And Perineum,9
+Chest Radiology,9
+Ptosis,9
+Conjunctiva,9
+Knee Injuries,9
+Breech Presentation,9
+Membrane Transport,9
+Head And Neck Surgery,9
 Bacterial Toxins,9
-Cranial Venous Sinuses,9
-Sleep Disorders,9
-Health Planning,8
-Urinary System,8
 Antiplatelet Drugs,8
-Bioenergetics,8
-Protein Synthesis,8
-Sexual Disorders,8
-Epidemiological Study Designs,8
-Hearing Loss,8
-General Anaesthetics,8
-Pigmentary Disorders,8
-Diabetic Retinopathy,8
-Mechanical Injuries,8
-Metal Poisoning,8
-Hepatology,8
-Dementia,8
-Plague,8
-Uterine Fibroids,8
-Nuclear Medicine,8
-Conjunctivitis,8
-Amyloidosis,8
-Vector Control,8
-Connective Tissue,8
-Cestodes,8
-Radiotherapy,8
-Legal Procedures,8
-Placenta,8
-Intestinal Obstruction,8
-Sensory Physiology,8
-Hemolytic Anemia,8
-Oral Cavity,8
-Intravenous Anaesthetics,8
-Peripheral Nervous System,8
-Substance-Related Disorders,8
-Shock,8
-Amenorrhea,8
 Movement Disorders,8
-Thyroid Neoplasms,8
-Organic Mental Disorders,8
-Antihyperlipidemic Drugs,8
-Chromosomal Disorders,8
-Antifungal Drugs,8
-Wilson Disease,8
-Binocular Vision,8
-Arrhythmias,8
-Antiviral Agents,8
 Porphyrin Metabolism,8
+Bioenergetics,8
+Binocular Vision,8
+Substance-Related Disorders,8
+Organic Mental Disorders,8
 Abnormal Uterine Bleeding,8
-Head And Neck Surgery,8
-Thoracic Imaging,7
-Syphilis,7
-Head Injury,7
-Genetic Syndromes,7
-Antimicrobial Therapy,7
-Neural Tube Defects,7
-Prenatal Diagnosis,7
-Energy Metabolism,7
-Clinical Biochemistry,7
-Knee,7
-Multiple Sclerosis,7
-Electrolyte Disorders,7
-Corticosteroids,7
-Postpartum Complications,7
-Antimicrobial Agents,7
-Lichen Planus,7
-Myeloproliferative Neoplasms,7
-Venous Thromboembolism,7
-Drug Metabolism,7
-Antineoplastic Agents,7
-Ossification,7
-Salivary Glands,7
-Vector-Borne Diseases,7
-Mortality Indicators,7
-Health Legislation,7
-Acute Pancreatitis,7
-Tonsillectomy,7
-Autacoids,7
-Liver Pathology,7
-Fetal Circulation,7
-Cartilage,7
-Psychoanalysis,7
-Thyroid Disorders,7
+Metal Poisoning,8
+Antihyperlipidemic Drugs,8
+Health Planning,8
+Protein Synthesis,8
+Placenta,8
+Plague,8
+General Anaesthetics,8
+Hepatology,8
+Shock,8
+Thyroid Neoplasms,8
+Nuclear Medicine,8
+Hemolytic Anemia,8
+Epidemiological Study Designs,8
+Antiviral Agents,8
+Amyloidosis,8
+Mechanical Injuries,8
+Intravenous Anaesthetics,8
+Oral Cavity,8
+Cestodes,8
+Vector Control,8
+Sensory Physiology,8
+Rheumatic Fever,8
+Dementia,8
+Arrhythmias,8
+Hearing Loss,8
+Wilson Disease,8
+Amenorrhea,8
+Peripheral Nervous System,8
+Urinary System,8
+Legal Procedures,8
+Chromosomal Disorders,8
+Thoracic Radiology,8
+Pediatric Respiratory,8
+Pediatric Surgery,8
+Intestinal Obstruction,8
+Autacoids,8
+Connective Tissue,8
+Radiotherapy,8
+Pigmentary Disorders,8
 International Health,7
-Sarcoidosis,7
-Rheumatic Fever,7
-Opioid Analgesics,7
-Sexual Dysfunction,7
-Retinoblastoma,7
-Paranasal Sinuses,7
-Thoracic Radiology,7
-Hypersensitivity,7
-Rheumatoid Arthritis,7
-Cardiothoracic,7
-Connective Tissue Disorders,7
-Hemodynamics,7
-Glycogen Storage Diseases,7
 Nucleic Acids,7
-Cardiac Cycle,6
-Pyrimidine Metabolism,6
-Visual Field Defects,6
-Child Health,6
-Food Poisoning,6
-Interventional Radiology,6
-Bone Pathology,6
-Spondyloarthropathies,6
-Hepatobiliary Surgery,6
-Torture,6
-Dna Replication,6
-Optics And Refraction,6
-Melanoma,6
-Surface Anatomy,6
-Firearm Injuries,6
-Systemic Vasculitis,6
-Genital Tuberculosis,6
-Maternal Mortality,6
-Fluid And Electrolyte Disturbances,6
-Pediatric Respiratory,6
-Pediatric Surgery,6
-Iron Metabolism,6
-Hyponatremia,6
-Otitis Externa,6
-Oropharynx,6
-Hearing Tests,6
-Nasal Polyps,6
-Bariatric Surgery,6
-Extraocular Muscles,6
-Critical Care,6
-Congenital Talipes Equinovarus,6
-Herpes Keratitis,6
-Keratitis,6
-Body Fluids,6
-Neuropathology,6
-Cardiac Arrest Management,6
-Shoulder Dislocation,6
-Public Health Programs,6
-Chest Radiography,6
-Antineoplastic Drugs,6
-Somatic Symptom Disorders,6
-Antithyroid Drugs,6
-Neisseria,6
-Grievous Hurt,6
-Neuromuscular Disorders,6
-Gender Identity Disorders,6
-Catatonia,6
-Ear Anatomy,6
-Antimigraine Drugs,6
-Acne,6
-Wound Management,6
-Psychopathology,6
-Placenta Previa,6
-Electrocardiography,6
-Sterilization & Hospital Infection,6
-Diphtheria,6
-Intravenous Anesthetics,6
-Amniotic Fluid,6
-Cardiac Electrophysiology,6
-Apoptosis,6
-Hemostasis,6
+Interventional Radiology,7
+Psychoanalysis,7
+Antimicrobial Therapy,7
+Genetic Syndromes,7
+Syphilis,7
+Food Poisoning,7
+Venous Thromboembolism,7
+Concept Of Health And Disease,7
+Thoracic Imaging,7
+Sarcoidosis,7
+Hemodynamics,7
+Health Legislation,7
+Hypersensitivity,7
+Cartilage,7
+Psychopathology,7
+Cardiothoracic,7
+Extraocular Muscles,7
+Electrolyte Disorders,7
+Lichen Planus,7
+Prenatal Diagnosis,7
+Rheumatoid Arthritis,7
+Head Injury,7
+Retinoblastoma,7
+Antimicrobial Agents,7
+Neural Tube Defects,7
+Acute Pancreatitis,7
+Corticosteroids,7
+Clinical Biochemistry,7
+Energy Metabolism,7
+Paranasal Sinuses,7
+Sexual Dysfunction,7
+Opioid Analgesics,7
+Myeloproliferative Neoplasms,7
+Knee,7
+Postpartum Complications,7
+Salivary Glands,7
+Fetal Circulation,7
+Glycogen Storage Diseases,7
+Multiple Sclerosis,7
+Surgical Instruments,7
+Vector-Borne Diseases,7
+Liver Pathology,7
+Ossification,7
+Thyroid Disorders,7
+Antineoplastic Agents,7
+Connective Tissue Disorders,7
+Mortality Indicators,7
+Tonsillectomy,7
 Heme Synthesis,6
 Pituitary Disorders,6
-Cardiomyopathies,6
-Lipid-Lowering Drugs,6
-Spinal Anaesthesia,6
-Neurocutaneous Syndromes,6
-Shoulder Dystocia,6
+Cardiac Arrest Management,6
+Diphtheria,6
+Neisseria,6
 Blast Injuries,6
-Uterine Rupture,6
-Glycosaminoglycans,6
-Local Anesthetics,6
+Spondyloarthropathies,6
+Public Health Programs,6
+Nasal Polyps,6
+Congenital Talipes Equinovarus,6
+Pediatric Orthopedics,6
+Fluid And Electrolyte Disturbances,6
+Body Fluids,6
+Cardiac Cycle,6
+Wound Management,6
+Systemic Vasculitis,6
+Genital Tuberculosis,6
+Shoulder Dislocation,6
+Hepatobiliary Pancreatic Surgery,6
+Neuromuscular Disorders,6
+Visual Field Defects,6
+Oropharynx,6
+Antineoplastic Drugs,6
+Surface Anatomy,6
+Hyponatremia,6
+Maternal Mortality,6
 Antiplatelet Agents,6
-Rhinitis,5
-Interstitial Lung Disease,5
-Innate Immunity,5
-Tca Cycle,5
-Protein Folding,5
-Pterygium,5
-Hodgkin Lymphoma,5
-Plasma Proteins,5
-Genodermatoses,5
-Elbow Dislocation,5
-Ureter,5
-Inguinal Region,5
-Porphyrias,5
-Sternocleidomastoid,5
-Parathyroid Disorders,5
-Vector Borne Diseases,5
-Water Quality,5
-Prenatal Screening,5
-Social Security,5
-Cognitive Disorders,5
-Bilirubin Metabolism,5
-Copd,5
-Scleritis,5
-Appendicitis,5
-Sleep Physiology,5
-Postoperative Complications,5
-Poliomyelitis,5
-Bronchial Asthma,5
-Radiation Safety,5
-Multiple Myeloma,5
-Peroxisomal Disorders,5
-Thalassemia,5
-Abdominal Aortic Aneurysm,5
-Diagnostic Microbiology,5
-Benzodiazepines,5
-Papulosquamous,5
-Iodine Deficiency Disorders,5
-Visual Pathway,5
-Erythema Multiforme,5
-Antiviral Drugs,5
-MRI,5
-Opioid Withdrawal,5
-Waste Management,5
-Ovarian Neoplasms,5
-Laxatives,5
-Nsaids,5
-Psoriatic Arthritis,5
-Study Design,5
-Esophageal Imaging,5
-Hydrocephalus,5
-Drug Toxicity,5
-Urinary Bladder,5
-Cytokines,5
-Hepatobiliary Pancreatic Surgery,5
-Demographic Cycle,5
-Dislocations,5
-Dna Structure,5
-Suture Materials,5
-Laryngeal Anatomy,5
-Neuromuscular Junction,5
-Ocular Oncology,5
-Dermatopathology,5
-Cell Signaling,5
-Ct & Mri,5
-Protein Biochemistry,5
+Child Health,6
+Otitis Externa,6
+Chest Radiography,6
+Gender Identity Disorders,6
+Amniotic Fluid,6
+Catatonia,6
+Uterine Rupture,6
+Pyrimidine Metabolism,6
+Placenta Previa,6
+Somatic Symptom Disorders,6
+Hepatobiliary Surgery,6
+Electrocardiography,6
+Hearing Tests,6
+Intravenous Anesthetics,6
+Cell Signaling,6
+Hodgkin Lymphoma,6
+Neurosurgery,6
+Suture Materials,6
+Local Anesthetics,6
+Platelet Disorders,6
+Antimigraine Drugs,6
+Esophageal Motility Disorders,6
+Bariatric Surgery,6
+Glycosaminoglycans,6
+Apoptosis,6
+Inguinal Region,6
+Hemostasis,6
+Cardiac Electrophysiology,6
+Bone Pathology,6
+Torture,6
+Acne,6
+Spinal Anaesthesia,6
+Lipid-Lowering Drugs,6
+Grievous Hurt,6
+Optics,6
+Optics And Refraction,6
+Keratitis,6
+Shoulder Dystocia,6
+Melanoma,6
+Herpes Keratitis,6
+Dna Replication,6
+Neuropathology,6
+Firearm Injuries,6
+Sterilization & Hospital Infection,6
+Iron Metabolism,6
+Ear Anatomy,6
+Neurocutaneous Syndromes,6
+Critical Care,6
+Cardiomyopathies,6
+Antithyroid Drugs,6
 Ocular Physiology,5
+Hydrocephalus,5
+Interstitial Lung Disease,5
+The Nervous System,5
+Ipc Sections,5
+Tca Cycle,5
+Plasma Proteins,5
+Erythema Multiforme,5
+Bilirubin Metabolism,5
 Reproduction,5
-Rheumatic Heart Disease,5
-Surgical Instruments,5
-Hematological Malignancies,5
-Uroradiology,5
-Health Services,5
+Abdominal Aortic Aneurysm,5
+Sleep Physiology,5
+Radiation Safety,5
+Scleritis,5
+Parathyroid Disorders,5
+Nerve Injury,5
+Genodermatoses,5
+Vector Borne Diseases,5
+Ct & Mri,5
+Copd,5
+Duodenum,5
+Pyloric Stenosis,5
+Drug Dependence,5
+Psoriatic Arthritis,5
+Benzodiazepines,5
+Bronchial Asthma,5
+Protein Folding,5
+Thalassemia,5
+Prenatal Screening,5
+Nsaids,5
+MRI,5
+Peroxisomal Disorders,5
 Dermatomyositis,5
-Immunosuppressants,5
-Esophageal Motility Disorders,5
-Post-Mortem Changes,5
-Pigmented Lesions,5
+Waste Management,5
+Pterygium,5
+Appendicitis,5
+Papulosquamous,5
+Postoperative Complications,5
+Dislocations,5
+Multiple Myeloma,5
+Porphyrias,5
+Uroradiology,5
+Diagnostic Microbiology,5
+Visual Pathway,5
+Innate Immunity,5
+Elbow Dislocation,5
+Social Security,5
+Rheumatic Heart Disease,5
+Airway Devices,5
 Osteomyelitis,5
 Helminthology,5
-Neurosurgery,5
-Head and Neck,5
-Inguinal Canal,5
-Asphyxia,5
-Sinusitis,5
-Primary Health Care,5
-Gestational Diabetes,5
-Ipc Sections,5
-Perineal Tears,5
-Congenital Uterine Anomalies,5
-Gastric Carcinoma,5
-Arsenic Poisoning,5
-Pediatric Orthopedics,5
-Delirium,5
-Disease Surveillance,5
-Septic Arthritis,5
+Iodine Deficiency Disorders,5
+Cognitive Disorders,5
+Ocular Oncology,5
+Dermatopathology,5
+Substance-Related And Addictive Disorders,5
 Epidermis,5
-Fluoroquinolones,5
-Airway Assessment,5
+Esophageal Imaging,5
+Poliomyelitis,5
+Drug Toxicity,5
+Post-Mortem Changes,5
+Antiviral Drugs,5
+Laxatives,5
+Sclera,5
+Cardiopulmonary Cerebral Resuscitation,5
 Atopic Dermatitis,5
-Dermatophytes,5
+Perineal Tears,5
 Implantation,5
-Concept Of Health And Disease,5
-Airway Devices,5
+Protein Biochemistry,5
+Asphyxia,5
+Neuromuscular Junction,5
+Gastric Carcinoma,5
+Sternocleidomastoid,5
+Ureter,5
+Airway Assessment,5
+Demographic Cycle,5
+Ovarian Neoplasms,5
+Opioid Withdrawal,5
+Study Design,5
+Cytokines,5
+Urinary Bladder,5
 Paranasal Sinus,5
-Duodenum,5
-Platelet Disorders,5
-Lymphomas,4
-Pcod,4
-Barbiturates,4
-Axilla,4
-Dermatologic Signs,4
-Filariasis,4
-Laryngeal Cancer,4
-Alcohol Use Disorder,4
-Sepsis,4
+Laryngeal Anatomy,5
+Dna Structure,5
+Water Quality,5
+Immunosuppressants,5
+Paranasal Sinus Imaging,5
+Arsenic Poisoning,5
+Food Hygiene,5
+Rhinitis,5
+Delirium,5
+Hematological Malignancies,5
+Disease Surveillance,5
+Health Services,5
+Septic Arthritis,5
+Dermatophytes,5
+Inguinal Canal,5
+Gestational Diabetes,5
+Primary Health Care,5
+Sinusitis,5
+Fluoroquinolones,5
+Congenital Uterine Anomalies,5
+Pigmented Lesions,5
+Bone Lesions,4
+Fatty Acid Synthesis,4
+Genetic Skin Disorders,4
 Peritoneum,4
-Menstrual Cycle,4
+Mycoplasma,4
+Pharyngeal Arches,4
 Nasal Cavity,4
-Perception,4
-Lymphoid Organs,4
-Sexual Assault,4
-Dental Anatomy,4
-Plant Poisons,4
-Sweat Gland Disorders,4
-Dermatological Signs,4
-Sampling Methods,4
-Food Hygiene,4
-Parasomnia,4
-Impulse Control Disorders,4
-Hand Anatomy,4
-Nasal Surgery,4
-Paranasal Sinus Imaging,4
-Laryngeal Muscles,4
-Cns Stimulants,4
-Autoimmune Blistering Diseases,4
-Vaginitis,4
-Sensory Receptors,4
-Gastric Surgery,4
+Migraine,4
 Suicide,4
+Lymphoid Organs,4
+Pulmonary Function Tests,4
+Protozoology,4
+Vaginal Discharge,4
+Cervical Pathology,4
 Infective Endocarditis,4
+Iron Deficiency Anemia,4
+Eicosanoids,4
+Antiemetic Drugs,4
+Dna Repair,4
+Obesity,4
+Lysosomal Storage Diseases,4
+Measles,4
+Spleen,4
 Molecular Pathology,4
 Diabetes Insipidus,4
-Copper Metabolism,4
-Radiation Dose,4
-Ovarian Cancer,4
-Migraine,4
-Pulmonary Function Tests,4
-Vitreous,4
-Levels Of Prevention,4
-Substance-Related And Addictive Disorders,4
-Fluid And Electrolyte Management,4
-Ichthyosis,4
-Cancer Chemotherapy,4
-Cardiopulmonary Cerebral Resuscitation,4
-Lymphatic Drainage,4
-Lysosomal Storage Diseases,4
-Thrombosis,4
-Meniere Disease,4
-Protozoology,4
-Chronic Suppurative Otitis Media,4
-Metabolic Syndrome,4
-Plasma Cell Disorders,4
-Antiemetic Drugs,4
-Eicosanoids,4
-Fluid And Electrolyte Balance,4
 Microbial Pathogenesis,4
-Brain Anatomy,4
-The Nervous System,4
 Epidemiological Studies,4
-Pelvimetry,4
-Obesity,4
-History Of Anaesthesia,4
-Uterine anomalies,4
-Measles,4
-Sclera,4
-Gynaecological Procedures,4
-Health Management,4
-Patellofemoral Disorders,4
-Optics,4
-Pyloric Stenosis,4
-Neonatal Care,4
-Myasthenia Gravis,4
-Hypercalcemia,4
-Legg-Calvé-Perthes Disease,4
-Hip Disorders,4
-Coxa Vara,4
-Nerve Injury,4
-Pharyngeal Arches,4
-Urolithiasis,4
-Pituitary Gland,4
-Autism Spectrum Disorder,4
-Pneumoconiosis,4
-Genetic Skin Disorders,4
-Fatty Acid Synthesis,4
-Sutures,4
+Brain Anatomy,4
 Depressive Disorders,4
-Paraphilias,4
-Epistaxis,4
-Drug Dependence,4
+Cancer Chemotherapy,4
 Tetralogy Of Fallot,4
-Cervical Pathology,4
-Iron Deficiency Anemia,4
+Uterine Support,4
+Metabolic Syndrome,4
 Mood Stabilizers,4
+Pcod,4
+Thrombosis,4
+Health Management,4
+Ovarian Cancer,4
 Pleural Effusion,4
-Dna Repair,4
+Biliary Tract,4
+Laryngeal Cancer,4
+Gynaecological Procedures,4
 Jaundice,4
-Special Senses,4
-Pericardial Diseases,4
-Heavy Metal Poisoning,4
-Histopathology,4
-Gynecological Oncology,4
-Head And Neck Oncology,4
-Alzheimer'S Disease,4
-Laryngeal Disorders,4
-Radiation Oncology,4
-Spinal Deformities,4
-Androgens,4
-Chronic Pancreatitis,4
+Fluid And Electrolyte Management,4
+Anaerobic Bacteria,4
+Pneumoconiosis,4
+Paraphilias,4
 Miliaria,4
-Cardiac Arrest,4
-Mechanical Asphyxia,4
-Episiotomy,4
+Ecg Interpretation,4
 Epidermolysis Bullosa,4
-Nasopharynx,4
-Skull Foramina,4
-Antimycobacterial Drugs,4
+Epistaxis,4
+Hemoglobin,4
 Inhalational Anesthetics,4
-Autopsy Techniques,4
+Pituitary Gland,4
+Fetal Presentation,4
 Oligohydramnios,4
 Coagulation,4
-Femoral Nerve,4
-Anaerobic Bacteria,4
-Enzyme Kinetics,4
-Hemoglobin,4
-Fetal Anomalies,4
-Cervical Dysplasia,4
-Hypernatremia,4
-Cardiomyopathy,4
-Acid Base Balance,4
-Head And Neck Lymphatics,4
-Abdominal Vessels,4
-Hepatobiliary System,4
-Bacterial Cell Wall,4
-Genetic Counseling,4
-Pancreatic Surgery,4
-Biliary Tract,4
-Immunopharmacology,4
-Health Policy,4
-Bacterial Meningitis,4
-Cerebrospinal Fluid,4
-Cholera,4
-Typhoid Fever,4
-Ecg Interpretation,4
-Hand And Wrist,4
-Pelvic Fascia,4
-Pancreas,4
-Hand Muscles,4
-Metabolic Bone Diseases,4
-Spleen,4
-Pediatric Dosing,4
-Cell Death,4
+Hypercalcemia,4
+Myasthenia Gravis,4
+Autopsy Techniques,4
+Nasopharynx,4
+Neonatal Care,4
 Colorectal Cancer,4
-Free Radicals And Antioxidants,4
-Cell Membrane Transport,4
-Clubfoot,4
-Drugs For Gout,4
-Shoulder,4
+Acid Base Balance,4
 Peripheral Artery Disease,4
-Pain Management,4
-Osteonecrosis,4
-Leptospirosis,4
-Ankle Injuries,4
-Optic Neuritis,4
-Cleft Lip And Palate,4
-Antianginal Drugs,4
-Systemic Mycoses,4
+Vaginitis,4
+Alcohol Use Disorder,4
+Chronic Pancreatitis,4
+Femoral Nerve,4
+Axilla,4
+Head And Neck Lymphatics,4
+Pancreas,4
+Abdominal Vessels,4
+Menstrual Cycle,4
+Hepatobiliary System,4
+Mechanical Asphyxia,4
 Malabsorption,4
-Mycoplasma,4
+Ichthyosis,4
+Clubfoot,4
+Sepsis,4
+Filariasis,4
+Dermatological Signs,4
+Histopathology,4
+Hand And Wrist,4
+Systemic Pathology,4
+Radiation Oncology,4
+Alzheimer'S Disease,4
+Enzyme Kinetics,4
+Cardiovascular Drugs,4
+Levels Of Prevention,4
+Osteonecrosis,4
+Genitourinary Radiology,4
+Sexual Assault,4
+Antimycobacterial Drugs,4
+Ankle Injuries,4
+Autoimmune Blistering Diseases,4
+Shoulder,4
 Pediatric Emergencies,4
-Pentose Phosphate Pathway,4
+Plasma Cell Disorders,4
+Cervical Dysplasia,4
+Ans Pharmacology,4
+Cell Death,4
+Pelvimetry,4
+History Of Anaesthesia,4
+Cleft Lip And Palate,4
+Fluid And Electrolyte Balance,4
+Gynecological Oncology,4
+Sweat Gland Disorders,4
+Optic Neuritis,4
+Spinal Deformities,4
+Pancreatic Surgery,4
+Cns Stimulants,4
+Laryngeal Disorders,4
+Head And Neck Oncology,4
+Barbiturates,4
+Special Senses,4
+Nasal Surgery,4
+Health Policy,4
+Pericardial Diseases,4
+Hypernatremia,4
+Lymphatic Drainage,4
+Pelvic Fascia,4
+Copper Metabolism,4
+Androgens,4
+Sutures,4
+Cardiac Arrest,4
+Dermatologic Signs,4
+Cerebrospinal Fluid,4
+Vitreous,4
+Systemic Mycoses,4
 Disease Transmission,4
-Collagen,3
-Anxiolytics,3
-Plasma Expanders,3
-Diabetic Neuropathy,3
-Cardiovascular Drugs,3
-Neuromuscular Pharmacology,3
-Medical Legislation,3
-Antihistamines,3
-Neonatal Jaundice,3
-Arboviruses,3
-Neisseria Gonorrhoeae,3
-Neuroblastoma,3
-Herpesviridae,3
-Frostbite,3
-Galactose Metabolism,3
-Appetite Regulation,3
-CNS Drugs,3
-History Of Microbiology,3
-Neurological Disorders,3
-Antidepressant Drugs,3
-Glycogen Metabolism,3
-Vaccine Storage,3
-Health Economics,3
-Immunoglobulins,3
-Breathing Circuits,3
-Habit Disorders,3
-Starvation Metabolism,3
-Compartment Syndrome,3
-Brainstem,3
-Intestinal Protozoa,3
-Head Injury Assessment,3
-Juvenile Idiopathic Arthritis,3
-Trigeminal Nerve,3
-Alopecia,3
-Helminth Morphology,3
-Foreign Body Airway Obstruction,3
-Clinical Signs,3
-Pancreatic Cancer,3
-Adenomyosis,3
-Subclavian Artery,3
-Nematodes,3
-Carbohydrate Chemistry,3
-Astigmatism,3
-Fetal Surveillance,3
-Coronary Circulation,3
-Measures Of Disease Frequency,3
-Antimicrobial Susceptibility Testing,3
+Antianginal Drugs,4
+Urolithiasis,4
+Cardiomyopathy,4
+Impulse Control Disorders,4
+Gastric Surgery,4
+Immunopharmacology,4
+Genetic Counseling,4
+Pentose Phosphate Pathway,4
+Parasomnia,4
+Antiulcer Drugs,4
+Cell Membrane Transport,4
+Sensory Receptors,4
+Coxa Vara,4
+Hip Disorders,4
+Legg-Calvé-Perthes Disease,4
+Bacterial Cell Wall,4
+Eyelid Disorders,4
+Perception,4
+Bacterial Meningitis,4
+Skull Foramina,4
+Typhoid Fever,4
+Patellofemoral Disorders,4
+Pediatric Dosing,4
+Free Radicals And Antioxidants,4
+Cholera,4
+Lymphomas,4
+Radiation Dose,4
+Laryngeal Muscles,4
+Hand Anatomy,4
+Pain Management,4
+Chronic Suppurative Otitis Media,4
+Autism Spectrum Disorder,4
+Metabolic Bone Diseases,4
+Dental Anatomy,4
+Drugs For Gout,4
+Leptospirosis,4
+Sampling Methods,4
+Fetal Anomalies,4
+Hand Muscles,4
+Plant Poisons,4
+Meniere Disease,4
+Episiotomy,4
+Heavy Metal Poisoning,4
 Rickettsial Diseases,3
-Trace Elements,3
-Conjunctival Lesions,3
+CNS Drugs,3
+Delusion,3
+Acute Kidney Injury,3
+Foreign Body Airway Obstruction,3
+Dream Theory,3
+Extrapyramidal Side Effects,3
+Sleep Apnea,3
+Heart Sounds,3
+Hepatitis B,3
+Eustachian Tube,3
+Perceptual Disorders,3
+Neuromuscular Pharmacology,3
+Skin Appendages And Their Disorders,3
+Abdominal Radiology,3
+Salivary Gland,3
+Amino Acids And Proteins Chemistry,3
+Urogenital Radiology,3
+Dehydration,3
+Glycogen Metabolism,3
+Listeria,3
+Breathing Circuits,3
+Enterococci,3
+Surgical Prophylaxis,3
+Spinal Cord,3
+Porphyria,3
+Abdominal Regions,3
 Sulfur Metabolism,3
-Microscopy,3
-Cellular Adaptations,3
-External Cephalic Version,3
-Hydatid Disease,3
-Bruises,3
+Trace Elements,3
+Anatomical Planes,3
+Subarachnoid Hemorrhage,3
+Pancreatic Carcinoma,3
+Neurocognitive Disorders,3
+Uterine Involution,3
+Lacrimal System,3
+Optic Nerve,3
+Community Health Workers,3
+Radial Nerve,3
+Neck Masses,3
+Sleep Hygiene,3
+Vitreous Hemorrhage,3
+Actinomycosis,3
+Osteoporosis,3
+Gastroesophageal Reflux Disease,3
+Arthroscopy,3
+Onychomycosis,3
+Calcification,3
 Lipoprotein Disorders,3
 Uronic Acid Pathway,3
-Menopause Management,3
-Ocular Pharmacology,3
-Obstetric Anaesthesia,3
-Vulvar Pathology,3
-Sleep Apnea,3
-Fetal Medicine,3
-Liver Anatomy,3
-Bullous Diseases,3
-Maternal Health,3
-Infant Feeding,3
-Mechanical Ventilation,3
-Amino Acid Chemistry,3
-Surgical Prophylaxis,3
-Birth Injuries,3
-Episiotomy Repair,3
-Craniovertebral Junction,3
-Uterine Support,3
-Oncogenes,3
-Perthes Disease,3
-Mineral Metabolism,3
-Salivary Gland,3
-Ventilation Perfusion Matching,3
-Spinal Cord Lesions,3
-Dehydration,3
-Hiv,3
-Hearing Loss Diagnosis,3
-Cardiac Imaging,3
-Semen Detection,3
-Molecular Diagnostics,3
-Arterial Anastomoses,3
-Radiation Hazards,3
-Surgical Materials,3
-Systemic Sclerosis,3
-Crystal Arthropathy,3
-Compartment Syndromes,3
-Metabolic Acidosis,3
-Signal Transduction,3
-Social Sciences,3
-Neurocognitive Disorders,3
-Air Pollution,3
-History Of Psychiatry,3
-Ophthalmic Optics,3
-Fetal Presentation,3
-Proteins,3
-Skeletal System,3
-Regeneration,3
-Catecholamine Metabolism,3
-Estrogens,3
-Aortic Imaging,3
-Systemic Pathology,3
-Myelodysplastic Syndromes,3
-Serotonin Metabolism,3
-Transplantation,3
-Thoracic Surgery,3
-Visual Fields,3
-Fatty Liver,3
-Eyelid Anatomy,3
-Basic Life Support,3
-Transfusion Reactions,3
+Liver Transplantation,3
+Neurological Disorders,3
+Adrenergic Agonists,3
+Antiretroviral Drugs,3
+Erythroderma,3
 Reflexes,3
+Hypoglycemia,3
+Antifungal Therapy,3
+Encephalitis,3
+Anterior Cerebral Artery,3
+Abortion,3
+History Of Psychiatry,3
+Atrial Fibrillation,3
+Trigeminal Nerve,3
+Cardiac Imaging,3
+Antepartum Hemorrhage,3
+Subclavian Artery,3
+Brainstem,3
+Vesiculobullous Diseases,3
+Coronary Circulation,3
+Perthes Disease,3
+Lumbar Plexus,3
+Aortic Arch,3
+Attention Deficit Hyperactivity Disorder,3
+Neonatal Jaundice,3
+Visual Fields,3
+Eyelid Anatomy,3
+Conjunctival Lesions,3
+Pre-Anaesthetic Evaluation,3
+Hearing Loss Diagnosis,3
+Hiv,3
+Menopause Management,3
+Amino Acid Chemistry,3
+Obstetric Anaesthesia,3
+Herpesviridae,3
+Vulvar Pathology,3
+Head Injury Assessment,3
+Proteoglycans,3
+Pancreatic Cancer,3
+Hydatid Disease,3
+Astigmatism,3
+Anti-Tubercular Drugs,3
+Clinical Signs,3
+Infant Feeding,3
+Measures Of Disease Frequency,3
+Thyroid Gland,3
+Mineral Metabolism,3
+Nephrotoxicity,3
+Ventilation Perfusion Matching,3
+Urological Procedures,3
+Organ Donation,3
 Graves Disease,3
 Mediastinal Compartments,3
-Neck Masses,3
-Optic Nerve,3
-Pancreatic Disorders,3
-Lacrimal System,3
-Maternal Mortality Ratio,3
-Abortion,3
-Atherosclerosis,3
-Obsessive Compulsive Disorder,3
-Antiretroviral Drugs,3
-Subarachnoid Hemorrhage,3
-Fetal Physiology,3
-Progestins,3
-Hepatitis B,3
-Antepartum Hemorrhage,3
-Skeletal Radiology,3
-Atrial Fibrillation,3
+Crystal Arthropathy,3
+Systemic Sclerosis,3
 Cardiogenic Shock,3
-Organ Donation,3
+Surgical Materials,3
+Introduction To Pathology,3
+Cranial Nerve Nuclei,3
+Diabetic Neuropathy,3
+Antiemetics,3
+Molecular Diagnostics,3
+Insulin Secretion,3
+Habit Disorders,3
+Acute Leukemia,3
+Gastric Secretions,3
+Spinal Cord Lesions,3
+Kidney,3
+External Cephalic Version,3
+Nocturnal Enuresis,3
+Inferential Statistics,3
+Inheritance Patterns,3
+Obsessive Compulsive Disorder,3
+Vitamin A Deficiency,3
+Mental Status Examination,3
+Bio-Medical Waste Management,3
+Ocular Motility,3
+Leishmaniasis,3
+Progestins,3
+Health System,3
+Spermatic Cord,3
+Blindness,3
+Semen Detection,3
+Leukemias,3
+Antibiotic Resistance,3
+Laryngeal Neoplasms,3
+Gender Dysphoria,3
+Pancreatic Disorders,3
+Neuro Ophthalmology,3
+Staphylococcus,3
 Salivary Gland Disorders,3
-Angiogenesis,3
-Neurodegenerative Disorders,3
+Facial Nerve Palsy,3
+Catecholamine Metabolism,3
+Signal Transduction,3
+Metabolic Acidosis,3
+Carpal Bones,3
+Oral Cavity Anatomy,3
+Miscellaneous Disorders,3
 Teratogenicity,3
+Chickenpox,3
+Galactose Metabolism,3
+Control Of Breathing,3
+Somatization Disorder,3
+Birth Injuries,3
+History Of Microbiology,3
+Maternal Mortality Ratio,3
+Episiotomy Repair,3
+E. Coli,3
+Sexual Offenses,3
+Bullous Diseases,3
+Craniovertebral Junction,3
+Transfusion Reactions,3
+Mechanical Ventilation,3
+Serotonin Metabolism,3
+Estrogens,3
+Myopia,3
+Vaccine Storage,3
+General Surgery,3
+Skeletal System,3
+Lipoproteins,3
+Arterial Anastomoses,3
+Antiprotozoal Drugs,3
+Cervical Incompetence,3
+Megaloblastic Anemia,3
+Cellular Immunity,3
+Iv Fluids,3
+Arrhythmia,3
+Biliary Tract Neoplasms,3
+Pcpndt Act,3
+Plasma Cell Neoplasms,3
+Ocular Surface Disease,3
+Postpartum Hemorrhage Management,3
+Proteins,3
+Precocious Puberty,3
+Wound Care,3
+Radiation Effects,3
+Regeneration,3
+Atherosclerosis,3
+Klebsiella,3
+Obstetric Terminology,3
+Aortic Dissection,3
+Anticholinesterase Agents,3
+Febrile Seizures,3
+Protein Binding,3
+Arboviruses,3
+Compartment Syndrome,3
+Vasa Previa,3
+Adenomyosis,3
+Fetal Monitoring,3
+CNS Physiology,3
+Aortic Imaging,3
+Fetal Surveillance,3
+Liver Anatomy,3
+Transplantation,3
+Vitamin Deficiencies,3
+Neck Anatomy,3
+Phototherapy,3
+Biologic Agents,3
+Pityriasis Rubra Pilaris,3
+Acute Scrotum,3
+Oral Hypoglycemics,3
+Vitamin K Metabolism,3
 Parkinson'S Disease,3
+Puberty,3
+Contrast Media,3
+Thyroid Pathology,3
+Cryptorchidism,3
+Helminth Morphology,3
+Nematodes,3
+Portal Hypertension,3
+Neurodegenerative Disorders,3
+Infections of Bone & Joint,3
+Antiseptics And Disinfectants,3
+Achalasia,3
+Gerd,3
+Fluid And Electrolytes,3
+Endophthalmitis,3
+Osmotic Diuretics,3
+Gastric Cancer,3
+Syndromic Surveillance,3
+Tachypnea,3
+Court Of Law,3
+Antimicrobial Susceptibility Testing,3
+Occupational Deafness,3
+Bioterrorism Agents,3
+Vestibular System,3
+Intestinal Protozoa,3
+Antihelminthic Drugs,3
+Collagen,3
+Anxiolytics,3
+Angiogenesis,3
+Surgical Knots,3
+Myelodysplastic Syndromes,3
 Lithium,3
 Anticonvulsants,3
-Gerd,3
-Antihelminthic Drugs,3
-Biliary Tract Neoplasms,3
-Contrast Media,3
-Osmotic Diuretics,3
-Antiseptics And Disinfectants,3
-Iron Preparations,3
-Glasgow Coma Scale,3
-Oral Hypoglycemics,3
-Scoliosis,3
-Biologic Agents,3
-Dental Eruption,3
-Eyelid Disorders,3
-Vitamin Deficiencies,3
-Pupillary Reflexes,3
-Staphylococcus,3
-Congenital Heart Disease Imaging,3
-Musculoskeletal Imaging,3
-Anti-Tubercular Drugs,3
-Chickenpox,3
-Vitamin A Deficiency,3
-Neck Anatomy,3
-Vitamin K Metabolism,3
-Carpal Bones,3
-Anticholinesterase Agents,3
-Thyroid Gland,3
-Spinal Cord,3
-Kidney,3
-Anterior Cerebral Artery,3
-Cranial nerves,3
-Endophthalmitis,3
-Abdominal Regions,3
-Anatomical Planes,3
-Insulin Secretion,3
-Gastric Secretions,3
-Radial Nerve,3
-Parvovirus B19,3
-Sodium Disorders,3
-Phototherapy,3
-Cervical Incompetence,3
-Obstetric Terminology,3
-Calcification,3
-Postpartum Hemorrhage Management,3
-Cellular Immunity,3
-Thrombocytopenia,3
-Tachypnea,3
-Pharmacognosy,3
-Lipoproteins,3
-Liver Transplantation,3
-Leishmaniasis,3
-Blindness,3
-Eustachian Tube,3
-Pcpndt Act,3
-Wound Care,3
-Antiulcer Drugs,3
-Iv Fluids,3
-Nephrotoxicity,3
-Vasa Previa,3
-Selective Estrogen Receptor Modulators,3
-Acute Leukemia,3
-Oral Contraceptives,3
-Urological Procedures,3
-Antiemetics,3
-Vitiligo,3
-Proteoglycans,3
-Pityriasis Rubra Pilaris,3
-Onychomycosis,3
-Urogenital Radiology,3
-Lumbar Plexus,3
-Control Of Breathing,3
-Perceptual Disorders,3
-Delusion,3
-Extrapyramidal Side Effects,3
-Aortic Arch,3
-Spermatic Cord,3
-Precocious Puberty,3
-Antibiotic Resistance,3
-Puberty,3
-Oral Cavity Anatomy,3
-Abdominal Radiology,3
-Sleep Hygiene,3
-Myopia,3
-Encephalitis,3
-Leukemias,3
-Hypoglycemia,3
-Vitreous Hemorrhage,3
-Ocular Motility,3
-Community Health Workers,3
-Acute Kidney Injury,3
-Heart Sounds,3
-Inheritance Patterns,3
-Tourette Syndrome,3
-Klebsiella,3
-Inferential Statistics,3
-Arrhythmia,3
-Enterococci,3
-Health System,3
-Cryptorchidism,3
-Gastric Cancer,3
-Achalasia,3
-Listeria,3
-Nocturnal Enuresis,3
-Protein Binding,3
-Lymphedema,3
-Actinomycosis,3
-Porphyria,3
-Peripheral Neuropathy,3
-Skin Appendages And Their Disorders,3
-Erythroderma,3
-Antifungal Therapy,3
-Tonsillitis,3
-Vesiculobullous Diseases,3
-Genitourinary Radiology,3
-Pancreatic Carcinoma,3
-Infant Mortality,3
-Gastroesophageal Reflux Disease,3
-Uterine Involution,3
-Court Of Law,3
-Adenoids,3
-Occupational Deafness,3
-Arthroscopy,3
+Fatty Liver,3
 Septoplasty,3
-Infections of Bone & Joint,3
-Excretory System,3
-Ocular Surface Disease,3
-Radiation Effects,3
-Plasma Cell Neoplasms,3
-Fetal Monitoring,3
-Dream Theory,3
-General Surgery,3
-Ans Pharmacology,3
-Bioterrorism Agents,3
-Acute Scrotum,3
-Systemic Lupus Erythematosus,3
+Adenoids,3
+Antihistamines,3
+Juvenile Idiopathic Arthritis,3
+Iron Preparations,3
+Parvovirus B19,3
+Antidepressant Drugs,3
+Alopecia,3
+Plasma Expanders,3
 Tonsil Disorders,3
-Mental Status Examination,3
-Vestibular System,3
+Medical Legislation,3
+Excretory System,3
+Tonsillitis,3
+Bruises,3
+Tourette Syndrome,3
+Cellular Adaptations,3
+Compartment Syndromes,3
+Thoracic Surgery,3
+Ocular Pharmacology,3
+Vitiligo,3
+Pharmacognosy,3
+Peripheral Neuropathy,3
+Basic Life Support,3
+Fetal Medicine,3
+Starvation Metabolism,3
+Dental Eruption,3
+Systemic Lupus Erythematosus,3
+Carbohydrate Chemistry,3
+Selective Estrogen Receptor Modulators,3
+Lymphedema,3
+Scoliosis,3
+Oral Contraceptives,3
+Appetite Regulation,3
+Frostbite,3
+Sodium Disorders,3
+Pupillary Reflexes,3
+Thrombocytopenia,3
+Oncogenes,3
+Sexual Jurisprudence,3
+Ophthalmic Optics,3
+Social Sciences,3
+Radiation Hazards,3
 Neurotransmitters,3
-E. Coli,3
-Somatization Disorder,3
-Fluid And Electrolytes,3
-Bio-Medical Waste Management,3
-Laryngeal Neoplasms,3
-Thyroid Pathology,3
-Attention Deficit Hyperactivity Disorder,3
-Gender Dysphoria,3
-Syndromic Surveillance,3
-Medical jurisprudence,3
-Febrile Seizures,3
-Portal Hypertension,3
-Necrosis,2
-Amniotic Band Syndrome,2
-Osteoporosis,2
-Foodborne Illnesses,2
-Muscles Of The Head And Neck,2
-Parotid Gland,2
-Bone lesions,2
-Arteries,2
-Anthrax,2
-Dermatomes,2
-Maternal Health Indicators,2
-Clinical Specimen Collection,2
-Staphylococci,2
-Pupillary Reflex,2
-Pediatric Anesthesia,2
-Infant Mortality Rate,2
-Selection Bias,2
-Pertussis,2
-Cardiac Tamponade,2
-Fat Embolism,2
-Peripheral Arterial Disease,2
-Fluorosis,2
-Lipid Transport,2
-Pneumoperitoneum,2
-Lighting,2
-Electrophysiology,2
-Fragile X Syndrome,2
-Eclampsia,2
-Liver Function Tests,2
-Clinical Trials,2
-Pediatric surgery,2
-Vision 2020,2
-Facial Nerve Palsy,2
-Enterobacteriaceae,2
-Contrast agents,2
-Surgical Knots,2
-Transplant Surgery,2
-Anticholinergic Drugs,2
-Muscarinic Antagonists,2
-Ace Inhibitors,2
-Cancer Staging,2
-Glucocorticoids,2
-Ovarian Reserve Assessment,2
-Cervical Cancer Screening,2
-Antidiarrheal Drugs,2
-Calcium Homeostasis,2
-Electromyography,2
-Penile Cancer,2
-Anorectal Surgery,2
-Adverse Drug Effects,2
-Manner Of Death,2
-Drug metabolism,2
-Carbon Monoxide Poisoning,2
-Aortic Aneurysm,2
-Neoplasms,2
-Urogenital System,2
-Endoscopy,2
-Biomedical waste management,2
-Criminal law,2
-Ballistic Injuries,2
-Antioxidants,2
-Strabismus Diagnosis,2
-Extracellular Matrix,2
-Gram-Positive Bacteria,2
-Universal Precautions,2
-Biliary System,2
-Surgical instruments,2
-Streptococcus,2
-Macrocytic Anemia,2
-Preoperative Evaluation,2
-Maternal Physiology,2
-Adrenergic Agonists,2
-Kawasaki Disease,2
-Cardiopulmonary Resuscitation,2
-Metaboelic Disorders,2
-Thiazide Diuretics,2
-Nerve Fiber Classification,2
-Shoulder Region,2
-General Anaesthesia,2
-Bone Imaging,2
-Damage Control Surgery,2
-Vitamin C,2
-Coeliac Trunk,2
-Pituitary Adenoma,2
-Liver Transplant,2
-Heart Failure,2
-Familial Hypercholesterolemia,2
-Cholelithiasis,2
-Bias In Screening,2
-Antiemetic Side Effects,2
-Insulin Resistance,2
-Infectious Dermatoses,2
-Visual Acuity,2
-Sulfonylureas,2
-Colorectal Polyps,2
-Salivary Gland Imaging,2
-Hemolytic Uremic Syndrome,2
-Oxygen Delivery Systems,2
-Heme Metabolism,2
-Standardization,2
-Carrier State,2
-Laryngeal Nerve Palsy,2
-Mastoidectomy,2
-Puerperium,2
-Extrapyramidal Symptoms,2
-Psychology,2
-Drug Administration,2
-Mri Safety,2
-Resuscitation,2
-Gunshot Wounds,2
-Diabetic Emergencies,2
-Glomerulonephritis,2
-Irritable Bowel Syndrome,2
-Choledocholithiasis,2
-Health Services Evaluation,2
-Laryngology,2
-Stroke Management,2
-Subcutaneous Mycoses,2
-Pre-Eclampsia Eclampsia Management,2
-Csf Leak,2
-Nasal Polyposis,2
-Neonatal Skin Disorders,2
-Vasomotor Rhinitis,2
-Mental Health Act,2
-Immunodeficiency Disorders,2
-Anesthesia Equipment,2
-Meniere'S Disease,2
-Mutation,2
-Sexual Assault Examination,2
-Spinal Disorders,2
-Demographic Transition,2
-Cholinergic Agonists,2
-Aphasia,2
-Bacterial Culture,2
-Hearing,2
-Caldwell-Luc Surgery,2
-First Trimester,2
-Orbital Pathology,2
-Horner Syndrome,2
-Sexual Offenses,2
-Ards,2
-Primary Survey,2
-Rhabdomyolysis,2
-Waterborne Diseases,2
-Mucopolysaccharidoses,2
-Neck Dissection,2
-Screening Tests,2
-Fluid Therapy,2
-Scrotal Swelling,2
-Nutrition & Health,2
-Polycystic Ovary Syndrome,2
-Pheochromocytoma,2
+Maternal Health,3
+Air Pollution,3
+Waterborne Diseases,3
+Congenital Heart Disease Imaging,3
+Skeletal Radiology,3
+Musculoskeletal Imaging,3
+Infant Mortality,3
+Glasgow Coma Scale,3
+Neisseria Gonorrhoeae,3
+Immunoglobulins,3
+Fetal Physiology,3
+Poisoning,3
+Microscopy,3
+Neuroblastoma,3
+Platelet And Bleeding Disorders,3
+Health Economics,3
+Conjunctival Disorders,3
 High Altitude Physiology,2
-Genital Warts,2
-Hepatobiliary Pathology,2
-Bronchiectasis,2
-Anal Carcinoma,2
-Placental Hormones,2
-Follicular Lymphoma,2
-Lymph Node,2
-Postoperative Care,2
+"Neurotic, Stress-Related And Somatoform Disorders",2
+Alkaptonuria,2
+Gangliosidoses,2
+Preoperative Evaluation,2
+Primary Survey,2
+Meniere'S Disease,2
+Heparin-Induced Thrombocytopenia,2
+Hearing,2
+Krebs Cycle,2
+Pheochromocytoma,2
+Gastric Secretion,2
+Glucocorticoids,2
+Fluid Therapy,2
+Death Certificate,2
+Laryngeal Pathology,2
+Mucopolysaccharidoses,2
+Fluorosis,2
+Cardiac Glycosides,2
+Purine Biosynthesis,2
+Skin Conditions,2
+Ace Inhibitors,2
+Lighting,2
+Chemotherapy Agents,2
+Oxygen Delivery Systems,2
+Barium Swallow,2
+Pre-Eclampsia Eclampsia Management,2
+Stroke Management,2
+Edema,2
+Ards,2
+Gestational Age Estimation,2
+Fragile X Syndrome,2
+Fetal Biometry,2
+Nasal Polyposis,2
+Csf Leak,2
+Glucose Homeostasis,2
 Free Radicals,2
-Infections of Skin,2
-Feeding And Eating Disorders,2
-Parasomnias,2
-Phobias,2
-Anesthesia Circuits,2
-Cyclothymia,2
-Analgesics,2
-Pediatric Radiology,2
-Chest Imaging,2
-Rib Notching,2
-Local Anaesthesia,2
-Regional Anesthesia,2
-Balanced Anaesthesia,2
-Mediastinum,2
-Behçet'S Syndrome,2
-History Taking,2
-Lupus Vulgaris,2
-Dermatitis Herpetiformis,2
-Tinea Capitis,2
-Contact Dermatitis,2
-Eczema,2
-Trichomoniasis,2
-Endometrial Hyperplasia,2
-Malpresentation,2
-Enuresis,2
-Cesarean Section,2
+Contraceptives,2
+Ovarian Reserve Assessment,2
+Colorectal Polyps,2
+Shigella,2
+Mucopolysaccharidosis,2
+Patent Ductus Arteriosus,2
+Connective Tissue Biochemistry,2
+Anticholinergic Drugs,2
+Arteriosclerosis,2
+Vasomotor Rhinitis,2
+Muscarinic Antagonists,2
+Anal Carcinoma,2
+Heme Metabolism,2
+Subcutaneous Mycoses,2
+Antidiarrheal Drugs,2
+Screening Tests,2
+Carbohydrates,2
+Electrophysiology,2
+Liver Function Tests,2
+Foodborne Illnesses,2
+Shoulder Region,2
+Nerve Fiber Classification,2
+Hepatobiliary Pathology,2
+Neck Dissection,2
+Glomerulonephritis,2
+Thiazide Diuretics,2
+Clinical Specimen Collection,2
+Macrocytic Anemia,2
+Cholinergic Agonists,2
+Metaboelic Disorders,2
+Cardiopulmonary Resuscitation,2
+Bronchiectasis,2
+Digoxin Toxicity,2
+Staphylococci,2
+Antipsychotic Side Effects,2
+Intermediate Filaments,2
+Anthrax,2
+Alcohol Intoxication,2
+Antiemetic Side Effects,2
+Sexual Assault Examination,2
 Oxygen Transport,2
+Enterobacteriaceae,2
+Medical Law,2
+Health Care Of The Community In India,2
+Mental Health Act,2
+Universal Precautions,2
+General Anaesthesia,2
+Orbital Pathology,2
+Puerperium,2
+Selection Bias,2
+Epilepsy,2
+Adverse Drug Effects,2
+Strabismus Diagnosis,2
+Caldwell-Luc Surgery,2
+Synaptic Transmission,2
+Enzyme Classification,2
+Routes Of Administration,2
+Glycosylation,2
+Heart Failure,2
+Pertussis,2
+Clostridium,2
+Varicella,2
+Gram-Positive Bacteria,2
+Biliary System,2
+Dermatomes,2
+Diabetic Emergencies,2
+Antidotes,2
+Irritable Bowel Syndrome,2
+Infectious Dermatoses,2
+Gunshot Wounds,2
+Choledocholithiasis,2
+Horner Syndrome,2
+Rhabdomyolysis,2
+Bias In Screening,2
+Infant Mortality Rate,2
+Familial Hypercholesterolemia,2
+Manner Of Death,2
+Ballistic Injuries,2
+Vitamin C,2
+Insulin Therapy,2
+Laryngology,2
+Neurotology,2
+Steroidogenesis,2
+Carpal Tunnel Syndrome,2
 Short Bowel Syndrome,2
 Biliary Disease,2
-Mucopolysaccharidosis,2
+Hyperkalemia,2
 Pleural Diseases,2
-Gangliosidoses,2
-Krebs Cycle,2
+Electrolyte Disturbances,2
 Dysmorphic Syndromes,2
-Glycosylation,2
-Carbohydrates,2
-Enzyme Classification,2
-Intermediate Filaments,2
-Cervical Vertebrae,2
-Synaptic Transmission,2
+Steroid Biosynthesis,2
+Anal Fissure,2
 Elbow,2
-Gastric Secretion,2
-Carpal Tunnel Syndrome,2
-Steroidogenesis,2
+Pneumocystis Pneumonia,2
+Ankylosing Spondylitis,2
+Infantile Spasm,2
+Vertebral Anomalies,2
+Cervical Insufficiency,2
 Benign Bone Lesions,2
-Adrenergic Pharmacology,2
-Thymus,2
-Notochord,2
+Musculoskeletal Disorders In Children,2
 Uterine Adhesions,2
-Urinary Incontinence,2
-Pulmonary Mechanics,2
-Osteoarthritis,2
-Fibrinolytics,2
-Antiprotozoal Drugs,2
-Megaloblastic Anemia,2
-Cirrhosis,2
-Raised Intracranial Pressure,2
-Calcium Channel Blockers,2
-Oculoplasty,2
-Hypertensive Retinopathy,2
-Nystagmus,2
-Infectious Eye Diseases,2
-Tracheostomy,2
-Tympanoplasty,2
-Urethral Injuries,2
-Nasal Septum,2
-Mastoid Surgery,2
-Wounds,2
-Tympanic Membrane,2
-Strangulation,2
-Infanticide,2
-Neurotology,2
-Noncommunicable Diseases,2
-Yellow Fever,2
-Disability,2
-Neuromuscular Junction Disorders,2
-Thoracic Outlet Syndrome,2
-Traction,2
-Slipped Capital Femoral Epiphysis,2
-Receptor Pharmacology,2
+Obstructive Sleep Apnea,2
+Uterus,2
+Cesarean Section,2
+Skeletal Dysplasias,2
+Malpresentation,2
+Infections of Skin,2
+Diabetic Ketoacidosis,2
+Xerophthalmia,2
+Laparoscopic Surgery,2
+Immunodeficiency Disorders,2
+Pityriasis Rosea,2
 Myositis Ossificans,2
-Neurotransmitter Biochemistry,2
+Alopecia Areata,2
+Pemphigus Vulgaris,2
+Pemphigus,2
+Streptococci,2
+Orbital Diseases,2
+Bacterial Morphology,2
 Hallux Valgus,2
+Dermatological Pharmacology,2
 Bone Metastasis,2
 Spinal Canal Stenosis,2
 Cranial Nerve Disorders,2
+Malignant Hyperthermia,2
 Bone Diseases,2
-Radiological Lines,2
-Myocardial Infarction,2
-Aortic Dissection,2
-Hereditary Polyposis Syndromes,2
-Vertebral Anomalies,2
-Steroid Biosynthesis,2
-Anal Fissure,2
-Infantile Spasm,2
-Urinary Tract Pathology,2
-Weight Gain,2
-Hemorrhagic Shock,2
-Acute Leukemias,2
-Splenic Injury,2
-Scrotal Disorders,2
-Purine Biosynthesis,2
-Laparoscopic Surgery,2
-Cardiac Anatomy,2
-Edema,2
-Skin Lesions,2
-Lumbar Canal Stenosis,2
-Gynaecological Surgery,2
-Knee Disorders,2
-Homeostasis,2
-Parkinsonism,2
-Bioterrorism,2
-Auditory Physiology,2
-Hematopoiesis,2
-Micronutrient Deficiency,2
-Oral Cavity Cancer,2
-Esophageal Perforation,2
-Cleft Palate,2
-Anal Canal,2
-Liver Abscess,2
-Fistula In Ano,2
-Pain Medicine,2
-Foot And Ankle,2
-Mastectomy,2
-Skull,2
-Keratoderma,2
-Diabetic Ketoacidosis,2
-Obstructive Sleep Apnea,2
-Brachial Plexus Injuries,2
-Skeletal Dysplasias,2
-Uterus,2
-Ct Physics,2
-Cubital Fossa,2
-Benign Uterine Disorders,2
-Autism Spectrum Disorders,2
-Neuroleptic Malignant Syndrome,2
-Strychnine Poisoning,2
-Diagnostic Tests,2
-Mental State Examination,2
-Chest,2
-Pediatric Infectious,2
-Diabetic Ketoacidosis (Dka),2
-Ketamine,2
-Cervical Insufficiency,2
-Abdominal Wall Anatomy,2
-Pemphigus Vulgaris,2
-Pemphigus,2
-Adrenergic Drugs,2
-Dermatological Pharmacology,2
-Pityriasis Rosea,2
 Ovarian Cysts,2
-Airway Obstruction,2
-Hysterectomy,2
-Kaposi Sarcoma,2
-Ankylosing Spondylitis,2
-Pneumocystis Pneumonia,2
-Electrolyte Disturbances,2
-Heparin-Induced Thrombocytopenia,2
-Death Certificate,2
-Medical Law,2
-Insulin Therapy,2
-Contraceptives,2
-Medicolegal Autopsy,2
-Hanging,2
-Statins,2
-Chemotherapy Agents,2
-Streptococci,2
-Bacterial Morphology,2
-Cardiac Glycosides,2
-Endometrial Carcinoma,2
 Vital Statistics,2
-Epilepsy,2
-Antidotes,2
-Routes Of Administration,2
+Radiological Lines,2
+Slipped Capital Femoral Epiphysis,2
 Retinopathy Of Prematurity,2
-Arteriosclerosis,2
+Epidemiological Indicators,2
+Chemotherapy Of Specific Microbial Diseases,2
 Congenital Ocular Anomalies,2
 Fever,2
 Paraneoplastic Syndromes,2
-Malignant Hyperthermia,2
-Adrenergic Blockers,2
-Fetal Biometry,2
-Hyperkalemia,2
-Rubella,2
-Xerophthalmia,2
-Orbital Diseases,2
-Presbyopia,2
-Nerve Physiology,2
-Keratoconus,2
-Inverted Papilloma,2
-Tinnitus,2
-Integrated Metabolism,2
-Chronic Otitis Media,2
-Medical Entomology,2
-Tuberculosis Control,2
-Cystic Fibrosis,2
-Surveillance,2
-Prevention,2
-Ketone Bodies,2
-Babesiosis,2
-Enterococcus,2
-Shigella,2
-Clostridium,2
-Alcohol Intoxication,2
-Gestational Age Estimation,2
-Cell Cycle,2
-Patent Ductus Arteriosus,2
-Microcirculation,2
-Vitarmins,2
-Urogenital Imaging,2
-Coronary Artery Disease,2
-Dehydration Management,2
-Venous Disorders,2
-Paediatric Emergencies,2
-Amino Acid Metabolism Disorders,2
-Study Designs,2
-Thyroid Carcinoma,2
-Anaesthesia Equipment,2
-High Altitude Sickness,2
-Neonatal Dermatology,2
-Pelvic Inflammatory Disease Complications,2
-Drug Eruptions,2
-Humoral Immunity,2
-Musculoskeletal Anatomy,2
-Fetal Distress,2
-Antimetabolites,2
-Ldh Isoenzymes,2
-Aldosterone Regulation,2
-Allied Health Disciplines,2
-Bronchodilators,2
-Antiviral Pharmacology,2
-Prolactinoma,2
-Gastric Disorders,2
-Muscle Anatomy,2
-Inflammatory Arthritis,2
-Neonatal Seizures,2
-Biogenic Amines,2
-Pressure Ulcers,2
-Intraoperative Complications,2
-Varicella-Zoster Virus,2
-Dyslipidemia Drugs,2
-Paediatric Dermatology,2
+Weight Gain,2
+Hemorrhagic Shock,2
+Keratoderma,2
+Nasal Septum,2
+Infectious Eye Diseases,2
+Tracheostomy,2
+Calcium Channel Blockers,2
+Tympanoplasty,2
+Oral Cavity Cancer,2
+Fibrinolytics,2
+Esophageal Perforation,2
+Mastectomy,2
+Wounds,2
+Strangulation,2
+Infanticide,2
 Aging,2
-Child And Adolescent Psychiatry,2
-Intraocular Foreign Body,2
-Cardiac Output,2
-Varicella Zoster Virus,2
-"Neurotic, Stress-Related And Somatoform Disorders",2
-Surgical Techniques,2
-Sickle Cell Disease Complications,2
-Somatoform Disorders,2
-Gas Exchange,2
-Local Anaesthetic Toxicity,2
-Chemotherapy Of Specific Microbial Diseases,2
-Complex Regional Pain Syndrome,2
-Bacterial Vaginosis,2
-Induction Agents,2
-Vibrio Cholerae,2
-Pre-Anaesthetic Evaluation,2
-Male Sexual Dysfunction,2
-Psychodynamic Theories,2
-Musculoskeletal Disorders In Children,2
-Enzyme Inhibition,2
-Otitis Media Complications,2
-Brain Malformations,2
-Pelvic Ligaments,2
-Ischemic Heart Disease,2
-Uvea,2
-Hand Spaces,2
-Aortic Diseases,2
-Cellular Physiology,2
-Rigor Mortis,2
-Radiological Signs,2
-Transplant Rejection,2
-Alcoholic Liver Disease,2
-Metabolic Bone Disorders,2
-Knee Ligament Injuries,2
-Head Injuries,2
-Cranial Nerve Nuclei,2
-Abdominal Vasculature,2
-Pupil Disorders,2
-Xenobiotic Metabolism,2
-Neuromuscular Monitoring,2
-Neonatal Gi Disorders,2
-Anaesthesia Circuits,2
-Protein Degradation,2
-Skull Imaging,2
-Multiple Gestation,2
+Splenic Injury,2
+Foot And Ankle,2
+Lymph Node,2
+Bioterrorism,2
+Cleft Palate,2
+Disability,2
+Yellow Fever,2
+Mastoid Surgery,2
+Liver Abscess,2
+Noncommunicable Diseases,2
+Tympanic Membrane,2
+Fistula In Ano,2
+Hereditary Polyposis Syndromes,2
+Acute Leukemias,2
+Urinary Tract Pathology,2
+Nystagmus,2
+Anesthesia Circuits,2
+Depth Of Anaesthesia,2
+Analgesics,2
+Scrotal Disorders,2
+Pediatric Radiology,2
+Chest Imaging,2
+Thoracic Outlet Syndrome,2
+Brachial Plexus Injuries,2
+Urethral Injuries,2
+Lumbar Canal Stenosis,2
+Neuromuscular Junction Disorders,2
+Knee Disorders,2
+Mediastinum,2
+Cirrhosis,2
+Pulmonary Mechanics,2
+Raised Intracranial Pressure,2
+Hematopoiesis,2
+Oculoplasty,2
+Receptor Pharmacology,2
+Neurotransmitter Biochemistry,2
+Micronutrient Deficiency,2
+Myocardial Infarction,2
+Hypertensive Retinopathy,2
+Hanging,2
+Medicolegal Autopsy,2
+Traction,2
+Urogenital System,2
+Carbon Monoxide Poisoning,2
+Feeding And Eating Disorders,2
+Arteries,2
+Calcium Homeostasis,2
+Parasomnias,2
+Rubella,2
+Phobias,2
+Electromyography,2
+Aortic Aneurysm,2
+Cyclothymia,2
+Cancer Staging,2
+Cardiac Tamponade,2
+Coeliac Trunk,2
+Neurolathyrism,2
+Bleeding Disorders,2
+Postoperative Care,2
+Pupillary Reflex,2
+Parotid Gland,2
+Muscles Of The Head And Neck,2
+Benign Uterine Disorders,2
+Medical Entomology,2
+Strychnine Poisoning,2
+Diagnostic Tests,2
+Pediatric Infectious,2
+Cervical Cancer Screening,2
+Penile Cancer,2
+Lipid Transport,2
+Enuresis,2
+Transplant Surgery,2
+Spinal Disorders,2
+Neoplasms,2
+Aphasia,2
+Bacterial Culture,2
+Enterococcus,2
+Clinical Trials,2
+Eclampsia,2
+Adrenergic Pharmacology,2
+Thymus,2
+Notochord,2
+Babesiosis,2
+Maternal Health Indicators,2
+Cervical Vertebrae,2
+Extracellular Matrix,2
+Pediatric Anesthesia,2
+Necrosis,2
+Prevention,2
+Antioxidants,2
+Surveillance,2
+Endoscopy,2
+Tuberculosis Control,2
+Anorectal Surgery,2
+Diabetic Ketoacidosis (Dka),2
+Abdominal Wall Anatomy,2
+Osteoarthritis,2
+Eczema,2
+Inverted Papilloma,2
+Lupus Vulgaris,2
+Cutaneous Tuberculosis,2
+Dermatitis Herpetiformis,2
+Ct Physics,2
+Microcirculation,2
+Nerve Physiology,2
+Tinea Capitis,2
+Contact Dermatitis,2
+Allied Health Disciplines,2
+Integrated Metabolism,2
+Trichomoniasis,2
+Cardiac Anatomy,2
+Ketamine,2
+Endometrial Hyperplasia,2
+Urinary Incontinence,2
+Ketone Bodies,2
+Pressure Ulcers,2
+Keratoconus,2
+Presbyopia,2
+Cell Cycle,2
+Cystic Fibrosis,2
+Endometrial Carcinoma,2
+Adrenergic Blockers,2
+History Taking,2
+Skull,2
+Behçet'S Syndrome,2
+Pain Medicine,2
+Rib Notching,2
+Adrenergic Drugs,2
+Airway Obstruction,2
+Hysterectomy,2
+Local Anaesthesia,2
+Kaposi Sarcoma,2
+Regional Anesthesia,2
+Cubital Fossa,2
+Autism Spectrum Disorders,2
+Neuroleptic Malignant Syndrome,2
+Skin Lesions,2
+Mental State Examination,2
+Chest,2
+Gynaecological Surgery,2
+Homeostasis,2
+Chronic Otitis Media,2
+Head And Neck Radiology,2
+Parkinsonism,2
+Auditory Physiology,2
+Vitarmins,2
+Tinnitus,2
+Balanced Anaesthesia,2
+Anal Canal,2
+Kawasaki Disease,2
+Statins,2
 Uterine Imaging,2
-Regression Analysis,2
-Poisoning,2
-Neuro Ophthalmology,2
-Parasitic Diseases,2
-Substance Abuse,2
-Water Purification,2
-Japanese Encephalitis,2
-Wrist Dislocations,2
-Spinal Nerves,2
-Conjunctival Disorders,2
-Burn Management,2
-Esophageal Surgery,2
-Membrane Potentials,2
-Mitochondrial Disorders,2
-B Cell Activation,2
-Antibiotic Classification,2
-Benign Uterine Conditions,2
-Paternity,2
-Nitric Oxide,2
-Anaesthetic Complications,2
-Amino Acids And Proteins Chemistry,2
-Headache Disorders,2
-Health Program Evaluation,2
-Chronic Obstructive Pulmonary Disease,2
-Surgical Anatomy,2
-Cochlear Implants,2
+Nephrotic Syndrome,2
+Dyslipidemia Management,2
+Hypertension,2
+Lung Cancer,2
+Biliary System Diseases,2
+Pharmacokinetics Principles,2
+Pulmonary Hypertension,2
+Paediatric Emergencies,2
 Research Methodology,2
-Oral Lesions,2
-Miscellaneous Disorders,2
-Ocular Motility Disorders,2
-Population Dynamics,2
+Fertilization,2
+Abdominal Emergencies,2
+Fetal Lung Maturity,2
+Neonatal Skin Conditions,2
+Paediatric Dermatology,2
+Liver Diseases,2
+Diagnostic Test Evaluation,2
+Contraceptive Methods,2
+Autoimmune Disorders,2
+Health Program Evaluation,2
+Validity Of Screening Tests,2
+Mitochondrial Disorders,2
+Trigeminal Neuralgia,2
+Pde5 Inhibitors,2
+Intraoperative Complications,2
+Ischemic Heart Disease,2
+Neonatal Seizures,2
+Insulin Resistance,2
+Urological Oncology,2
+Organ Transplantation,2
+Urological Surgery,2
+Prokinetic Agents,2
+Emergency Medicine,2
+Bacterial Vaginosis,2
+Radiobiology,2
+Complex Regional Pain Syndrome,2
+Descriptive Statistics,2
+Male Sexual Dysfunction,2
+Transplant Rejection,2
+Nitric Oxide,2
+Spinal Imaging,2
+Hormonal Contraceptives,2
+Perinatal Hiv,2
+Vibrio Cholerae,2
 Cerebral Cortex,2
+Vaccination,2
+Bronchiolitis,2
+Pituitary Adenoma,2
+Liver Transplant,2
+Koebner Phenomenon,2
+Erythema Nodosum,2
+Rickets,2
+Extrapyramidal Symptoms,2
+Cholelithiasis,2
+Ascites,2
+Varicella Zoster Virus,2
+Damage Control Surgery,2
+Pancreatic Diseases,2
+Placenta Praevia,2
+Psychodynamic Theories,2
+Pituitary Hormones,2
+Eye Anatomy,2
+Follicular Lymphoma,2
+Pelvic Ligaments,2
+Venous Drainage,2
+Mutation,2
+Esophageal Surgery,2
+Thyroid Carcinoma,2
+Pelvic Inflammatory Disease Complications,2
+Urogenital Imaging,2
+Pigmented Purpuric Dermatoses,2
+Aldosterone Regulation,2
+Acne Vulgaris,2
+Contrast Agents,2
+Headache Disorders,2
+Laparoscopic Complications,2
+Ocular Motility Disorders,2
+Neonatal Gi Disorders,2
+Radiological Signs,2
+Standardization,2
+Carrier State,2
+Amino Acid Metabolism Disorders,2
+Child And Adolescent Psychiatry,2
 Serology,2
-Pharyngeal Disorders,2
+Varicella-Zoster Virus,2
+Musculoskeletal Anatomy,2
+Local Anaesthetic Toxicity,2
+Neuromuscular Monitoring,2
+Anaesthesia Circuits,2
+Skull Imaging,2
+Sulfonylureas,2
+Pneumoperitoneum,2
+Head Injuries,2
+Wrist Dislocations,2
+Surgical Anatomy,2
+Pupil Disorders,2
+Bullous Disorders,2
+Health Services Evaluation,2
+Humoral Immunity,2
+Drug Eruptions,2
+Antibiotic Classification,2
+Paternity,2
+Vision 2020,2
+Burn Management,2
+Demographic Transition,2
+Population Dynamics,2
+Streptococcus,2
 Radiographic Views,2
+Gastric Disorders,2
+Plant Poisoning,2
+Prolactinoma,2
+Ldh Isoenzymes,2
+Anticoagulant Therapy,2
+Intrauterine Fetal Death,2
+Peripheral Arterial Disease,2
+Parasitic Diseases,2
+Visual Acuity,2
+Fatty Acids,2
+Cardiac Imaging Findings,2
+Otitis Media Complications,2
+Pulmonary Pathology,2
+Tuberous Sclerosis,2
+Hemolytic Uremic Syndrome,2
+Immunosuppressive Drugs,2
+Japanese Encephalitis,2
+Allergic Bronchopulmonary Aspergillosis,2
+Muscular Dystrophies,2
+Dialysis Complications,2
+Optic Neuropathy,2
+Ectopia Lentis,2
+Antigout Drugs,2
+Amniotic Band Syndrome,2
+Gynaecological Cancers,2
+Polycystic Ovarian Syndrome,2
+Regression Analysis,2
+Hand Spaces,2
+Bone Neoplasms,2
+Sarcomas,2
+Xenobiotic Metabolism,2
+Hip Arthroplasty,2
+Larynx Anatomy,2
+Salivary Gland Imaging,2
+Fat Embolism,2
+Water Purification,2
+Laryngeal Nerve Palsy,2
+Mastoidectomy,2
+Head And Neck Neoplasms,2
+Sickle Cell Disease Complications,2
+Musculoskeletal System,2
+Antimicrobial Pharmacology,2
+Bone Imaging,2
+Gas Exchange,2
+Rigor Mortis,2
+Multiple Gestation,2
+Pulmonary Eosinophilia,2
+Coronary Artery Disease,2
+Study Designs,2
+High Altitude Sickness,2
+Fetal Distress,2
+Connective Tissue Diseases,2
+Induction Agents,2
+Gestational Age Calculation,2
+Neonatal Skin Disorders,2
+Somatoform Disorders,2
+Anesthesia Equipment,2
+Knee Ligament Injuries,2
+Abdominal Vasculature,2
+Cardiac Output,2
+Neonatal Dermatology,2
+Spinal Nerves,2
+Hip Dislocation,2
+Steroid Metabolism,2
+Ocular Surface Diseases,2
+Familial Adenomatous Polyposis,2
+Brain Malformations,2
+Pharyngeal Disorders,2
+Ocular Pathology,2
+Biogenic Amines,2
+Metabolic Bone Disorders,2
+Nutrition & Health,2
+Oral Lesions,2
+Resuscitation,2
+Cellular Physiology,2
+Substance Abuse,2
+Polycystic Ovary Syndrome,2
+Hyperlipoproteinemia,2
+Dehydration Management,2
+Health Administration,2
+Triage,2
+Antimetabolites,2
+Enzyme Inhibition,2
+Dyslipidemia Drugs,2
+First Trimester,2
+B Cell Activation,2
+Anemias,2
+Biliary Stones,2
+Placental Hormones,2
+Trauma Surgery,2
+Salivary Gland Pathology,2
+Uvea,2
+Immunomodulators,2
+Benign Uterine Conditions,2
+Child Abuse,2
+Abdominal Surgery,2
+Alcoholic Liver Disease,2
+Genital Warts,2
+Corynebacterium Diphtheriae,2
+Catecholamine Synthesis,2
+Cholinergic Drugs,2
+Aortic Diseases,2
+Antiparasitic Drugs,2
+Herpes Zoster,2
+Maternal Physiology,2
+Venous Disorders,2
+Protein Degradation,2
+Surgical Techniques,2
+Anaesthesia Equipment,2
+Antiviral Pharmacology,2
+Fetal Presentation And Position,2
+Psychology,2
+Membrane Potentials,2
+Inflammatory Arthritis,2
+Muscle Anatomy,2
+Anaesthetic Complications,2
 Measures Of Association,2
 Lymphoid Neoplasms,2
-Intrauterine Fetal Death,2
-Fatty Acids,2
-Bone Neoplasms,2
-Hypertension,2
-Dyslipidemia Management,2
-Contraceptive Methods,2
-Rickets,2
-Health Administration,2
-Platelet And Bleeding Disorders,2
-Hormonal Contraceptives,2
-Triage,2
-Validity Of Screening Tests,2
-Ascites,2
-Trachoma,2
+Mri Safety,2
 Nasal Septum Surgery,2
-Muscular Dystrophies,2
-Child Abuse,2
-Trauma Surgery,2
-Introduction To Pathology,2
-Placenta Praevia,2
-Corynebacterium Diphtheriae,2
-Tuberous Sclerosis,2
-Cholinergic Drugs,2
-Vaccination,2
-Sociology,2
-Allergic Bronchopulmonary Aspergillosis,2
-Gynaecological Cancers,2
-Perinatal Hiv,2
-Laparoscopic Complications,2
-Polycystic Ovarian Syndrome,2
-Autoimmune Disorders,2
-Pigmented Purpuric Dermatoses,2
-Organ Transplantation,2
-Immunomodulators,2
-Acne Vulgaris,2
-Urological Surgery,2
-Erythema Nodosum,2
-Fetal Presentation And Position,2
-Abdominal Surgery,2
-Venous Drainage,2
-Urological Oncology,2
-Spinal Imaging,2
-Eye Anatomy,2
-Pituitary Hormones,2
-Pde5 Inhibitors,2
-Koebner Phenomenon,2
-Glucose Homeostasis,2
-Vaginal Discharge,2
-Bronchiolitis,2
-Connective Tissue Biochemistry,2
+Criminal Law,2
 Anaesthesia Monitoring,2
-Epidemiological Indicators,2
-Salivary Gland Pathology,2
-Pharmacokinetics Principles,2
-Antiparasitic Drugs,2
-Lung Cancer,2
-Pancreatic Diseases,2
-Pulmonary Pathology,2
-Diagnostic Test Evaluation,2
-Connective Tissue Diseases,2
-Larynx Anatomy,2
-Abdominal Emergencies,2
-Descriptive Statistics,2
-Fertilization,2
-Hip Arthroplasty,2
-Anemias,2
-Sarcomas,2
-Ocular Pathology,2
-Fetal Lung Maturity,2
-Familial Adenomatous Polyposis,2
-Head And Neck Neoplasms,2
-Plant Poisoning,2
-Bullous Disorders,2
-Musculoskeletal System,2
-Biliary System Diseases,2
-Ocular Surface Diseases,2
-Health Care Of The Community In India,2
-Steroid Metabolism,2
-Neonatal Skin Conditions,2
-Dialysis Complications,2
-Cardiac Imaging Findings,2
-Liver Diseases,2
-Hyperlipoproteinemia,2
-Ectopia Lentis,2
-Trigeminal Neuralgia,2
-Pulmonary Eosinophilia,2
-Optic Neuropathy,2
-Bone Lesions,2
-Pulmonary Hypertension,2
-Genetic Engineering,1
-Hypersensitivity Reactions,1
-Reverse Transcription,1
-Sympathomimetic Drugs,1
-Carbapenems,1
-Skin Grafts,1
-Trisomy 21,1
-Second Messengers,1
-Biopsy,1
-First-Order Kinetics,1
-Fatty Acid Metabolism,1
-Channelopathies,1
-Shrinking Lung Syndrome,1
-Folate Metabolism,1
-Spectroscopy,1
-Immunomodulatory Agents,1
-Evidence,1
-Microscopic Polyangiitis,1
-Renin-Angiotensin System,1
-Causation,1
-Antihypertensive Agents,1
-Inquest,1
-Fingerprinting,1
-Autopsy Technique,1
-Down Syndrome,1
-Graft Rejection,1
-Postmortem Findings,1
-Autopsy,1
-Hla Matching,1
-Molecular Chaperones,1
-Dopamine Receptors,1
-Proton Pump Inhibitors,1
-Ocular Manifestations Of Systemic Diseases,1
-Alpha-2 Agonists,1
-Mhc Class Ii Expression,1
-Anticholinergic Agents,1
-Cardiac Biomarkers,1
-Von Willebrand Disease,1
-Radiation Injury,1
-B Cell Localization,1
-Chromosomal Instability Syndromes,1
-Surgical Drains,1
-Opioid Receptors,1
-Paracetamol Toxicity,1
-Lymph Node Anatomy,1
-Anticholinesterases,1
-Immunoglobulin Class Switching,1
-Antimuscarinic Drugs,1
-Urinary Pathology,1
-Thyroid Swellings,1
-Serum Sickness,1
-Gangrene,1
-Sulfonamides,1
-Thyroiditis,1
-Bacterial Structure And Virulence,1
-Nasal And Paranasal Sinus Disorders,1
-Beta-Blockers,1
-Cutaneous T-Cell Lymphoma,1
-Muscarinic Receptors,1
-Glycobiology,1
-Drug Administration Routes,1
-Liver Disorders,1
-Decomposition,1
-Vision Loss,1
-Pediatric Bone Disorders,1
-Wound Classification,1
-Environmental Medicine,1
-Oral Manifestations,1
-Lamb Syndrome,1
-Oral Ulceration,1
-Calcium Disorders,1
-Hepatic Encephalopathy,1
-Red Cell Disorders,1
-Paget'S Disease,1
-Antiviral Therapy,1
-Isaac Syndrome,1
-Brainstem Death,1
-Osteoporosis Management,1
-Metabolic Encephalopathy,1
-Electrolyte Imbalance,1
-Hyperaldosteronism,1
-Glycemic Control,1
-Insulin,1
-Hematinics,1
-Hip Injuries,1
-Mediastinal Disorders,1
-Hiv-Associated Ocular Disease,1
-Pupil Abnormalities,1
-Thyroid Eye Disease,1
-Hyperkeratosis,1
-Eales Disease,1
-Adrenergic Agents,1
-Ocular Biometry,1
-Cholestasis,1
-Premalignant Skin Lesions,1
-Paediatric Neurological Disorders,1
-Odontogenic Cysts,1
-Congenital Heart Diseases,1
-Neonatal Encephalopathy,1
-Neonatal Anemia,1
-Neonatal Bradycardia,1
-Neonatal Hypoglycemia,1
-Cyanotic Spells,1
-Neonatal Sepsis,1
-Cardiothoracic Ratio,1
-Erythropoietin,1
-Electrosurgery,1
-Transverse Vaginal Septum,1
-Priapism,1
-Oral Cavity Carcinoma,1
-Esophageal Rupture,1
-Hirschsprung Disease,1
-Goiter,1
-Branchial Cyst,1
-Thyroidectomy,1
-Secondary Survey,1
-Precancerous Lesions,1
-Urothelial Carcinoma,1
-Gallbladder Disease,1
-Laparoscopy,1
-Hemorrhage,1
-Thyroidectomy Complications,1
-Lymphatic Malformations,1
-Esophageal Carcinoma,1
-Intussusception,1
-Herpes Zoster Ophthalmicus,1
-Papilledema,1
-Grievous Injury,1
-Investigation,1
-Cerebellar Anatomy,1
-Hospital Statistics,1
+Chronic Obstructive Pulmonary Disease,2
+Bronchodilators,2
+Drug Administration,2
+Intraocular Foreign Body,2
+Scrotal Swelling,2
+Sociology,2
+Cochlear Implants,2
+Trachoma,2
+Palmar Spaces,1
+Antibiotic Prophylaxis,1
+Fibromatosis,1
+Liver And Biliary Tree,1
+Postinflammatory Hypopigmentation,1
+Idiopathic Pulmonary Fibrosis,1
+Chromosomal Translocation,1
+Enzyme Deficiency,1
+Pilonidal Sinus,1
+Pneumocephalus,1
+Hypopigmented Macules,1
+Child Rights,1
+Heat-Related Illness,1
+Legal And Ethical Issues,1
+Lateral Epicondylitis,1
+Tinea,1
+Pharmacology Of Bone Metabolism,1
+Immunophenotyping,1
+Stress Ulcer,1
+Tuberculous Synovitis,1
+Exanthematous Fevers,1
+Anal Canal Carcinoma,1
+Anorectal Disorders,1
+Croup,1
+Dysphagia,1
+Macula,1
+Salivary Gland Diseases,1
+Cavernous Sinus Thrombosis,1
+Calcinosis Cutis,1
+Volvulus,1
+Urologic Pathology,1
+Nephron,1
+Antidepressant Toxicity,1
+Incontinence,1
+Wrist Disorders,1
+Census,1
+Mosquito,1
+Maternal Health Programs,1
+Heavy Chain Disease,1
+Splenectomy,1
+Water Sample Collection,1
+Cardiac Defect,1
+Leukoerythroblastic Picture,1
+Radiation Therapy,1
+Who Steps Approach,1
+Rabies Control,1
+Direct Coombs Test,1
+Radiological Signs Of Fetal Death,1
+Cord Prolapse,1
+Fetomaternal Hemorrhage,1
+Toxic Exposure,1
+Bone Densitometry,1
+Pigmentation Disorders,1
+Gastric Emptying,1
+Rotator Cuff Pathology,1
+Cardiac Muscle Physiology,1
+Skeletal Muscle Relaxants,1
+Cardiac Action Potential,1
+Demyelinating Diseases,1
+Hemoglobinopathy,1
+Tropical Pulmonary Eosinophilia,1
+Skin Pathology,1
+V/Q Ratio,1
+Pulmonary Edema,1
+Colonic Injury,1
+Kidney Function Tests,1
+Takayasu Arteritis,1
+Embolism,1
+Vaginal Cysts,1
+Congenital Rubella Syndrome,1
+Reconstructive Surgery,1
+Fuchs' Endothelial Dystrophy,1
+Mitochondrial Shuttle,1
+Oesophageal Disorders,1
+Radiofrequency Ablation,1
+Biliary Pathology,1
+Substance-Induced Psychosis,1
+Cutaneous Lymphoma,1
+Radioactivity,1
+Erythema,1
+Antibiotic Mechanisms,1
+High Altitude Illness,1
+Selective Mutism,1
+Culture-Bound Syndromes,1
+Prosthetics,1
+Chronic Venous Disorders,1
+Molecular Targeted Therapy,1
+Diarrheal Disease,1
+Amputation,1
+Pulmonary Radiology,1
+Venous Ulcer,1
+Thrombophilia,1
+Diarrheal Disorders,1
+Motility Disorders,1
+Hypolipidemic Drugs,1
+Hair-An Syndrome,1
+Isotopes,1
+Consent,1
+Antigout Agents,1
+Stereotactic Radiosurgery,1
+Large Bowel Obstruction,1
+Radiographic Techniques,1
+Thrombolytics,1
+Child Sexual Abuse,1
+Radiopharmaceuticals,1
+Metronidazole,1
+Ectodermal Dysplasia,1
+Gallbladder Diseases,1
+Radiographic Projections,1
+Behavior Therapy,1
+Retroperitoneal Fibrosis,1
+Mesenteric Ischemia,1
+Anesthetic Agents,1
+Liver And Biliary Tract,1
+Nicotine Dependence,1
+Gallstone Ileus,1
+Dermatome,1
+Occupational Lung Disease,1
+Soft Tissue Injury,1
+Carcinogenesis,1
+Stis,1
+Epidermal Turnover,1
+Microscopic Anatomy,1
+Animal Bites,1
+Brucellosis,1
+Carcinoid Syndrome,1
+Orbital Cellulitis,1
+Androgenetic Alopecia,1
+Upper Cervical Vertebrae,1
+Impetigo,1
+Retinoids,1
+Endothelin Receptors,1
+Langer'S Lines,1
+Trichomonas,1
+Abdominal Radiograph,1
+Potassium Homeostasis,1
+Lumbar Disc Prolapse,1
+Absence Seizure,1
+Siadh Management,1
+Thoracic Aorta,1
+Propofol,1
+Hydatid Cyst,1
+Movement Disorder Treatment,1
+Psychiatric Management,1
+Portocaval Anastomoses,1
+Rehabilitation,1
+Monoclonal Antibodies,1
+Drug Classification,1
+Candidiasis,1
+Shoulder Instability,1
+Angiodysplasia,1
+Mastocytosis,1
+Fluid Compartments,1
+Bone Defects,1
+Tetanus Prophylaxis,1
+Oncogenic Viruses,1
+Protein Function,1
+Pharmacotherapeutics,1
+Epidemic Patterns,1
+Biases,1
+Digitalis Toxicity,1
+Criminal Procedure,1
+Prevention Levels,1
+Health Manpower,1
+Heterophile Antibody Test,1
+Tribal Health,1
+Anaerobic Culture,1
+Social Determinants Of Health,1
+Cytomegalovirus,1
+Prion Diseases,1
+Diagnostic Testing,1
+Nadph Metabolism,1
+Sanitary Landfill,1
+Human Herpesviruses,1
+Culture Techniques,1
+Consanguinity,1
+Lids And Lacrimal Apparatus,1
+Deep Venous Thrombosis,1
+Esophagitis,1
+Waterhouse-Friderichsen Syndrome,1
+Nocardia,1
+Shoulder Disorders,1
+Lie Detection,1
+Salmonella,1
+Paragonimiasis,1
+Congenital Brain Malformations,1
+Rna Enzymes,1
+Ataxia Telangiectasia,1
+National Programme For Control Of Blindness,1
+Family Life Cycle,1
+Fasciotomy,1
+Nevus,1
+Cutis Marmorata,1
+Solid Waste Management,1
+Trypanosomiasis,1
+Gynecologic Imaging,1
+Dna Repair Disorders,1
+Mch Programme,1
+Vaccination Campaigns,1
+Protein Requirement,1
+Heavy Metal Toxicity,1
+Ophthalmia Neonatorum,1
+Dental Fluorosis,1
+Fluoridation,1
+Maternal Serum Screening,1
+Squint Surgery,1
+Adolescent Health,1
+Menopausal Hormone Therapy,1
+Baby-Friendly Hospital Initiative,1
+Mch Services,1
+Perinatal Mortality Rate,1
+Contrast Studies,1
+Neonatal Mortality,1
+Cold Chain,1
+Chest Radiograph,1
+Urological Imaging,1
+Intracranial Hemorrhage,1
+Hemophilia,1
+STDs,1
+Epidemiological Methods,1
+Protein Synthesis Inhibitors,1
+Immunoassays,1
+Mental Health Legislation,1
+Pharmacology Of Diabetes,1
+Perjury,1
+Legal Aspects Of Death,1
+Metronidazole Interactions,1
+Autopsy Findings / Physiological Changes,1
+Legal Aspects Of Marriage,1
+Marking Nut,1
+Biomedical Waste Management (Color-Coded Disposal Bags),1
+Immunodeficiency / Vaccination Contraindications,1
+Epistaxis Management,1
+Immunosuppressive Agents,1
+Tyrosine Kinase Inhibitors,1
+Brain Pathology,1
+Visual Pathways / Optic Tract,1
+Myopic Astigmatism,1
+Parkinson'S,1
+Orbital Disease,1
+Heart Valves / Stenosis,1
+Fluid & Electrolyte Balance,1
+Treatment Protocol For High Risk Cases,1
+Radiology / Bone Disorders,1
+Gnrh Agonists,1
+Dopamine Agonists,1
+Hair Peroforation Test,1
+Thrombolytic Drugs,1
+Anticoagulant Drugs,1
+Oral Anticoagulants,1
+Lipid-Lowering Agents,1
+Endotracheal Tube Position,1
+Anesthesia,1
+Loop Diuretics,1
+Lymphomas (Follicular Lymphoma),1
+Age Determination,1
+Aplastic Anemia,1
+Cellular Pathology,1
+Appetite,1
+Biliary Tract Disease,1
+Stomach,1
+Neonatal Hyperbilirubinemia,1
+Obstetric Injuries,1
+Clinical Chemistry,1
+Postmortem Examination,1
+Fetal Age Estimation,1
+Schizoaffective Disorder,1
+Pellagra,1
+Oral And Maxillofacial Surgery,1
+Fetal Viability,1
+Impotence,1
+Lichen Sclerosus,1
+Incised Wound,1
+Bruise,1
+Stevens-Johnson Syndrome,1
+Nerve Injuries,1
+Neck Injuries,1
+Electrical Injuries,1
+Criminal Responsibility,1
+Tattoo,1
+Acid-Base Disorders / Calcium Metabolism,1
+Vitamin Deficiencies (Pellagra),1
+Fingerprint,1
+Glycosaminoglycans / Keratan Sulphate,1
+Long Bones,1
+Benzene Exposure And Associated Health Effects,1
+Professional Secrecy,1
+Transmission,1
+Cancer Control,1
+Mental Healthcare Act,1
+Ocular Reflexes,1
+Hemodialysis,1
+Malabsorption Syndrome,1
+Polymyalgia Rheumatica,1
+Intra-Abdominal Abscess,1
+Lung Abscess,1
+Bartholin Cyst,1
+Obstructive Lung Disease,1
+Dialysis,1
+Recurrent Laryngeal Nerve Palsy,1
+Hereditary Angioedema,1
+Gait Disorders,1
+Parathyroid Adenoma,1
+Typhoid Fever Treatment,1
+Maternal Physiological Changes,1
+Dermatologic Pathology,1
+Parkinson Disease,1
+Chemical Injuries,1
+Bell'S Palsy,1
+Genitourinary Anatomy,1
+Crohn'S Disease,1
+Nasolacrimal Duct Obstruction,1
+Seizure Disorders,1
+Gastroenteritis,1
+Lacrimal System Disorders,1
+Lacrimal Apparatus Disorders,1
+Tear Film,1
+Retractors,1
+Bone Dysplasias,1
+Dislocation,1
+Orbital Cysts,1
+Uremic Neuropathy,1
+Treatment,1
+Mental Health,1
+Neck Radiography,1
+Maternal-Fetal Antibody Transfer,1
+Stroke,1
+Cancer Screening,1
+Hemochromatosis,1
+Bias In Studies,1
+Dietary Fiber,1
+Health Services Planning,1
+Neurogenic Bladder,1
+Antimicrobial Prophylaxis,1
+Microbiology,1
+Chronic Kidney Disease,1
+Ossiculoplasty,1
+Cranial Nerve Examination,1
+Vestibular Function Tests,1
+Auditory Ossicles,1
+Granulomatous Diseases,1
+Atrophic Rhinitis,1
+Neutropenia,1
+Acute Parotitis,1
+Neurosyphilis,1
+Vitamin B12 Deficiency,1
+Gynecomastia,1
+Paranasal Sinus Radiology,1
+Superior Mesenteric Artery,1
+Chest Radiograph Signs,1
+Optic Disc,1
+Aldose Reductase Inhibitors,1
+Pyramidal Tract Lesion,1
+Testicular Torsion,1
+Head And Neck Cancer,1
+Anhydramnios,1
+Iris Abnormalities,1
+Color Vision Deficiency,1
+Nasal Discharge,1
+Foreign Body Detection,1
+External Ear,1
+Vestibular Apparatus,1
+Hepatobiliary Imaging,1
+Eustachian Tube Function,1
+Paraphilic Disorders,1
+Vestibular Testing,1
+Facial Nerve Paralysis,1
+Body Dysmorphic Disorder,1
+Frey'S Syndrome,1
+External Auditory Canal,1
+Psychiatric Terminology,1
+Auricular Hematoma,1
+Hard Palate,1
+Complement Disorders,1
+Nervous Tissue,1
+Oropharyngeal Foreign Body,1
+Medicolegal Terminology,1
+Oropharyngeal Carcinoma,1
+Decomposition And Putrefaction,1
+Strawberry Tongue,1
+Globus Pharyngeus,1
+Vagus Nerve,1
+Aids Control Programme,1
+Skull And Facial Bones,1
+Health For All,1
+Domestic Violence,1
+Contraceptive Prevalence,1
+Literacy Rate,1
+National Family Health Survey,1
+Venous Sinus Thrombosis,1
+Mrcp,1
+Depth Of Anesthesia Monitoring,1
+Lumbar Puncture,1
+Cherry Red Spot,1
+Obstetric History,1
+Radiation Exposure,1
+Prolactin,1
+Retinitis Pigmentosa,1
+Bullous Keratopathy,1
+Perineal Tear,1
+Vulvar Diseases,1
+Magnesium Sulfate Therapy,1
+Ocular Parasitic Disease,1
+Vitreous Diseases,1
+Tonometry,1
+Meconium Peritonitis,1
+Management Of Uterine Fibroids,1
+Retinoscopy,1
+Peripartum Cardiomyopathy,1
+Oral Candidiasis,1
+Laryngeal Tuberculosis,1
+Pharyngeal Carcinoma,1
+Obstetric Anesthesia,1
+Viral Warts,1
+Blistering Skin Diseases,1
+Adenoid Hypertrophy,1
+Laryngomalacia,1
+Nasopharyngeal Carcinoma,1
+Dermatitis,1
+Urticaria,1
+Meninges,1
+Frontal Sinusitis,1
+Preconception Care,1
+Minimal Change Disease,1
+Menorrhagia,1
+Muscle Fiber Types,1
+Subcellular Organelles,1
 Maternal Health Services,1
 Utilization Rate,1
 Disinfectants,1
+Pain And Temperature Pathways,1
+Thermoreception,1
 Specimen Collection,1
 Onchocerciasis,1
 Influenza,1
 Hpv,1
-Oral Anatomy,1
 Ehrlichiosis,1
 Glanders,1
+Cardiac Muscle,1
 Puerperal Sepsis,1
 Vibrio Parahaemolyticus,1
-Knee Radiology,1
-Medico-Legal Autopsy,1
-Firearm Wounds,1
-Microbial Preservation,1
-Mycobacteria,1
-Electron Microscopy,1
-Antimicrobial Sensitivity,1
-Postmortem,1
-Heat Cramps,1
-Alcohol,1
-Opioids,1
-Mtp Act,1
-Anti-Reflux Surgery,1
-Gunshot Injuries,1
-Wound,1
-Risk Measures,1
-Varicella,1
-Glucose Metabolism,1
-Seronegative Spondyloarthropathies,1
-Ciliary Muscle,1
-Usher Syndrome,1
-Spinal Cord Anatomy,1
-Laryngeal Membranes,1
-Zenker Diverticulum,1
-Tonsillar Pillar,1
-Nasal Myiasis,1
-Nasal Septum Perforation,1
-Nasal Foreign Body,1
-Pediatric Bone Diseases,1
-Csf Rhinorrhoea,1
-Effects Of Radiation,1
-Ciliary Dysfunction,1
-Bone Metabolism Drugs,1
-Meningococcal Vaccine,1
-Acute Chest Pain Evaluation,1
-Water Supply And Sanitation,1
-Swajaldhara Programme,1
-Asha,1
-Ovarian Pathology,1
-Urinary Tract Stones,1
-Culex Larvae,1
-Organophosphate Insecticides,1
-Somatosensory System,1
-Fertility And Reproduction,1
-Psychiatric Certification,1
-Smoking,1
-Typhoid,1
-Steroid Hormones,1
-Pediatric Hip Conditions,1
-Head And Neck Pathology,1
-Biliary Pathology,1
-Gallstone Ileus,1
-Firearms Injuries,1
-Abdominal Radiograph,1
-Road Traffic Accidents,1
-Hydatid Cyst,1
-Mucormycosis,1
-Oesophageal Disorders,1
-Venous Ulcer,1
-Streptococcus Agalactiae,1
-Radiofrequency Ablation,1
-Thrombophilia,1
-Motility Disorders,1
-Retroperitoneal Fibrosis,1
-Gallbladder Diseases,1
-Large Bowel Obstruction,1
-Soft Tissue Injury,1
-Reconstructive Surgery,1
-Electrocution,1
-Kidney Function Tests,1
-Community Participation,1
-Direct Coombs Test,1
-Splenectomy,1
-Heavy Chain Disease,1
-Leukoerythroblastic Picture,1
-Takayasu Arteritis,1
-Colonic Injury,1
-Anal Canal Carcinoma,1
-Salivary Gland Diseases,1
-Social Stratification,1
-Fibromatosis,1
-Volvulus,1
-Health Psychology,1
-Dysphagia,1
-Staphylococcus Aureus,1
-Mesenteric Ischemia,1
-Stroke,1
-Mhc Class I,1
-Diarrheal Disease,1
-Opioid Antagonists,1
-Ectodermal Dysplasia,1
-Hair-An Syndrome,1
-Alzheimer'S Disease Drugs,1
-Diarrheal Disorders,1
-Erythema,1
-Selective Mutism,1
-Prosthetics,1
-Amputation,1
-Pancreatic Hormones,1
-Lumbar Disc Prolapse,1
-Perineum Anatomy,1
-Shoulder Instability,1
-Skull Base Anatomy,1
-Absence Seizure,1
-Antimicrobial Pharmacology,1
-Psychiatric Management,1
-Rheumatic fever,1
-Angiodysplasia,1
-Stress Ulcer,1
-Anorectal Disorders,1
-Interstitial Lung Diseases,1
-Pilonidal Sinus,1
-Cellular Adaptation And Injury,1
-Cardiac Defect,1
-Rehabilitation,1
-Topical Corticosteroids,1
-Anti-Gout Drugs,1
-Croup,1
-Exanthematous Fevers,1
-Chelating Agents,1
-Animal Bites,1
-Disease Control Programs,1
-Hemochromatosis,1
-Biochemical Techniques,1
-Orbital Cysts,1
-Laryngeal Tuberculosis,1
-Oral Candidiasis,1
-Retinoscopy,1
-Tonometry,1
-Vitreous Diseases,1
-Ocular Parasitic Disease,1
-Metabolic Liver Diseases,1
-Guillain Barre Syndrome,1
-Motor Neuron Disease,1
-Bullous Keratopathy,1
-Retinitis Pigmentosa,1
-Gout Arthritis,1
-Cherry Red Spot,1
-Nervous Tissue,1
-Color Vision Deficiency,1
-Pharyngeal Carcinoma,1
-Adenoid Hypertrophy,1
-Laryngomalacia,1
-Facial Nerve Paralysis,1
-Oropharyngeal Foreign Body,1
-Nasal Discharge,1
-Auricular Hematoma,1
-External Auditory Canal,1
-Ureteric Stones,1
-Frey'S Syndrome,1
-Vestibular Testing,1
-Nasopharyngeal Carcinoma,1
-Eustachian Tube Function,1
-Vestibular Apparatus,1
-External Ear,1
-Venous Sinus Thrombosis,1
-Scrotal Swellings,1
-Frontal Sinusitis,1
-Iris Abnormalities,1
-Therapeutic Apheresis,1
-Neurogenic Bladder,1
-Tear Film,1
-Uremic Neuropathy,1
-Parkinson Disease,1
-Thrombolytic Agents,1
-Granulomatous Diseases,1
-Plasma Cell Dyscrasias,1
-Pyramidal Tract Lesion,1
-Aldose Reductase Inhibitors,1
-Chest Radiograph Signs,1
-Medical Ethics,1
-Gynecomastia,1
-Vitamin B12 Deficiency,1
-Neurosyphilis,1
-Insecticides,1
-Neutropenia,1
-Chronic Kidney Disease,1
-Hemodialysis,1
-Lung Pathology,1
-Malabsorption Syndrome,1
-Maternal Physiological Changes,1
-Lacrimal Apparatus Disorders,1
-Lacrimal System Disorders,1
-Nasolacrimal Duct Obstruction,1
-Chemical Injuries,1
-Thymoma Associations,1
-Ocular Reflexes,1
-Typhoid Fever Treatment,1
-Polymyalgia Rheumatica,1
-Gait Disorders,1
-Hereditary Angioedema,1
-Functional Bowel Disorders,1
-Dialysis,1
-Obstructive Lung Disease,1
-Lung Abscess,1
-Foot Anatomy,1
-Tuberculous Synovitis,1
-Lateral Epicondylitis,1
-Diarrheal Diseases,1
-Alcohol Withdrawal,1
-Shoulder Injuries,1
-Superior Gluteal Nerve,1
-Umbilical Cord,1
-Cardiac Veins,1
-Coronary Sinus,1
-Upper Lobe,1
-Arterial Supply Of Face,1
-Urogenital Anatomy,1
-Inferior Pancreaticoduodenal Artery,1
-Splenic Artery,1
-Pelvic Vasculature,1
-Experimental Study Designs,1
-Gastrosplenic Ligament,1
-Mesenteries,1
-Anti-craving agents,1
-Pharmacology Of Substance Abuse,1
-Delusional Disorder,1
-Diffuse Axonal Injury,1
-Neonatal Intestinal Obstruction,1
-Biliary Imaging,1
-Colorectal Imaging,1
-Head And Neck Radiology,1
-Upper Gi Imaging,1
-Legitimacy,1
-Bone Metastases,1
-Narcolepsy,1
-Hepatobiliary Diseases,1
-Cognitive Testing,1
-Preventive Health,1
-Hematological Markers,1
-Umbilical Cord Anatomy,1
-Thought Disorder,1
-Uterine Artery,1
-Preoperative Medication,1
-Abdominal Plexuses,1
-Pupillary Muscles,1
-Baroreceptor,1
-Afterload,1
-Venous Oxygen Saturation,1
-Cardiopulmonary Baroreceptors,1
-Enzyme Activation,1
-Proteolytic Enzymes,1
-Bile Secretion,1
-Biliary Tract Surgery,1
-Thyroid Hormones,1
-Insulin Receptor,1
-Muscle Tissue,1
-Decompression Sickness,1
-Oculocardiac Reflex,1
-Pyruvate Dehydrogenase Complex,1
-Lactate Metabolism,1
-Water Sanitation,1
-Neurological Examination,1
-Calcium Metabolism,1
-Active Transport,1
-Measures Of Disease Transmission,1
-Cranial Nerve Innervation,1
-Disease Patterns,1
-Neural Crest,1
-Umbilical Structures,1
-Congenital Malformations,1
-Facilitated Diffusion,1
-Muscle Spindles,1
-Body Water And Electrolytes,1
-Ion channels,1
-Acid-base balance,1
-Oncotic Pressure,1
-Benign Skin Lesions,1
-Visual Cycle,1
-Coarctation Of Aorta,1
-Urolithiasis Imaging,1
-Bone Radiology,1
-Abdominal Radiography,1
-Obstetric Care,1
-Rhabdomyosarcoma,1
-Hysterosalpingography,1
-Epiphyseal Plate,1
-Caesarean Section,1
-Trace Element Metabolism,1
-Fetal Anemia,1
-Abruptio Placentae,1
-Transverse Lie,1
-External Eye Lesions,1
-Pcos,1
-Acute Lung Injury,1
-Plain Radiography,1
-Foreign Bodies,1
-Neonatal Surgical Conditions,1
-Amputation Levels,1
-Hyperprolactinemia,1
-Cryptomenorrhoea,1
-Depolarizing Neuromuscular Blockers,1
-Palmar Spaces,1
-Rotator Cuff Pathology,1
-Endotracheal Intubation,1
-Embolism,1
-Bone Densitometry,1
-Wrist Disorders,1
-Preconception Care,1
-Puerperal Pyrexia,1
-Bartholin Cyst,1
-Vaginal Pathology,1
-Menstrual Cycle Disorders,1
-Magnesium Sulfate Toxicity,1
-Medical Abortion,1
-Pelvic Pain,1
-Molluscum Contagiosum,1
-Cutaneous tuberculosis,1
-Immunobullous Diseases,1
-Ventilation Circuits,1
-Propofol Infusion Syndrome,1
-Tocolytics,1
-Ambulatory Anesthesia,1
-Aspiration Prophylaxis,1
-Ventilation,1
-Oxygen Therapy,1
-Hyperbaric Oxygen Therapy,1
-Eeg Patterns In Anesthesia,1
-Perioperative Anticoagulation,1
-Monitoring,1
-Urethral Stricture,1
-Radiographic Imaging,1
-CT,1
-Radiographic Signs,1
-Thiopentone,1
-Scrotal Emergencies,1
-Paediatric Ophthalmology,1
-Lymphogranuloma Venereum,1
-Alopecia Areata,1
-Topical antifungal agents,1
-Tinea Versicolor,1
-Apocrine Gland Disorders,1
-Instrumental Delivery,1
-Neck Mass Evaluation,1
-Skin Graft Physiology,1
-Neuroanaesthesia,1
-Dermatophytosis,1
-Inguinal Region Anatomy,1
-Obstetric Analgesia,1
-Local Anaesthetic Adjuvants,1
-Peripheral Nerve Blocks,1
-Healthcare-Associated Pneumonia,1
-Shock Management,1
-Acquired Inflammatory Skin Rashes,1
-Oral Rehydration Therapy,1
-Anticoagulant Therapy,1
-Cavernous Sinus Thrombosis,1
-Legal And Ethical Issues,1
-Pneumocephalus,1
-Child Rights,1
-Antibiotic Prophylaxis,1
-Idiopathic Pulmonary Fibrosis,1
-Chromosomal Translocation,1
-Liver And Biliary Tree,1
-Urologic Pathology,1
-Antidepressant Toxicity,1
-Hemoglobinopathy,1
-Tropical Pulmonary Eosinophilia,1
-Pulmonary Edema,1
-Congenital Rubella Syndrome,1
-Toxic Exposure,1
-Macula,1
-Pharmacology Of Bone Metabolism,1
-Genitourinary Anatomy,1
-Skeletal Muscle Relaxants,1
-Antibiotic Mechanisms,1
-High Altitude Illness,1
-Molecular Targeted Therapy,1
-Nicotine Dependence,1
-Siadh Management,1
-Antigout Drugs,1
-Movement Disorder Treatment,1
-Monoclonal Antibodies,1
-Drug Classification,1
-Trichomonas,1
-Stis,1
-Brucellosis,1
-Orbital Cellulitis,1
-Fuchs' Endothelial Dystrophy,1
-Endothelin Receptors,1
-Census,1
-Mosquito,1
-Maternal Health Programs,1
-Water Sample Collection,1
-Atrophic Rhinitis,1
-Acute Parotitis,1
-Paranasal Sinus Radiology,1
-Superior Mesenteric Artery,1
-Optic Disc,1
-Testicular Torsion,1
-Head And Neck Cancer,1
-Treatment,1
-Intra-Abdominal Abscess,1
-Biliary Stones,1
-Triage Categories,1
-Recurrent Laryngeal Nerve Palsy,1
-Parathyroid Adenoma,1
-Abdominal Abscesses,1
-Dermatologic Pathology,1
-Auditory Ossicles,1
-Neck Radiography,1
-Vestibular Function Tests,1
-Cancer Screening,1
-Radiation Therapy,1
-Who Steps Approach,1
-Rabies Control,1
-Tetanus Prophylaxis,1
-Mental Healthcare Act,1
-Maternal-Fetal Antibody Transfer,1
-Bias In Studies,1
-Cranial Nerve Examination,1
-Integrated Essentials,1
-Dietary Fiber,1
-Health Services Planning,1
-Antimicrobial Prophylaxis,1
-Microbiology,1
-Ossiculoplasty,1
-Prokinetic Agents,1
-Metronidazole,1
-Thrombolytics,1
-Radiographic Projections,1
-Postinflammatory Hypopigmentation,1
-Calcinosis Cutis,1
-Herpes Zoster,1
-Tinea,1
-Retinoids,1
-Impetigo,1
-Androgenetic Alopecia,1
-Epidermal Turnover,1
-Langer'S Lines,1
-Mastocytosis,1
-Candidiasis,1
-Propofol,1
-Emergency Procedures,1
-Anesthetic Agents,1
-Pulmonary Radiology,1
-Hypopigmented Macules,1
-Pigmentation Disorders,1
-Skin Pathology,1
-Pelvic Inlet,1
-Turner Syndrome,1
-Gnrh Analogues,1
-Cerebral Venous Sinus Thrombosis,1
-Fetal Malpresentation,1
-Placentation,1
-Glycoprotein Hormones,1
-Dermatological Syndromes,1
-Vaginal Cysts,1
-Partogram,1
-Menorrhagia,1
-Introduction To Dermatology,1
-Fetomaternal Hemorrhage,1
-Cord Prolapse,1
-Radiological Signs Of Fetal Death,1
-Radioactivity,1
-Radiopharmaceuticals,1
-Hypolipidemic Drugs,1
-Isotopes,1
-Gastric Emptying,1
-Demyelinating Diseases,1
-Nephron,1
-Enzyme Deficiency,1
-Mitochondrial Shuttle,1
-Carcinoid Syndrome,1
-Carcinogenesis,1
-Occupational Lung Disease,1
-Corrnea,1
-Lysosomal storage disorders,1
-Cutaneous Lymphoma,1
-Child Sexual Abuse,1
-Consent,1
-Heat-Related Illness,1
-Antigout Agents,1
-V/Q Ratio,1
-Incontinence,1
-Fluid Compartments,1
-Thoracic Aorta,1
-Stereotactic Radiosurgery,1
-Radiographic Techniques,1
-Behavior Therapy,1
-Substance-Induced Psychosis,1
-Culture-Bound Syndromes,1
-Chronic Venous Disorders,1
-Portocaval Anastomoses,1
-Potassium Homeostasis,1
-Dermatome,1
-Upper Cervical Vertebrae,1
-Liver And Biliary Tract,1
-Immunophenotyping,1
-Cardiac Muscle Physiology,1
-Cardiac Action Potential,1
-Bell'S Palsy,1
-Crohn'S Disease,1
-Gestational Age Calculation,1
-Adrenergic agonists,1
-Pharmacotherapeutics,1
-Digitalis Toxicity,1
-Sexual offenses,1
-Antiprotozoal drugs,1
-Postpartum Physiology,1
-Criminal procedure,1
-Tribal Health,1
-Social Determinants of Health,1
-Female Genital Anatomy,1
-Diagnostic Testing,1
-Sanitary Landfill,1
-Consanguinity,1
-Lids and lacrimal apparatus,1
-Deep Venous Thrombosis,1
-Esophagitis,1
-Catecholamine synthesis,1
-Antigout drugs,1
-Seizure Disorders,1
-Antimicrobial pharmacology,1
-Urological imaging,1
-Intracranial hemorrhage,1
-Cell signaling,1
-Introduction to pathology,1
-Hemophilia,1
-Hodgkin lymphoma,1
-Anticoagulant therapy,1
-Squint surgery,1
-Cranial nerve nuclei,1
-Ataxia telangiectasia,1
-Uterine support,1
-NADPH Metabolism,1
-RNA enzymes,1
-Protein Function,1
-Inborn Errors of Metabolism,1
-Head and Neck surgery,1
-Facial nerve palsy,1
-Shoulder disorders,1
-Depth of Anaesthesia,1
-Head and Neck Radiology,1
-Eyelid disorders,1
-Orbital disease,1
-Esophageal motility disorders,1
-Biliary tract disease,1
-Cardiac arrhythmias,1
-Adverse drug reactions,1
-Neonatal Hyperbilirubinemia,1
-Obstetric Injuries,1
-Drug dependence,1
-Schizoaffective disorder,1
-Pellagra,1
-Oral and Maxillofacial Surgery,1
-Barium swallow,1
-Lichen sclerosus,1
-Waterborne diseases,1
-Mental Health Legislation,1
-Microscopic Anatomy,1
-Laryngeal pathology,1
-Sleep disorders,1
-Lie detection,1
-Alopecia areata,1
-Inguinal region,1
-Surgical knots,1
-Conjunctival disorders,1
-Herpes zoster,1
-Immunoassays,1
-Paragonimiasis,1
-Congenital brain malformations,1
-Megaloblastic anemia,1
-Prokinetic agents,1
-Antifungal drugs,1
-Protein synthesis inhibitors,1
-Uterine fibroids,1
-Suture materials,1
-Miscellaneous,1
-Complement disorders,1
-Blistering Skin Diseases,1
-Dermatitis,1
-Urticaria,1
-Meninges,1
-Lumbar Puncture,1
-Depth Of Anesthesia Monitoring,1
-Mrcp,1
-Radiobiology,1
-Foreign Body Detection,1
-Hepatobiliary Imaging,1
-Paraphilic Disorders,1
-Body Dysmorphic Disorder,1
-Basics Of Radiology,1
-Psychiatric Terminology,1
-Hard palate,1
-Viral Warts,1
-Obstetric Anesthesia,1
-Peripartum Cardiomyopathy,1
-Anhydramnios,1
-Gastroenteritis,1
-Retractors,1
-Bone Dysplasias,1
-Dislocation,1
-Pelvic anatomy,1
-Pelvic organ prolapse,1
-Obstetric History,1
-Management Of Uterine Fibroids,1
-Radiation Exposure,1
-Prolactin,1
-Perineal Tear,1
-Vulvar Diseases,1
-Magnesium Sulfate Therapy,1
-Meconium Peritonitis,1
-Brainstem syndromes,1
-Platelet disorders,1
-Chest Radiograph,1
-Medicolegal Terminology,1
-Vaccination campaigns,1
-Bleeding disorders,1
-Immunosuppressive drugs,1
-Antiulcer drugs,1
-Postmortem changes,1
-Heavy metal toxicity,1
-Antimicrobial resistance,1
-Extraocular muscles,1
-Refractive errors,1
-Ophthalmia neonatorum,1
-Cellular Aging,1
-Maternal Serum Screening,1
-Menopausal Hormone Therapy,1
-Antihypertensive drugs,1
-Contrast Studies,1
-DNA repair disorders,1
-Neuromuscular Blockade,1
-Aortic dissection,1
-Fasciotomy,1
-Decomposition and Putrefaction,1
-Skull and Facial Bones,1
-Environmental health,1
-Food hygiene,1
-Transmission,1
-Paranasal sinus imaging,1
-Pyloric stenosis,1
-Mendelian Inheritance,1
-Uterine prolapse,1
-Nevus,1
-Cutis marmorata,1
-Cancer Biology,1
-Radiation physics,1
-Gynecologic imaging,1
-Uterine Abnormalities,1
-Cervical Cancer Radiotherapy,1
-Urethritis,1
-Ent Procedures,1
-Cerebellar Tracts,1
-Clinical Skills,1
-Subcellular Organelles,1
-Pain And Temperature Pathways,1
-Thermoreception,1
-Cardiac Muscle,1
-Muscle Fiber Types,1
+Tic Disorders,1
 Cranial Nerve Functions,1
 Serotonin Receptors,1
 Oxygen-Hemoglobin Dissociation Curve,1
 Internal Carotid Artery,1
+Microbial Preservation,1
 Hemoglobin Metabolism,1
 Hormone Action,1
+Mycobacteria,1
 Magnesium Metabolism,1
 Phosphate Metabolism,1
+Electron Microscopy,1
+Antimicrobial Sensitivity,1
+Cytoskeleton,1
+Postmortem,1
+Hospital Statistics,1
+Risk Measures,1
+Cerebellar Tracts,1
 Cerebellar Peduncles,1
-Dural Venous Sinuses,1
-Acute Pelvic Pain,1
-Eyelid Muscles,1
+General Paralysis Of Insane,1
+Oppositional Defiant Disorder,1
+Bone Metabolism Drugs,1
+Treatment Resistance,1
+Neuroregression,1
 Pelvic Diameters,1
+Water Supply And Sanitation,1
 Auerbach'S Plexus,1
 Small Intestine,1
+Swajaldhara Programme,1
 Peripheral Nerve Injury,1
+Asha,1
 Carpal Tunnel,1
 Nerve Root,1
 Bronchial Tree Anatomy,1
-Tongue Anatomy,1
-Chronic Otitis Media Complications,1
 Thoracolumbar Fascia,1
+Culex Larvae,1
 Mesenteric Vessels,1
+Organophosphate Insecticides,1
 Pharynx And Esophagus,1
+Fertility And Reproduction,1
 Peritoneal Cavity,1
-Tonsillectomy Complications,1
+Psychiatric Certification,1
+Smoking,1
 Hypoglossal Canal,1
-Cytoskeleton,1
+Eyelid Muscles,1
+Typhoid,1
+Dural Venous Sinuses,1
+Meningococcal Vaccine,1
+Heat Cramps,1
 Mitochondria,1
 Cori'S Cycle,1
-Mevalonate Pathway,1
+Proton Pump Inhibitors,1
+Hox Genes,1
+Paracetamol Toxicity,1
+Li-Fraumeni Syndrome,1
 Occupational Hazards,1
+Alpha-2 Agonists,1
+Opioid Receptors,1
 Biliary Disorders,1
+Sympathomimetic Drugs,1
 Thrombotic Thrombocytopenic Purpura,1
+Renin-Angiotensin System,1
+Antihypertensive Agents,1
 Neutrophil Left Shift,1
+Anticholinergic Agents,1
 Spleen Pathology,1
+Anticholinesterases,1
+Antimuscarinic Drugs,1
 Bacterial Pathogenesis,1
+Beta-Blockers,1
 Granulomatous Lung Disease,1
-Health System Organization,1
 Liver Physiology,1
+Muscarinic Receptors,1
 Urogenital Neoplasms,1
+Dopamine Receptors,1
 Staining Techniques,1
+Drug Administration Routes,1
 Microtubules,1
 Adrenoleukodystrophy,1
-Environmental Monitoring,1
-Sjögren'S Syndrome,1
-Li-Fraumeni Syndrome,1
-Hox Genes,1
+First-Order Kinetics,1
+Microscopic Polyangiitis,1
 Polymyositis,1
-Rna Splicing,1
+Major Histocompatibility Complex,1
+Alcohol,1
+Sulfonamides,1
+Opioids,1
+Mevalonate Pathway,1
 Buffer Solutions,1
 Creatinine Metabolism,1
 Melanin Synthesis,1
 Protein Sequencing,1
 Oxidative Stress,1
 Molecular Mimicry,1
+Gunshot Injuries,1
+Rna Splicing,1
 Flow Cytometry,1
-Major Histocompatibility Complex,1
 Lac Operon,1
+Wound,1
 Ubiquitin Proteasome Pathway,1
+Grievous Injury,1
+Decomposition,1
+Autopsy,1
+Postmortem Findings,1
+Autopsy Technique,1
 Glycemic Index,1
 Muscle Necrosis,1
+Fingerprinting,1
+Inquest,1
+Causation,1
+Evidence,1
+Immunomodulatory Agents,1
 Giant Cells,1
 Cell Regeneration,1
-Neuroregression,1
-Antipsychotic side effects,1
-Treatment Resistance,1
-Ovary,1
+Carbapenems,1
+Ciliary Dysfunction,1
+Seasonal Affective Disorder,1
+Vaginal Pathology,1
+Intussusception,1
+Fetal Position,1
+Gestational Age,1
+Precancerous Lesions,1
+Urothelial Carcinoma,1
+Gallbladder Disease,1
+Mayer-Rokitansky-Küster-Hauser Syndrome,1
+Laparoscopy,1
+Hemorrhage,1
+Thyroidectomy Complications,1
 Fetal Weight Estimation,1
+Lymphatic Malformations,1
 Hypogonadotropic Hypogonadism,1
 Bishop Score,1
+Esophageal Carcinoma,1
 Uteroplacental Circulation,1
+Thought Disorders,1
 Premature Ovarian Failure,1
+Hirschsprung Disease,1
 Maternal Age,1
 Dermoid Cyst,1
 Dysfunctional Uterine Bleeding,1
-Prostate Cancer,1
 Contracted Pelvis,1
 Vulvar Cancer,1
+Cholestasis,1
 Conjoined Twins,1
 Uterine Height,1
 Perineal Tear Classification,1
 Chorionic Villus Sampling,1
-Mayer-Rokitansky-Küster-Hauser Syndrome,1
-Gestational Age,1
-Postpartum Amenorrhea,1
-Cubitus Valgus,1
-Moyamoya Disease,1
+Uterine Ligaments,1
+Ovary,1
+Secondary Survey,1
+Foot And Ankle Disorders,1
+Thyroidectomy,1
+Branchial Cyst,1
 Tennis Elbow,1
-Hand Injuries,1
-Bone Defects,1
+Moyamoya Disease,1
 Radial Nerve Injury,1
+Oral Rehydration Therapy,1
+Diarrheal Diseases,1
+Shock Management,1
 Plaster Of Paris Cast,1
+Congenital Heart Diseases,1
+Neonatal Encephalopathy,1
+Cubitus Valgus,1
+Neonatal Anemia,1
 Meniscal Injuries,1
-Fetal Position,1
+Neonatal Bradycardia,1
+Neonatal Hypoglycemia,1
+Cyanotic Spells,1
+Neonatal Sepsis,1
+Cardiothoracic Ratio,1
+Erythropoietin,1
 Hand Deformities,1
 Equinus,1
+Electrosurgery,1
 Pes Cavus,1
+Priapism,1
 Gait Abnormalities,1
 Paget Disease,1
-Foot And Ankle Disorders,1
-Uterine Ligaments,1
+Oral Cavity Carcinoma,1
+Odontogenic Cysts,1
+Esophageal Rupture,1
+Goiter,1
+Wound Classification,1
 Placental Separation,1
-Oppositional Defiant Disorder,1
-Hypertension Management,1
+Epidermal Nevus,1
+Hiv-Associated Ocular Disease,1
+Pupil Abnormalities,1
+Thyroid Eye Disease,1
+Eales Disease,1
+Adrenergic Agents,1
+Neuraxial Blockade,1
+Ocular Biometry,1
+Herpes Zoster Ophthalmicus,1
+Vision Loss,1
+Spinal Anesthesia,1
 Local Anaesthetic Techniques,1
+Papilledema,1
 Radiation Toxicity,1
 Pet Imaging,1
-Mediastinal Masses,1
+Investigation,1
+Ciliary Muscle,1
+Usher Syndrome,1
 Epidural Hematoma,1
-Acute Coronary Syndrome,1
+Laryngeal Membranes,1
+Zenker Diverticulum,1
+Tonsillar Pillar,1
 Paraphilia,1
 Korsakoff Syndrome,1
+Nasal Myiasis,1
+Nasal Septum Perforation,1
+Nasal Foreign Body,1
 Gender Identity Disorder,1
 Trichotillomania,1
 Self-Harm,1
-Thought Disorders,1
-Seasonal Affective Disorder,1
-Tic Disorders,1
-General Paralysis Of Insane,1
-Spinal Anesthesia,1
-Neuraxial Blockade,1
+Csf Rhinorrhoea,1
 Neuraxial Block,1
-Incontinentia Pigmenti,1
-Epidermal Nevus,1
+Complications Of Neuraxial Anesthesia,1
 Pigmented Disorders,1
-Strawberry Tongue,1
+Mediastinal Disorders,1
+Environmental Medicine,1
+Acquired Inflammatory Skin Rashes,1
+Oral Manifestations,1
+Lamb Syndrome,1
+Oral Ulceration,1
+Calcium Disorders,1
 Seborrhic Dermatitis,1
 Hemorrhagic Lesions,1
+Hepatic Encephalopathy,1
+Red Cell Disorders,1
 Maculae Cerulea,1
+Incontinentia Pigmenti,1
+Paget'S Disease,1
 Bowen'S Disease,1
-Complications Of Neuraxial Anesthesia,1
+Antiviral Therapy,1
+Isaac Syndrome,1
 Sexually Transmitted Diseases,1
+Brainstem Death,1
+Metabolic Encephalopathy,1
 Blaschko Lines,1
+Electrolyte Imbalance,1
 Aspiration Pneumonia,1
+Hyperaldosteronism,1
+Glycemic Control,1
+Insulin,1
+Hematinics,1
 Uterine Relaxation,1
 Diffusion Hypoxia,1
 Nerve Blocks,1
+Sjögren'S Syndrome,1
 Skin Cancers,1
-Cholinesterase Inhibitors,1
-Prokinetic Drugs,1
-Acid Peptic Disease,1
-Skin Cancer,1
-Rheumatic Fever And Rhd,1
-Intracranial Pressure,1
-Hand And Wrist Injuries,1
-Duct Ectasia,1
-Omphalocele,1
-Cancer Presentation,1
+Channelopathies,1
 Thyroglossal Cyst,1
-Alkaptonuria,1
+Cystic Lesions,1
+Skin Cancer,1
+Monitoring,1
+Perioperative Anticoagulation,1
+Hyperbaric Oxygen Therapy,1
+Intracranial Pressure,1
+Ventilation Circuits,1
+Oxygen Therapy,1
+Hand And Wrist Injuries,1
+Ventilation,1
+Aspiration Prophylaxis,1
+Duct Ectasia,1
+Ambulatory Anesthesia,1
+Omphalocele,1
+Tocolytics,1
+Cholinesterase Inhibitors,1
+Propofol Infusion Syndrome,1
 Carcinoma Of Gallbladder,1
+Thiopentone,1
 Gallstone Disease,1
+Eeg Patterns In Anesthesia,1
 Gallbladder Carcinoma,1
+Neuroanaesthesia,1
+Healthcare-Associated Pneumonia,1
 Esophageal Diverticulum,1
 Oesophageal Perforation,1
 Esophageal Varices,1
-Cystic Lesions,1
-Bone Marrow Failure Syndromes,1
+Foreign Body In Esophagus,1
+Peripheral Nerve Blocks,1
+Local Anaesthetic Adjuvants,1
+Radiographic Imaging,1
+CT,1
+Radiographic Signs,1
 Porphyrins,1
-Frontal Lobe Syndrome,1
+Pharmacology Of Substance Abuse,1
+Delusional Disorder,1
+Dry Eye Syndrome,1
+Narcolepsy,1
+Thought Disorder,1
+Phakic Iol Complications,1
 Ventricular Tachycardia,1
+Cognitive Testing,1
 Qt Interval,1
-Emergency Medicine,1
+Bone Metastases,1
+Diffuse Axonal Injury,1
 Central Venous Catheterization,1
+Upper Gi Imaging,1
 Perniosis,1
-Nephrotic Syndrome,1
+Frontal Lobe Syndrome,1
+Colorectal Imaging,1
+Biliary Imaging,1
+Neonatal Intestinal Obstruction,1
+Coarctation Of Aorta,1
 Asterixis,1
-Genetic Syndromes In Cancer,1
 Drug-Induced Electrolyte Disturbances,1
 Hepatitis C,1
 Sirs,1
 Botulism,1
+Urolithiasis Imaging,1
 Austrian Syndrome,1
 Neurocutaneous Disorders,1
-Foreign Body In Esophagus,1
+Bone Radiology,1
+Abdominal Radiography,1
+Obstetric Analgesia,1
+Acid Peptic Disease,1
 Gastroprotective Agents,1
-Phakic Iol Complications,1
-Colonic Pseudo-Obstruction,1
-Knee Dislocation,1
-Radial Head Subluxation,1
-Acl Injuries,1
-Arthrodesis,1
-Knee Deformity,1
-Tuberculous Arthritis,1
 Pott'S Paraplegia,1
-Surgical Indications,1
+Caesarean Section,1
 Spinal Deformity,1
 Osteogenesis Imperfecta,1
 Hirsutism,1
 Maternal Cardiac Disease,1
 Pre-Eclampsia,1
+Hysterosalpingography,1
+Rhabdomyosarcoma,1
 Fitz-Hugh-Curtis Syndrome,1
+Obstetric Care,1
 Hysterectomy Indications,1
-Hip Dislocation,1
-Rotator Cuff Impingement,1
-Rotator Cuff Injuries,1
-Testicular Disorders,1
+Hyperprolactinemia,1
+Acute Pelvic Pain,1
+Cryptomenorrhoea,1
+Urethritis,1
+Cervical Cancer Radiotherapy,1
+Uterine Abnormalities,1
+Turner Syndrome,1
+Puerperal Pyrexia,1
+Gnrh Analogues,1
+Pelvic Pain,1
+Cerebral Venous Sinus Thrombosis,1
+Fetal Malpresentation,1
+Placentation,1
+Glycoprotein Hormones,1
+Magnesium Sulfate Toxicity,1
+Pelvic Inlet,1
+Menstrual Cycle Disorders,1
+Partogram,1
+Surgical Indications,1
+Tuberculous Arthritis,1
+Colonic Pseudo-Obstruction,1
+Knee Deformity,1
+Dermatophytosis,1
 Fistula-In-Ano,1
+Lymphogranuloma Venereum,1
 Rectal Carcinoma,1
 Peritoneal Tuberculosis,1
-Sexual Jurisprudence,1
 Hydrocele,1
 Hypospadias,1
+Testicular Disorders,1
 Pressure Ulcer,1
-Environment And Health,1
 Paediatric Surgery,1
-Head and Neck Imaging,1
+Apocrine Gland Disorders,1
+Tinea Versicolor,1
+Topical Antifungal Agents,1
+Head And Neck Imaging,1
 Neurocysticercosis,1
-Surgical Oncology Principles,1
+Immunobullous Diseases,1
+Molluscum Contagiosum,1
 Meconium Ileus,1
-Minimal Change Disease,1
-Lymphoma Classification,1
-Dry Eye Syndrome,1
-Hyperuricemia,1
-Toxins,1
+Hand Injuries,1
+Rotator Cuff Injuries,1
+Rotator Cuff Impingement,1
+Pcos,1
+Knee Dislocation,1
+Transverse Lie,1
+Radial Head Subluxation,1
+Acl Injuries,1
+Abruptio Placentae,1
+Fetal Anemia,1
+Arthrodesis,1
+Anti-Craving Agents,1
+Pupil,1
+Lacrimal Gland Disorders,1
+Nephrotoxic Drugs,1
+Gangrene,1
+Antitubercular Drug Toxicity,1
+Pharmacokinetic Drug Interactions,1
+Glycobiology,1
+Spectroscopy,1
+Second Messengers,1
+H2 Receptor Antagonists,1
+Reverse Transcription,1
+Genetic Engineering,1
+Folate Metabolism,1
+Dopamine Antagonists,1
+Aminosalicylates,1
+Steroid Hormones,1
 Antiretroviral Therapy,1
 Immunomodulatory Drugs,1
 Anthracyclines,1
+Biochemical Techniques,1
+Lactate Metabolism,1
 Antidiarrheal Agents,1
+Pyruvate Dehydrogenase Complex,1
 Wilson'S Disease,1
 Drug-Induced Priapism,1
+Oculocardiac Reflex,1
+Decompression Sickness,1
+Muscle Tissue,1
 Chloride Channel Activators,1
 Grievous Injuries,1
-Public Health Indices,1
-Gestational Age Assessment,1
+Insulin Receptor,1
+Thyroid Hormones,1
+Oxazolidinones,1
+Immunoglobulin Class Switching,1
 Bone Age Assessment,1
-Thermal Injuries,1
-Cannabis,1
-Nux Vomica,1
-Pasteurization,1
-Aminosalicylates,1
-Dopamine Antagonists,1
-H2 Receptor Antagonists,1
-Measles Virus,1
+Shrinking Lung Syndrome,1
+Molecular Chaperones,1
+Prokinetic Drugs,1
+Hyperuricemia,1
+Cutaneous T-Cell Lymphoma,1
+Thyroiditis,1
+Urinary Pathology,1
 Beta-2 Agonists,1
+Radiation Injury,1
 Prostaglandin Analogues,1
+Von Willebrand Disease,1
 Progesterone Antagonists,1
+Cardiac Biomarkers,1
 Acromegaly Management,1
+Chromosomal Instability Syndromes,1
 Alpha-Glucosidase Inhibitors,1
 Catecholamine Synthesis Inhibitors,1
+Trisomy 21,1
 Somatostatin Analogs,1
-Pharmacokinetic Drug Interactions,1
-Antiparkinsonian drugs,1
+Down Syndrome,1
+Antiparkinsonian Drugs,1
+Serum Sickness,1
+Graft Rejection,1
 Tardive Dyskinesia,1
+Hla Matching,1
+Hypersensitivity Reactions,1
 Antiparkinson Drugs,1
-Nephrotoxic Drugs,1
-Oxazolidinones,1
-Antitubercular Drug Toxicity,1
-Mrsa,1
-Enzyme Defects,1
-Pupil,1
-Spirochetes,1
+Lymph Node Anatomy,1
+B Cell Localization,1
+Mhc Class Ii Expression,1
+Gestational Age Assessment,1
+Thermal Injuries,1
+Lid Disorders,1
+International Classification Of Disease,1
+Gradenigo Syndrome,1
+Uterine Artery,1
+Mesenteries,1
+Taste And Smell,1
+Gastrosplenic Ligament,1
+Palate,1
+Atelectasis,1
+Pelvic Vasculature,1
+Head And Neck Cancers,1
+Trismus,1
+Laryngeal Carcinoma,1
+Splenic Artery,1
 Laryngeal Innervation,1
-Anti-Obesity Drugs,1
 Facial Pain Syndromes,1
-Antiepileptics,1
+Inferior Pancreaticoduodenal Artery,1
+Urogenital Anatomy,1
 Visual Field Testing,1
+Upper Lobe,1
+Coronary Sinus,1
 Anterior Chamber Angle,1
 Conjunctival Staining,1
-Immunosuppressive Drugs,1
 Cycloplegic Agents,1
+Cardiac Veins,1
 Scleromalacia Perforans,1
+Superior Gluteal Nerve,1
 Phacoemulsification,1
 Phacodonesis,1
 Stereopsis,1
-Lid Disorders,1
-Lacrimal Gland Disorders,1
-Laryngeal Carcinoma,1
-Poisoning Symptoms,1
-Trismus,1
+Alcohol Withdrawal,1
+Csom,1
 National Health Missions,1
-Heat Stroke,1
+Bile Secretion,1
+Pupillary Muscles,1
+Proteolytic Enzymes,1
+Enzyme Activation,1
+Cardiopulmonary Baroreceptors,1
+Venous Oxygen Saturation,1
+Afterload,1
+Baroreceptor,1
+Cannabis,1
+Nux Vomica,1
+Pasteurization,1
+Mrsa,1
+Neurological Examination,1
+Calcium Metabolism,1
+Muscle Spindles,1
+Visual Cycle,1
+Enzyme Defects,1
+Oncotic Pressure,1
+Ion Channels,1
+Body Water And Electrolytes,1
+Facilitated Diffusion,1
+Active Transport,1
+Spirochetes,1
+Umbilical Structures,1
 Vaccine Preventable Diseases,1
+Neural Crest,1
 Mortality Rates,1
 Perinatal Mortality,1
 Social Determinants,1
+Cranial Nerve Innervation,1
 International Health Organizations,1
-Post-Mortem Lividity,1
-Head And Neck Cancers,1
-International Classification Of Disease,1
-Csom,1
-Gradenigo Syndrome,1
-Taste And Smell,1
-Palate,1
-Atelectasis,1
-Oropharyngeal Carcinoma,1
-Fetal Age Estimation,1
-Globus Pharyngeus,1
-Vagus Nerve,1
-Abpi Interpretation,1
-Bleeding Disorders,1
-Copd Staging,1
-Femoral Triangle,1
-Pilonidal Disease,1
-Operative Vaginal Delivery,1
-Amputations,1
-Hypokalemic Metabolic Alkalosis,1
-Cryoglobulinemia Etiology,1
-History,1
-Mullerian Anomalies,1
-Gram Negative Bacteria,1
-Lipids And Membranes,1
-Gram Positive Bacteria,1
-Lymphadenopathy Investigation,1
-Decompensated Heart Failure,1
-Aortic Stenosis,1
-Anti-Inflammatory Agents,1
-Neuroimaging Findings,1
-Cytopathology,1
-Symptom Analysis,1
-Putrefaction,1
-Insanity Defense,1
-Legal Definitions,1
-Adhd,1
-Acute Metabolic Emergencies,1
-Obstructive Lung Diseases,1
-Obsessive-Compulsive Spectrum,1
-Wounds And Ulcers,1
-Burn Resuscitation,1
-Antibiotic Selection,1
-Muscle Relaxants,1
-Acidosis,1
-Hematological Disorders,1
-Viral Pathology,1
-Hyperthermia Postmortem,1
-Ligaments,1
-Delirium And Dementia,1
-Female Pelvic Anatomy,1
-Post-Operative Complications,1
-Neonatal Head Swelling,1
-Mesothelioma,1
-Fibrous Dysplasia,1
-Criminal Abortion,1
-Paediatric Knee Pathology,1
-Thoracic Pathology,1
-Congenital Eye Disorders,1
-Nasopharynx Anatomy,1
-Laryngectomy Rehabilitation,1
-Foot Ulcers,1
-Necrotizing Fasciitis,1
-Abdominal Ct Interpretation,1
-Human Papillomavirus (Hpv),1
-Vitamin Metabolism,1
-Hiv-Associated Dermatoses,1
-Protein Structure And Function,1
-Thoracic Cavity Anatomy,1
-Micronutrient Deficiencies,1
-Pharynx And Tonsils,1
-Stroke Syndromes,1
-Symptoms,1
-Surgical Complications,1
-Antiretroviral Therapy (Art),1
-Penile Diseases,1
-Caustic Ingestion,1
-Head Injury Management,1
-Ulcers,1
-Osteoporosis Drugs,1
-Gene Transfer,1
-Health Promotion,1
-Skull Anatomy,1
-Postpartum Care,1
-Type 1 Diabetes,1
-Food Quality Tests,1
-Gi Contrast Studies,1
-Acneiform Disorders,1
-Adnexal Masses,1
-Patient Positioning,1
-Alcohol-Related Disorders,1
-Acromegaly,1
-Ayushman Bharat,1
-Neuro-Oncology,1
-Uterine Disorders,1
-Nephrolithiasis,1
-Gastrectomy Complications,1
-Incomplete Question,1
-Polycystic Kidney Disease,1
-Pathogens,1
-Health Education Models,1
-Cranial Anatomy,1
-Anesthetic Complications,1
-Adhd Medications,1
-Kidney Stones,1
-Cardiac Pathology,1
-Optic Disc Evaluation,1
-Cochlear And Brainstem Implants,1
-Autoimmune Blistering Disorders,1
-Binocular Vision Assessment,1
-Disaster Cycle,1
-General Anesthetics,1
-Skeletal Imaging,1
-Child Health Indicators,1
-Socioeconomic Health Indices,1
-Gynaecological Imaging,1
-Data Visualization,1
-Pre-Eclampsia Management,1
-Skin And Soft Tissue,1
-Measures Of Central Tendency,1
-Substance Abuse Pharmacology,1
-Epithelium,1
-Revised National Tb Control Program,1
-Xeroderma Pigmentosum,1
-Follicular Hyperkeratosis,1
-Antifolates,1
-Fibrinolytic Agents,1
-Medicolegal Jurisprudence,1
-Deformities,1
-Fertility Indicators,1
-Autoimmune Skin Disorders,1
-Factory Act,1
-Ocular Motility & Strabismus,1
-Child Rights Legislation,1
-Mummification,1
-Meningococcal Disease Control,1
-Ocular Muscles,1
-Rheumatoid Arthritis Pathology,1
-Tenosynovitis,1
-Colitis,1
-Colorectal Disorders,1
-Chest Lesions,1
-Urologic Oncology,1
-Wrist Injuries,1
-Placenta Inversion,1
-Aortic Aneurysm Management,1
-Surgical Equipment,1
-Fetal Sex Determination Ethics,1
-Pelvic Organ Prolapse Surgery,1
-Pelvic Surgical Anatomy,1
-Fallopian Tube Anatomy,1
-Fascia,1
-Scarring,1
-Genital Pathology,1
-Clinical Assessment,1
-Pediatric Nutrition,1
-Helminthic Diseases,1
-Diarrheagenic Escherichia Coli,1
-Nontuberculous Mycobacteria,1
-Hemorrhagic Fevers,1
-Child Welfare,1
-School Health Services,1
-Contrast Media Safety,1
-Zoonotic Diseases,1
-Sinus Radiography,1
-Community Ophthalmology,1
-Spinal Anesthesia Complications,1
-Hair Loss,1
-Lipids,1
-Radiation Protection,1
-Acne Management,1
-Coarctation Of Aorta Imaging,1
-Corynebacterium,1
-Erythematous Skin Lesions,1
-Corrosive Poisoning,1
-Spinal Cord Syndromes,1
-Geriatrics,1
-Anthelmintic Drugs,1
-Diaphragm,1
-Pharynx And Larynx,1
-Thoracic Inlet Anatomy,1
-Occupational Poisoning,1
-Fluorosis Imaging,1
-Toxic Alcohol Poisoning,1
-Drugs Of Abuse,1
-Food Adulteration,1
-Snake Envenomation,1
-Medico Legal Injuries,1
-General Microbiology,1
-Hand Nerves,1
-Aphakia,1
-Erectile Dysfunction,1
-Laryngeal Diseases,1
-Drug-Induced Conditions,1
-Occupational Lung Diseases,1
-Peripheral Neuropathies,1
-Sickle Cell Disease,1
-Ocular Adnexa Anatomy,1
-Ophthalmic Investigations,1
-Rhinophyma,1
-Hiv Diagnostics,1
-Hiv/Aids Control,1
-Elbow Disorders,1
-Tuberculosis Of Hip,1
-Causes Of Blindness,1
-Health Statistics,1
-Rabies Prophylaxis,1
-Lung Imaging Findings,1
-Cholangiocarcinoma,1
-Macular Degeneration,1
-Basal Ganglia Disorders,1
-Reye Syndrome,1
-Coeliac Disease,1
-Congenital Tuberculosis,1
-Congenital Heart Defects,1
-Disease Prevention And Control,1
-Oral Cavity Neoplasms,1
-Biliary Tract Anomalies,1
-Pediatric Arrhythmias,1
-Central Venous Access,1
-Cardiothoracic Surgery,1
-Malabsorption Syndromes,1
-Wound Complications,1
-Pelvic Floor Disorders,1
-Oral Cancers,1
-Viral Histopathology,1
-Dmards,1
-Assisted Reproduction,1
-Pterygopalatine Fossa,1
-Thoracic Ct,1
-Brain Imaging,1
-Nevi,1
-Back,1
-Airway Equipment,1
-Uterine Prolapse Management,1
-Portal Circulation,1
-Iron Poisoning Treatment,1
-Fetal Organogenesis,1
-Fertilization Concepts,1
+Premalignant Skin Lesions,1
+Thyroid Swellings,1
+Ototoxicity,1
 Neurological Complications,1
-Vertebral Column,1
-Posterior Fossa Anomalies,1
-Pharyngeal Spaces,1
-Abdominal Ct,1
-Iron Poisoning,1
-Nerve And Muscle,1
-Vulvar Disorders,1
-Peripheral Nerve Entrapment,1
-Amniotic Fluid Disorders,1
-Enzyme Function,1
-Antidepressant Side Effects,1
-Cartilage Types,1
-Peritoneal Ligaments,1
-Addiction Psychiatry,1
-Fluoroquinolone Adverse Effects,1
-Nerve Excitability,1
-Psychodynamic Theory,1
-Sexual Dysfunctions,1
-Gene Mutations,1
-Systemic Granulomatous Diseases,1
-Abdominal Arteries,1
-Maxillary Artery,1
-Cerebrum,1
-Antiandrogens,1
-Diagnostic Techniques,1
-Cellular Respiration,1
-Phakomatoses,1
-Fatty Acid Oxidation,1
-Lipogenesis,1
-Arrhythmia Management,1
-Allergic Lung Diseases,1
-Organ Pathology,1
-Drugs For Neurological Disorders,1
-Urological Neoplasms,1
-Hematologic Neoplasms,1
-Liver Disease,1
-Patterns Of Inheritance,1
-Sympathomimetics,1
-Gastric Neoplasms,1
-Copd Classification,1
-Drugs For Peptic Ulcer,1
-Abdominal Aorta,1
-Environmental Physiology,1
-Screening For Diseases,1
 National Tb Elimination Program,1
-Basal Ganglia,1
-Motor System,1
+Screening For Diseases,1
+Post-Mortem Lividity,1
+Poisoning Symptoms,1
+Anti-Obesity Drugs,1
+Antiepileptics,1
+Posterior Fossa Anomalies,1
+Fertilization Concepts,1
+Natural Family Planning,1
+Fetal Organogenesis,1
+Uterine Prolapse Management,1
+Airway Equipment,1
+Nevi,1
+Brain Imaging,1
+Thoracic Ct,1
+Abdominal Ct,1
 Child Welfare Legislation,1
-Hypothalamus,1
 Insanity And Criminal Responsibility,1
-Sphingolipids,1
-Exercise Physiology,1
 Medico-Legal Aspects Of Birth,1
 Phosphodiesterase Inhibitors,1
-Bacterial Resistance Mechanisms,1
+Toxins,1
+Viral Histopathology,1
+Gastric Neoplasms,1
+Patterns Of Inheritance,1
+Organ Pathology,1
+Diagnostic Techniques,1
+Heat Stroke,1
+Allergic Lung Diseases,1
+Arrhythmia Management,1
+Phakomatoses,1
+Copd Classification,1
+Drugs For Neurological Disorders,1
+Drugs For Peptic Ulcer,1
 Antibiotic Therapy,1
-Amino Sugar Metabolism,1
-Antibacterial Drugs,1
-Warfarin,1
-Lidocaine,1
-Chemoreceptors,1
-Biochemistry,1
-Sympathetic Ophthalmitis,1
-Macular Function Tests,1
-Eyelid Anatomy & Disorders,1
-Drug Side Effects,1
-Chronic Liver Disease,1
-Supraventricular Tachycardia,1
-Kawasaki Syndrome,1
-Lithium Toxicity,1
-Lithium Side Effects,1
-Menstrual Cycle Hormones,1
-Muscle Receptors,1
-Hyperthyroidism,1
-Cardiac Reflexes,1
-Visual Pathway Lesions,1
-Ear Surgery,1
-Spinal Cord Tracts,1
-Public Health Goals,1
-Bacterial Food Poisoning,1
-Hepatitis B Diagnosis,1
-Ribozymes,1
-Factories Act,1
-Cholesterol Metabolism,1
-Nadph Production,1
-Measures Of Dispersion,1
-Nerve Conduction,1
-Arginine Metabolism,1
-Brainstem Lesions,1
-Neonatal Immunity,1
-Mental Healthcare Act 2017,1
+Bacterial Resistance Mechanisms,1
+Abdominal Arteries,1
+Sexual Dysfunctions,1
+Psychodynamic Theory,1
+Gram Positive Bacteria,1
+History,1
+Cryoglobulinemia Etiology,1
+Hypokalemic Metabolic Alkalosis,1
+Copd Staging,1
+Abpi Interpretation,1
+Lymphoma Classification,1
+Anti-Inflammatory Agents,1
+Genetic Syndromes In Cancer,1
+Muscle Relaxants,1
+Antibiotic Selection,1
+Burn Resuscitation,1
+Legal Definitions,1
+Insanity Defense,1
+Putrefaction,1
+Skull Anatomy,1
+Gram Negative Bacteria,1
+Hematological Disorders,1
+Antitubercular Drugs And Oral Contraceptive Pills (Ocps) Interaction,1
+Viral Pathology,1
+Addiction Psychiatry,1
+Ligaments,1
+Post-Operative Complications,1
+Female Pelvic Anatomy,1
+Delirium And Dementia,1
+Human Papillomavirus (Hpv),1
+Antiretroviral Therapy (Art),1
+Gene Transfer,1
+Osteoporosis Drugs,1
+Head Injury Management,1
+Stroke Syndromes,1
+Pharynx And Tonsils,1
+Thoracic Cavity Anatomy,1
+Protein Structure And Function,1
+Vitamin Metabolism,1
+Spinal Cord Syndromes,1
+Diaphragm,1
+Pharynx And Larynx,1
+Spinal Anomalies,1
+Endometritis,1
+Behcet'S Syndrome,1
+Oncology Imaging,1
+Pericardium,1
+Gi Secretions,1
+Gi Absorption,1
+Cell Membrane Physiology,1
+Amino Acid Structure And Classification,1
+Purine And Pyrimidine Metabolism,1
+Nucleic Acid Structure,1
+Biomolecular Interactions,1
+Gastric Malignancies,1
+Parkinson Disease Drugs,1
+Legal Aspects Of Injury,1
+Pelvic Girdle,1
+Arthritis Imaging,1
+Congenital Hypothyroidism,1
+Bacterial Characteristics,1
+Clinical Skills,1
+Tongue Anatomy,1
+Acoustic Neuroma,1
+Nasal Anatomy,1
+Nasopharyngeal Angiofibroma,1
+Retropharyngeal Abscess,1
+Maxillary Sinus,1
+Chronic Otitis Media Complications,1
+Calciphylaxis,1
+Liver Biopsy,1
+Rheumatoid Arthritis Complications,1
+Vitamin E Deficiency,1
+Colorectal Cancer Precursors,1
+Tonsillectomy Complications,1
+Sinus Surgery,1
+Ent Procedures,1
+Postmortem Procedures,1
+Dna Viruses,1
+Thoracic Inlet Anatomy,1
+Biliary Tract Anomalies,1
+Disease Prevention And Control,1
+Congenital Heart Defects,1
+Congenital Tuberculosis,1
+Coeliac Disease,1
+Reye Syndrome,1
+Erythematous Skin Lesions,1
+Hand Nerves,1
+Public Health Indices,1
+Acne Management,1
+Hair Loss,1
+Spinal Anesthesia Complications,1
+Contrast Media Safety,1
+Coarctation Of Aorta Imaging,1
+Sinus Radiography,1
+Fluorosis Imaging,1
+Oral Cavity Neoplasms,1
+Measles Virus,1
+National Aids Control Programme,1
+Malabsorption Syndromes,1
+Rabies Prophylaxis,1
+Health Statistics,1
+Causes Of Blindness,1
+Hiv/Aids Control,1
+Rhinophyma,1
+Health System Organization,1
+Laryngeal Diseases,1
+Ophthalmic Investigations,1
+Ocular Adnexa Anatomy,1
+Environmental Monitoring,1
+Occupational Lung Diseases,1
+Drug-Induced Conditions,1
+Lung Imaging Findings,1
+Hiv Diagnostics,1
+Pediatric Arrhythmias,1
+Mummification,1
+Child Rights Legislation,1
+Factory Act,1
 Adh Action,1
-National Program For Control Of Blindness,1
-Coronary Arteries,1
-Abdominal Muscles,1
-Bacterial Stis,1
-Urethral Imaging,1
+Arginine Metabolism,1
+Nadph Production,1
+Cholesterol Metabolism,1
+Ribozymes,1
+Metabolic Cycles Linkage,1
+Vitamin A Metabolism,1
+Anesthetic Drugs,1
+Drugs For Substance Abuse,1
+Gout Drugs,1
+Phases Of Clinical Trials,1
+Bites And Stings Management,1
+Drugs For Short Bowel Syndrome,1
+Intestinal Parasites,1
+Cancer Presentation,1
+Antiparasitic Agents,1
+Brainstem Lesions,1
+Nerve Conduction,1
+Opportunistic Fungi,1
+Biochemistry,1
 Vitamin K,1
-Paediatric Gastroenteritis,1
-Imaging Interpretation,1
-Chronic Lung Disease,1
-Pharynx And Esophagus Anatomy,1
-Brain Mri,1
-Laparoscopic Instrumentation,1
+Rheumatic Fever And Rhd,1
 Intraoperative Management,1
-Uterine Pathology,1
-Primary Immunodeficiency,1
-Hand And Wrist Conditions,1
-Nevi And Moles,1
-Bullous Skin Diseases,1
-Paediatric Chest Radiology,1
-Substance Dependence,1
-Endoscopic Procedures,1
-Pulmonary Hypertension Drugs,1
-Small Bowel Surgery Complications,1
-Esophageal Motility,1
-Lung Cancer Staging,1
-Men Syndromes,1
-Penile Carcinoma,1
-Post-Transplant Complications,1
-Diverticular Disease,1
-Acute Liver Failure,1
 Spinal Ligaments,1
-Hypercoagulable States,1
-Optic Disc Anatomy,1
-Inherited Immunodeficiency,1
 Auditory Implants,1
-Pituitary Gland Physiology,1
-Hypopituitarism,1
-Urethritis Causes,1
-Bacterial Culture Media,1
-Medical Signs,1
-Infestations,1
-Radiographic Contrast Agents,1
-Ptosis Management,1
-Phobic Disorders,1
-Laryngeal Pathology,1
-Skin Conditions,1
-Barium Studies,1
-Antitoxins,1
+Inherited Immunodeficiency,1
+Optic Disc Anatomy,1
+Hypercoagulable States,1
+Abdominal Muscles,1
+Spinal Cord Tracts,1
+Coronary Arteries,1
+Cardiac Reflexes,1
+Muscle Receptors,1
+Menstrual Cycle Hormones,1
+Chemoreceptors,1
+Enteroviruses,1
+Healthcare Administration,1
+Imaging Interpretation,1
+Common Peroneal Nerve,1
+Hip Dislocations,1
+Shoulder Pathology,1
+Fetal Head Diameters,1
+Amniotic Fluid Dynamics,1
+Integumentary System,1
 Anaesthetic Monitoring,1
-Solid Waste Disposal,1
+Liver Metabolism,1
+Radiographic Contrast Agents,1
+Barium Studies,1
+Infestations,1
 Urinary Tract Anomalies,1
 Anatomical Triangles,1
 Surgical Blades,1
-Data Presentation,1
 Perforated Viscus,1
-Liver Metabolism,1
-Integumentary System,1
-Middle Ear Diseases,1
+Vertigo,1
+Rhinosinusitis Complications,1
+Apgar Score,1
+Occupational Health And Safety,1
+Pediatric Abdominal Emergencies,1
+Epidemiological Bias,1
+Data Presentation,1
+Solid Waste Disposal,1
+Antitoxins,1
+Phobic Disorders,1
+Ptosis Management,1
+Ocular Manifestations,1
+Cardiac Conduction System,1
 Deep Venous Thrombosis (Dvt),1
+Esophageal Ulcers,1
+Liver Disorders,1
+Cardiac Murmurs,1
 Esophageal Diseases,1
 Male Genital System Anatomy,1
 Esophageal Pathology,1
-Pediatric Abdominal Emergencies,1
-Apgar Score,1
-Esophageal Ulcers,1
-Common Peroneal Nerve,1
-Amniotic Fluid Dynamics,1
-Rhinosinusitis Complications,1
-Hip Dislocations,1
-Shoulder Pathology,1
-Cardiac Conduction System,1
-Ocular Manifestations,1
-Fetal Head Diameters,1
-Vertigo,1
-Epidemiological Bias,1
-Metabolic Cycles Linkage,1
-Gout Treatment,1
-Catecholamine Synthesis,1
-Cellular Movement,1
-Gout Drugs,1
-Gi Pharmacology,1
-Antihypertensives,1
-Receptor Mechanisms,1
-Antipsychotic Side Effects,1
-Phases Of Clinical Trials,1
-Drug Kinetics,1
-Indian Penal Code,1
-Drugs For Substance Abuse,1
-Anesthetic Drugs,1
-Substance Abuse Symptoms,1
-Vitamin A Metabolism,1
-Gene Expression Regulation,1
-Dna Replication And Repair,1
-Occupational Health And Safety,1
-Enteroviruses,1
-Vocal Cord Lesions,1
-Healthcare Administration,1
-Vesiculobullous Lesions,1
-Cause Of Death,1
-Opportunistic Fungi,1
-Internal Capsule,1
-Antiparasitic Agents,1
-Bites And Stings Management,1
-Abdominal Viscera,1
-Glomerular Filtration,1
-Nerve Fiber Types,1
-Limbic System,1
-Intestinal Parasites,1
-Drugs For Short Bowel Syndrome,1
-Uterine Causes Of Aub,1
-Human Papillomavirus,1
+Paediatric Gastroenteritis,1
+Brain Mri,1
+Fertility Indicators,1
+Anesthetic Complications,1
+Optic Disc Evaluation,1
+Kidney Stones,1
+Warfarin,1
 Hepatic Pathology,1
-Migraine Management,1
-Hearing Loss Causes,1
-Hematologic Malignancies,1
-Airway Emergencies,1
-Erectile Dysfunction Drugs,1
-Neonatal Hiv Management,1
-Anti-Inflammatory Drugs,1
-Hyperuricemia Management,1
-Marfan Syndrome,1
-Gerd Management,1
-T Cell Immunity,1
-X-Linked Inheritance,1
-Ventilation Perfusion,1
-Viral Exanthems,1
-Paediatric Symptoms,1
-Lymphoproliferative Disorders,1
-Cholestatic Liver Diseases,1
-Surgical Sutures,1
-Congenital Limb Defects,1
-Asphyxial Injuries,1
-Helicobacter Pylori,1
-Pocso Act,1
-Atrial Flutter/Fibrillation,1
-First Trimester Complications,1
-Preeclampsia And Eclampsia,1
-Herpes Viruses,1
-Hip Pathology,1
-Bacterial Resistance,1
-Occupational Health Legislation,1
-Postmenopausal Bleeding,1
-Menstrual Cycle Physiology,1
-Cervical Cancer Staging,1
-Orbital Disorders,1
-Amino Acid Properties,1
-Non-Communicable Disease Prevention,1
-Toxoplasmosis,1
-Basic Pathology,1
-Liver Radiology,1
-Thoracic Anatomy,1
-Acute Stress Disorder,1
-Psychiatric Assessment,1
-Bowel Anastomosis,1
-Larynx Anatomy & Physiology,1
-Clinical Anatomy,1
-Pharyngeal Anatomy,1
-Sciatica,1
-Abdominal Wall Defects,1
-Follicular Disorders,1
-Intracranial Haemorrhage,1
+Bone Marrow Failure Syndromes,1
 Drugs Affecting Bone Metabolism,1
-Drug-Resistant Tuberculosis Treatment,1
-Autoimmune Liver Disease,1
+Intracranial Haemorrhage,1
+Basic Pathology,1
+Bowel Anastomosis,1
+Thoracic Anatomy,1
+Pharyngeal Anatomy,1
 Diaphragmatic Openings,1
-Census Methods,1
-Vitamin B2 Metabolism,1
-Screening Evaluation,1
-Health Program Management Cycle,1
-Icds Program,1
-Disease Dynamics,1
-Amino Acid Transport Defects,1
-Oropharyngeal Cancer,1
-Barium Swallow,1
-Ocular Adnexa,1
-Acid Base Disorders,1
-Metabolism Disorders,1
-Counter-Current Mechanism,1
-Asthma Management,1
-Brain Waves,1
 Jugular Venous Pulse,1
-Hepatitis B Markers,1
-Entomology,1
-Middle Ear Disorders,1
-Acute Heart Failure,1
-Prenatal Diagnosis And Screening,1
-Family Planning Methods,1
-Genitourinary Pathology,1
-Wounds And Injuries,1
-Placenta And Fetal Membranes,1
-Hiv Management,1
-Drug Overdose,1
-Drug Hypersensitivity,1
-Chest Ct Interpretation,1
-Oncological Emergencies,1
-Viral Hemorrhagic Fevers,1
-Bone Cysts,1
-Fungal Culture Media,1
-Cholera Toxin Mechanism,1
-Inner Ear Anatomy,1
-Hair Disorders,1
-Neonatal Hypothyroidism,1
-Preeclampsia Complications,1
-Ear Ossicles,1
-Lung Pathology Imaging,1
-Childhood Behavioral Disorders,1
-Paracetamol Poisoning,1
-Psychotherapy Concepts,1
-Ascites Complications,1
-Vesicovaginal Fistula,1
-Neuromuscular Blockade Monitoring,1
-Gynecological Radiology,1
-Placental Abnormalities,1
-Management Of Breech Presentation,1
-Multiple Pregnancies,1
-Genetic Bone Disorders,1
-Complicated Deliveries,1
-Aspergillosis,1
-Infantile Spasms,1
-Demographic Indicators,1
-Ankle Sprains,1
-"Neurotic, Stress-Related And Somatofordm Disorders",1
-Autoimmune Arthritis,1
-Copd Exacerbation,1
-Cholestatic Liver Disease,1
-Cardiac Arrhythmias Management,1
-Water Quality Standards,1
-Epithelial Tissue,1
+Brain Waves,1
+Counter-Current Mechanism,1
+Cochlear And Brainstem Implants,1
+General Anesthetics,1
+Vitamin B2 Metabolism,1
+Skeletal Imaging,1
+Revised National Tb Control Program,1
+Meningococcal Disease Control,1
+Ocular Muscles,1
+Surgical Equipment,1
+Scarring,1
+Fascia,1
+Aortic Aneurysm Management,1
+Tenosynovitis,1
+Wrist Injuries,1
+Rheumatoid Arthritis Pathology,1
+Cranial Anatomy,1
+Pre-Eclampsia Management,1
+Uterine Disorders,1
+Gi Contrast Studies,1
+Gynaecological Imaging,1
+Metabolism Disorders,1
+Amino Acid Transport Defects,1
+Nevi And Moles,1
 Sydenham Chorea Management,1
-Epidemiological Rates,1
-Submandibular Region,1
-Chemoprophylaxis,1
-Revised National Tuberculosis Control Program (Rntcp),1
-Fasting Metabolism,1
-Phenylalanine Metabolism,1
-Anticancer Drugs D,1
-Cryoglobulinemia,1
-Duchenne Muscular Dystrophy,1
-Wrist And Hand Conditions,1
-Nerve Fiber Properties,1
-Thermoregulation In Fever,1
-Hemiballismus,1
-Bulimia Nervosa,1
-Postpartum Psychiatric Disorders,1
-Imaging Modalities,1
-Congenital Urinary Anomalies,1
-Hyperkalemia Management,1
-General Radiology,1
-Neonatal Ophthalmology,1
-Purine Metabolism Disorders,1
 Cranial Sutures And Fontanelles,1
-Oral Mucosal Lesions,1
-Digoxin Toxicity,1
-Soft Tissue Disorders,1
-Obstetric Emergencies,1
-Endoscopic Surgery,1
-Oogenesis,1
-Cerebellar Functions,1
-Auditory System,1
-Nocardiosis,1
-Cerebellar Physiology,1
-Olfactory System,1
-Gram Positive Cocci,1
-Fsh/Lh Regulation,1
-Streptococcus Pneumoniae,1
-Antigen Properties,1
-Toxocariasis,1
-Sterile Pyuria,1
-Acute Cystitis,1
-Clinical Pathology,1
-C-Reactive Protein,1
-Extrapyramidal Tracts,1
-Non-Accidental Injury,1
-Resting Membrane Potential,1
-Laryngeal Nerves,1
-Retroperitoneal Structures,1
-Anterior Abdominal Wall,1
-Pelvic Cavity,1
-Road Traffic Injuries,1
-Eyelid,1
-Ossicles,1
-Chemical Poisons,1
-Gunshot Residue Analysis,1
-Trapezius,1
-Bony Labyrinth,1
-Injury Patterns,1
-Cochlea,1
-Fourth Ventricle,1
-Testicular Descent,1
-Cell Communication,1
-Cell Structure And Function,1
-Sternum,1
-Musculoskeletal Pharmacology,1
-Purine Catabolism,1
-Purine Salvage Pathway,1
-Porphyrin Synthesis,1
-Chemical Bonds,1
-Biomolecules,1
-Gynaecological Pharmacology,1
-Antifungal Pharmacology,1
-Nitrogen Metabolism,1
-Mechanotransduction,1
-Thrombopoietic Agents,1
-Graft-Versus-Host Disease,1
-Complement,1
-Carcinoma,1
-Nephrosclerosis,1
-Opioid Pharmacology,1
-Creatine Metabolism,1
-Yaws,1
-Campylobacter,1
-Molecular Motors,1
-Membrane Potential,1
-Viral Perinatal Transmission,1
-Phosphorus Metabolism,1
-Coagulation Cascade,1
-Enzyme Isoforms,1
-Bacterial Virulence Factors,1
-Migraine Prophylaxis,1
-Fungal Toxins,1
-Drug Adverse Effects,1
-Diabetes Mellitus Management,1
-Methemoglobinemia,1
-Cholesterol Synthesis,1
-Chemotherapy Adverse Effects,1
-World Health Organization,1
-First Rib,1
-Reactive Oxygen Species,1
-Lung Mechanics,1
-High Spinal Anaesthesia,1
-Sedation,1
-Acute Lymphoblastic Leukemia,1
-Cardiomegaly,1
-Pulmonary Metastasis,1
-Solitary Pulmonary Nodule,1
-Hepatobiliary Radiology,1
-Rapid Sequence Induction,1
-Pancreatic Imaging,1
-Focal Neurological Deficit,1
-Carotid Cavernous Sinus Fistula,1
-Metastasis,1
-Radiographic Anatomy Of Skull,1
-Radiation Tolerance,1
-Magnesium Toxicity,1
-Pharmacology Of Intravenous Anesthetics,1
-Hypothyroidism Management,1
-Organ Donation And Transplantation,1
-Paediatric Genitourinary Disorders,1
-Behçet'S Disease,1
-Neurological Assessment,1
-Dermatological Investigations,1
-Clubbing,1
-Acanthosis Nigricans,1
-Inhalational Anaesthesia,1
-Burn Assessment,1
-Intraocular Pressure,1
-Capnography,1
-Cryotherapy,1
-Ophthalmic Anaesthesia,1
-Prostate Surgery Complications,1
-Inhalational Anesthetic Agents,1
-Imaging Of Cystic Brain Lesions,1
-Hypoglycemia In Children,1
-Sacrum,1
-Mosquito Control,1
-Conversion Disorders,1
-Pharyngology,1
-Standardization Of Rates,1
-Social Cognition,1
-Rem Sleep,1
-Nrem Sleep,1
-Measures Of Skewness,1
-Oral Cavity Lesions,1
-National Screening Programs,1
-Indoor Air Pollution,1
-Mckeown'S Theory,1
-Cognitive Therapy,1
-Behavioural Therapy,1
-Learning Theory,1
-Agoraphobia,1
-Specific Phobia,1
-Visual Disturbances,1
-Neurotic Disorders,1
-Delirium Tremens,1
-Lymph Node Pathology,1
-Wernicke'S Encephalopathy,1
-Cocaine Withdrawal,1
-Macular Disorders,1
-Psychiatric Symptoms,1
-Neurosis,1
-Urogenital Pharmacology,1
-Ambivalence,1
-Autism,1
-Neuropsychiatry,1
-Psychomotor Symptoms,1
-Otosclerosis Treatment,1
-Suicide And Self-Harm,1
-Arteriolosclerosis,1
-Drug Absorption,1
-Pcr,1
-Oncogenic Viruses,1
-Nocardia,1
-Waterhouse-Friderichsen Syndrome,1
+Purine Metabolism Disorders,1
+Neonatal Ophthalmology,1
+Wrist And Hand Conditions,1
+Bone Cysts,1
+Placenta And Fetal Membranes,1
+Family Planning Methods,1
+Prenatal Diagnosis And Screening,1
+Complicated Deliveries,1
+Multiple Pregnancies,1
+Gynecological Radiology,1
+Psychotherapy Concepts,1
+Childhood Behavioral Disorders,1
+Lung Pathology Imaging,1
+Uterine Causes Of Aub,1
+Cryoglobulinemia,1
+Cardiac Arrhythmias Management,1
+Amino Acid Properties,1
+Water Quality Standards,1
+Viral Exanthems,1
+X-Linked Inheritance,1
+T Cell Immunity,1
+Anti-Inflammatory Drugs,1
+Erectile Dysfunction Drugs,1
+Occupational Health Legislation,1
+Bacterial Resistance,1
+Herpes Viruses,1
+Helicobacter Pylori,1
+Hepatitis B Markers,1
+Toxoplasmosis,1
+Demographic Indicators,1
+Revised National Tuberculosis Control Program (Rntcp),1
+Chemoprophylaxis,1
+Epidemiological Rates,1
+Fertility Rates,1
+Integrated Disease Surveillance Project,1
+Vocal Cord Lesions,1
 Antiepileptic Drug Contraindications,1
-Culture Techniques,1
-Human Herpesviruses,1
-Vitamin C Deficiency,1
-Prion Diseases,1
-Androgen Insensitivity Syndrome,1
-Cytomegalovirus,1
-Anaerobic Culture,1
-Heterophile Antibody Test,1
-Health Manpower,1
-Prevention Levels,1
-Pediatric Sinusitis,1
-Salmonella,1
-Secondary Amenorrhea,1
-Biases,1
-Impotence,1
-Criminal Responsibility,1
-Electrical Injuries,1
-Neck Injuries,1
-Alpha-Fetoprotein,1
-Bruise,1
-Incised Wound,1
-Fetal Viability,1
-Genitourinary Fistulas,1
-Cardiac Murmurs,1
-Postmortem Examination,1
-Clinical Chemistry,1
-Stomach,1
-Appetite,1
-Cervical Precancerous Lesions,1
-Neonatal Surgery,1
-Epidemic Patterns,1
-Fingerprint,1
-Cancer Control,1
-Mch Programme,1
-Biliary Injuries,1
-Trypanosomiasis,1
-Rectal Prolapse,1
-Solid Waste Management,1
-National Programme For Control Of Blindness,1
-Mental Health,1
-Splenic Pathology,1
-National Family Health Survey,1
-Literacy Rate,1
-Contraceptive Prevalence,1
-Domestic Violence,1
-Health For All,1
-Aids Control Programme,1
-Protein Requirement,1
-Morbid Obesity Surgery,1
-Child Mortality Determinants,1
-Neonatal Mortality,1
-Sah Prognostic Scales,1
-Surgical Management Of Itp,1
-Epidemiological Methods,1
-STDs,1
 Splenic Injury Management,1
-Cold Chain,1
-Perinatal Mortality Rate,1
-Neurolathyrism,1
-Mch Services,1
-Baby-Friendly Hospital Initiative,1
-Adolescent Health,1
-Family Life Cycle,1
-Fluoridation,1
-Dental Fluorosis,1
-Tattoo,1
+Surgical Management Of Itp,1
+Sah Prognostic Scales,1
+Child Mortality Determinants,1
+Neonatal Surgery,1
+Pediatric Sinusitis,1
+Vitamin C Deficiency,1
+Androgen Insensitivity Syndrome,1
+Childhood Pneumonia,1
+Secondary Amenorrhea,1
+Seronegative Spondyloarthropathies,1
+Genitourinary Fistulas,1
+Cervical Precancerous Lesions,1
+Alpha-Fetoprotein,1
+Effects Of Radiation,1
 Fetal Conditions,1
-Biotransformation,1
-Alpha Blockers,1
-Mandibular Nerve Branches,1
-Pancreas Anatomy,1
-Spinal Nerve Lesions,1
-Brain Vasculature,1
-Ventricular System,1
-Pelvic Viscera,1
-Male Genitourinary System,1
-Benzodiazepine Receptor,1
-Inotropes,1
-Peptide Structure,1
-Polymyxins,1
-Qt Interval Prolongation,1
-Bone Classification,1
-Typhoid Treatment,1
-Antispasticity Agents,1
-Atypical Antipsychotics,1
-Cephalosporins,1
-Sustained Release,1
-Autoimmunity,1
-Pharmacovigilance,1
-Cytochrome P450,1
-Drug Distribution,1
-Volume Of Distribution,1
-Phagocytosis,1
-Drug-Induced Hemolysis,1
-Appetite Suppressants,1
-Reporter Genes,1
-Recombinant Dna Technology,1
-Hybridoma Technology,1
-Cholinergic Agents,1
-Smoking Cessation,1
-Gene Expression,1
-Streptogramins,1
-Melanocytic Naevus,1
+Morbid Obesity Surgery,1
+Splenic Pathology,1
+Biliary Injuries,1
+Rectal Prolapse,1
+Insecticides,1
+Medical Ethics,1
+Plasma Cell Dyscrasias,1
+Thrombolytic Agents,1
+Lung Pathology,1
+Functional Bowel Disorders,1
+Thymoma Associations,1
+Therapeutic Apheresis,1
+Gout Arthritis,1
+Acute Chest Pain Evaluation,1
+Motor Neuron Disease,1
+Guillain Barre Syndrome,1
+Metabolic Liver Diseases,1
+Scrotal Swellings,1
+Ureteric Stones,1
+Pediatric Bone Diseases,1
 Inner Ear Physiology,1
-Cartilage Physiology,1
-Pharmacology Of Diabetes,1
-Shoulder Clinical Tests,1
-Spinal Cord Injuries,1
-Tyrosine Kinase Inhibitors,1
-Immunosuppressive Agents,1
-Legal Aspects Of Marriage,1
-Legal Aspects Of Death,1
-Gnrh Agonists,1
-Perjury,1
-Laryngeal Procedures,1
-Age Determination,1
-Professional Secrecy,1
 Neuro-Otology,1
-Long Bones,1
+Brain Vasculature,1
+Pancreas Anatomy,1
+Mandibular Nerve Branches,1
+Gene Expression,1
+Hybridoma Technology,1
+Hip Injuries,1
+Recombinant Dna Technology,1
+Reporter Genes,1
+Drug-Induced Hemolysis,1
+Phagocytosis,1
+Autoimmunity,1
+Reactive Oxygen Species,1
+Thrombopoietic Agents,1
+Antifungal Pharmacology,1
+Musculoskeletal Pharmacology,1
+Gynaecological Pharmacology,1
+Spinal Nerve Lesions,1
+Ventricular System,1
+Laryngeal Procedures,1
+Pelvic Viscera,1
+Cartilage Physiology,1
+Spinal Cord Injuries,1
+Shoulder Clinical Tests,1
 Median Nerve,1
-Dopamine Agonists,1
-Motion Sickness,1
-Loop Diuretics,1
-Emergency Psychiatry,1
-Genitourinary Drugs,1
-Drug Contraindications,1
-Ototoxicity,1
-Substance Related Disorders,1
-Pediatric Cardiac Imaging,1
-Radiation Biology,1
+Spinal Cord Anatomy,1
 Drug Induced Pigmentation,1
-Histopathology Stains,1
 Pustular Psoriasis,1
-Lipid-Lowering Agents,1
-Oral Anticoagulants,1
-Anticoagulant Drugs,1
-Thrombolytic Drugs,1
-Systemic Antifungal Agents,1
-Urological Symptoms,1
-National Aids Control Programme,1
-Clostridioides Difficile,1
-Drug Regulation,1
-Medico-Legal Examination,1
-Bacterial Classification,1
-Post-Streptococcal Glomerulonephritis,1
-Neisseria Meningitidis Vaccine,1
-Sterilization Methods,1
-Oncology Pharmacology,1
-Taeniasis,1
+Histopathology Stains,1
+Radiation Biology,1
+Pediatric Cardiac Imaging,1
+Substance Related Disorders,1
+Emergency Psychiatry,1
+Hyperkeratosis,1
+Bone Classification,1
+Male Genitourinary System,1
+Disease Control Programs,1
+Community Participation,1
+Social Stratification,1
+Experimental Study Designs,1
+Umbilical Cord,1
+Shoulder Injuries,1
+Firearm Wounds,1
+Umbilical Cord Anatomy,1
+Medico-Legal Autopsy,1
+Hematological Markers,1
+Knee Radiology,1
+Preventive Health,1
+Hepatobiliary Diseases,1
+Legitimacy,1
+Urethral Stricture,1
+Scrotal Emergencies,1
+Inguinal Region Anatomy,1
+Skin Graft Physiology,1
+Neck Mass Evaluation,1
+Arterial Supply Of Face,1
+Pediatric Hip Conditions,1
+Oral Anatomy,1
+Preoperative Medication,1
+Skin Grafts,1
+Fatty Acid Metabolism,1
+Ocular Manifestations Of Systemic Diseases,1
+Bacterial Structure And Virulence,1
+Biopsy,1
+Nasal And Paranasal Sinus Disorders,1
+Anti-Reflux Surgery,1
+Head And Neck Pathology,1
+Mtp Act,1
+Biliary Tract Surgery,1
+Water Sanitation,1
+Benign Skin Lesions,1
+Congenital Malformations,1
+Disease Patterns,1
+Measures Of Disease Transmission,1
+Instrumental Delivery,1
+Paediatric Ophthalmology,1
+Health Psychology,1
+Alzheimer'S Disease Drugs,1
+Opioid Antagonists,1
+Urinary Tract Stones,1
+Chelating Agents,1
+Anti-Gout Drugs,1
+Topical Corticosteroids,1
+Ovarian Pathology,1
+Cellular Adaptation And Injury,1
+Interstitial Lung Diseases,1
+Mhc Class I,1
+Staphylococcus Aureus,1
+Streptococcus Agalactiae,1
+Mucormycosis,1
+Road Traffic Accidents,1
+Firearms Injuries,1
+Electrocution,1
+Somatosensory System,1
+Glucose Metabolism,1
+Neonatal Surgical Conditions,1
+Pancreatic Hormones,1
+Foreign Bodies,1
+Plain Radiography,1
+Acute Lung Injury,1
+External Eye Lesions,1
+Trace Element Metabolism,1
+Cerebellar Anatomy,1
+Epiphyseal Plate,1
+Amputation Levels,1
+Medical Abortion,1
+Depolarizing Neuromuscular Blockers,1
+Endotracheal Intubation,1
+Abdominal Plexuses,1
+Foot Anatomy,1
+Skull Base Anatomy,1
+Perineum Anatomy,1
+Osteoporosis Management,1
+Opioid Pharmacology,1
+Migraine Prophylaxis,1
+Gynaecological Oncology,1
+Geriatric Medicine,1
+Medical Ethics And Law,1
+Corrosive Poisons,1
+Paediatric Diarrhea,1
+Musculoskeletal Tuberculosis,1
+Congenital Toxoplasmosis,1
+Cell Lines,1
+Poxviruses,1
+Hiv Life Cycle,1
+Antigen-Antibody Reactions,1
+Prostate Cancer,1
+Varicose Veins,1
+Environmental Sanitation,1
+Hospital Waste Management,1
+Orbital Neoplasms,1
+Anaesthetic Drugs,1
+Leukaemia Complications,1
+Iris Anomalies,1
+Tubulointerstitial Diseases,1
+Lung Fissures,1
+Cavernous Sinus,1
+Cranial Vasculature,1
+Skull Bones,1
+Neck Vasculature,1
+Fluid Balance,1
+Postpartum Amenorrhea,1
+Glucose Transporters,1
+Chyluria,1
+Nucleic Acid Metabolism,1
+Nucleotides,1
+Transposons,1
+Collagen Structure,1
+Ldh Isoforms,1
+Cell Adhesion Molecules,1
+Pupillary Abnormalities,1
+Ecg Abnormalities,1
+Smooth Muscle,1
+Pulmonary Circulation,1
+Nerve Fibers,1
+Urine Concentration,1
+Analytical Biochemistry,1
+Myeloid Neoplasms,1
 Muscle Diseases,1
+Oncology Pharmacology,1
+Clostridioides Difficile,1
+Sterilization Methods,1
+Neisseria Meningitidis Vaccine,1
+Post-Streptococcal Glomerulonephritis,1
+Bacterial Classification,1
+Taeniasis,1
+Giardiasis,1
+Aspergillus,1
+Health Definitions,1
+Hypothalamic Functions,1
+Acute Coronary Syndrome,1
+Asthma Classification,1
+Mediastinal Masses,1
+Iga Nephropathy,1
+H. Pylori Treatment,1
+Diarrhea,1
+Viral Encephalitis,1
+Hypertension Management,1
+Diarrhoea Management,1
+Bronchopulmonary Dysplasia,1
+Hyperbilirubinemia,1
+Volkmann Ischemic Contracture,1
+Fetal Disorders,1
+Gynaecological Surgery Complications,1
+Computed Tomography (Ct),1
+Carotid Artery Stenosis,1
+Radioisotopes,1
+Amphetamine Abuse,1
+Axillary Lymph Nodes,1
+Germ Layer Derivatives,1
+Chemotherapy Adverse Effects,1
+Gunshot Residue Analysis,1
+Chemical Poisons,1
+Road Traffic Injuries,1
+World Health Organization,1
+Mckeown'S Theory,1
+Indoor Air Pollution,1
+National Screening Programs,1
+Measures Of Skewness,1
+Mosquito Control,1
+Standardization Of Rates,1
+Pharyngology,1
+Oral Cavity Lesions,1
+Otosclerosis Treatment,1
+Macular Disorders,1
+Lymph Node Pathology,1
+Hypoglycemia In Children,1
+Injury Patterns,1
+Non-Accidental Injury,1
+Lung Mechanics,1
+Streptococcus Pneumoniae,1
+Diabetes Mellitus Management,1
+Drug Adverse Effects,1
+Pediatric Bone Disorders,1
+Fungal Toxins,1
+Bacterial Virulence Factors,1
+Campylobacter,1
+Viral Perinatal Transmission,1
+Yaws,1
+C-Reactive Protein,1
+Acute Cystitis,1
+Sterile Pyuria,1
+Toxocariasis,1
+Antigen Properties,1
+Gram Positive Cocci,1
+Nocardiosis,1
+Hypothyroidism Management,1
+Acute Lymphoblastic Leukemia,1
+Humerus Anatomy,1
+Cicatrising Alopecia,1
+Anaesthesia Complications,1
+Anaesthesia In Systemic Diseases,1
+Metastasis Imaging,1
+Contrast Nephropathy Prevention,1
+Fetal Ultrasonography,1
+Ct Scan Limitations,1
+Congenital Cardiac Imaging,1
+Contrast Media Properties,1
+Intellectual Disability Classification,1
+Opioid Dependence Treatment,1
+Alcohol Dependence Treatment,1
+Alcohol Withdrawal Syndrome,1
+Health Behavior Models,1
+Patellofemoral Pain Syndrome,1
+Limb Replantation Principles,1
+Transverse Vaginal Septum,1
+Primary Amenorrhoea,1
+Magnesium Toxicity,1
+Chlamydia Trachomatis,1
+Burn Assessment,1
+Prostate Surgery Complications,1
+Organ Donation And Transplantation,1
+Neurological Assessment,1
+Paediatric Genitourinary Disorders,1
+Urological Symptoms,1
+Premature Infant Management,1
+Paediatric Hip Disorders,1
+Undescended Testis,1
+Paediatric Neurological Disorders,1
+Pediatric Gi Disorders,1
+Hormonal Assays,1
+Amenorrhoea,1
+Congenital Anomalies Screening,1
+Menorrhagia Management,1
+Middle Ear Diseases,1
+Vesiculobullous Lesions,1
+Drug Contraindications,1
+Aqueous Humor,1
+Tubercular Otitis Media,1
+Otalgia,1
+Tongue,1
+Cervical Plexus,1
+Peritonsillar Abscess,1
+Enteric Fever,1
+Phonosurgery,1
+Optic Pathway,1
+Diarrheagenic Escherichia Coli,1
+Ophthalmic Examination,1
+Ocular Examination,1
+Vitreous Disorders,1
+Cranial Nerve Palsies,1
+Perioperative Care,1
+Neuropathic Arthropathy,1
+Polycythemia Vera,1
+Petrous Apicitis,1
+Otitis Media With Effusion,1
+Mental Health Law,1
+Behavioral Sciences,1
+Medico-Legal Examination,1
 Bacterial Culture Characteristics,1
 Clostridia,1
 Bacillus Anthracis,1
 Melioidosis,1
 Free-Living Amoebae,1
-Biological Drugs,1
-Giardiasis,1
-Analytical Biochemistry,1
-Fertility Rates,1
-Autoimmune Thyroid Disease,1
-Nasal Anatomy,1
-Acoustic Neuroma,1
-Urinary Pharmacology,1
-Urological Pharmacology,1
-Beta Agonists,1
-Natural Family Planning,1
-Aspergillus,1
-Integrated Disease Surveillance Project,1
-Childhood Pneumonia,1
-Health Definitions,1
-Status Epilepticus,1
-Thyroid Drugs,1
-Topical Therapy,1
-Myeloid Neoplasms,1
-Urine Concentration,1
-Nasopharyngeal Angiofibroma,1
-Diarrhea,1
-Volkmann Ischemic Contracture,1
-Mental Health Law,1
-Hyperbilirubinemia,1
-Bronchopulmonary Dysplasia,1
-Diarrhoea Management,1
-Viral Encephalitis,1
-H. Pylori Treatment,1
-Family Studies,1
-Otitis Media With Effusion,1
-Petrous Apicitis,1
-Tubercular Otitis Media,1
-Iga Nephropathy,1
-Asthma Classification,1
-Otalgia,1
-Behavioral Sciences,1
-Vector Biology,1
-Nerve Fibers,1
-Amphetamine Abuse,1
-Hypothalamic Functions,1
 History Of Surgery,1
 Public Health,1
 Alternative Medicine,1
 Disease Control,1
-Pulmonary Circulation,1
-Radioisotopes,1
-Fetal Disorders,1
-Carotid Artery Stenosis,1
 Rabies,1
-Computed Tomography (Ct),1
 Disease Elimination,1
 Rickettsiology,1
-Gynaecological Surgery Complications,1
-Inflammatory Myopathies,1
-Retropharyngeal Abscess,1
-Tongue,1
-Amino Acid Structure And Classification,1
-Depth Of Anaesthesia,1
-Gastric Malignancies,1
-Biomolecular Interactions,1
-Nucleic Acid Structure,1
-Cardiac Radiology,1
-Purine And Pyrimidine Metabolism,1
-Opioid Dependence,1
-Local Anesthesia,1
-Substance Induced Psychosis,1
-Cell Membrane Physiology,1
-Gi Absorption,1
-Behavioral Therapy,1
-Gi Secretions,1
-Pectoral Region,1
-General Anesthesia,1
-Parkinson Disease Drugs,1
-Forearm Compartments,1
-Antimalarials,1
-Benign Vulvar Disorders,1
-Endometrial Cancer,1
-Dna Viruses,1
-Bacterial Characteristics,1
-Obstetric Pelvis,1
-Oxytocics,1
-Postmortem Procedures,1
-Disorders Of Pigmentation,1
-Urogynecology,1
-Normal Flora,1
-Antepartum Fetal Surveillance,1
-Pelvic Girdle,1
-Menstrual Regulation,1
-Legal Aspects Of Injury,1
-Muscle Innervation,1
-Muscles,1
-Maxillary Sinus,1
-Hepatopathology,1
-Congenital Hypothyroidism,1
-Inborn Errors,1
-Sinus Surgery,1
-One Carbon Metabolism,1
-Hormone Synthesis,1
-Minerals,1
-Colorectal Cancer Precursors,1
-Eye,1
-Vitamin E Deficiency,1
-Rheumatoid Arthritis Complications,1
-Liver Biopsy,1
-Endocarditis,1
-Chemical Mediators,1
-Calciphylaxis,1
-Spinal Anomalies,1
-Thalamus,1
-Wrist,1
-Neck Triangles,1
-Venous System,1
-Ankle,1
-Pericardium,1
-Lungs,1
-Oncology Imaging,1
-Skull Base,1
-Behcet'S Syndrome,1
-Spinal Reflexes,1
-Body Fluid Balance,1
-Endometritis,1
-Arthritis Imaging,1
-Gas Laws,1
-Vestibular Physiology,1
-Motor Pathways,1
-Ecg Abnormalities,1
-Cervical Plexus,1
-Premature Infant Management,1
-Transient Synovitis,1
-Alcohol Dependence Treatment,1
-Legg-Calve-Perthes Disease,1
-Opioid Dependence Treatment,1
-Intellectual Disability Classification,1
-Foot Deformities,1
-Congenital Vertical Talus,1
-Contrast Media Properties,1
-Health Behavior Models,1
-Congenital Cardiac Imaging,1
-Ct Scan Limitations,1
-Fetal Ultrasonography,1
-Contrast Nephropathy Prevention,1
-Bursitis,1
-Metastasis Imaging,1
-Alcohol Withdrawal Syndrome,1
-Patellofemoral Pain Syndrome,1
-Arthropathies,1
-Gelastic Seizures,1
+Vector Biology,1
+Family Studies,1
+Intestinal Perforation,1
+Perioperative Complications,1
+Proctology,1
+Cerebellar Agenesis,1
+Apgar Scoring,1
+Bronchial Foreign Body,1
+Ureteric Anomaly,1
 Cystinuria,1
 Newborn Transport,1
-Smooth Muscle,1
 Hiv/Aids Surveillance,1
 Peroxisomal Disorder,1
 Perforation Peritoneum,1
+Gelastic Seizures,1
 Hand Surgery,1
-Limb Replantation Principles,1
 Osteogenesis,1
 Intramembranous Ossification,1
 Arthroplasty,1
-Germ Layer Derivatives,1
 Shoulder Impingement Syndrome,1
-Humerus Anatomy,1
-Spinal Injuries,1
-Foot Deformity,1
-Axillary Lymph Nodes,1
-Melasma,1
-Intrauterine Adhesions,1
+Legg-Calve-Perthes Disease,1
+Dandy-Walker Syndrome,1
+Encephalocele,1
+Congenital Neck Lesions,1
+Chiari Ii Malformation,1
+Oral Cavity Cancers,1
+Endoscopic Sinus Surgery,1
+Dentition,1
+Urinary Disorders,1
+Clinical Features,1
+Acrodermatitis Enteropathica,1
+Prematurity Features,1
+Caput Succedaneum,1
+Cyanotic Congenital Heart Disease,1
+Cyanotic Heart Disease,1
+Febrile Seizure,1
+Complex Febrile Seizures,1
+Neonatal Meningitis,1
+Chiari Malformation,1
+Cerebellar Malformation,1
+Drug Regulation,1
+Biological Drugs,1
+Topical Therapy,1
+Peripheral Neuropathies,1
+Elbow Disorders,1
+Tuberculosis Of Hip,1
+Soft Tissue Disorders,1
+Obstetric Emergencies,1
+Endoscopic Surgery,1
+Benign Vulvar Disorders,1
+Endometrial Cancer,1
+Obstetric Pelvis,1
+Oxytocics,1
+Antimalarials,1
+Urogynecology,1
+Normal Flora,1
+Antepartum Fetal Surveillance,1
+Menstrual Regulation,1
+Surgical Drains,1
+Sickle Cell Disease,1
+Cholangiocarcinoma,1
+Local Anesthesia,1
+Oral Cancers,1
+Hemorrhagic Fevers,1
+Child Welfare,1
+School Health Services,1
+Helminthic Diseases,1
+Zoonotic Diseases,1
+Community Ophthalmology,1
+Lipids,1
+Radiation Protection,1
+Aphakia,1
+Macular Degeneration,1
+Basal Ganglia Disorders,1
+Central Venous Access,1
+Cardiothoracic Surgery,1
+Wound Complications,1
+Pelvic Floor Disorders,1
+Disorders Of Pigmentation,1
+General Anesthesia,1
+Thyroid Drugs,1
+Spinal Reflexes,1
+Eye,1
+Inborn Errors,1
+One Carbon Metabolism,1
+Hormone Synthesis,1
+Minerals,1
+Hepatopathology,1
+Endocarditis,1
+Chemical Mediators,1
+Inflammatory Myopathies,1
+Autoimmune Thyroid Disease,1
+Basics Of Radiology,1
+Urinary Pharmacology,1
+Urological Pharmacology,1
+Beta Agonists,1
+Status Epilepticus,1
+Thalamus,1
+Motor Pathways,1
+Cardiac Radiology,1
+Vestibular Physiology,1
+Opioid Dependence,1
+Substance Induced Psychosis,1
+Behavioral Therapy,1
+Pectoral Region,1
+Muscle Innervation,1
+Forearm Compartments,1
+Muscles,1
+Wrist,1
+Venous System,1
+Ankle,1
+Lungs,1
+Skull Base,1
+Neck Triangles,1
+Body Fluid Balance,1
+Gas Laws,1
+Foot Deformities,1
+Congenital Vertical Talus,1
+Transient Synovitis,1
+Cerebellar Functions,1
+Cerebellar Physiology,1
+Olfactory System,1
+Oogenesis,1
+Fsh/Lh Regulation,1
+Clinical Pathology,1
+Cell Communication,1
+Resting Membrane Potential,1
+Cell Structure And Function,1
+Molecular Motors,1
+Membrane Potential,1
+Phosphorus Metabolism,1
+Coagulation Cascade,1
+Enzyme Isoforms,1
+Methemoglobinemia,1
+Cholesterol Synthesis,1
+Auditory System,1
+Extrapyramidal Tracts,1
+Nitrogen Metabolism,1
+Testicular Descent,1
+Learning Theory,1
+Sacrum,1
+First Rib,1
+Sternum,1
+Postpartum Physiology,1
+Retroperitoneal Structures,1
+Anterior Abdominal Wall,1
+Pelvic Cavity,1
+Eyelid,1
+Ossicles,1
+Laryngeal Nerves,1
+Trapezius,1
+Bony Labyrinth,1
+Cochlea,1
+Fourth Ventricle,1
+Creatine Metabolism,1
+Purine Catabolism,1
+Cognitive Therapy,1
+Cholinergic Agents,1
+Appetite Suppressants,1
+Atypical Antipsychotics,1
+Benzodiazepine Receptor,1
+Antispasticity Agents,1
+Alpha Blockers,1
+Inotropes,1
+Peptide Structure,1
+Polymyxins,1
+Qt Interval Prolongation,1
+Typhoid Treatment,1
+Streptogramins,1
+Cephalosporins,1
+Melanocytic Naevus,1
+Motion Sickness,1
+Genitourinary Drugs,1
+Smoking Cessation,1
+Female Genital Anatomy,1
+Purine Salvage Pathway,1
+Sustained Release,1
+Porphyrin Synthesis,1
+Chemical Bonds,1
+Biomolecules,1
+Mechanotransduction,1
+Graft-Versus-Host Disease,1
+Complement,1
+Carcinoma,1
+Nephrosclerosis,1
+Arteriolosclerosis,1
+Drug Absorption,1
+Biotransformation,1
+Pharmacovigilance,1
+Cytochrome P450,1
+Drug Distribution,1
+Volume Of Distribution,1
+Behavioural Therapy,1
+Miscellaneous,1
+Bursitis,1
 Endometrium,1
-Fetal Heart Sounds,1
-Congenital Anomalies Screening,1
 Epidermal Nevi,1
 Hair Cycle,1
-Amenorrhoea,1
-Chlamydia Trachomatis,1
-Hormonal Assays,1
-Pediatric Gi Disorders,1
-Undescended Testis,1
-Paediatric Hip Disorders,1
+Melasma,1
 Herpes Simplex,1
-Cutaneous Tuberculosis,1
-Menorrhagia Management,1
+Cancer Biology,1
+Pcr,1
+Systemic Antifungal Agents,1
+Behçet'S Disease,1
+Dermatological Investigations,1
+Clubbing,1
+Acanthosis Nigricans,1
+Inhalational Anaesthesia,1
+Intraocular Pressure,1
+Capnography,1
+Cryotherapy,1
+Fetal Heart Sounds,1
+Intrauterine Adhesions,1
+Inhalational Anesthetic Agents,1
 Umbilical Cord Insertion,1
+Spinal Injuries,1
+Arthropathies,1
+Foot Deformity,1
 Hand Deformity,1
-Cervical Carcinoma,1
 Osteochondritis Dissecans,1
-Anaesthesia In Systemic Diseases,1
-Anaesthesia Complications,1
-Cicatrising Alopecia,1
 Dystocia,1
 Anovulatory Dub,1
+Cervical Carcinoma,1
 Ovarian Reserve,1
-Primary Amenorrhoea,1
 Semen Analysis,1
 Pelvic Examination,1
 Endometrial Biopsy,1
 Colposcopy,1
 Vbac,1
 Obstetric Hemorrhage,1
-Ureteric Anomaly,1
-Bronchial Foreign Body,1
-Iris Anomalies,1
-Gynaecological Oncology,1
-Corrosive Poisons,1
-Vitreous Disorders,1
-Cranial Nerve Palsies,1
-Medical Ethics And Law,1
-Geriatric Medicine,1
-Anaesthetic Drugs,1
-Perioperative Care,1
-Musculoskeletal Tuberculosis,1
-Leukaemia Complications,1
-Tubulointerstitial Diseases,1
-Neuropathic Arthropathy,1
-Polycythemia Vera,1
-Cell Adhesion Molecules,1
-Ldh Isoforms,1
-Paediatric Diarrhea,1
-Congenital Toxoplasmosis,1
-Perioperative Complications,1
-Phonosurgery,1
-Pupillary Abnormalities,1
-Orbital Neoplasms,1
-Peritonsillar Abscess,1
-Enteric Fever,1
-Hospital Waste Management,1
-Environmental Sanitation,1
-Antigen-Antibody Reactions,1
-Ocular Examination,1
-Hiv Life Cycle,1
-Poxviruses,1
-Aqueous Humor,1
-Optic Pathway,1
-Ophthalmic Examination,1
-Cell Lines,1
-Intestinal Perforation,1
-Proctology,1
-Apgar Scoring,1
-Lung Fissures,1
-CNS Physiology,1
-Cyanotic Congenital Heart Disease,1
-Cyanotic Heart Disease,1
-Febrile Seizure,1
-Cavernous Sinus,1
-Complex Febrile Seizures,1
-Neonatal Meningitis,1
-Prematurity Features,1
-Chiari Malformation,1
-Cerebellar Malformation,1
-Chiari Ii Malformation,1
-Encephalocele,1
-Cerebellar Agenesis,1
-Dandy-Walker Syndrome,1
-Caput Succedaneum,1
-Acrodermatitis Enteropathica,1
-Collagen Structure,1
-Glucose Transporters,1
-Transposons,1
-Nucleotides,1
-Congenital Neck Lesions,1
-Nucleic Acid Metabolism,1
-Chyluria,1
-Oral Cavity Cancers,1
-Fluid Balance,1
-Clinical Features,1
-Endoscopic Sinus Surgery,1
-Neck Vasculature,1
-Skull Bones,1
-Dentition,1
-Urinary Disorders,1
-Cranial Vasculature,1
-Stevens-Johnson syndrome,1
+Ophthalmic Anaesthesia,1
+Pharmacology Of Intravenous Anesthetics,1
+Nrem Sleep,1
+Wernicke'S Encephalopathy,1
+Cellular Aging,1
+Psychiatric Symptoms,1
+Neurotic Disorders,1
+Neurosis,1
+Ambivalence,1
+Autism,1
+Neuropsychiatry,1
+Psychomotor Symptoms,1
+Suicide And Self-Harm,1
+Urogenital Pharmacology,1
+Specific Phobia,1
+Agoraphobia,1
+Conversion Disorders,1
+Social Cognition,1
+Rem Sleep,1
+Cocaine Withdrawal,1
+Delirium Tremens,1
+Rapid Sequence Induction,1
+Neuromuscular Blockade,1
+High Spinal Anaesthesia,1
+Sedation,1
+Cardiomegaly,1
+Pulmonary Metastasis,1
+Solitary Pulmonary Nodule,1
+Hepatobiliary Radiology,1
+Pancreatic Imaging,1
+Focal Neurological Deficit,1
+Carotid Cavernous Sinus Fistula,1
+Metastasis,1
+Radiographic Anatomy Of Skull,1
+Radiation Tolerance,1
+Imaging Of Cystic Brain Lesions,1
+Mendelian Inheritance,1
+Visual Disturbances,1
+Nontuberculous Mycobacteria,1
+Corynebacterium,1
+Cause Of Death,1
+"Neurotic, Stress-Related And Somatofordm Disorders",1
+Postpartum Psychiatric Disorders,1
+Imaging Modalities,1
+Congenital Urinary Anomalies,1
+General Radiology,1
+Oral Mucosal Lesions,1
+Hyperkalemia Management,1
+Anticancer Drugs D,1
+Autoimmune Arthritis,1
+General Microbiology,1
+Copd Exacerbation,1
+Cholestatic Liver Disease,1
+Ankle Sprains,1
+Epithelial Tissue,1
+Submandibular Region,1
+Fasting Metabolism,1
+Phenylalanine Metabolism,1
+Bulimia Nervosa,1
+Hemiballismus,1
+Thermoregulation In Fever,1
+Nerve Fiber Properties,1
+Environment And Health,1
+Genitourinary Pathology,1
+Wounds And Injuries,1
+Hiv Management,1
+Acute Heart Failure,1
+Drug Overdose,1
+Chest Ct Interpretation,1
+Oncological Emergencies,1
+Viral Hemorrhagic Fevers,1
+Fungal Culture Media,1
+Cholera Toxin Mechanism,1
+Aspergillosis,1
+Neonatal Hypothyroidism,1
+Infantile Spasms,1
+Duchenne Muscular Dystrophy,1
+Entomology,1
+Asphyxial Injuries,1
+Pocso Act,1
+Gerd Management,1
+Paediatric Symptoms,1
+Surgical Sutures,1
+Non-Communicable Disease Prevention,1
+Census Methods,1
+Screening Evaluation,1
+Health Program Management Cycle,1
+Icds Program,1
+Disease Dynamics,1
+Oropharyngeal Cancer,1
+Acid Base Disorders,1
+Asthma Management,1
+Ocular Adnexa,1
+Autoimmune Liver Disease,1
+Liver Radiology,1
+Acute Stress Disorder,1
+Ventilation Perfusion,1
+Hyperuricemia Management,1
+Atrial Flutter/Fibrillation,1
+Migraine Management,1
+First Trimester Complications,1
+Preeclampsia And Eclampsia,1
+Congenital Limb Defects,1
+Postmenopausal Bleeding,1
+Menstrual Cycle Physiology,1
+Cervical Cancer Staging,1
+Orbital Disorders,1
+Hip Pathology,1
+Cholestatic Liver Diseases,1
+Marfan Syndrome,1
+Lymphoproliferative Disorders,1
+Hearing Loss Causes,1
+Hematologic Malignancies,1
+Airway Emergencies,1
+Neonatal Hiv Management,1
+Inner Ear Anatomy,1
+Drug Hypersensitivity,1
+Hair Disorders,1
+Urethritis Causes,1
+Hepatitis B Diagnosis,1
+Factories Act,1
+Public Health Goals,1
+Measures Of Dispersion,1
+Neonatal Immunity,1
+Mental Healthcare Act 2017,1
+National Program For Control Of Blindness,1
+Ear Surgery,1
+Kawasaki Syndrome,1
+Visual Pathway Lesions,1
+Sympathetic Ophthalmitis,1
+Macular Function Tests,1
+Eyelid Anatomy & Disorders,1
+Drug Side Effects,1
+Chronic Liver Disease,1
+Bacterial Food Poisoning,1
+Bacterial Stis,1
+Lithium Toxicity,1
+Bacterial Culture Media,1
+Internal Capsule,1
+Abdominal Viscera,1
+Glomerular Filtration,1
+Nerve Fiber Types,1
+Limbic System,1
+Dna Replication And Repair,1
+Gene Expression Regulation,1
+Cellular Movement,1
+Gi Pharmacology,1
+Antihypertensives,1
+Receptor Mechanisms,1
+Gout Treatment,1
+Drug Kinetics,1
+Indian Penal Code,1
+Substance Abuse Symptoms,1
+Supraventricular Tachycardia,1
+Lithium Side Effects,1
+Neuromuscular Blockade Monitoring,1
+Laparoscopic Instrumentation,1
+Primary Immunodeficiency,1
+Hand And Wrist Conditions,1
+Bullous Skin Diseases,1
+Paediatric Chest Radiology,1
+Medical Signs,1
+Human Papillomavirus,1
+Middle Ear Disorders,1
+Ear Ossicles,1
+Paracetamol Poisoning,1
+Ascites Complications,1
+Preeclampsia Complications,1
+Vesicovaginal Fistula,1
+Placental Abnormalities,1
+Management Of Breech Presentation,1
+Genetic Bone Disorders,1
+Uterine Pathology,1
+Urethral Imaging,1
+Hyperthyroidism,1
+Pharynx And Esophagus Anatomy,1
+Pulmonary Hypertension Drugs,1
+Esophageal Motility,1
+Lung Cancer Staging,1
+Men Syndromes,1
+Penile Carcinoma,1
+Post-Transplant Complications,1
+Diverticular Disease,1
+Small Bowel Surgery Complications,1
+Acute Liver Failure,1
+Surgical Oncology Principles,1
+Pituitary Gland Physiology,1
+Hypopituitarism,1
+Endoscopic Procedures,1
+Substance Dependence,1
+Chronic Lung Disease,1
+Psychiatric Assessment,1
+Larynx Anatomy & Physiology,1
+Clinical Anatomy,1
+Genital Pathology,1
+Pediatric Nutrition,1
+Assisted Reproduction,1
+Peripheral Nerve Entrapment,1
+Amniotic Fluid Disorders,1
+Enzyme Function,1
+Antidepressant Side Effects,1
+Cartilage Types,1
+Peritoneal Ligaments,1
+Vulvar Disorders,1
+Nerve Excitability,1
+Gene Mutations,1
+Systemic Granulomatous Diseases,1
+Fluoroquinolone Adverse Effects,1
+Iron Poisoning,1
+Iron Poisoning Treatment,1
+Clinical Assessment,1
+Necrotizing Fasciitis,1
+Pterygopalatine Fossa,1
+Foot Ulcers,1
+Hiv-Associated Dermatoses,1
+Surgical Complications,1
+Penile Diseases,1
+Caustic Ingestion,1
+Ulcers,1
+Paediatric Knee Pathology,1
+Abdominal Ct Interpretation,1
+Neonatal Head Swelling,1
+Mesothelioma,1
+Fibrous Dysplasia,1
+Criminal Abortion,1
+Thoracic Pathology,1
+Congenital Eye Disorders,1
+Nasopharynx Anatomy,1
+Laryngectomy Rehabilitation,1
+Back,1
+Portal Circulation,1
+Micronutrient Deficiencies,1
+Lipogenesis,1
+Hematologic Neoplasms,1
+Liver Disease,1
+Sympathomimetics,1
+Antiandrogens,1
+Dmards,1
+Erectile Dysfunction,1
+Geriatrics,1
+Anthelmintic Drugs,1
+Corrosive Poisoning,1
+Occupational Poisoning,1
+Toxic Alcohol Poisoning,1
+Drugs Of Abuse,1
+Food Adulteration,1
+Snake Envenomation,1
+Medico Legal Injuries,1
+Urological Neoplasms,1
+Fatty Acid Oxidation,1
+Vertebral Column,1
+Cellular Respiration,1
+Integrated Essentials,1
+Pharyngeal Spaces,1
+Maxillary Artery,1
+Nerve And Muscle,1
+Cerebrum,1
+Abdominal Aorta,1
+Basal Ganglia,1
+Motor System,1
+Hypothalamus,1
+Environmental Physiology,1
+Exercise Physiology,1
+Amino Sugar Metabolism,1
+Sphingolipids,1
+Triage Categories,1
+Abdominal Abscesses,1
+Symptoms,1
+Hyperthermia Postmortem,1
+Sciatica,1
+Food Quality Tests,1
+Adnexal Masses,1
+Patient Positioning,1
+Alcohol-Related Disorders,1
+Type 1 Diabetes,1
+Acromegaly,1
+Neuro-Oncology,1
+Nephrolithiasis,1
+Gastrectomy Complications,1
+Incomplete Question,1
+Polycystic Kidney Disease,1
+Skin And Soft Tissue,1
+Colitis,1
+Colorectal Disorders,1
+Chest Lesions,1
+Urologic Oncology,1
+Acneiform Disorders,1
+Pathogens,1
+Fetal Sex Determination Ethics,1
+Ayushman Bharat,1
+Abdominal Wall Defects,1
+Follicular Disorders,1
+Drug-Resistant Tuberculosis Treatment,1
+Lidocaine,1
+Antibacterial Drugs,1
+Adhd Medications,1
+Cardiac Pathology,1
+Autoimmune Blistering Disorders,1
+Binocular Vision Assessment,1
+Dermatological Syndromes,1
+Child Health Indicators,1
+Socioeconomic Health Indices,1
+Data Visualization,1
+Disaster Cycle,1
+Health Education Models,1
+Placenta Inversion,1
+Pelvic Organ Prolapse Surgery,1
+Lymphadenopathy Investigation,1
+Adhd,1
+Acute Metabolic Emergencies,1
+Obsessive-Compulsive Spectrum,1
+Wounds And Ulcers,1
+Acidosis,1
+Obstructive Lung Diseases,1
+Aortic Stenosis,1
+Decompensated Heart Failure,1
+Femoral Triangle,1
+Pilonidal Disease,1
+Operative Vaginal Delivery,1
+Amputations,1
+Emergency Procedures,1
+Corrnea,1
+Mullerian Anomalies,1
+Lipids And Membranes,1
+Neuroimaging Findings,1
+Symptom Analysis,1
+Pelvic Surgical Anatomy,1
+Cytopathology,1
+Fallopian Tube Anatomy,1
+Introduction To Dermatology,1
+Deformities,1
+Epithelium,1
+Xeroderma Pigmentosum,1
+Follicular Hyperkeratosis,1
+Antifolates,1
+Fibrinolytic Agents,1
+Substance Abuse Pharmacology,1
+Medicolegal Jurisprudence,1
+Autoimmune Skin Disorders,1
+Ocular Motility & Strabismus,1
+Measures Of Central Tendency,1
+Postpartum Care,1
+Health Promotion,1
+Psychiatric Disorders,1

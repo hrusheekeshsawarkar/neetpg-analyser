@@ -51,6 +51,7 @@ SUBJ:OBG,SUBJ:Medicine,67
 SUBJ:Orthopedics,SUBJ:Radiology,66
 SUBJ:Anatomy,SUBJ:Surgery,64
 SUBJ:Dermatology,SUBJ:Microbiology,63
+Head And Neck,Head and Neck,62
 Dermatology,Microbiology,60
 SUBJ:Medicine,SUBJ:Pediatrics,60
 SUBJ:Pharmacology,SUBJ:Anaesthesia,60
@@ -60,7 +61,6 @@ SUBJ:OBG,SUBJ:Radiology,59
 SUBJ:Pathology,SUBJ:Microbiology,58
 SUBJ:Pharmacology,SUBJ:Physiology,57
 SUBJ:OBG,SUBJ:Pathology,57
-Head And Neck,Head and Neck,57
 SUBJ:Physiology,SUBJ:Medicine,56
 SUBJ:Psychiatry,SUBJ:Medicine,55
 SUBJ:Ophthalmology,SUBJ:Medicine,54
@@ -80,22 +80,22 @@ SUBJ:Pediatrics,SUBJ:Pathology,47
 SUBJ:Pediatrics,SUBJ:Biochemistry,46
 SUBJ:Pediatrics,SUBJ:Microbiology,46
 SUBJ:Orthopedics,SUBJ:Medicine,45
-Biostatistics,Epidemiology,45
 SUBJ:Pediatrics,SUBJ:Surgery,45
 SUBJ:Anatomy,SUBJ:Orthopedics,44
 SUBJ:Pathology,SUBJ:Pediatrics,44
-Cardiology,Thorax,44
+Biostatistics,Epidemiology,44
 SUBJ:Anaesthesia,SUBJ:Medicine,44
 SUBJ:Physiology,SUBJ:OBG,44
 Epidemiology,Infectious Diseases,44
 Infectious Diseases,Virology,43
+Cardiology,Thorax,43
 SUBJ:Microbiology,SUBJ:Pharmacology,43
 SUBJ:Dermatology,SUBJ:Pathology,43
 SUBJ:Surgery,SUBJ:Pediatrics,41
 SUBJ:Forensic Medicine,SUBJ:Medicine,40
 SUBJ:Ophthalmology,SUBJ:Pathology,39
-Fractures,Trauma,39
 SUBJ:Anatomy,SUBJ:OBG,38
+Fractures,Trauma,38
 SUBJ:Biochemistry,SUBJ:Pharmacology,38
 SUBJ:Medicine,SUBJ:Orthopedics,38
 SUBJ:Psychiatry,SUBJ:Pediatrics,37
@@ -153,6 +153,7 @@ SUBJ:ENT,SUBJ:Microbiology,25
 SUBJ:Pathology,SUBJ:Orthopedics,25
 SUBJ:Physiology,SUBJ:Pharmacology,24
 SUBJ:Radiology,SUBJ:Pathology,24
+Cranial Nerves,Cranial nerves,24
 SUBJ:Orthopedics,SUBJ:Surgery,24
 SUBJ:Dermatology,SUBJ:Pharmacology,24
 SUBJ:Medicine,SUBJ:Dermatology,24
@@ -176,7 +177,6 @@ Fractures,Systemic Pathology,22
 Peripheral Nerves,Upper Limb,21
 CNS Physiology,Endocrine Pharmacology,21
 Bacteriology,Immunology,21
-Cranial Nerves,Cranial nerves,21
 Thanatology,Toxicology,21
 Epidemiology,Virology,21
 Biochemistry,Endocrine Pharmacology,21
@@ -215,6 +215,7 @@ Helminthology,Parasitology,18
 Histology,Neuroanatomy,18
 Neuroanatomy,Upper Limb,18
 Gynecologic Oncology,Hematopathology,18
+Inborn Errors Of Metabolism,Inborn Errors of Metabolism,18
 SUBJ:OBG,SUBJ:Community Medicine,18
 Head And Neck Anatomy,Head and Neck Anatomy,18
 CNS Physiology,Pulmonology,18
@@ -226,12 +227,12 @@ SUBJ:Anatomy,SUBJ:Pathology,18
 Peripheral nerves,Upper Limb,18
 SUBJ:Surgery,SUBJ:Pharmacology,17
 Child Psychiatry,General Medicine,17
-Inborn Errors Of Metabolism,Inborn Errors of Metabolism,17
 Cardiology,Embryology,17
 Dermatology,Endocrine Pharmacology,17
 Arrhythmias,Cardiology,17
 Epidemiology,Neonatology,17
 Neonatology,Systemic Pathology,17
+Head And Neck,Neuroanatomy,17
 Glaucoma,Squint & Pediatric Ophthalmology,16
 Biochemistry,Genetics & Molecular Biology,16
 SUBJ:Surgery,SUBJ:Orthopedics,16
@@ -253,12 +254,12 @@ SUBJ:Pharmacology,SUBJ:Dermatology,16
 Medical Jurisprudence,Thanatology,16
 SUBJ:Pharmacology,SUBJ:Community Medicine,16
 Antimalarial Drugs,Antimalarial drugs,16
-Fractures,Upper Limb,16
 HIV/AIDS,Hiv/Aids,16
 Immunology,Microbiology,16
 Antidiabetic Drugs,Antidiabetic drugs,16
 Head & Neck,Inflammation & Healing,16
 Child Psychiatry,Schizophrenia & Psychosis,16
+Cranial Nerves,Neuroanatomy,15
 Fractures,General Medicine,15
 SUBJ:Physiology,SUBJ:Pathology,15
 Vestibular Disorders,Vestibular disorders,15
@@ -269,6 +270,7 @@ Dermatology,General Medicine,15
 Hematopathology,Neonatology,15
 SUBJ:Radiology,SUBJ:OBG,15
 Contraception,Demography & Family Planning,15
+Fractures,Upper Limb,15
 Amino Acid Metabolism,Inborn Errors of Metabolism,15
 SUBJ:Pathology,SUBJ:Anatomy,15
 General Medicine,Neonatology,15
@@ -280,8 +282,8 @@ Delusional Disorders,Delusional disorders,15
 Gynecologic Oncology,Obstetric Complications,14
 Endocrine Pharmacology,Pulmonology,14
 CNS Physiology,Neuroanatomy,14
-Cranial Nerves,Neuroanatomy,14
 SUBJ:Surgery,SUBJ:OBG,14
+Postmortem Changes,Thanatology,14
 Cell Injury & Death,Systemic Pathology,14
 Hematopathology,Lymphoma,14
 Genetics & Molecular Biology,Hematopathology,14
@@ -296,13 +298,12 @@ General Medicine,Pulmonology,14
 Biochemistry,Microbiology,14
 Microbiology,Neonatology,14
 Inborn Errors Of Metabolism,Inborn errors of metabolism,14
+Refractive Errors,Refractive errors,14
 Lacrimal Apparatus,Lacrimal apparatus,14
-Abdomen,Renal,14
 SUBJ:Pathology,SUBJ:Community Medicine,13
 Antenatal Care,Endocrine Pharmacology,13
 Carbohydrate Metabolism,Inborn Errors of Metabolism,13
 Audiology,Otology,13
-Postmortem Changes,Thanatology,13
 Neuroanatomy,Neurology,13
 Maternal And Child Health,Maternal and Child Health,13
 Hematopathology,Transfusion Medicine,13
@@ -321,11 +322,10 @@ Neonatology,Squint & Pediatric Ophthalmology,13
 SUBJ:Anaesthesia,SUBJ:Anatomy,13
 Embryology,Reproductive,13
 Embryology,Head and Neck,13
-Head And Neck,Neuroanatomy,13
-Refractive Errors,Refractive errors,13
 Cerebral circulation,Neuroanatomy,13
 Epidemiology,Systemic Pathology,13
 Endocrine Pharmacology,Neuromuscular Blocking Agents,13
+Abdomen,Renal,13
 SUBJ:Surgery,SUBJ:Anaesthesia,12
 Neuroanatomy,Peripheral Nerves,12
 SUBJ:Microbiology,SUBJ:Surgery,12
@@ -347,6 +347,7 @@ Carbohydrate Metabolism,Glycolysis,12
 Genetic Disorders,Genetic disorders,12
 CNS Physiology,Cardiology,12
 Antenatal Care,Labor & Delivery,12
+Pelvic Anatomy,Pelvic anatomy,12
 SUBJ:Community Medicine,SUBJ:Pathology,12
 SUBJ:Biochemistry,SUBJ:Community Medicine,12
 Interventional Radiology,Obstetric Complications,12
@@ -381,7 +382,6 @@ Complement system,Immunology,11
 Gynecologic Oncology,Interventional Radiology,11
 Interventional Radiology,Neuroanatomy,11
 Gastrointestinal,Interventional Radiology,11
-Pelvic Anatomy,Pelvic anatomy,11
 Child Psychiatry,Neurology,11
 Biochemistry,Lipid Metabolism,11
 Interventional Radiology,Neoplasia,11
@@ -404,7 +404,6 @@ Glomerular Diseases,Renal,10
 Lower Limb,Neuroanatomy,10
 Age Estimation,Thanatology,10
 Endocrinology,Infertility,10
-Head & Neck,Neuroanatomy,10
 Dyslipidemia,Lipid Metabolism,10
 SUBJ:Microbiology,SUBJ:ENT,10
 Hematopathology,Immunology,10
@@ -427,6 +426,7 @@ Antidiabetic drugs,Endocrine Pharmacology,10
 Endocrine Pharmacology,Inhalational Anaesthetics,10
 Neuroanatomy,Vascular,10
 Biochemistry,Hematopathology,10
+Antimicrobial Resistance,Antimicrobial resistance,10
 SUBJ:Anaesthesia,SUBJ:OBG,10
 Infectious Diseases,Inflammation & Healing,10
 Endocrine,Neoplasia,10
@@ -457,6 +457,7 @@ SUBJ:Anaesthesia,SUBJ:ENT,9
 Poisoning,Toxicology,9
 Hematopathology,Leukemia,9
 Endocrine Pharmacology,Neonatology,9
+Head & Neck,Neuroanatomy,9
 Cerebellum,Neuroanatomy,9
 Coagulation,Hematopathology,9
 Hematopathology,Myeloproliferative Neoplasms,9
@@ -478,14 +479,13 @@ SUBJ:Ophthalmology,SUBJ:Community Medicine,9
 Cardiology,Interventional Radiology,9
 SUBJ:Surgery,SUBJ:ENT,9
 Hematopathology,Hemoglobinopathies,9
-Antimicrobial Resistance,Antimicrobial resistance,9
 Neuroanatomy,Squint & Pediatric Ophthalmology,9
 Environment & Occupational Health,Factory Act,9
 Retina,Squint & Pediatric Ophthalmology,9
-Cell Injury & Death,Inflammation & Healing,9
 SUBJ:Orthopedics,SUBJ:Microbiology,9
 Cranial Nerves,Head and Neck,9
 Immunology,Inflammation & Healing,9
+Biomedical Waste Management,Biomedical waste management,9
 Burns & Plastic,Thanatology,9
 Inflammation & Healing,Trauma,9
 Inflammation & Healing,Uveitis,9
@@ -564,6 +564,7 @@ Neuroanatomy,Systemic Pathology,8
 Dermatology,Virology,8
 Cardiology,Valvular heart disease,8
 Hematopathology,Hemolytic anemias,8
+Cell Injury & Death,Inflammation & Healing,8
 Medical Jurisprudence,Medical Negligence,8
 Trauma,Urology,8
 Antenatal Care,Preeclampsia,8
@@ -578,6 +579,7 @@ Brachial plexus,Upper Limb,8
 CNS Physiology,Neurophysiology,8
 Enzymology,Vitamins & Nutrition,8
 Neoplasia,Pulmonology,8
+Adverse Drug Reactions,Adverse drug reactions,8
 Complement System,Complement system,8
 Nail Disorders,Nail disorders,8
 Obsessive-Compulsive Disorder,Obsessive-compulsive disorder,8
@@ -665,7 +667,7 @@ Embryology,Histology,7
 Environment & Occupational Health,Rhinology,7
 Sexual Assault,Thanatology,7
 Bacteriology,Chlamydia,7
-Biomedical Waste Management,Biomedical waste management,7
+Uterine Anomalies,Uterine anomalies,7
 Cartilage,Histology,7
 Neurophysiology,Sleep,7
 Cardiology,Genetics & Molecular Biology,7
@@ -675,10 +677,12 @@ Neoplasia,Otology,7
 Amino Acid Metabolism,Vitamins & Nutrition,7
 SUBJ:Radiology,SUBJ:Microbiology,7
 Urinary System,Urinary system,7
-Adverse Drug Reactions,Adverse drug reactions,7
+Antifungal Drugs,Antifungal drugs,7
 Cestodes,Parasitology,7
 Vaccines,Virology,7
 Spinal Tuberculosis,Spinal tuberculosis,7
+Uterine Prolapse,Uterine prolapse,7
+Sleep Disorders,Sleep disorders,7
 Osteology,Upper Limb,7
 Facial Nerve,Head and Neck,7
 Cardiology,Hematopathology,7
@@ -702,7 +706,6 @@ Facial Nerve,Facial nerve,7
 Disaster Management,Epidemiology,7
 Breast & Endocrine Surgery,Trauma,7
 Chemotherapy & Anticancer,Endocrine Pharmacology,7
-Neoplasia,Thorax,7
 SUBJ:Physiology,SUBJ:Pediatrics,6
 Bacteriology,Culture Media,6
 Epidemiology,Research Methodology,6
@@ -724,6 +727,7 @@ Oral Cavity,Oral cavity,6
 Binocular Vision,Strabismus,6
 Carbohydrate Metabolism,Clinical Biochemistry,6
 Bronchodilators,Pulmonology,6
+Antihypertensive Drugs,Antihypertensive drugs,6
 Gynecologic Oncology,Lymphoma,6
 Apoptosis,Cell Injury & Death,6
 Interstitial Lung Disease,Pulmonology,6
@@ -775,6 +779,7 @@ Embryology,Genetics & Molecular Biology,6
 Nose & PNS,Parasitology,6
 Gastroenterology,Peptic Ulcer Disease,6
 Antimicrobials,Infectious Diseases,6
+Postmortem Changes,Postmortem changes,6
 Glaucoma,Retina,6
 Gastroenterology,Interventional Radiology,6
 Genetics & Molecular Biology,Systemic Pathology,6
@@ -819,13 +824,10 @@ Surface Anatomy,Surface anatomy,6
 Hematopathology,Pulmonology,6
 Bioenergetics,Oxidative Phosphorylation,6
 Genetics & Molecular Biology,Protein Synthesis,6
-Antifungal Drugs,Antifungal drugs,6
 Genetics & Molecular Biology,Virology,6
 Diabetic Retinopathy,Diabetic retinopathy,6
 Abdomen,Thorax,6
 Peripheral Nerve Injuries,Peripheral nerve injuries,6
-Uterine Prolapse,Uterine prolapse,6
-Sleep Disorders,Sleep disorders,6
 Hematopathology,Myeloproliferative neoplasms,6
 Growth & Development,Ossification,6
 Epidemiology,Growth & Development,6
@@ -847,6 +849,7 @@ Obstetric Complications,Systemic Pathology,6
 Dermatology,Lichen Planus,6
 Antifungal Agents,Antifungal agents,6
 Neuroanatomy,Regional Anaesthesia,6
+Radiation Physics,Radiation physics,6
 Child Psychiatry,Gender Identity Disorders,6
 Substance-Related Disorders,Substance-related disorders,6
 Organic Mental Disorders,Organic mental disorders,6
@@ -869,8 +872,11 @@ CNS Physiology,Systemic Pathology,6
 General Medicine,General Surgery,6
 Endocrine Pharmacology,Squint & Pediatric Ophthalmology,6
 Child Psychiatry,Organic Mental Disorders,6
+Drug Metabolism,Endocrine Pharmacology,6
 Inflammation & Healing,Neurology,6
+Environment & Occupational Health,Head And Neck,6
 Environment & Occupational Health,Head and Neck,6
+Neoplasia,Thorax,6
 Cornea & Refractive,Microbiology,6
 Airway Devices,Airway Management,5
 Endocrinology,Genetics & Molecular Biology,5
@@ -907,7 +913,6 @@ Sensory Physiology,Sensory physiology,5
 CNS pharmacology,Cns Pharmacology,5
 Lower Limb,Muscles,5
 Cardiac Cycle,Cardiology,5
-Antihypertensive Drugs,Antihypertensive drugs,5
 CNS Pharmacology,Cns Pharmacology,5
 Endocrine Pharmacology,Hematopathology,5
 Biochemistry,Cell Injury & Death,5
@@ -941,6 +946,7 @@ Environmental Health,Toxicology,5
 Environmental Health,Infectious Diseases,5
 Cardiology,ECG Interpretation,5
 Endocrinology,Gastroenterology,5
+Uterine Fibroids,Uterine fibroids,5
 Abnormal Uterine Bleeding,Abnormal uterine bleeding,5
 General Medicine,Vascular,5
 Antioxidants,Vitamins & Nutrition,5
@@ -962,7 +968,7 @@ Embryology,Urogenital System,5
 Renal,Shock,5
 Pulmonology,Renal,5
 Child Psychiatry,Neonatology,5
-Postmortem Changes,Postmortem changes,5
+Cell Signaling,Cell signaling,5
 Postmortem changes,Thanatology,5
 Gastroenterology,Inflammatory Bowel Disease,5
 Joints & Arthritis,Thorax,5
@@ -979,6 +985,7 @@ Carbohydrate Metabolism,Renal,5
 Epidemiology,HIV/AIDS,5
 SUBJ:Anatomy,SUBJ:Forensic Medicine,5
 Environmental Health,Waste Management,5
+Refractive Errors,Squint & Pediatric Ophthalmology,5
 Immunization,Neonatology,5
 Antenatal Care,Neuroanatomy,5
 Dermatology,Skin Lesions,5
@@ -987,7 +994,6 @@ Critical Care,Pulmonology,5
 SUBJ:Community Medicine,SUBJ:Physiology,5
 SUBJ:Anatomy,SUBJ:Biochemistry,5
 Endocrine Pharmacology,Gastroenterology,5
-Enzymology,Lipid Metabolism,5
 Neurology,Vitamins & Nutrition,5
 Carbohydrate Metabolism,Lipid Metabolism,5
 Inflammatory Bowel Disease,Inflammatory bowel disease,5
@@ -1026,6 +1032,7 @@ Communicable Diseases,Public Health Programs,5
 Sexual Disorders,Sexual disorders,5
 Somatic Symptom Disorders,Somatic symptom disorders,5
 Intravenous Anesthetics,Intravenous anesthetics,5
+Cardiac Arrhythmias,Cardiac arrhythmias,5
 Asthma,Pulmonology,5
 General Medicine,Nephrology,5
 General Surgery,Hernia & Abdominal Wall,5
@@ -1034,6 +1041,7 @@ SUBJ:Dermatology,SUBJ:Surgery,5
 Bacteriology,Tuberculosis,5
 Fractures,Metabolic Bone Disease,5
 Urinary Bladder,Urinary bladder,5
+Embryology,Head And Neck,5
 Cardiac electrophysiology,Cardiology,5
 TCA Cycle,Tca Cycle,5
 Carbohydrate Metabolism,Uronic Acid Pathway,5
@@ -1043,6 +1051,7 @@ Glomerular diseases,Nephrotic syndrome,5
 SUBJ:Pathology,SUBJ:Pharmacology,5
 NSAIDs,Nsaids,5
 Bacteriology,Staining techniques,5
+Environmental Health,Environmental health,5
 Immunization,Virology,5
 Cornea & Refractive,Refractive Errors,5
 Retina,Uveitis,5
@@ -1055,6 +1064,7 @@ Neuroanatomy,Ventricular system,5
 Bioenergetics,Carbohydrate Metabolism,5
 Genetic Code,Genetics & Molecular Biology,5
 Myeloproliferative Neoplasms,Myeloproliferative neoplasms,5
+Drug Dependence,Drug dependence,5
 Opioid Analgesics,Opioid analgesics,5
 Blast Injuries,Blast injuries,5
 Blast Injuries,Trauma,5
@@ -1077,7 +1087,6 @@ Dermatology,Erythema Multiforme,5
 Endocrine Pharmacology,General Anaesthetics,5
 General Anaesthetics,Regional Anaesthesia,5
 Chest Radiography,Chest radiography,5
-Radiation Physics,Radiation physics,5
 Child Psychiatry,Substance-Related Disorders,5
 Child Psychiatry,Epidemiology,5
 Biochemistry,Child Psychiatry,5
@@ -1109,9 +1118,8 @@ Neuromuscular Blocking Agents,Neuromuscular blocking agents,5
 Breast & Endocrine Surgery,Interventional Radiology,5
 Child Psychiatry,Organic mental disorders,5
 Child Psychiatry,Eating Disorders,5
-Infectious Diseases,Renal,5
+Lysosomal Storage Disorders,Systemic Pathology,5
 Dermatology,Inflammation & Healing,5
-Drug Metabolism,Endocrine Pharmacology,5
 Asthma,Endocrine Pharmacology,5
 Antiviral Agents,Antiviral agents,5
 Antiviral Agents,Endocrine Pharmacology,5
@@ -1124,6 +1132,7 @@ Obstetric Complications,Preeclampsia,5
 Head & Neck,Histology,5
 Gynecologic Oncology,Reproductive,4
 Connective Tissue,Histology,4
+Neonatology,Pediatric Surgery,4
 Fluid And Electrolyte Balance,Fluid and Electrolyte Balance,4
 CNS Physiology,Cell Signaling,4
 Dna Repair,Genetics & Molecular Biology,4
@@ -1156,6 +1165,7 @@ Gastrointestinal,Neurotransmitters,4
 Carbohydrate Metabolism,Energy Metabolism,4
 Antiepileptic Drugs,Endocrine Pharmacology,4
 Antiepileptic drugs,Endocrine Pharmacology,4
+Antiulcer Drugs,Antiulcer drugs,4
 Adverse Drug Reactions,General Pharmacology,4
 General Medicine,Lymphoma,4
 Gynecologic Oncology,Renal,4
@@ -1215,7 +1225,7 @@ Immunization,Public Health,4
 Immunization,Vaccination Schedule,4
 Fluid And Electrolyte Management,Fluid and Electrolyte Management,4
 Antenatal Care,Vitamins & Nutrition,4
-Uterine Fibroids,Uterine fibroids,4
+Pediatric Surgery,Pediatric surgery,4
 Gynecologic Oncology,Microbiology,4
 History Of Anaesthesia,History of Anaesthesia,4
 Esophageal Disorders,General Medicine,4
@@ -1262,8 +1272,7 @@ ECG Interpretation,Ecg Interpretation,4
 Movement Disorders,Neurology,4
 Cardiac Arrest Management,Endocrine Pharmacology,4
 Peripheral Artery Disease,Vascular,4
-Cell Signaling,Cell signaling,4
-Gastrointestinal,Toxicology,4
+Antifungal Drugs,Endocrine Pharmacology,4
 Nephrology,Toxicology,4
 Optics,Refractive Errors,4
 Hand Anatomy,Upper Limb,4
@@ -1285,7 +1294,6 @@ Epidemiology,Hiv/Aids,4
 Esophageal Disorders,Gastrointestinal Surgery,4
 Nephrology,Vasculitis,4
 Antiarrhythmic Drugs,Cardiology,4
-Refractive Errors,Squint & Pediatric Ophthalmology,4
 Conjunctivitis,Microbiology,4
 Infectious Diseases,Trauma,4
 Septic Arthritis,Septic arthritis,4
@@ -1296,16 +1304,17 @@ Pelvic anatomy,Reproductive,4
 Dermatology,Neuroanatomy,4
 Biochemistry,Endocrine,4
 CNS Physiology,Endocrine,4
+Platelet Disorders,Platelet disorders,4
 Antimicrobials,Bacteriology,4
 Child Psychiatry,Thanatology,4
 Antenatal Care,Endocrine,4
 Infectious Diseases,Pneumonia,4
-Trauma,Upper Limb,4
 Histology,Integumentary System,4
 Abdomen,Histology,4
 Tetralogy Of Fallot,Tetralogy of Fallot,4
 Kidney,Renal,4
 Chemoreceptors,Pulmonology,4
+Enzymology,Lipid Metabolism,4
 Cardiology,Vitamins & Nutrition,4
 Valvular Heart Disease,Valvular heart disease,4
 SUBJ:Forensic Medicine,SUBJ:Physiology,4
@@ -1335,6 +1344,7 @@ Hematopathology,Immunopathology,4
 Colorectal Surgery,Gynecologic Oncology,4
 Binocular vision,Strabismus,4
 Thyroid Neoplasms,Thyroid neoplasms,4
+Lysosomal Storage Disorders,Lysosomal storage disorders,4
 Abdomen,Trauma,4
 Antenatal Care,Anticoagulation,4
 Nose & PNS,Rhinology,4
@@ -1349,7 +1359,7 @@ Demographic Cycle,Maternal and Child Health,4
 Demography & Family Planning,Maternal and Child Health,4
 SUBJ:Dermatology,SUBJ:Community Medicine,4
 Airway Management,Intubation,4
-Cardiac Arrhythmias,Cardiac arrhythmias,4
+Neuroanatomy,Pelvic Anatomy,4
 Placenta Previa,Placenta previa,4
 Breech Presentation,Breech presentation,4
 Autopsy Techniques,Autopsy techniques,4
@@ -1361,7 +1371,6 @@ Immunology,Infectious Diseases,4
 Dna Structure,Genetics & Molecular Biology,4
 Porphyrin Metabolism,Porphyrin metabolism,4
 Genetics & Molecular Biology,Reproductive,4
-Embryology,Head And Neck,4
 Histology,Reproductive,4
 Joints & Arthritis,Upper Limb,4
 Head And Neck,Head and neck,4
@@ -1388,7 +1397,6 @@ Mechanical Asphyxia,Mechanical asphyxia,4
 Bacteriology,Corynebacterium,4
 Bacterial Toxins,Bacterial toxins,4
 Infectious mononucleosis,Virology,4
-Environmental Health,Environmental health,4
 Bias,Epidemiology,4
 Antimycobacterial Drugs,Antimycobacterial drugs,4
 Breast & Endocrine Surgery,Maternal and Child Health,4
@@ -1410,6 +1418,7 @@ Abdomen,Lymphoid organs,4
 Lymphoid Organs,Lymphoid organs,4
 Upper Limb,Wrist,4
 Thorax,Vascular,4
+Inguinal Region,Inguinal region,4
 Cranial Nerves,Facial Nerve,4
 Cardiology,Exercise physiology,4
 Oxidative Phosphorylation,Oxidative phosphorylation,4
@@ -1419,7 +1428,6 @@ Inborn errors of metabolism,Pyrimidine Metabolism,4
 Inborn errors of metabolism,Pyrimidine metabolism,4
 Pyrimidine Metabolism,Pyrimidine metabolism,4
 Angiogenesis,Growth & Development,4
-Drug Dependence,Drug dependence,4
 Endocrine Pharmacology,Glucocorticoids,4
 Lipid Metabolism,Protein Metabolism,4
 Cancer Chemotherapy,Cancer chemotherapy,4
@@ -1533,8 +1541,9 @@ Cranial nerves,Facial nerve,4
 Abdomen,Cardiology,4
 Peripheral Nervous System,Peripheral nervous system,4
 CNS Physiology,Lipid Metabolism,4
-Lysosomal Storage Disorders,Systemic Pathology,4
+Infectious Diseases,Renal,4
 General Medicine,Inflammatory Bowel Disease,4
+Drug Metabolism,Drug metabolism,4
 Antiviral Agents,Microbiology,4
 Antiviral agents,Endocrine Pharmacology,4
 Antiviral agents,Microbiology,4
@@ -1543,7 +1552,6 @@ Immunopathology,Thorax,4
 Inflammation & Healing,Vitamins & Nutrition,4
 CNS Physiology,Growth & Development,4
 Inflammation & Healing,Neuroanatomy,4
-Environment & Occupational Health,Head And Neck,4
 Cranial nerves,Trigeminal nerve,4
 Genetic Disorders,Systemic Pathology,4
 Biochemistry,Obstetric Complications,4
@@ -1551,7 +1559,7 @@ Enzymology,Renal,4
 Inflammation & Healing,Retina,4
 Gastroenterology,Inflammation & Healing,4
 Endocrine,Histology,4
-Inflammation & Healing,Mycology,4
+Medical Jurisprudence,Medical jurisprudence,4
 Antenatal Care,Inflammation & Healing,4
 Abdomen,Abdominal Anatomy,3
 Endocrine,Genetics & Molecular Biology,3
@@ -1594,6 +1602,7 @@ Child Psychiatry,Psychotherapy,3
 Hematopathology,Leukemias,3
 Amino Acid Metabolism,Inherited Metabolic Disorders,3
 Laryngeal Muscles,Laryngeal muscles,3
+Paranasal Sinus Imaging,Paranasal sinus imaging,3
 PCPNDT Act,Pcpndt Act,3
 Urological Procedures,Urology,3
 Biochemistry,Inborn Errors Of Metabolism,3
@@ -1616,7 +1625,7 @@ Age estimation,Thanatology,3
 Esophagus,Gastrointestinal,3
 Biochemistry,Oxidative Phosphorylation,3
 Antiemetics,Gastrointestinal,3
-Antiulcer Drugs,Antiulcer drugs,3
+Antiulcer Drugs,Endocrine Pharmacology,3
 Antiulcer drugs,Endocrine Pharmacology,3
 Antihypertensive Drugs,Endocrine Pharmacology,3
 Antihypertensive drugs,Endocrine Pharmacology,3
@@ -1689,6 +1698,7 @@ Carbohydrate Metabolism,Genetic Disorders,3
 Genetic Disorders,Lipid Metabolism,3
 Carbohydrate Metabolism,Fasting Metabolism,3
 Dermatology,Neoplasia,3
+Extraocular Muscles,Squint & Pediatric Ophthalmology,3
 Glomerulonephritis,Nephrology,3
 Neurology,Peripheral Neuropathy,3
 Endocrine,Gastroenterology,3
@@ -1746,9 +1756,9 @@ Cardiac Arrest,Cardiac Arrest Management,3
 Nephrology,Systemic Vasculitis,3
 Rheumatology,Systemic Vasculitis,3
 Child Psychiatry,Growth & Development,3
-Antifungal Drugs,Endocrine Pharmacology,3
 Corticosteroids,Endocrine Pharmacology,3
 CNS Physiology,Cell signaling,3
+Gastrointestinal,Toxicology,3
 Metal Poisoning,Metal poisoning,3
 Metal poisoning,Toxicology,3
 Metal Poisoning,Nephrology,3
@@ -1809,27 +1819,32 @@ SUBJ:Pediatrics,SUBJ:Psychiatry,3
 Anaerobic Bacteria,Bacteriology,3
 National Health Programs,Tuberculosis,3
 Environment & Occupational Health,Paranasal Sinus Imaging,3
+Interventional Radiology,Paranasal Sinus Imaging,3
 Airway Management,Environment & Occupational Health,3
 Inflammatory Bowel Disease,Systemic Pathology,3
 Hand and Wrist,Neuroanatomy,3
+Bone Lesions,Bone lesions,3
 Embryology,Obstetric Complications,3
 Growth & Development,Obstetric Complications,3
+Pelvic Organ Prolapse,Pelvic organ prolapse,3
 Neuromuscular Blockers,Neuromuscular Pharmacology,3
 Interventional Radiology,Thoracic Imaging,3
 Genetic Syndromes,Genetics & Molecular Biology,3
 Coagulation Disorders,Coagulation disorders,3
 Neoplasia,Vascular,3
 Genetics & Molecular Biology,Microbiology,3
+Bleeding Disorders,Hematopathology,3
 Biochemistry,Purine Metabolism,3
 Cardiac Arrest Management,Cardiology,3
 Child Psychiatry,Neurocognitive Disorders,3
-Platelet Disorders,Platelet disorders,3
 Genetic Disorders,Neurology,3
 Endocrine Pharmacology,Laxatives,3
 Food Poisoning,Food poisoning,3
 Immunization,Preventive Medicine,3
+Extraocular Muscles,Neuroanatomy,3
 Conjunctivitis,Squint & Pediatric Ophthalmology,3
 Infectious Diseases,Septic Arthritis,3
+Trauma,Upper Limb,3
 Parasitology,Systemic Pathology,3
 Cystic Fibrosis,Pulmonology,3
 Genetic Disorders,Pulmonology,3
@@ -1844,6 +1859,7 @@ Carbohydrates,Vitamins & Nutrition,3
 Refractive Errors,Strabismus,3
 Antenatal Care,Eclampsia,3
 Contraception,Reproductive,3
+Child Psychiatry,Sleep Disorders,3
 Juvenile Idiopathic Arthritis,Rheumatology,3
 Rhinology,Sinusitis,3
 Environment & Occupational Health,Laryngology,3
@@ -1857,13 +1873,13 @@ Hyperthyroidism,Thyroid Disorders,3
 Infectious Diseases,Meningitis,3
 Breast & Endocrine Surgery,Reconstructive Surgery,3
 Perineal Tears,Trauma,3
-Uterine Anomalies,Uterine anomalies,3
 General Medicine,Parasitology,3
 Environment & Occupational Health,Trauma,3
 Infertility,Interventional Radiology,3
 Dermatology,Genetic Skin Disorders,3
 Atrial Fibrillation,Cardiology,3
 Antenatal Care,Placenta,3
+Obstetric Complications,Pelvic Anatomy,3
 Breast & Endocrine Surgery,Systemic Pathology,3
 Genetics & Molecular Biology,Renal,3
 Gynecologic Oncology,Pelvic Anatomy,3
@@ -1887,10 +1903,10 @@ HIV,Tuberculosis,3
 Head and Neck,Neoplasia,3
 Audiology,Hearing Loss Diagnosis,3
 Electrolyte disorders,Neurology,3
+Uterine Support,Uterine support,3
 Compartment Syndromes,Compartment syndromes,3
 Compartment syndromes,Trauma,3
 Neoplasia,Reproductive,3
-Lysosomal Storage Disorders,Lysosomal storage disorders,3
 Aphasia,Neuroanatomy,3
 Electron Transport Chain,Electron transport chain,3
 Sexual Assault,Sexual assault,3
@@ -1923,7 +1939,6 @@ Airway Management,Pediatric Anaesthesia,3
 Mechanical Ventilation,Pulmonology,3
 Cardiac Arrhythmias,ECG interpretation,3
 Cardiac arrhythmias,ECG interpretation,3
-Neuroanatomy,Pelvic Anatomy,3
 Neuroanatomy,Pelvis & Perineum,3
 Purine Metabolism,Purine metabolism,3
 Breech presentation,Labor & Delivery,3
@@ -2001,6 +2016,7 @@ Maternal And Child Health,National Health Programs,3
 National Health Programs,Vitamins & Nutrition,3
 Ophthalmic Optics,Ophthalmic optics,3
 Neuro-ophthalmology,Optic nerve disorders,3
+Extraocular Muscles,Extraocular muscles,3
 Fractures,Orbit,3
 Cardiology,Electrolyte disorders,3
 Cerebral cortex,Neuroanatomy,3
@@ -2019,7 +2035,6 @@ Arterial Anastomoses,Upper Limb,3
 Arterial anastomoses,Upper Limb,3
 Abdomen,Hepatobiliary system,3
 Reproductive,Scrotum,3
-Inguinal Region,Inguinal region,3
 Inguinal Region,Reproductive,3
 Inguinal region,Reproductive,3
 Cerebral Arteries,Neuroanatomy,3
@@ -2040,6 +2055,8 @@ Cell Injury & Death,Liver Pathology,3
 Cell Injury & Death,Histopathology,3
 Epidemiology,Noncommunicable Diseases,3
 Cardiology,Myocardial infarction,3
+Aortic Dissection,Aortic dissection,3
+Rheumatic Fever,Rheumatic fever,3
 Gastrointestinal,Vascular,3
 Colorectal cancer,Hereditary polyposis syndromes,3
 Fatty Liver,Fatty liver,3
@@ -2113,6 +2130,8 @@ Ocular Surface Disease,Ocular surface disease,3
 Plasma Cell Neoplasms,Plasma cell neoplasms,3
 Electrolyte Disorders,Electrolyte disorders,3
 Gastroenterology,Inflammatory bowel disease,3
+Megaloblastic Anemia,Megaloblastic anemia,3
+Antiprotozoal Drugs,Antiprotozoal drugs,3
 Trauma,Vascular,3
 Antimicrobials,Pulmonology,3
 Prenatal Screening,Prenatal screening,3
@@ -2230,6 +2249,7 @@ Cholesteatoma,Environment & Occupational Health,3
 Environment & Occupational Health,Rhinitis,3
 Cornea & Refractive,Refraction,3
 Vitreous Hemorrhage,Vitreous hemorrhage,3
+Eyelid Disorders,Eyelid disorders,3
 CNS Physiology,Squint & Pediatric Ophthalmology,3
 Takayasu arteritis,Vasculitis,3
 Systemic Pathology,Tuberculosis,3
@@ -2242,6 +2262,7 @@ HIV,Virology,3
 Anemia,Megaloblastic anemia,3
 Biochemistry,Hemolytic anemia,3
 Genetics & Molecular Biology,Thalassemia,3
+Pyloric Stenosis,Pyloric stenosis,3
 Chromosomal Abnormalities,Down syndrome,3
 Chromosomal abnormalities,Down syndrome,3
 Neonatology,Pediatric Oncology,3
@@ -2286,7 +2307,10 @@ Abdomen,Duodenum,3
 Growth & Development,Pancreas,3
 Spermatic Cord,Spermatic cord,3
 Head And Neck,Lymphatic System,3
+Environment & Occupational Health,Facial Nerve Palsy,3
 Environment & Occupational Health,Facial nerve palsy,3
+Facial Nerve Palsy,Facial nerve palsy,3
+Facial Nerve Palsy,Neuroanatomy,3
 Facial nerve palsy,Neuroanatomy,3
 Mechanoreceptors,Neurophysiology,3
 Mechanoreceptors,Sensory receptors,3
@@ -2322,7 +2346,6 @@ Ear,Otosclerosis,3
 Environment & Occupational Health,Laryngeal Anatomy,3
 Refractive errors,Strabismus,3
 Squint & Pediatric Ophthalmology,Trauma,3
-Cardiology,Neoplasia,3
 General Medicine,Vitamins & Nutrition,3
 Antihyperlipidemic drugs,Lipid Metabolism,3
 Biliary Tract Neoplasms,Neoplasia,3
@@ -2366,6 +2389,7 @@ Head And Neck Lymphatics,Head and Neck Lymphatics,3
 Head And Neck Lymphatics,Lymphatic System,3
 Head and Neck,Head and Neck Lymphatics,3
 Head and Neck Lymphatics,Lymphatic System,3
+Cranial Nerves,Environment & Occupational Health,3
 Facial nerve,Head and Neck,3
 Cranial Nerves,Trigeminal nerve,3
 Anterior Cerebral Artery,Anterior cerebral artery,3
@@ -2378,6 +2402,7 @@ Inflammation & Healing,Vascular,3
 Dermatology,Dermatopathology,3
 Dermatopathology,Systemic Pathology,3
 Dermatology,Neurofibromatosis,3
+Biochemistry,Drug Metabolism,3
 Cardiology,Squint & Pediatric Ophthalmology,3
 IPC sections,Ipc Sections,3
 IPC sections,Thanatology,3
@@ -2396,6 +2421,7 @@ Refractive errors,Squint & Pediatric Ophthalmology,3
 Amblyopia,Lens & Cataract,3
 Amblyopia,Squint & Pediatric Ophthalmology,3
 Head & Neck,Orbit,3
+Adrenergic Agonists,Adrenergic agonists,3
 Pancreatic Carcinoma,Pancreatic carcinoma,3
 Pancreatitis,Systemic Pathology,3
 Pulmonology,Vital Signs,3
@@ -2411,11 +2437,11 @@ Alcohol Use Disorder,Substance Use,3
 Head & Neck,Lower Limb,3
 Enzymology,Hematopathology,3
 Histology,Pulmonology,3
-Abdomen,CT & MRI,3
 Nerve Muscle,Neuroanatomy,3
 Antigout drugs,Endocrine Pharmacology,3
-Abdomen,Infectious Diseases,3
+Inflammation & Healing,Mycology,3
 Neoplasia,Virology,3
+Surgical Instruments,Surgical instruments,3
 Menstrual Disorders,Ultrasound,3
 Reproduction,Reproductive,3
 Infertility,Ultrasound,3
@@ -2427,10 +2453,10 @@ Child Health,Legislation,3
 Constitution,Health Legislation,3
 Breast & Endocrine Surgery,Environment & Occupational Health,3
 Health Planning,Squint & Pediatric Ophthalmology,3
+Breast & Endocrine Surgery,Uterine Anomalies,3
 Breast & Endocrine Surgery,Uterine anomalies,3
 Helminthology,Infectious Diseases,2
 Connective Tissue,Neuroanatomy,2
-Neonatology,Pediatric Surgery,2
 Adverse Drug Reactions,Pulmonology,2
 CNS Physiology,Fluid And Electrolyte Balance,2
 CNS Physiology,Fluid and Electrolyte Balance,2
@@ -2471,7 +2497,6 @@ Electrolyte Imbalance,Fluid Balance,2
 Electrolyte Imbalance,Sodium Disorders,2
 Fluid Balance,Sodium Disorders,2
 Hypertension,Hypertension Management,2
-Gastrointestinal Surgery,Urology,2
 Congenital anomalies,Uterine Anomalies,2
 Gestational Trophoblastic Disease,Gynecologic Oncology,2
 Gestational Trophoblastic Disease,Neoplasia,2
@@ -2496,7 +2521,6 @@ CNS stimulants,Cns Stimulants,2
 Membrane Potentials,Neurophysiology,2
 Cochlear Implants,Otology,2
 Ear Anatomy,Ear anatomy,2
-Paranasal Sinus Imaging,Paranasal sinus imaging,2
 Oral Lesions,Oral lesions,2
 Abdominal Radiology,Abdominal radiology,2
 Hearing Loss,Otology,2
@@ -2552,7 +2576,6 @@ Arteries,Cardiology,2
 Cerebrospinal Fluid,Neurology,2
 SUBJ:Biochemistry,SUBJ:OBG,2
 Bronchodilators,Endocrine Pharmacology,2
-Antiulcer Drugs,Endocrine Pharmacology,2
 Antiulcer Drugs,General Medicine,2
 Antiulcer drugs,General Medicine,2
 Antihypertensive Drugs,Obstetric Complications,2
@@ -2730,13 +2753,11 @@ Epidemiology,Toxicology,2
 Macular Degeneration,Retina,2
 Cranial Nerve Palsies,Neuro-ophthalmology,2
 Extraocular Muscles,Ocular Anatomy,2
-Extraocular Muscles,Squint & Pediatric Ophthalmology,2
 Asthma Management,Pulmonology,2
 Antimicrobials,Gastroenterology,2
 Diarrhea,Gastroenterology,2
 Dermatology,Gynecologic Oncology,2
 Venous Disorders,Venous disorders,2
-Pediatric Surgery,Pediatric surgery,2
 Endocrinology,Neoplasia,2
 Fluid & Electrolyte Balance,Gastroenterology,2
 Neoplasia,Neuro-oncology,2
@@ -2861,6 +2882,7 @@ Cardiology,Electrolyte Disorders,2
 Cardiology,Electrophysiology,2
 Esophageal Surgery,Gastrointestinal Surgery,2
 Cardiac Arrest,Endocrine Pharmacology,2
+Antifungal Drugs,Microbiology,2
 Antiviral Drugs,Endocrine Pharmacology,2
 Antiviral Drugs,Microbiology,2
 CNS Physiology,Pharmacokinetics,2
@@ -2889,6 +2911,7 @@ Neonatal Gi Disorders,Neonatology,2
 Aneurysm,Vascular,2
 Bone Pathology,Fractures,2
 Wrist Dislocations,Wrist Injuries,2
+Bone Lesions,Systemic Pathology,2
 Prioritization,Trauma,2
 Antenatal Care,Peripartum Cardiomyopathy,2
 Vulvar Disorders,Vulvar Pathology,2
@@ -2916,6 +2939,7 @@ Child Psychiatry,Habit Disorders,2
 Diabetic Neuropathy,Endocrinology,2
 Diabetic Neuropathy,Neurology,2
 Cranial Nerve Nuclei,Cranial Nerves,2
+Cranial Nerve Nuclei,Neuroanatomy,2
 Ligaments,Musculoskeletal Anatomy,2
 Coagulation Disorders,Genetics & Molecular Biology,2
 Antiretroviral Drugs,Endocrine Pharmacology,2
@@ -2970,7 +2994,6 @@ Epidemiology,Validity Of Screening Tests,2
 Epidemiology,Validity of Screening Tests,2
 Validity Of Screening Tests,Validity of Screening Tests,2
 Infectious Diseases,Water Purification,2
-Interventional Radiology,Paranasal Sinus Imaging,2
 Clinical Signs,General Medicine,2
 General Medicine,Neuroanatomy,2
 Breast & Endocrine Surgery,Prognostic Factors,2
@@ -2984,7 +3007,6 @@ Obstetric Anaesthesia,Regional Anaesthesia,2
 Antenatal Care,Fetal Lung Maturity,2
 Antenatal Care,Fetal lung maturity,2
 Fetal Lung Maturity,Fetal lung maturity,2
-Pelvic Organ Prolapse,Pelvic organ prolapse,2
 Breathing Circuits,Breathing circuits,2
 Neonatal Skin Conditions,Neonatology,2
 Dermatology,Paediatric Dermatology,2
@@ -3002,7 +3024,6 @@ Interventional Radiology,Urogenital Imaging,2
 Urogenital Imaging,Urology,2
 Aldosterone Regulation,Endocrine,2
 Aldosterone Regulation,Renal,2
-Bleeding Disorders,Hematopathology,2
 Gout,Toxicology,2
 Organ Donation,Organ donation,2
 Fluid and Electrolyte Management,Neonatology,2
@@ -3027,7 +3048,6 @@ Epidemiology,Measures Of Association,2
 Epidemiology,Measures of Association,2
 Measures Of Association,Measures of Association,2
 Interventional Radiology,Paranasal Sinuses,2
-Extraocular Muscles,Neuroanatomy,2
 Fever,Prostaglandins,2
 Prostaglandins,Thermoregulation,2
 Cardiology,Cardiomyopathy,2
@@ -3072,6 +3092,7 @@ Adverse Drug Reactions,Antimicrobial Drugs,2
 Corynebacterium Diphtheriae,Corynebacterium diphtheriae,2
 Clinical Trials,Growth & Development,2
 General Pharmacology,Pharmacodynamics,2
+Sexual Offenses,Thanatology,2
 Child Abuse,Neonatology,2
 Gastrointestinal,Parasitology,2
 Parasitology,Pulmonology,2
@@ -3094,13 +3115,14 @@ Antenatal Care,Vaccination,2
 Fetal Head Diameters,Labor & Delivery,2
 Endocrine Pharmacology,Reproductive,2
 Endocrine Pharmacology,Postpartum Hemorrhage Management,2
-Child Psychiatry,Sleep Disorders,2
 Child Psychiatry,Obsessive-Compulsive Disorder,2
 Chest Radiology,General Medicine,2
 Cardiac Arrhythmias,ECG Interpretation,2
 Antepartum Hemorrhage,Placenta Praevia,2
 Cardiac Arrhythmias,ECG,2
+Conjunctiva,Conjunctival Disorders,2
 Conjunctiva,Conjunctival disorders,2
+Conjunctival Disorders,Conjunctival disorders,2
 Ocular motility,Squint & Pediatric Ophthalmology,2
 Environment & Occupational Health,Sinusitis,2
 Bacteriology,Gram-Positive Bacteria,2
@@ -3166,7 +3188,6 @@ Endocrine Pharmacology,Migraine,2
 Migraine,Neurology,2
 Biochemistry,Gastroenterology,2
 Identification,Obstetric Complications,2
-Obstetric Complications,Pelvic Anatomy,2
 Obstetric Complications,Pelvic anatomy,2
 Antenatal Care,Cervical Insufficiency,2
 Monitoring,Neuromuscular Blockade,2
@@ -3228,8 +3249,8 @@ Legal Aspects,Thanatology,2
 General Medicine,Valvular Heart Disease,2
 Infectious Diseases,Sepsis,2
 Filariasis,Parasitology,2
+Neuroanatomy,Uterine Support,2
 Neuroanatomy,Uterine support,2
-Uterine Support,Uterine support,2
 Endocrine Pharmacology,Pre-Eclampsia Eclampsia Management,2
 Endocrine Pharmacology,Pre-eclampsia Eclampsia management,2
 Obstetric Complications,Pre-Eclampsia Eclampsia Management,2
@@ -3353,6 +3374,7 @@ Cardiology,Pericardial diseases,2
 Pericardial Diseases,Pericardial diseases,2
 Acid-Base Balance,Metabolic Acidosis,2
 Diabetes Mellitus,Diabetes mellitus,2
+Bleeding Disorders,Bleeding disorders,2
 Hydatid Disease,Hydatid disease,2
 Postoperative Care,Postoperative care,2
 Abdominal Imaging,Gastroenterology,2
@@ -3514,7 +3536,6 @@ Glaucoma,Uveitis,2
 Retinopathy Of Prematurity,Retinopathy of prematurity,2
 Neuro-ophthalmology,Optic Neuritis,2
 Neuro-ophthalmology,Optic neuritis,2
-Extraocular Muscles,Extraocular muscles,2
 Eyelid disorders,Neoplasia,2
 Orbit,Proptosis,2
 Coloboma,Congenital Ocular Anomalies,2
@@ -3616,10 +3637,8 @@ Plasma Proteins,Thyroid Hormones,2
 Amyloidosis,Inflammation & Healing,2
 Cardiology,Cell Injury & Death,2
 Abdomen,Peritoneum,2
-Aortic Dissection,Aortic dissection,2
 Aortic Dissection,Vascular,2
 Aortic dissection,Vascular,2
-Rheumatic Fever,Rheumatic fever,2
 Cardiology,Hypertrophy,2
 Inheritance Patterns,Inheritance patterns,2
 Urinary Tract Pathology,Urinary tract pathology,2
@@ -3765,9 +3784,7 @@ Multiple sclerosis,Neurology,2
 Cirrhosis,Gastroenterology,2
 Hematopathology,Megaloblastic Anemia,2
 Hematopathology,Megaloblastic anemia,2
-Megaloblastic Anemia,Megaloblastic anemia,2
 Neuromuscular disorders,Rheumatology,2
-Antiprotozoal Drugs,Antiprotozoal drugs,2
 Neurology,Neuromuscular Junction Disorders,2
 Cleft Lip And Palate,Cleft Lip and Palate,2
 Colorectal surgery,Gynecologic Oncology,2
@@ -3869,7 +3886,9 @@ Autonomic,General Medicine,2
 Epidemiology,Substance-Related Disorders,2
 Epidemiology,Substance-related disorders,2
 Endocrine Pharmacology,Opioid Withdrawal,2
+Child Psychiatry,Drug Dependence,2
 Child Psychiatry,Drug dependence,2
+Drug Dependence,Endocrine Pharmacology,2
 Drug dependence,Endocrine Pharmacology,2
 Prognosis,Schizophrenia & Psychosis,2
 Biochemistry,Schizophrenia & Psychosis,2
@@ -4024,7 +4043,7 @@ Neuro-ophthalmology,Neuroanatomy,2
 Lymphoma,Neoplasia,2
 Orbital Diseases,Orbital diseases,2
 Retina,Retinoblastoma,2
-Eyelid Disorders,Eyelid disorders,2
+Eyelid Disorders,Squint & Pediatric Ophthalmology,2
 Eyelid disorders,Squint & Pediatric Ophthalmology,2
 Neonatology,Pediatric Emergencies,2
 Electrolyte Disturbances,Electrolyte disturbances,2
@@ -4063,7 +4082,6 @@ Body Surface Area,Burns & Plastic,2
 Cryptorchidism,Pediatric Surgery,2
 Hernia & Abdominal Wall,Nerve injury,2
 Foot And Ankle,Foot and Ankle,2
-Pyloric Stenosis,Pyloric stenosis,2
 Fistula In Ano,Fistula in ano,2
 Surgical Materials,Surgical materials,2
 Breast & Endocrine Surgery,General Medicine,2
@@ -4116,6 +4134,7 @@ Dermatological Pharmacology,Endocrine Pharmacology,2
 Dermatological pharmacology,Dermatology,2
 Dermatological pharmacology,Endocrine Pharmacology,2
 Pemphigus Vulgaris,Pemphigus vulgaris,2
+Alopecia Areata,Alopecia areata,2
 Infectious Diseases,Nail disease,2
 Infectious Diseases,Onychomycosis,2
 Nail disease,Onychomycosis,2
@@ -4128,6 +4147,7 @@ CT Physics,Interventional Radiology,2
 Ct Physics,Interventional Radiology,2
 Abdominal imaging,Interventional Radiology,2
 Movement Disorders,Systemic Pathology,2
+Head And Neck Radiology,Head and Neck Radiology,2
 Interventional Radiology,Renal,2
 Interventional Radiology,Urogenital Radiology,2
 Venous Thromboembolism,Venous thromboembolism,2
@@ -4168,9 +4188,6 @@ Head & Neck,Muscles of the head and neck,2
 Muscles Of The Head And Neck,Muscles of the head and neck,2
 Parotid Gland,Parotid gland,2
 Lymphatic Drainage,Lymphatic System,2
-Environment & Occupational Health,Facial Nerve Palsy,2
-Facial Nerve Palsy,Facial nerve palsy,2
-Facial Nerve Palsy,Neuroanatomy,2
 Cranial nerves,Head & Neck,2
 Environment & Occupational Health,Histology,2
 Embryology,Neural crest,2
@@ -4202,7 +4219,6 @@ Hematopathology,Iron metabolism,2
 Leukemia,Systemic Pathology,2
 Biochemistry,Protein chemistry,2
 Clinical Pharmacology,Endocrine Pharmacology,2
-Drug Metabolism,Drug metabolism,2
 Anticholinergic Drugs,Anticholinergic drugs,2
 Anticholinergic Drugs,Endocrine Pharmacology,2
 Anticholinergic drugs,Endocrine Pharmacology,2
@@ -4302,6 +4318,7 @@ Cornea & Refractive,Glaucoma,2
 Emphysema,Pulmonology,2
 Cardiology,Coronary artery disease,2
 Cardiology,Obstetric Complications,2
+Cardiology,Neoplasia,2
 Biochemistry,Hepatobiliary Pathology,2
 Biochemistry,Hepatobiliary pathology,2
 Hepatobiliary Pathology,Hepatobiliary pathology,2
@@ -4398,7 +4415,6 @@ Occupational lung disease,Pneumoconiosis,2
 Alzheimer disease,Neurology,2
 Salivary Gland Imaging,Salivary gland imaging,2
 Neonatology,Retinoblastoma,2
-Biochemistry,Drug Metabolism,2
 Antiemetic Drugs,Antiemetic drugs,2
 Chemotherapy & Anticancer,General Medicine,2
 Opioid Withdrawal,Substance Use,2
@@ -4441,6 +4457,7 @@ CNS Physiology,Visual acuity,2
 Squint & Pediatric Ophthalmology,Visual Acuity,2
 Squint & Pediatric Ophthalmology,Visual acuity,2
 Visual Acuity,Visual acuity,2
+Immunosuppressive Drugs,Immunosuppressive drugs,2
 Cornea & Refractive,Histology,2
 Metabolic disorders,Neonatology,2
 General Medicine,Metabolic Syndrome,2
@@ -4450,7 +4467,7 @@ Epidemiology,Metabolic Syndrome,2
 Cardiology,Hypertrophic Cardiomyopathy,2
 Language,Neuroanatomy,2
 Neurology,Toxicology,2
-Adrenergic Agonists,Adrenergic agonists,2
+Adrenergic Agonists,Endocrine Pharmacology,2
 Adrenergic agonists,Endocrine Pharmacology,2
 Neuroanatomy,Neuropathology,2
 Bone Imaging,Bone imaging,2
@@ -4464,6 +4481,7 @@ Breast & Endocrine Surgery,Duct ectasia,2
 Liver Transplant,Paracetamol Poisoning,2
 Endocrine Pharmacology,GERD,2
 Gastroesophageal Reflux Disease,Gastroesophageal reflux disease,2
+Esophageal Motility Disorders,Esophageal motility disorders,2
 Peptic Ulcer Disease,Upper GI Surgery,2
 Hydrocele,Scrotal Swelling,2
 Hydrocele,Scrotal swelling,2
@@ -4487,7 +4505,9 @@ First Trimester,Obstetric Complications,2
 Gestational Diabetes,Gestational diabetes,2
 Obstetric Complications,Perineal Tears,2
 Epidermis,Histology,2
+Dermatology,Herpes Zoster,2
 Dermatology,Herpes zoster,2
+Herpes Zoster,Herpes zoster,2
 Dermatology,Neonatal Skin Disorders,2
 Dermatology,Neonatal skin disorders,2
 Neonatal Skin Disorders,Neonatal skin disorders,2
@@ -4522,18 +4542,25 @@ Follicular Lymphoma,Hematopathology,2
 Follicular Lymphoma,Lymphoma,2
 Follicular lymphoma,Hematopathology,2
 Follicular lymphoma,Lymphoma,2
+Anemia,Megaloblastic Anemia,2
+Abdomen,CT & MRI,2
 Foreign Body Airway Obstruction,Foreign body airway obstruction,2
 Immunopathology,Thanatology,2
 Bacteriology,Immunopathology,2
 Renal,Toxicology,2
+Prokinetic Agents,Prokinetic agents,2
 Anxiolytics,Child Psychiatry,2
 Antiretroviral therapy,Infectious Diseases,2
+Antigout Drugs,Antigout drugs,2
+Antigout Drugs,Endocrine Pharmacology,2
 Histology,Mycology,2
 Bacteriology,Histology,2
 Food poisoning,Microbiology,2
 Cardiac Arrest,Cardiac arrest,2
 Cardiac Arrest,Emergency Medicine,2
 Cardiac arrest,Emergency Medicine,2
+Anticoagulant Therapy,Anticoagulant therapy,2
+Anticoagulant Therapy,Endocrine Pharmacology,2
 Anticoagulant therapy,Endocrine Pharmacology,2
 Biochemistry,Drug metabolism,2
 Conjunctival Lesions,Conjunctival lesions,2
@@ -4553,6 +4580,7 @@ General Medicine,Mood stabilizers,2
 Mood Stabilizers,Mood stabilizers,2
 Carbohydrate Metabolism,Thorax,2
 Cardiology,Immunopathology,2
+Abdomen,Infectious Diseases,2
 Gastroenterology,Immunopathology,2
 Epidemiology,Health Services,2
 Neurology,Pulmonology,2
@@ -4563,16 +4591,20 @@ Demographic transition,Infertility,2
 Disaster Management,Public Health,2
 Systemic Pathology,Vitamins & Nutrition,2
 Epidemiology,Health Services Evaluation,2
+Waterborne Diseases,Waterborne diseases,2
 Genetics & Molecular Biology,Parasitology,2
 Aortic pathology,Thoracic imaging,2
 Inflammation & Healing,Throat & Larynx,2
+Breast & Endocrine Surgery,Pediatric Surgery,2
 Breast & Endocrine Surgery,Pediatric surgery,2
 Neonatology,Pediatric surgery,2
+Suture Materials,Suture materials,2
 Breast & Endocrine Surgery,Neuroanatomy,2
 Immunopathology,Lower Limb,2
 Fractures,Urology,2
 Lower Limb,Renal,2
 Cardiology,Trauma,2
+Surgical Knots,Surgical knots,2
 Emergency Medicine,Fat Embolism,2
 Emergency Medicine,Fat embolism,2
 Fat Embolism,Fat embolism,2
@@ -4594,11 +4626,12 @@ Gastroenterology,Ultrasound,2
 Inflammation & Healing,Upper Limb,2
 Abdomen,Thanatology,2
 CT & MRI,Head & Neck,2
-Endocrinology,Inflammation & Healing,2
-Endocrinology,Mycology,2
+Platelet Disorders,Systemic Pathology,2
+Contrast Agents,Contrast agents,2
 Gynecologic imaging,Uterine anomalies,2
 Brainstem,Stroke syndromes,2
 Trauma,X-ray,2
+Criminal Law,Criminal law,2
 Biochemistry,Genetic Disorders,2
 Inflammation & Healing,Joints & Arthritis,2
 Abdominal Anatomy,Embryology,1
@@ -7069,7 +7102,6 @@ Electrolyte Disorders,Endocrinology,1
 COPD Classification,Copd Classification,1
 COPD Classification,Pulmonology,1
 Copd Classification,Pulmonology,1
-Antifungal Drugs,Microbiology,1
 Drugs For Neurological Disorders,Drugs for Neurological Disorders,1
 Drugs For Neurological Disorders,Endocrine Pharmacology,1
 Drugs For Neurological Disorders,General Medicine,1
@@ -7146,7 +7178,6 @@ Bone Pathology,Neoplasia,1
 Neuroanatomy,Wrist Dislocations,1
 Neuroanatomy,Wrist Injuries,1
 Bone Lesions,Radiological Signs,1
-Bone Lesions,Systemic Pathology,1
 Radiological Signs,Systemic Pathology,1
 Fractures,Prioritization,1
 Autoimmune Diseases,Immunopathology,1
@@ -7220,7 +7251,6 @@ Carbohydrate Metabolism,Xenobiotics,1
 Xenobiotic Metabolism,Xenobiotics,1
 Anaesthetic Complications,Intraoperative Complications,1
 Anaesthetic Complications,Oculocardiac Reflex,1
-Cranial Nerve Nuclei,Neuroanatomy,1
 Ligaments,Pelvis & Perineum,1
 Musculoskeletal Anatomy,Pelvis & Perineum,1
 Neonatology,Neurocutaneous Syndromes,1
@@ -7433,7 +7463,6 @@ Dislocations,Wrist Injuries,1
 Dislocations,Wrist injuries,1
 Wrist Injuries,Wrist injuries,1
 Fractures,Wrist anatomy,1
-Bone Lesions,Bone lesions,1
 Bone Lesions,Radiological signs,1
 Bone lesions,Radiological signs,1
 Autoimmune diseases,Rheumatoid Arthritis Pathology,1
@@ -8086,7 +8115,6 @@ Hematopathology,Hematopoietic Drugs,1
 Osmotic Diuretics,Renal,1
 Cardiology,Eicosanoids,1
 Soft Tissue Injuries,Trauma,1
-Sexual Offenses,Thanatology,1
 Legal Aspects,Medical Jurisprudence,1
 Poisoning Management,Toxicology,1
 Sample Preservation,Toxicology,1
@@ -8343,9 +8371,7 @@ Basic Surgical Skills,Surgical Techniques,1
 Surgical Knots,Surgical Techniques,1
 Abdominal Emergencies,Perforated Viscus,1
 Perforated Viscus,Shock,1
-Conjunctiva,Conjunctival Disorders,1
 Conjunctiva,Squint & Pediatric Ophthalmology,1
-Conjunctival Disorders,Conjunctival disorders,1
 Conjunctival Disorders,Squint & Pediatric Ophthalmology,1
 Conjunctival disorders,Squint & Pediatric Ophthalmology,1
 Environment & Occupational Health,Vertigo,1
@@ -9264,7 +9290,6 @@ Infectious Diseases,Prenatal Care,1
 Filariasis,Infectious Diseases,1
 Gynecologic Oncology,Uterine Support,1
 Gynecologic Oncology,Uterine support,1
-Neuroanatomy,Uterine Support,1
 Labor & Delivery,Obstetric Emergencies,1
 Obstetric Emergencies,Shoulder Dystocia,1
 Fetal distress,Labor & Delivery,1
@@ -9745,7 +9770,6 @@ Cardiology,Decompensated Heart Failure,1
 Decompensated Heart Failure,Heart Failure,1
 Diabetes mellitus,Endocrinology,1
 Genetic disorders,Pulmonology,1
-Bleeding Disorders,Bleeding disorders,1
 Hydatid Disease,Parasitic diseases,1
 Hydatid disease,Parasitic diseases,1
 Postoperative Care,Vitamins & Nutrition,1
@@ -12088,8 +12112,6 @@ General Medicine,Wernicke'S Encephalopathy,1
 General Medicine,Wernicke's Encephalopathy,1
 Wernicke'S Encephalopathy,Wernicke's Encephalopathy,1
 Cocaine Withdrawal,Substance Use,1
-Child Psychiatry,Drug Dependence,1
-Drug Dependence,Endocrine Pharmacology,1
 Child Psychiatry,Psychotic disorders,1
 Mental Status Examination,Mental status examination,1
 Mental status examination,Psychopathology,1
@@ -13195,7 +13217,6 @@ Bilateral occurrence,Retina,1
 Bilateral occurrence,Retinoblastoma,1
 Orbit,Retrobulbar space,1
 Orbit,Tenon's space,1
-Eyelid Disorders,Squint & Pediatric Ophthalmology,1
 CNS Physiology,Tear Film,1
 CNS Physiology,Tear film,1
 Squint & Pediatric Ophthalmology,Tear Film,1
@@ -13640,6 +13661,7 @@ Cardiology,Tricuspid Valve,1
 Cardiac Imaging,Congenital Heart Disease,1
 Cardiac Imaging,X-ray,1
 Congenital Heart Disease,X-ray,1
+Jones criteria,Rheumatic Fever,1
 Jones criteria,Rheumatic fever,1
 Cardiac Defect,Cardiac defect,1
 Cardiac Defect,Neonatology,1
@@ -13936,6 +13958,8 @@ Neonatal Dermatology,Neonatal dermatology,1
 Dermatology,Molluscum Contagiosum,1
 Dermatology,Molluscum contagiosum,1
 Molluscum Contagiosum,Molluscum contagiosum,1
+Cutaneous Tuberculosis,Cutaneous tuberculosis,1
+Cutaneous Tuberculosis,Lupus vulgaris,1
 Cutaneous tuberculosis,Lupus vulgaris,1
 Bullous Disorders,Pemphigus,1
 Bullous Disorders,Immunobullous Diseases,1
@@ -13943,13 +13967,15 @@ Bullous Disorders,Immunobullous diseases,1
 Immunobullous Diseases,Immunobullous diseases,1
 Infectious Diseases,Scabies,1
 Tuberous Sclerosis,Tuberous sclerosis,1
-Alopecia Areata,Alopecia areata,1
 Alopecia Areata,Dermatology,1
 Alopecia Areata,General Medicine,1
 Alopecia areata,Dermatology,1
 Alopecia areata,General Medicine,1
+Dermatology,Topical Antifungal Agents,1
 Dermatology,Topical antifungal agents,1
+Endocrine Pharmacology,Topical Antifungal Agents,1
 Endocrine Pharmacology,Topical antifungal agents,1
+Topical Antifungal Agents,Topical antifungal agents,1
 Dermatology,Tinea Versicolor,1
 Dermatology,Tinea versicolor,1
 Microbiology,Tinea Versicolor,1
@@ -14086,7 +14112,6 @@ Colorectal imaging,General Surgery,1
 Colorectal imaging,Interventional Radiology,1
 Environment & Occupational Health,Head And Neck Radiology,1
 Environment & Occupational Health,Head and Neck Radiology,1
-Head And Neck Radiology,Head and Neck Radiology,1
 Head And Neck Radiology,Interventional Radiology,1
 Head and Neck Radiology,Interventional Radiology,1
 Neuroanatomy,Paranasal Sinus,1
@@ -14160,6 +14185,9 @@ Child Psychiatry,Pharmacology of substance abuse,1
 Endocrine Pharmacology,Pharmacology Of Substance Abuse,1
 Endocrine Pharmacology,Pharmacology of substance abuse,1
 Pharmacology Of Substance Abuse,Pharmacology of substance abuse,1
+Anti-Craving Agents,Anti-craving agents,1
+Anti-Craving Agents,Child Psychiatry,1
+Anti-Craving Agents,Endocrine Pharmacology,1
 Anti-craving agents,Child Psychiatry,1
 Anti-craving agents,Endocrine Pharmacology,1
 Growth & Development,Rett syndrome,1
@@ -14324,9 +14352,14 @@ Active Transport,Facilitated Diffusion,1
 Body Water And Electrolytes,Body Water and Electrolytes,1
 Body Water And Electrolytes,Neonatology,1
 Body Water and Electrolytes,Neonatology,1
+Biochemistry,Ion Channels,1
 Biochemistry,Ion channels,1
+CNS Physiology,Ion Channels,1
 CNS Physiology,Ion channels,1
+Ion Channels,Ion channels,1
 Epithelial sodium channel,Renal,1
+Acid-Base Balance,Acid-base balance,1
+Acid-Base Balance,Intracellular pH,1
 Acid-base balance,Intracellular pH,1
 Oncotic Pressure,Oncotic pressure,1
 Oncotic Pressure,Plasma proteins,1
@@ -15698,6 +15731,8 @@ Electroconvulsive therapy,Regional Anaesthesia,1
 Child Psychiatry,Treatment Resistance,1
 Child Psychiatry,Treatment resistance,1
 Treatment Resistance,Treatment resistance,1
+Antipsychotic Side Effects,Antipsychotic side effects,1
+Antipsychotic Side Effects,Child Psychiatry,1
 Antipsychotic side effects,Child Psychiatry,1
 Electroconvulsive Therapy,Psychiatric management,1
 Electroconvulsive therapy,Psychiatric management,1
@@ -15793,7 +15828,6 @@ Gastrointestinal,Large intestine,1
 Head And Neck,Lymphatic system,1
 Cranial Nerves,Thorax,1
 Cranial nerves,Thorax,1
-Cranial Nerves,Environment & Occupational Health,1
 Chorda tympani,Facial Nerve,1
 Chorda tympani,Facial nerve,1
 Chorda tympani,Parasympathetic fibers,1
@@ -16145,6 +16179,9 @@ Endocrine Pharmacology,Somatostatin Analogs,1
 Endocrine Pharmacology,Somatostatin analogs,1
 Somatostatin Analogs,Somatostatin analogs,1
 Endocrine Pharmacology,Sulfonylureas,1
+Antiparkinsonian Drugs,Antiparkinsonian drugs,1
+Antiparkinsonian Drugs,Endocrine Pharmacology,1
+Antiparkinsonian Drugs,Epidemiology,1
 Antiparkinsonian drugs,Endocrine Pharmacology,1
 Antiparkinsonian drugs,Epidemiology,1
 Benzodiazepines,Pharmacokinetics,1
@@ -16483,7 +16520,6 @@ Conjunctival staining,Ocular surface disease,1
 Diagnostic tests,Ocular surface disease,1
 Immunosuppressants,Immunosuppressive Drugs,1
 Immunosuppressants,Immunosuppressive drugs,1
-Immunosuppressive Drugs,Immunosuppressive drugs,1
 Microbiology,Ocular Surface Disease,1
 Microbiology,Ocular surface disease,1
 Cycloplegic Agents,Cycloplegic agents,1
@@ -16669,7 +16705,6 @@ Neonatology,Neurocutaneous Disorders,1
 Neonatology,Neurocutaneous disorders,1
 Neurocutaneous Disorders,Neurocutaneous disorders,1
 Adrenergic Agonists,Emergency Medicine,1
-Adrenergic Agonists,Endocrine Pharmacology,1
 Adrenergic agonists,Emergency Medicine,1
 Alcoholic Liver Disease,Alcoholic liver disease,1
 Alcoholic Liver Disease,Epidemiology,1
@@ -16788,7 +16823,6 @@ Endoscopic therapy,Gastroesophageal reflux disease,1
 Corrosive injury,Trauma,1
 Achalasia,Esophageal Motility Disorders,1
 Achalasia,Esophageal motility disorders,1
-Esophageal Motility Disorders,Esophageal motility disorders,1
 Diagnostic Tests,Gastroesophageal Reflux Disease,1
 Gastric Cancer,Gastrointestinal,1
 Duodenal Ulcer,Gastric Ulcer,1
@@ -16835,7 +16869,10 @@ Lung carcinoma,Thorax,1
 Acral lentiginous melanoma,Melanoma,1
 Acral lentiginous melanoma,Site distribution,1
 Melanoma,Site distribution,1
+Environment & Occupational Health,Head And Neck Imaging,1
 Environment & Occupational Health,Head and Neck Imaging,1
+Head And Neck Imaging,Head and Neck Imaging,1
+Head And Neck Imaging,Interventional Radiology,1
 Head and Neck Imaging,Interventional Radiology,1
 Head injury,Intracranial hemorrhage,1
 Head injury,Neurology,1
@@ -17104,8 +17141,6 @@ Postinflammatory Hypopigmentation,Postinflammatory hypopigmentation,1
 Dermatology,Onychomycosis,1
 Calcinosis Cutis,Pediatric Dermatology,1
 Biostatistics,Rheumatology,1
-Dermatology,Herpes Zoster,1
-Herpes Zoster,Herpes zoster,1
 Dermatology,Tinea,1
 Hypersensitivity,Systemic Pathology,1
 Antifungal Drugs,Azoles,1
@@ -17468,7 +17503,6 @@ Occupational Medicine,Pulmonary Pathology,1
 Nephrology,Nose & PNS,1
 Cardiothoracic,Rheumatology,1
 Multiple Myeloma,Plasma cell neoplasms,1
-Anemia,Megaloblastic Anemia,1
 Cytokines,Systemic Pathology,1
 Lysosomal storage disorders,Systemic Pathology,1
 Biochemistry,Hodgkin Lymphoma,1
@@ -17498,7 +17532,6 @@ Paraphilias,Sexual disorders,1
 Heat-Related Illness,Heat-related illness,1
 Heat-Related Illness,Thermoregulation,1
 Heat-related illness,Thermoregulation,1
-Medical Jurisprudence,Medical jurisprudence,1
 Sexual Assault Examination,Thanatology,1
 Indian Penal Code,Sexual Offences,1
 Indian Penal Code,Thanatology,1
@@ -17554,7 +17587,6 @@ Antibiotic resistance,Endocrine Pharmacology,1
 Antibiotic resistance,Microbiology,1
 Diuretics,Lithium,1
 Alcohol interaction,Metronidazole,1
-Prokinetic Agents,Prokinetic agents,1
 Renal,Rheumatology,1
 Antifungal Therapy,Endocrine Pharmacology,1
 Antifungal Therapy,Microbiology,1
@@ -17610,8 +17642,6 @@ SIADH,Siadh Management,1
 SIADH management,Siadh Management,1
 Endocrine Pharmacology,Osmotic Diuretics,1
 Osmotic Diuretics,Squint & Pediatric Ophthalmology,1
-Antigout Drugs,Antigout drugs,1
-Antigout Drugs,Endocrine Pharmacology,1
 Antiviral Pharmacology,Antiviral agents,1
 Antiviral Pharmacology,Neuraminidase inhibitors,1
 Antiviral agents,Neuraminidase inhibitors,1
@@ -17684,8 +17714,6 @@ Pharmacology Of Bone Metabolism,Pharmacology of bone metabolism,1
 Biochemistry,Gout,1
 Cardiac Arrest,General Medicine,1
 Cardiac arrest,General Medicine,1
-Anticoagulant Therapy,Anticoagulant therapy,1
-Anticoagulant Therapy,Endocrine Pharmacology,1
 Anticoagulant Therapy,General Medicine,1
 Anticoagulant therapy,General Medicine,1
 Glaucoma,Head & Neck,1
@@ -17823,6 +17851,7 @@ Dermatology,Immunopathology,1
 CBD Stones,Choledocholithiasis,1
 CBD Stones,Gallstone Disease,1
 Choledocholithiasis,Gallstone Disease,1
+Gastrointestinal Surgery,Urology,1
 Carbohydrate Metabolism,Pulmonology,1
 Cardiac Arrhythmias,Cardioversion,1
 Cardiac Arrhythmias,Supraventricular Tachycardia,1
@@ -17939,7 +17968,6 @@ Bias In Studies,Reporting Bias,1
 Bias in Studies,Reporting Bias,1
 Disease transmission,Waterborne Diseases,1
 Disease transmission,Waterborne diseases,1
-Waterborne Diseases,Waterborne diseases,1
 Population coverage,Secondary Service Centre,1
 Population coverage,Vision 2020,1
 Secondary Service Centre,Vision 2020,1
@@ -18047,7 +18075,6 @@ Optic Disc,Squint & Pediatric Ophthalmology,1
 Optic disc,Squint & Pediatric Ophthalmology,1
 Testicular Torsion,Testicular torsion,1
 Anal Carcinoma,Anal carcinoma,1
-Suture Materials,Suture materials,1
 Environment & Occupational Health,Head And Neck Cancer,1
 Environment & Occupational Health,Head and neck cancer,1
 General Surgery,Head And Neck Cancer,1
@@ -18095,8 +18122,6 @@ Peripheral Arterial Disease,Peripheral arterial disease,1
 Breast & Endocrine Surgery,DIEP flap,1
 Dermatology,Melanoma,1
 Melanoma,Systemic Pathology,1
-Surgical Instruments,Surgical instruments,1
-Surgical Knots,Surgical knots,1
 Biliary Tract,Cholelithiasis,1
 Dermatologic Pathology,Dermatologic pathology,1
 Dermatologic Pathology,Dermatopathology,1
@@ -18174,7 +18199,9 @@ Biostatistics,Labor & Delivery,1
 Labor & Delivery,Neonatology,1
 Breast & Endocrine Surgery,Breech Presentation,1
 Labor & Delivery,Pulmonology,1
+Interventional Radiology,Pelvic Organ Prolapse,1
 Interventional Radiology,Pelvic organ prolapse,1
+Obstetric Complications,Pelvic Organ Prolapse,1
 Obstetric Complications,Pelvic organ prolapse,1
 Chemotherapy & Anticancer,Environment & Occupational Health,1
 Chemotherapy & Anticancer,Gastrointestinal Surgery,1
@@ -18393,13 +18420,22 @@ Postpartum blues,Substance Use,1
 Bulimia nervosa,Eating Disorders,1
 Bulimia nervosa,Eating disorders,1
 Eating Disorders,Eating disorders,1
+Hard Palate,Hard palate,1
+Hard Palate,Oral cavity,1
 Hard palate,Oral cavity,1
 Throat & Larynx,Vocal cords,1
+Brainstem Syndromes,Brainstem syndromes,1
+Brainstem Syndromes,Midbrain lesions,1
+Brainstem Syndromes,Weber's syndrome,1
 Brainstem syndromes,Midbrain lesions,1
 Brainstem syndromes,Weber's syndrome,1
 Midbrain lesions,Weber's syndrome,1
+Complement Disorders,Complement disorders,1
+Complement Disorders,Epidemiology,1
+Complement Disorders,Systemic Pathology,1
 Complement disorders,Epidemiology,1
 Complement disorders,Systemic Pathology,1
+Epidemiology,Platelet Disorders,1
 Epidemiology,Platelet disorders,1
 Platelet disorders,Systemic Pathology,1
 Bacteriology,Endocrine Pharmacology,1
@@ -18407,13 +18443,18 @@ Breast & Endocrine Surgery,Burns & Plastic,1
 Breast & Endocrine Surgery,Regional Anaesthesia,1
 Burns & Plastic,Regional Anaesthesia,1
 Medicolegal Terminology,Thanatology,1
+Decomposition And Putrefaction,Decomposition and Putrefaction,1
+Decomposition And Putrefaction,Thanatology,1
 Decomposition and Putrefaction,Thanatology,1
+Neuroanatomy,Skull And Facial Bones,1
 Neuroanatomy,Skull and Facial Bones,1
+Skull And Facial Bones,Skull and Facial Bones,1
 Environment & Occupational Health,Labor & Delivery,1
 Factory Act,Labor & Delivery,1
 Biomedical Waste Management,Cytotoxic drug disposal,1
 Biomedical waste management,Cytotoxic drug disposal,1
 Antimicrobials,Neurology,1
+Food Hygiene,Food hygiene,1
 Communicable Diseases,Transmission,1
 Communicable Diseases,Transmission Modes,1
 Transmission,Transmission Modes,1
@@ -18421,28 +18462,44 @@ Interventional Radiology,Paranasal sinus imaging,1
 Ophthalmic Pathology,Retina,1
 Extraocular Muscles,Ocular Motility,1
 Fasciotomy,Neuroanatomy,1
+Breast & Endocrine Surgery,Pyloric Stenosis,1
 Breast & Endocrine Surgery,Pyloric stenosis,1
 Lower Limb,Obstetric Complications,1
 Labor & Delivery,Regional Anaesthesia,1
+Pelvic organ prolapse,Uterine Prolapse,1
 Pelvic organ prolapse,Uterine prolapse,1
 Nevus,Skin lesions,1
+Cutis Marmorata,Cutis marmorata,1
+Cutis Marmorata,Skin reactions,1
 Cutis marmorata,Skin reactions,1
-Dermatology,Pulmonology,1
+Contrast Agents,Esophageal perforation,1
 Contrast agents,Esophageal perforation,1
 Bragg peak,Proton therapy,1
+Bragg peak,Radiation Physics,1
 Bragg peak,Radiation physics,1
+Proton therapy,Radiation Physics,1
 Proton therapy,Radiation physics,1
+Gynecologic Imaging,Gynecologic imaging,1
+Gynecologic Imaging,Imaging modalities,1
+Gynecologic Imaging,Uterine anomalies,1
 Gynecologic imaging,Imaging modalities,1
 Imaging modalities,Uterine anomalies,1
-Head & Neck,X-ray,1
-Neuroanatomy,X-ray,1
+Gynecologic imaging,Uterine Anomalies,1
+Aortic Dissection,Aortic pathology,1
+Aortic Dissection,Thoracic imaging,1
 Aortic dissection,Aortic pathology,1
 Aortic dissection,Thoracic imaging,1
+DNA repair disorders,Dna Repair Disorders,1
 DNA repair disorders,Genetics & Molecular Biology,1
 DNA repair disorders,Immunodeficiency,1
+Dna Repair Disorders,Genetics & Molecular Biology,1
+Dna Repair Disorders,Immunodeficiency,1
 Antimicrobials,Lens & Cataract,1
+Immunization,Vaccination Campaigns,1
 Immunization,Vaccination campaigns,1
+Vaccination,Vaccination Campaigns,1
 Vaccination,Vaccination campaigns,1
+Vaccination Campaigns,Vaccination campaigns,1
 Autacoids,Endocrine Pharmacology,1
 Histology,Oral cavity,1
 Throat & Larynx,Vocal cord muscles,1
@@ -18457,10 +18514,17 @@ Abdomen,Carbohydrate Metabolism,1
 Molecular Chaperones,Protein Folding,1
 Riboflavin,Vitamins & Nutrition,1
 Infectious Diseases,Measles,1
+Endocrine Pharmacology,Immunosuppressive Drugs,1
 Endocrine Pharmacology,Immunosuppressive drugs,1
+Biochemistry,Heavy Metal Toxicity,1
 Biochemistry,Heavy metal toxicity,1
+Heavy Metal Toxicity,Heavy metal toxicity,1
+Heavy Metal Toxicity,Systemic Pathology,1
 Heavy metal toxicity,Systemic Pathology,1
+Antimicrobial Resistance,Gram-negative bacteria,1
 Antimicrobial resistance,Gram-negative bacteria,1
+Endocrinology,Inflammation & Healing,1
+Endocrinology,Mycology,1
 Environmental Health,Water sanitation,1
 Environmental Health,Water quality,1
 Environmental health,Water quality,1
@@ -18479,15 +18543,22 @@ Breast & Endocrine Surgery,Microcalcification,1
 Resection Margin,Surgical Oncology,1
 Cell Injury & Death,Oncology Surgery,1
 Neoplasia,Oncology Surgery,1
+Neonatology,Ophthalmia Neonatorum,1
 Neonatology,Ophthalmia neonatorum,1
+Ophthalmia Neonatorum,Ophthalmia neonatorum,1
+Ophthalmia Neonatorum,Squint & Pediatric Ophthalmology,1
 Ophthalmia neonatorum,Squint & Pediatric Ophthalmology,1
+Bone Lesions,Fractures,1
+Bone Lesions,Interventional Radiology,1
 Bone lesions,Fractures,1
 Bone lesions,Interventional Radiology,1
 CNS Physiology,Placenta,1
 Biochemistry,Maternal Serum Screening,1
 Pelvic Floor Disorders,Uterine Prolapse,1
 Endocrinology,Menopausal Hormone Therapy,1
+Antenatal Care,Antihypertensive Drugs,1
 Antenatal Care,Antihypertensive drugs,1
+Antihypertensive Drugs,Preeclampsia,1
 Antihypertensive drugs,Preeclampsia,1
 Cold exposure,Skin physiology,1
 Cold exposure,Thermoregulation,1
@@ -18499,22 +18570,37 @@ Contrast Studies,Interventional Radiology,1
 Obstetric Complications,Uterine Anomalies,1
 Child Psychiatry,Dream Theory,1
 Chest Radiograph,Pulmonary Diseases,1
+Cranial Nerves,Head and neck anatomy,1
 Pulmonology,Thanatology,1
+Urological Imaging,Urological imaging,1
+Airway Management,Intracranial Hemorrhage,1
 Airway Management,Intracranial hemorrhage,1
+Intracranial Hemorrhage,Intracranial hemorrhage,1
+Introduction To Pathology,Introduction to pathology,1
 Arrhythmias,Heart block,1
 Cardiology,Heart block,1
 CT & MRI,Gastroenterology,1
 CT & MRI,Gastrointestinal,1
 Bleeding disorders,Hemophilia,1
+Hodgkin Lymphoma,Hodgkin lymphoma,1
+Hodgkin Lymphoma,Reed-Sternberg cells,1
 Hodgkin lymphoma,Reed-Sternberg cells,1
 Potassium balance,Renal,1
 Interventional Radiology,Lower Limb,1
 Regional Anaesthesia,Squint & Pediatric Ophthalmology,1
+Regional Anaesthesia,Squint Surgery,1
 Regional Anaesthesia,Squint surgery,1
+Squint & Pediatric Ophthalmology,Squint Surgery,1
 Squint & Pediatric Ophthalmology,Squint surgery,1
+Squint Surgery,Squint surgery,1
+Cranial Nerve Nuclei,Cranial nerve nuclei,1
 Cranial nerve nuclei,Neuroanatomy,1
+Ataxia Telangiectasia,Ataxia telangiectasia,1
+Ataxia Telangiectasia,Neonatology,1
+Ataxia Telangiectasia,Systemic Pathology,1
 Ataxia telangiectasia,Neonatology,1
 Ataxia telangiectasia,Systemic Pathology,1
+Obstetric Complications,Uterine Support,1
 Obstetric Complications,Uterine support,1
 Pulmonary function tests,Pulmonology,1
 Carbohydrate Metabolism,Insulin processing,1
@@ -18523,34 +18609,47 @@ Metabolic Disorders,Peroxisome,1
 Peroxisomal Disorders,Peroxisome,1
 Biochemical Pathways,NADPH,1
 Biochemical Pathways,NADPH Metabolism,1
+Biochemical Pathways,Nadph Metabolism,1
 NADPH,NADPH Metabolism,1
+NADPH,Nadph Metabolism,1
+NADPH Metabolism,Nadph Metabolism,1
 HDL,Lipid Metabolism,1
 Neuroanatomy,Protein Biochemistry,1
 Biochemistry,RNA enzymes,1
+Biochemistry,Rna Enzymes,1
+RNA enzymes,Rna Enzymes,1
 CNS Physiology,Platelet Disorders,1
-Platelet Disorders,Systemic Pathology,1
 Biochemistry,Protein Function,1
 Protein Function,Systemic Pathology,1
 Rheumatic Heart Disease,Systemic Pathology,1
 Anxiolytics,Endocrine Pharmacology,1
 Antifungal Agents,Microbiology,1
 Bacteriology,Cardiology,1
+Antimicrobial Pharmacology,Antimicrobial pharmacology,1
+Biochemistry,Catecholamine Synthesis,1
 Biochemistry,Catecholamine synthesis,1
+Catecholamine Synthesis,Catecholamine synthesis,1
 Endocrine Pharmacology,Pharmacotherapeutics,1
 Cardiology,Digitalis Toxicity,1
 Digitalis Toxicity,Endocrine Pharmacology,1
 Chemotherapy & Anticancer,Lipid Metabolism,1
 CNS Physiology,Prostaglandins,1
 Endocrine Pharmacology,Prostaglandins,1
+Sexual Offenses,Sexual offenses,1
 Sexual offenses,Thanatology,1
 Neonatology,Thanatology,1
 Infectious Diseases,Isolation Precautions,1
+Antiprotozoal Drugs,Infectious Diseases,1
 Antiprotozoal drugs,Infectious Diseases,1
+Criminal Law,Criminal procedure,1
 Criminal law,Criminal procedure,1
+Criminal Procedure,Criminal procedure,1
 Epidemiology,Tribal Health,1
 Child Psychiatry,Mental Health Act,1
 Health Economics,Industrial Health,1
+Employment and Health,Social Determinants Of Health,1
 Employment and Health,Social Determinants of Health,1
+Social Determinants Of Health,Social Determinants of Health,1
 Health Legislation,Professional Ethics,1
 Health Administration,Health Services,1
 Health Policy,Ports regulation,1
@@ -18571,14 +18670,19 @@ Epidemiology,Pneumonia,1
 Environment & Occupational Health,Personal protective equipment,1
 Epidemiology,Sanitary Landfill,1
 Consanguinity,Epidemiology,1
+Lids And Lacrimal Apparatus,Lids and lacrimal apparatus,1
+Lids And Lacrimal Apparatus,Squint & Pediatric Ophthalmology,1
 Lids and lacrimal apparatus,Squint & Pediatric Ophthalmology,1
 Deep Venous Thrombosis,Venous Thromboembolism,1
 Esophagitis,Infectious Diseases,1
 Sensory Pathways,Spinal Cord,1
 Genetics & Molecular Biology,Skeletal Dysplasias,1
 Biochemistry,Hepatology,1
+Breast & Endocrine Surgery,Head And Neck Surgery,1
 Breast & Endocrine Surgery,Head and Neck surgery,1
+Environment & Occupational Health,Head And Neck Surgery,1
 Environment & Occupational Health,Head and Neck surgery,1
+Head And Neck Surgery,Head and Neck surgery,1
 Inflammation & Healing,Nutrition & Health,1
 Endocrinology,Spine,1
 Endocrinology,Trauma,1
@@ -18587,33 +18691,50 @@ Cell Injury & Death,Fractures,1
 Neoplasia,Spine,1
 Spine,X-ray,1
 Infectious Diseases,Lower Limb,1
+Calcific tendinitis,Shoulder Disorders,1
 Calcific tendinitis,Shoulder disorders,1
+Shoulder Disorders,Shoulder disorders,1
 Antenatal Care,Carbohydrate Metabolism,1
 Anticonvulsants,Obstetric pharmacology,1
 Luteal Phase,Menstrual Cycle,1
 Neoplasia,Ultrasound,1
 Postpartum Hemorrhage,Prostaglandins,1
 Inhalational Anaesthetics,Pulmonology,1
+Anaesthesia Monitoring,Depth Of Anaesthesia,1
 Anaesthesia Monitoring,Depth of Anaesthesia,1
+Depth Of Anaesthesia,Depth of Anaesthesia,1
 Bilirubin Metabolism,Genetic Disorders,1
+Contrast Agents,Interventional Radiology,1
 Contrast agents,Interventional Radiology,1
 Bone lesions,Systemic Pathology,1
+Lie Detection,Lie detection,1
 Biostatistics,Infectious Diseases,1
+Hernia & Abdominal Wall,Inguinal Region,1
+Surgical Knots,Suturing techniques,1
 Surgical knots,Suturing techniques,1
 Gastroenterology,X-ray,1
 Abdomen,Emergency surgery,1
 Conjunctiva,Pterygium,1
+Conjunctival Disorders,Pterygium,1
 Conjunctival disorders,Pterygium,1
 Head & Neck,Nose & PNS,1
+Environment & Occupational Health,Laryngeal Pathology,1
 Environment & Occupational Health,Laryngeal pathology,1
+Laryngeal Pathology,Laryngeal pathology,1
+Herpes Zoster,Microbiology,1
 Herpes zoster,Microbiology,1
 Interventional Radiology,Paragonimiasis,1
 Microbiology,Paragonimiasis,1
+Congenital Brain Malformations,Congenital brain malformations,1
+Congenital Brain Malformations,Interventional Radiology,1
+Congenital Brain Malformations,Neonatology,1
 Congenital brain malformations,Interventional Radiology,1
 Congenital brain malformations,Neonatology,1
 Dermatomes,Thorax,1
+Head And Neck,Nerve injuries,1
 Head and Neck,Nerve injuries,1
 Nerve injuries,Neuroanatomy,1
+Head And Neck,Mandible,1
 Head and Neck,Mandible,1
 Mandible,Neuroanatomy,1
 "2,3-DPG",Hematopathology,1
@@ -18622,6 +18743,7 @@ Endocrine,Enzymology,1
 Biochemistry,Pharmacodynamics,1
 Endocrine,Inflammation & Healing,1
 Chemotherapy & Anticancer,Neoplasia,1
+Endocrine Pharmacology,Prokinetic Agents,1
 Endocrine Pharmacology,Prokinetic agents,1
 Antiemetics,Endocrine Pharmacology,1
 Antiemetics,Environment & Occupational Health,1
@@ -18629,23 +18751,32 @@ Biochemistry,Receptor Pharmacology,1
 Endocrine Pharmacology,Receptor Pharmacology,1
 Abdomen,Antimicrobials,1
 Antifungal drugs,Microbiology,1
+Endocrine Pharmacology,Protein Synthesis Inhibitors,1
 Endocrine Pharmacology,Protein synthesis inhibitors,1
+Microbiology,Protein Synthesis Inhibitors,1
 Microbiology,Protein synthesis inhibitors,1
+Protein Synthesis Inhibitors,Protein synthesis inhibitors,1
 Abdomen,Toxicology,1
 Biochemistry,Immunoassays,1
 Immunoassays,Systemic Pathology,1
+Biomedical Waste Management,Epidemiology,1
 Biomedical waste management,Epidemiology,1
 Cardiology,Non-Communicable Diseases,1
 Epidemiology,Non-Communicable Diseases,1
 Breast & Endocrine Surgery,Otology,1
+Head And Neck Radiology,Paranasal sinus,1
+Head And Neck Radiology,Radiographic view,1
 Head and Neck Radiology,Paranasal sinus,1
 Head and Neck Radiology,Radiographic view,1
 Paranasal sinus,Radiographic view,1
 Neuro-ophthalmology,Visual pathway,1
 Endocrinology,Squint & Pediatric Ophthalmology,1
+Orbital Disease,Orbital disease,1
+Orbital Disease,Squint & Pediatric Ophthalmology,1
 Orbital disease,Squint & Pediatric Ophthalmology,1
 Cornea & Refractive,Immunopathology,1
 Cornea & Refractive,Rheumatology,1
+Epidemiology,Esophageal Motility Disorders,1
 Epidemiology,Esophageal motility disorders,1
 Head & Neck,Neurology,1
 Acid Base Balance,CNS Physiology,1
@@ -18654,7 +18785,10 @@ Epidemiology,Renal,1
 Rheumatology,Thanatology,1
 Immunopathology,Nephrology,1
 Epidemiology,Rheumatology,1
+Biliary Tract Disease,Biliary tract disease,1
+Biliary Tract Disease,Breast & Endocrine Surgery,1
 Biliary tract disease,Breast & Endocrine Surgery,1
+Cardiac Arrhythmias,Epidemiology,1
 Cardiac arrhythmias,Epidemiology,1
 Gastroenterology,Organic GI disease,1
 Irritable Bowel Syndrome,Organic GI disease,1
@@ -18703,19 +18837,30 @@ Ichthyosis,Neonatology,1
 Biostatistics,Histology,1
 Biostatistics,Neoplasia,1
 Epidemiology,Hydrocephalus,1
+Mood Disorders,Schizoaffective Disorder,1
 Mood Disorders,Schizoaffective disorder,1
+Schizoaffective Disorder,Schizoaffective disorder,1
 Biochemistry,Pellagra,1
 Dermatology,Pellagra,1
 Biostatistics,Genetics & Molecular Biology,1
 Inflammation & Healing,Thanatology,1
 Thanatology,Thorax,1
+Breast & Endocrine Surgery,Oral And Maxillofacial Surgery,1
 Breast & Endocrine Surgery,Oral and Maxillofacial Surgery,1
+Environment & Occupational Health,Oral And Maxillofacial Surgery,1
 Environment & Occupational Health,Oral and Maxillofacial Surgery,1
+Oral And Maxillofacial Surgery,Oral and Maxillofacial Surgery,1
 Gastrointestinal,Polyps,1
+Barium Swallow,Barium swallow,1
+Barium Swallow,Upper GI imaging,1
 Barium swallow,Upper GI imaging,1
+Dermatology,Lichen Sclerosus,1
 Dermatology,Lichen sclerosus,1
+Lichen Sclerosus,Lichen sclerosus,1
 Biochemistry,Ichthyosis,1
+Bullous diseases,Stevens-Johnson Syndrome,1
 Bullous diseases,Stevens-Johnson syndrome,1
+Stevens-Johnson Syndrome,Stevens-Johnson syndrome,1
 Cardiology,X-ray,1
 Head & Neck,Parasitology,1
 Inflammation & Healing,Parasitology,1
